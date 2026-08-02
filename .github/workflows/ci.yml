@@ -34,7 +34,7 @@ jobs:
             --verbose
             --exclude '^https://openai\.com/index/harness-engineering/?$'
             --exclude '^https://www\.preprints\.org/manuscript/202603\.1756/?$'
-            --exclude '^https://harness-engineer\.dev/?$'
+            --exclude '^https://harness-engineer\.dev'
             README.md
             CONTRIBUTING.md
           fail: true
@@ -60,8 +60,9 @@ jobs:
             --root-dir public
             --exclude '^https://openai\.com/index/harness-engineering/?$'
             --exclude '^https://www\.preprints\.org/manuscript/202603\.1756/?$'
-            --exclude '^https://harness-engineer\.dev/?$'
-            --exclude '^https://github.com/johndstudios/harness-engineer/tree/'
+            --exclude '^https://harness-engineer\.dev'
+            --exclude '^https://johndstudios\.github\.io'
+            --exclude '^https://github\.com/johndstudios/harness-engineer/tree/'
             --exclude 'pagefind/'
             'public/**/*.html'
           fail: true
@@ -87,7 +88,9 @@ jobs:
       - name: Generate contributor data
         run: python3 scripts/generate_contributors.py
       - name: Build Hugo
-        run: hugo --gc --minify
+        run: |
+          BASE_URL="${{ vars.PAGES_BASE_URL || format('https://{0}.github.io/{1}', github.repository_owner, github.event.repository.name) }}"
+          hugo --gc --minify --baseURL "${BASE_URL}/"
         env:
           HUGO_ENV: production
           HUGO_PARAM_SUBMITENDPOINT: ${{ vars.HUGO_PARAM_SUBMITENDPOINT }}
