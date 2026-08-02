@@ -1,0 +1,6 @@
+{{- $limit := .limit | default 6 -}}
+{{- $pages := where .Site.AllPages "Section" "resources" -}}
+{{- $pages = where $pages "Kind" "page" -}}
+{{- range first $limit (sort $pages "Date" "desc") -}}
+- [{{ .Title }}]( {{ .RelPermalink }} ) — {{ .Params.category }} · {{ .Params.source }}
+{{- end -}}

@@ -1,0 +1,7 @@
+{{ define "main" }}
+  <section>
+    <h1>{{ .Title }}</h1>
+    {{ with .Description }}<p class="resource-meta">{{ . }}</p>{{ end }}
+    {{ .Content }}
+  </section>
+{{ end }}

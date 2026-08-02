@@ -1,0 +1,170 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+  pull-requests: write
+
+jobs:
+  lint-resources:
+    name: Lint resource front matter
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+      - name: Validate resource files
+        run: python3 scripts/lint_resources.py content/resources
+
+  link-check:
+    name: Check links (README)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check links
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --no-progress
+            --verbose
+            --exclude '^https://openai\.com/index/harness-engineering/?$'
+            --exclude '^https://www\.preprints\.org/manuscript/202603\.1756/?$'
+            --exclude '^https://harness-engineer\.dev/?$'
+            README.md
+            CONTRIBUTING.md
+          fail: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  link-check-site:
+    name: Check links (built site)
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/download-artifact@v4
+        with:
+          name: site
+          path: public
+      - name: Check links
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --no-progress
+            --verbose
+            --root-dir public
+            --exclude '^https://openai\.com/index/harness-engineering/?$'
+            --exclude '^https://www\.preprints\.org/manuscript/202603\.1756/?$'
+            --exclude '^https://harness-engineer\.dev/?$'
+            --exclude '^https://github.com/hybridindie/harness-engineer/tree/'
+            --exclude 'pagefind/'
+            'public/**/*.html'
+          fail: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  build:
+    name: Build site
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: "0.164.0"
+          extended: true
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - run: npm ci
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+      - name: Generate contributor data
+        run: python3 scripts/generate_contributors.py
+      - name: Build Hugo
+        run: hugo --gc --minify
+        env:
+          HUGO_ENV: production
+          HUGO_PARAM_SUBMITENDPOINT: ${{ vars.HUGO_PARAM_SUBMITENDPOINT }}
+          HUGO_PARAM_FORMSECRET: ${{ secrets.HUGO_PARAM_FORMSECRET }}
+      - name: Build Pagefind index
+        run: npx pagefind --site public
+      - uses: actions/upload-artifact@v4
+        with:
+          name: site
+          path: public/
+
+  preview:
+    name: Preview deploy
+    runs-on: ubuntu-latest
+    if: github.event_name == 'pull_request'
+    steps:
+      - uses: actions/checkout@v4
+      - uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: "0.164.0"
+          extended: true
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - run: npm ci
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+      - name: Generate contributor data
+        run: python3 scripts/generate_contributors.py
+      - name: Build Hugo (PR baseURL)
+        # Build with a subdirectory baseURL so assets resolve under /pr-<n>/.
+        run: |
+          PR_NUM="${{ github.event.number }}"
+          BASE_URL="${{ vars.PAGES_BASE_URL || format('https://{0}.github.io/{1}', github.repository_owner, github.event.repository.name) }}"
+          hugo --gc --minify --baseURL "${BASE_URL}/pr-${PR_NUM}/"
+        env:
+          HUGO_ENV: production
+          HUGO_PARAM_SUBMITENDPOINT: ${{ vars.HUGO_PARAM_SUBMITENDPOINT }}
+          HUGO_PARAM_FORMSECRET: ${{ secrets.HUGO_PARAM_FORMSECRET }}
+      - name: Build Pagefind index
+        run: npx pagefind --site public
+      - name: Deploy preview to gh-pages branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: public
+          destination_dir: pr-${{ github.event.number }}
+          keep_files: true
+          user_name: "github-actions[bot]"
+          user_email: "github-actions[bot]@users.noreply.github.com"
+          commit_message: "Preview PR #${{ github.event.number }}"
+      - name: Comment preview URL on PR
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const prNum = context.payload.number;
+            const owner = context.repo.owner;
+            const repo = context.repo.repo;
+            const baseUrl = process.env.BASE_URL || `https://${owner}.github.io/${repo}`;
+            const previewUrl = `${baseUrl}/pr-${prNum}/`;
+            const body = `Preview deployed: ${previewUrl}`;
+            const marker = "<!-- harness-engineer-preview -->";
+            const { data: comments } = await github.rest.issues.listComments({
+              owner, repo, issue_number: prNum,
+            });
+            const existing = comments.find((c) => c.body.includes(marker));
+            if (existing) {
+              await github.rest.issues.updateComment({
+                owner, repo, comment_id: existing.id,
+                body: `${marker}\n\nPreview deployed: ${previewUrl}`,
+              });
+            } else {
+              await github.rest.issues.createComment({
+                owner, repo, issue_number: prNum,
+                body: `${marker}\n\nPreview deployed: ${previewUrl}`,
+              });
+            }
+          env:
+            BASE_URL: ${{ vars.PAGES_BASE_URL }}

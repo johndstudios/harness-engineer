@@ -1,0 +1,20 @@
+{{- $order := .Site.Params.categoryOrder -}}
+{{- $labels := .Site.Params.categoryLabels -}}
+{{- $pages := where .Site.AllPages "Section" "resources" -}}
+{{- $pages = where $pages "Kind" "page" -}}
+<ul class="category-grid">
+{{ range $order }}
+  {{ $key := . }}
+  {{ $label := (index (where $labels "key" $key) 0).label }}
+  {{ $count := 0 }}
+  {{ range $pages }}
+    {{ if eq (index .Params.category 0 | default .Params.category) $key }}
+      {{ $count = add $count 1 }}
+    {{ end }}
+  {{ end }}
+  <li class="category-card">
+    <h3><a href="{{ relURL (printf "categories/%s/" $key) }}">{{ $label }}</a></h3>
+    <div class="count">{{ $count }} resources</div>
+  </li>
+{{ end }}
+</ul>

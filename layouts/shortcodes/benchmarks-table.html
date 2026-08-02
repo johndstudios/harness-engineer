@@ -1,0 +1,74 @@
+{{- $all := where .Site.AllPages "Section" "resources" -}}
+{{- $all = where $all "Kind" "page" -}}
+{{- $rows := slice -}}
+{{- range $all -}}
+  {{- $cat := index .Params.category 0 | default .Params.category -}}
+  {{- if eq $cat "benchmarks" -}}
+    {{- $rows = $rows | append (dict
+      "title" .Title
+      "link" .Params.link
+      "page" .RelPermalink
+      "task_type" (.Params.task_type | default "")
+      "environment" (.Params.environment | default "")
+      "open_source" (.Params.open_source | default "")
+      "leaderboard" (.Params.leaderboard | default "")
+      "source" (index .Params.source 0 | default .Params.source)
+    ) -}}
+  {{- end -}}
+{{- end -}}
+<table class="benchmarks-table" data-sortable>
+  <thead>
+    <tr>
+      <th data-sort="title">Name</th>
+      <th data-sort="task_type">Task</th>
+      <th data-sort="environment">Environment</th>
+      <th data-sort="open_source">Open source</th>
+      <th data-sort="source">Source</th>
+      <th>Leaderboard</th>
+    </tr>
+  </thead>
+  <tbody>
+  {{ range $rows }}
+    <tr>
+      <td data-sort-key="{{ .title }}"><a href="{{ .page }}">{{ .title }}</a></td>
+      <td>{{ .task_type }}</td>
+      <td>{{ .environment }}</td>
+      <td>{{ if eq .open_source "true" }}✓{{ else }}—{{ end }}</td>
+      <td>{{ .source }}</td>
+      <td>{{ if .leaderboard }}<a href="{{ .leaderboard }}" target="_blank" rel="noopener noreferrer">view →</a>{{ else }}—{{ end }}</td>
+    </tr>
+  {{ end }}
+  </tbody>
+</table>
+<script>
+  (function () {
+    var table = document.querySelector("table.benchmarks-table");
+    if (!table) return;
+    var tbody = table.tBodies[0];
+    var headers = table.querySelectorAll("th[data-sort]");
+    var current = { col: null, asc: true };
+    headers.forEach(function (th) {
+      th.addEventListener("click", function () {
+        var key = th.getAttribute("data-sort");
+        if (current.col === key) current.asc = !current.asc;
+        else { current.col = key; current.asc = true; }
+        var rows = Array.from(tbody.rows);
+        rows.sort(function (a, b) {
+          var av, bv;
+          if (key === "title") {
+            av = a.querySelector("td[data-sort-key]").getAttribute("data-sort-key");
+            bv = b.querySelector("td[data-sort-key]").getAttribute("data-sort-key");
+          } else {
+            av = a.cells[th.cellIndex].textContent.trim();
+            bv = b.cells[th.cellIndex].textContent.trim();
+          }
+          if (av === bv) return 0;
+          return current.asc ? (av < bv ? -1 : 1) : (av > bv ? -1 : 1);
+        });
+        rows.forEach(function (r) { tbody.appendChild(r); });
+        headers.forEach(function (h) { h.removeAttribute("aria-sort"); });
+        th.setAttribute("aria-sort", current.asc ? "ascending" : "descending");
+      });
+    });
+  })();
+</script>

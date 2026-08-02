@@ -1,0 +1,19 @@
+{
+  "name": "harness-engineer",
+  "version": "1.0.0",
+  "description": "A curated directory of articles, playbooks, benchmarks, and tools for harness engineering.",
+  "private": true,
+  "scripts": {
+    "build": "HUGO_ENV=production hugo --gc --minify && npx pagefind --site public",
+    "serve": "hugo server --disableFastRender --buildDrafts",
+    "lint": "python3 scripts/lint_resources.py content/resources",
+    "readme": "python3 scripts/generate_readme.py content/resources README.md",
+    "categories": "python3 scripts/generate_categories.py content/resources content",
+    "contributors": "python3 scripts/generate_contributors.py"
+  },
+  "license": "CC-BY-SA-4.0",
+  "type": "commonjs",
+  "devDependencies": {
+    "pagefind": "^1.5.2"
+  }
+}

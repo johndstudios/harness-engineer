@@ -1,0 +1,34 @@
+# Controlled tag vocabulary for resources.
+#
+# Each entry is a tag slug + a short description. The lint script enforces that
+# every `tags:` value in content/resources/*.md appears here. To add a new tag,
+# add an entry and use it. To retire a tag, remove it and update the resources.
+#
+# Format:
+#   slug: description
+
+agent-files: "Repo-local instruction files (AGENTS.md, CLAUDE.md, init.sh)"
+benchmarks: "Benchmark suites and leaderboards for evaluating agents"
+brownfield: "Working with existing/legacy codebases"
+checkpoints: "Checkpointing, save points, and resumable sessions"
+coding-agents: "Agents that write or modify code"
+compression: "Context compression, condensation, and summarization"
+computer-use: "Agents operating desktops and GUIs"
+context-engineering: "Managing the context window as a working memory budget"
+evals: "Evaluation methods, grading, and reproducible testing"
+frameworks: "Agent frameworks and orchestration libraries"
+greenfield: "Starting new projects with agents"
+long-running: "Long-running, multi-session, and resumable agents"
+mcp: "Model Context Protocol and MCP-based tooling"
+multi-agent: "Multi-agent coordination and shared state"
+observability: "Tracing, telemetry, and session replay"
+orchestration: "Coordinating tools, subagents, and workflows"
+planning: "Planning, task decomposition, and multi-step reasoning"
+quality: "Code quality, linting, and in-loop verification"
+retrieval: "Retrieval, search, and grounding"
+runtimes: "Agent runtimes and execution environments"
+search: "Search and information retrieval"
+security: "Sandboxing, prompt injection, and safe autonomy"
+specs: "Specs, spec-driven development, and machine-readable instructions"
+tools: "Tool design, tool calling, and environment control"
+web-agents: "Browser and web-navigation agents"

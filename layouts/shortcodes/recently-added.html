@@ -1,0 +1,18 @@
+{{- $limit := .Params.limit | default 6 -}}
+{{- $pages := where .Site.AllPages "Section" "resources" -}}
+{{- $pages = where $pages "Kind" "page" -}}
+<ul class="resource-list">
+{{ range first $limit (sort $pages "Date" "desc") }}
+  {{ $cat := index .Params.category 0 | default .Params.category }}
+  {{ $src := index .Params.source 0 | default .Params.source }}
+  <li class="resource-card">
+    <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+    <div class="meta">
+      <span class="badge">{{ .Params.resource_kind }}</span>
+      <span>{{ $cat }}</span>
+      <span>{{ $src }}</span>
+    </div>
+    <p class="desc">{{ .Summary | plainify | truncate 180 }}</p>
+  </li>
+{{ end }}
+</ul>

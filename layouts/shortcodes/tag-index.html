@@ -1,0 +1,20 @@
+{{- $vocab := .Site.Data.tags -}}
+{{- $pages := where .Site.AllPages "Section" "resources" -}}
+{{- $pages = where $pages "Kind" "page" -}}
+<ul class="tag-cloud">
+{{ range $slug, $desc := $vocab }}
+  {{ $count := 0 }}
+  {{ range $pages }}
+    {{ if and .Params.tags (in .Params.tags $slug) }}
+      {{ $count = add $count 1 }}
+    {{ end }}
+  {{ end }}
+  {{ if gt $count 0 }}
+  <li>
+    <a href="{{ relURL (printf "tags/%s/" $slug) }}">#{{ $slug }}</a>
+    <span class="tag-count">{{ $count }}</span>
+    <span class="tag-desc">{{ $desc }}</span>
+  </li>
+  {{ end }}
+{{ end }}
+</ul>

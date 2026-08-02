@@ -1,0 +1,14 @@
+{{- $contributors := .Site.Data.contributors -}}
+{{- if not $contributors -}}
+<p>No contributors recorded yet. Be the first — <a href="/submit/">submit a resource</a>.</p>
+{{- else -}}
+<div class="contributors">
+{{ range $i, $c := $contributors }}
+  <div class="contributor-row">
+    <span class="rank">{{ add $i 1 }}</span>
+    <span class="name">{{ $c.name }}</span>
+    <span class="count">{{ $c.count }} resources</span>
+  </div>
+{{ end }}
+</div>
+{{- end -}}

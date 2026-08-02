@@ -1,0 +1,18 @@
+name = "harness-engineer-submit"
+main = "src/index.js"
+compatibility_date = "2025-08-02"
+
+# Secrets (set via `wrangler secret put`):
+#   GITHUB_APP_ID          — numeric App ID
+#   GITHUB_PRIVATE_KEY     — PEM private key (single-line, \n escaped)
+#   GITHUB_INSTALLATION_ID — numeric installation ID for the target repo
+#   FORM_SECRET           — shared bearer token; the form sends this in
+#                           `Authorization: Bearer <token>`. Cheap rate limit.
+#
+# Non-secret vars (set via wrangler.toml [vars] or `wrangler secret put`):
+[vars]
+GITHUB_OWNER = "johndstudios"
+GITHUB_REPO = "harness-engineer"
+GITHUB_API = "https://api.github.com"
+# Comma-separated list of allowed origins for CORS (the site origin).
+ALLOWED_ORIGINS = "https://harness-engineer.dev,https://johndstudios.github.io"

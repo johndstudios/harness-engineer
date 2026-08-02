@@ -1,0 +1,106 @@
+# AGENTS.md
+
+## Project
+
+Harness Engineer is a static site (Hugo) + awesome-list README generated from
+structured Markdown files in `content/resources/`. Content is licensed CC BY-SA 4.0.
+
+## Architecture
+
+- `content/resources/*.md` — one file per resource, YAML front matter + description.
+- `content/categories/*/` — generated category index stubs (do not edit by hand).
+- `content/_index.md`, `content/about.md`, `content/contribute.md`, `content/search.md`, `content/submit.md`, `content/recent.md`, `content/benchmarks.md`, `content/contributors.md`, `content/tags-index.md` — top-level pages.
+- `data/tags.yml` — controlled tag vocabulary (source of truth for allowed tags).
+- `data/contributors.json`, `data/resource_authors.json` — generated from git history (do not edit by hand).
+- `layouts/` — Hugo templates. `resources/single.html` is the per-resource page; shortcodes render filtered lists, the benchmarks table, tag index, and contributor leaderboard. `submit/single.html` renders the contribution form.
+- `assets/css/styles.css` — site stylesheet (plain CSS, no preprocessor).
+- `assets/js/submit-form.js` — client-side form validation + submission to the Worker.
+- `scripts/` — Python generators and linters (see Build commands).
+- `worker/` — Cloudflare Worker that authenticates as a GitHub App and opens PRs from form submissions. See `docs/SETUP.md`.
+- `README.md` — generated awesome-list view. Do not edit by hand.
+- `docs/SETUP.md` — how to create the GitHub App and deploy the Worker.
+
+## Build commands
+
+```bash
+# Install dev dependencies (pagefind)
+npm install
+
+# Build the site + search index (production)
+npm run build
+
+# Local dev server with live reload
+npm run serve
+
+# Validate resource front matter
+npm run lint
+
+# Regenerate the awesome-list README from resource files
+npm run readme
+
+# Regenerate category index stubs from resource files
+npm run categories
+
+# Regenerate contributor data from git history
+npm run contributors
+```
+
+Always regenerate after editing resources:
+
+```bash
+npm run readme && npm run categories
+```
+
+## Front matter schema (required)
+
+```yaml
+title: <string>
+link: <http(s) URL>
+category: [<one of: courses|foundations|context|constraints|specs|evals|benchmarks|runtimes>]
+resource_kind: [<one of: article|tool|benchmark|course|spec|podcast|video|paper>]
+source: [<short slug, e.g. anthropic>]
+added: [<YYYY-MM-DD>]
+date: [<YYYY-MM-DD, mirrors added for Hugo ordering/RSS>]
+```
+
+## Front matter schema (optional)
+
+```yaml
+highlight: <true|false>           # flag curated "start here" resources per category
+tags: [<list of lowercase tags from data/tags.yml>]   # controlled vocabulary
+# Benchmark-specific fields (category: [benchmarks]):
+task_type: <coding|web|computer-use|tool-use|reasoning|planning|multi-agent|search|conversation|security|economics|multimodal|generic>
+environment: <terminal|browser|desktop|os|ide|api|sandbox|mixed|web>
+open_source: <true|false>
+leaderboard: <URL or "">
+```
+
+`category`, `resource_kind`, and `source` are single-item lists so Hugo can
+treat them consistently in templates.
+
+## CI
+
+- `.github/workflows/ci.yml` runs on every push and PR: front-matter lint, link
+  check (lychee), Hugo build + Pagefind index uploaded as an artifact, and
+  (for PRs) a preview deploy to `gh-pages/pr-<n>/` with the URL commented on the PR.
+- `.github/workflows/deploy.yml` builds and deploys the production site to the
+  root of the `gh-pages` branch on push to `main`.
+- `.github/workflows/cleanup-preview.yml` removes the `pr-<n>/` preview
+  directory when a PR closes.
+
+## Notes
+
+- Do not edit `README.md` or `content/categories/` directly — they are generated.
+- Do not edit `data/contributors.json` or `data/resource_authors.json` directly — they are generated from git history.
+- Hugo reserved words: avoid `kind`, `type`, `url` as front-matter keys (we use `resource_kind`, `link`).
+- The `languageCode` deprecation warning in Hugo is harmless for now.
+- The Worker and the site form share validation rules: `worker/src/validate.js`
+  is the source of truth; `assets/js/submit-form.js` mirrors it. Keep them in
+  sync when changing allowed categories/kinds.
+- Tags are controlled by `data/tags.yml`. The lint (`scripts/lint_resources.py`),
+  the Worker (`worker/src/validate.js`), and the site form
+  (`assets/js/submit-form.js`) all enforce the same vocabulary. To add a tag,
+  add it to `data/tags.yml` and the Worker/form allowed lists, then use it.
+- Benchmark-specific fields (`task_type`, `environment`, `open_source`,
+  `leaderboard`) power the comparison table at `/benchmarks/`. They are
+  optional for non-benchmark resources.

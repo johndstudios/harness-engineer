@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ block "title" . }}{{ .Title }} · {{ .Site.Title }}{{ end }}</title>
+  <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+  {{ partial "head/css.html" . }}
+  {{ block "head" . }}{{ end }}
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="wrap header-row">
+      <a class="site-title" href="{{ .Site.Home.RelPermalink }}">{{ .Site.Title }}</a>
+      <nav class="site-nav" aria-label="Primary">
+        {{ range .Site.Menus.main }}
+          <a href="{{ .URL }}" {{ if $.IsMenuCurrent "main" . }}aria-current="page"{{ end }}>{{ .Name }}</a>
+        {{ end }}
+      </nav>
+      <form class="site-search" action="/search/" role="search">
+        <input type="search" name="q" placeholder="Search resources…" aria-label="Search resources">
+      </form>
+    </div>
+  </header>
+  <main id="main" class="wrap" data-pagefind-body>
+    {{ block "main" . }}{{ end }}
+  </main>
+  <footer class="site-footer">
+    <div class="wrap">
+      <p>
+        Harness Engineer · content licensed under
+        <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.
+      </p>
+      <p>
+        Builds on the
+        <a href="{{ .Site.Params.upstreamRepo }}">Awesome Harness Engineering</a>
+        list (CC0). Source on
+        <a href="{{ .Site.Params.githubRepo }}">GitHub</a>.
+      </p>
+    </div>
+  </footer>
+  {{ block "footer" . }}{{ end }}
+</body>
+</html>

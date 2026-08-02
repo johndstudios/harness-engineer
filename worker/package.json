@@ -1,0 +1,18 @@
+{
+  "name": "harness-engineer-worker",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "typecheck": "tsc --noEmit",
+    "test": "deno test --allow-read"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20250802.0",
+    "typescript": "^5.6.0",
+    "wrangler": "^3.90.0"
+  }
+}

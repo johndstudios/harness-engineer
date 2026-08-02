@@ -1,0 +1,17 @@
+{{ define "main" }}
+  <section data-pagefind-ignore>
+    <h1>{{ .Title }}</h1>
+    {{ .Content }}
+  </section>
+{{ end }}
+
+{{ define "footer" }}
+  <script>
+    // The Worker endpoint URL and shared secret. Set via site config params.
+    const SUBMIT_ENDPOINT = "{{ .Site.Params.submitEndpoint | default "" }}";
+    const FORM_SECRET = "{{ .Site.Params.formSecret | default "" }}";
+    const GITHUB_REPO = "{{ .Site.Params.githubRepo }}";
+  </script>
+  {{ $js := resources.Get "js/submit-form.js" | minify | fingerprint }}
+  <script defer src="{{ $js.RelPermalink }}" integrity="{{ $js.Data.Integrity }}" crossorigin="anonymous"></script>
+{{ end }}

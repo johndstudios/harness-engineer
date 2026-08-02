@@ -1,0 +1,53 @@
+name: Deploy
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: "0.164.0"
+          extended: true
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - run: npm ci
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+      - name: Generate contributor data
+        run: python3 scripts/generate_contributors.py
+
+      - name: Build Hugo
+        run: |
+          BASE_URL="${{ vars.PAGES_BASE_URL || format('https://{0}.github.io/{1}', github.repository_owner, github.event.repository.name) }}"
+          hugo --gc --minify --baseURL "${BASE_URL}/"
+        env:
+          HUGO_ENV: production
+          HUGO_PARAM_SUBMITENDPOINT: ${{ vars.HUGO_PARAM_SUBMITENDPOINT }}
+          HUGO_PARAM_FORMSECRET: ${{ secrets.HUGO_PARAM_FORMSECRET }}
+
+      - name: Build Pagefind index
+        run: npx pagefind --site public
+
+      - name: Deploy to gh-pages branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: public
+          destination_dir: ""
+          # Keep pr-<n>/ preview subdirectories from other PRs intact.
+          keep_files: true
+          user_name: "github-actions[bot]"
+          user_email: "github-actions[bot]@users.noreply.github.com"
+          commit_message: "Deploy ${{ github.sha }}"

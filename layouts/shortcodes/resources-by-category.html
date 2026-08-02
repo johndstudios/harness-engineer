@@ -1,0 +1,32 @@
+{{- $category := .Get "category" -}}
+{{- $all := where .Site.AllPages "Section" "resources" -}}
+{{- $all = where $all "Kind" "page" -}}
+{{- $filtered := slice -}}
+{{- $highlights := slice -}}
+{{- range $all -}}
+  {{- $cat := index .Params.category 0 | default .Params.category -}}
+  {{- if eq $cat $category -}}
+    {{- if .Params.highlight -}}
+      {{- $highlights = $highlights | append . -}}
+    {{- else -}}
+      {{- $filtered = $filtered | append . -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- $highlights = sort $highlights "Date" "desc" -}}
+{{- $filtered = sort $filtered "Date" "desc" -}}
+
+{{- if $highlights -}}
+<h2 id="start-here">Start here</h2>
+<ul class="highlight-list">
+  {{ range $highlights }}
+    <li>
+      <a class="hl-title" href="{{ .RelPermalink }}">{{ .Title }}</a>
+      <div class="hl-desc">{{ .Summary | plainify | truncate 140 }}</div>
+    </li>
+  {{ end }}
+</ul>
+<h2 id="all">All resources</h2>
+{{- end -}}
+
+{{ partial "resource-list.html" (dict "resources" $filtered "site" .Site) }}

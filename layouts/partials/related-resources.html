@@ -1,0 +1,35 @@
+{{- /* Suggest related resources by shared tags. Returns up to 3. */ -}}
+{{- $current := . -}}
+{{- $myTags := $current.Params.tags | default slice -}}
+{{- if not (reflect.IsSlice $myTags) -}}
+  {{- $myTags = slice $myTags -}}
+{{- end -}}
+{{- $all := where .Site.AllPages "Section" "resources" -}}
+{{- $all = where $all "Kind" "page" -}}
+{{- $candidates := slice -}}
+{{- range $all -}}
+  {{- if eq .RelPermalink $current.RelPermalink -}}{{- continue -}}{{- end -}}
+  {{- $theirTags := .Params.tags | default slice -}}
+  {{- if not (reflect.IsSlice $theirTags) -}}
+    {{- $theirTags = slice $theirTags -}}
+  {{- end -}}
+  {{- $shared := 0 -}}
+  {{- range $myTags -}}
+    {{- if in $theirTags . -}}{{- $shared = add $shared 1 -}}{{- end -}}
+  {{- end -}}
+  {{- if gt $shared 0 -}}
+    {{- $candidates = $candidates | append (dict "page" . "shared" $shared) -}}
+  {{- end -}}
+{{- end -}}
+{{- $candidates = sort $candidates "shared" "desc" -}}
+{{- $top := first 3 $candidates -}}
+{{- if $top -}}
+<aside class="related" data-pagefind-ignore>
+  <h2>Related resources</h2>
+  <ul class="related-list">
+  {{ range $top }}
+    <li><a href="{{ .page.RelPermalink }}">{{ .page.Title }}</a></li>
+  {{ end }}
+  </ul>
+</aside>
+{{- end -}}

@@ -1,0 +1,20 @@
+{{- $resources := .resources -}}
+{{- $site := .site -}}
+{{- if $resources -}}
+<ul class="resource-list">
+  {{ range $resources }}
+    {{ $cat := index .Params.category 0 | default .Params.category }}
+    {{ $src := index .Params.source 0 | default .Params.source }}
+    <li class="resource-card">
+      <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+      <div class="meta">
+        <span class="badge">{{ .Params.resource_kind }}</span>
+        <span>{{ $cat }}</span>
+        <span>{{ $src }}</span>
+      </div>
+      <p class="desc">{{ .Summary | plainify | truncate 180 }}</p>
+      <a class="link-out" href="{{ .Params.link }}" target="_blank" rel="noopener noreferrer">{{ .Params.link }} →</a>
+    </li>
+  {{ end }}
+</ul>
+{{- end -}}

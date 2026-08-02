@@ -1,0 +1,101 @@
+baseURL = "https://harness-engineer.dev/"
+languageCode = "en"
+title = "Harness Engineer"
+description = "A curated directory of articles, playbooks, benchmarks, and tools for harness engineering — the practice of shaping the environment around AI agents so they work reliably."
+
+relativeURLs = false
+canonifyURLs = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 3
+
+# We don't use Hugo taxonomies; category pages are generated as content
+# stubs that use the `resources-by-category` shortcode to filter resources.
+[taxonomies]
+  tag = "tags"
+
+[outputs]
+  home = ["html", "rss"]
+  section = ["html", "rss"]
+
+[outputFormats]
+  [outputFormats.rss]
+    baseName = "index"
+    mediatype = "application/rss+xml"
+
+[params]
+  description = "A curated directory of resources for harness engineering."
+  githubRepo = "https://github.com/johndstudios/harness-engineer"
+  upstreamRepo = "https://github.com/walkinglabs/awesome-harness-engineering"
+  # Cloudflare Worker endpoint for the submission form. Set via HUGO_PARAM_SUBMITENDPOINT
+  # in CI, or leave blank to disable the form (users fall back to manual PRs).
+  submitEndpoint = ""
+  # Shared bearer token sent by the form to the Worker. Set via
+  # HUGO_PARAM_FORMSECRET in CI. Cheap rate limit, not real auth.
+  formSecret = ""
+  categoryOrder = [
+    "courses",
+    "foundations",
+    "context",
+    "constraints",
+    "specs",
+    "evals",
+    "benchmarks",
+    "runtimes"
+  ]
+  categoryLabels = [
+    { key = "courses",     label = "Courses & Learning" },
+    { key = "foundations", label = "Foundations" },
+    { key = "context",     label = "Context, Memory & Working State" },
+    { key = "constraints", label = "Constraints, Guardrails & Safe Autonomy" },
+    { key = "specs",       label = "Specs, Agent Files & Workflow Design" },
+    { key = "evals",       label = "Evals & Observability" },
+    { key = "benchmarks",  label = "Benchmarks" },
+    { key = "runtimes",    label = "Runtimes, Harnesses & Reference Implementations" }
+  ]
+
+[permalinks]
+  resources = "/r/:slug/"
+
+[menus]
+  [[menus.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menus.main]]
+    name = "Categories"
+    url = "/categories/"
+    weight = 2
+  [[menus.main]]
+    name = "Benchmarks"
+    url = "/benchmarks/"
+    weight = 3
+  [[menus.main]]
+    name = "Recent"
+    url = "/recent/"
+    weight = 4
+  [[menus.main]]
+    name = "Tags"
+    url = "/tags-index/"
+    weight = 5
+  [[menus.main]]
+    name = "About"
+    url = "/about/"
+    weight = 6
+  [[menus.main]]
+    name = "Contributors"
+    url = "/contributors/"
+    weight = 7
+  [[menus.main]]
+    name = "Contribute"
+    url = "/contribute/"
+    weight = 8
+  [[menus.main]]
+    name = "Submit"
+    url = "/submit/"
+    weight = 9

@@ -1,0 +1,23 @@
+{{ define "main" }}
+  <article class="single resource-single">
+    <h1>{{ .Title }}</h1>
+    <p class="resource-meta">
+      <a href="{{ .Params.link }}">{{ .Params.link }}</a>
+      · {{ .Params.resource_kind }}
+      · {{ index .Params.source 0 | default .Params.source }}
+      · added {{ .Params.added }}
+      {{- with .Site.Data.resource_authors -}}
+        {{- $slug := $.File.ContentBaseName -}}
+        {{- with index . $slug -}}
+          · by {{ delimit . ", " }}
+        {{- end -}}
+      {{- end -}}
+    </p>
+    <p class="tags">
+      {{ range .Params.tags }}<span class="tag">#{{ . }}</span>{{ end }}
+    </p>
+    {{ .Content }}
+    <p><a class="link-out" href="{{ .Params.link }}" target="_blank" rel="noopener noreferrer">Open resource →</a></p>
+    {{ partial "related-resources.html" . }}
+  </article>
+{{ end }}
