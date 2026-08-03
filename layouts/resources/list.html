@@ -1,7 +1,32 @@
 {{ define "main" }}
   <section class="section-list">
     <h1>Resources</h1>
-    <p class="resource-meta">All harness engineering resources, newest first.</p>
+    <p class="resource-meta">All harness engineering resources. Filter by kind or category, or <a href="/search/">search by keyword</a>.</p>
+
+    <div class="facet-bar" id="facet-bar">
+      <fieldset class="facet-group">
+        <legend>Kind</legend>
+        {{ $kinds := slice "article" "tool" "benchmark" "course" "spec" "podcast" "video" "paper" }}
+        {{ range $kinds }}
+        <label><input type="checkbox" name="kind" value="{{ . }}"> {{ . }}</label>
+        {{ end }}
+      </fieldset>
+      <fieldset class="facet-group">
+        <legend>Category</legend>
+        {{ $cats := slice "courses" "foundations" "context" "constraints" "specs" "evals" "benchmarks" "runtimes" }}
+        {{ range $cats }}
+        <label><input type="checkbox" name="category" value="{{ . }}"> {{ . }}</label>
+        {{ end }}
+      </fieldset>
+      <button class="clear-btn" id="clear-facets" type="button">Clear filters</button>
+    </div>
+
+    <p class="no-results" id="no-results">No resources match the selected filters.</p>
     {{ partial "resource-list.html" (dict "resources" .Pages.ByDate.Reverse "site" .Site) }}
   </section>
+{{ end }}
+
+{{ define "footer" }}
+  {{ $js := resources.Get "js/facets.js" | minify | fingerprint }}
+  <script defer src="{{ $js.RelPermalink }}" integrity="{{ $js.Data.Integrity }}" crossorigin="anonymous"></script>
 {{ end }}

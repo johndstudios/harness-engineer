@@ -18,6 +18,9 @@
     </p>
     {{ .Content }}
     <p><a class="link-out" href="{{ .Params.link }}" target="_blank" rel="noopener noreferrer">Open resource →</a></p>
+    <p class="edit-link">
+      <a href="{{ .Site.Params.githubRepo }}/edit/main/content/resources/{{ .File.ContentBaseName }}.md" target="_blank" rel="noopener noreferrer">Edit this resource on GitHub →</a>
+    </p>
     {{ partial "related-resources.html" . }}
   </article>
 {{ end }}

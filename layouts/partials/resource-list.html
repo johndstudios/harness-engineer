@@ -1,11 +1,11 @@
 {{- $resources := .resources -}}
 {{- $site := .site -}}
 {{- if $resources -}}
-<ul class="resource-list">
+<ul class="resource-list" id="resource-list">
   {{ range $resources }}
     {{ $cat := index .Params.category 0 | default .Params.category }}
     {{ $src := index .Params.source 0 | default .Params.source }}
-    <li class="resource-card">
+    <li class="resource-card" data-kind="{{ .Params.resource_kind }}" data-category="{{ $cat }}">
       <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
       <div class="meta">
         <span class="badge">{{ .Params.resource_kind }}</span>
