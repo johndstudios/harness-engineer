@@ -202,10 +202,16 @@ def enrich_html(fetch_result: dict) -> dict:
     enrichment["meta_description"] = extract_meta(soup, "description")
     enrichment["og_title"] = extract_meta(soup, "og:title")
     enrichment["og_description"] = extract_meta(soup, "og:description")
-    enrichment["og_image"] = extract_meta(soup, "og:image")
+    og_image = extract_meta(soup, "og:image")
+    if og_image and not og_image.startswith(("http://", "https://")):
+        og_image = urllib.parse.urljoin(fetch_result["final_url"], og_image)
+    enrichment["og_image"] = og_image
     enrichment["og_type"] = extract_meta(soup, "og:type")
     enrichment["twitter_card"] = extract_meta(soup, "twitter:card")
-    enrichment["twitter_image"] = extract_meta(soup, "twitter:image")
+    twitter_image = extract_meta(soup, "twitter:image")
+    if twitter_image and not twitter_image.startswith(("http://", "https://")):
+        twitter_image = urllib.parse.urljoin(fetch_result["final_url"], twitter_image)
+    enrichment["twitter_image"] = twitter_image
 
     # Author
     author = extract_meta(soup, "author") or extract_meta(soup, "article:author")

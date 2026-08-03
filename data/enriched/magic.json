@@ -1,7 +1,7 @@
 {
   "slug": "magic",
   "url": "https://zhiyuanhubj.github.io/MAgIC/",
-  "crawled_at": "2026-08-03T04:34:41.127779+00:00",
+  "crawled_at": "2026-08-03T04:42:04.105535+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://zhiyuanhubj.github.io/MAgIC/",
@@ -11,10 +11,10 @@
   "meta_description": "DESCRIPTION META TAG",
   "og_title": "MAgIC: Benchmarking Large Language Model Powered Multi-Agent in Cognition, Adaptability, Rationality and Collaboration",
   "og_description": "MAgIC: A novel benchmarking framework specifically tailored to assess LLMs within multi-agent settings, providing quantitative metrics to evaluate their judgment, reasoning, deception, self-awareness, cooperation, coordination, and rationality.",
-  "og_image": "static/images/banner.png",
+  "og_image": "https://zhiyuanhubj.github.io/MAgIC/static/images/banner.png",
   "og_type": "",
   "twitter_card": "summary_large_image",
-  "twitter_image": "static/images/banner.png",
+  "twitter_image": "https://zhiyuanhubj.github.io/MAgIC/static/images/banner.png",
   "word_count": 649,
   "reading_time_min": 3,
   "outline": [

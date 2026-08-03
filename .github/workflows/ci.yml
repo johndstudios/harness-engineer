@@ -63,6 +63,7 @@ jobs:
             --exclude '^https://harness-engineer\.dev'
             --exclude '^https://johndstudios\.github\.io'
             --exclude '^https://github\.com/johndstudios/harness-engineer/'
+            --exclude '\.(png|jpg|jpeg|gif|svg|webp|ico|css|js)$'
             --exclude 'pagefind/'
             'public/**/*.html'
           fail: true
