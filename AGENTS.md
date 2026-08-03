@@ -104,6 +104,11 @@ treat them consistently in templates.
 - The Worker and the site form share validation rules: `worker/src/validate.js`
   is the source of truth; `assets/js/submit-form.js` mirrors it. Keep them in
   sync when changing allowed categories/kinds.
+- The submission flow is URL-only: the user pastes a URL, the Worker fetches
+  the page, auto-classifies category/kind/source/tags, checks for spam and
+  commercial content, and creates the resource file. See
+  `worker/src/classify.js` for the classification heuristics and
+  `worker/src/fetcher.js` for the HTML metadata extraction.
 - Tags are controlled by `data/tags.yml`. The lint (`scripts/lint_resources.py`),
   the Worker (`worker/src/validate.js`), and the site form
   (`assets/js/submit-form.js`) all enforce the same vocabulary. To add a tag,

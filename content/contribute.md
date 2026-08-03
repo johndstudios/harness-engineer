@@ -12,11 +12,12 @@ Contributions are welcome. Please prefer resources that are:
 If two links say the same thing, prefer the more primary, practical, and implementation-oriented one.
 ## Two ways to contribute
 
-### 1. Submission form (low barrier)
+### 1. Submission form (easiest)
 
-Visit [the submit form](/submit/), fill in the fields, and click **Open pull
-request**. The form validates your input and opens a PR on GitHub for review —
-no Git knowledge needed. You'll get a link to track the PR once it's created.
+Visit [the submit form](/submit/), paste a URL, and click **Open pull request**.
+We'll fetch the page, extract the title and description, auto-classify the
+category/kind/tags, check for spam and commercial content, and open a PR — all
+automatically. You'll get a link to track the PR once it's created.
 
 This is the recommended path for most people adding a single resource.
 

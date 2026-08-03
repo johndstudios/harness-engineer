@@ -10,27 +10,6 @@
   const prLink = document.getElementById("pr-link");
   const submitAnother = document.getElementById("submit-another");
 
-  // ---------- Validation helpers ----------
-
-  const ALLOWED_CATEGORIES = new Set([
-    "courses", "foundations", "context", "constraints",
-    "specs", "evals", "benchmarks", "runtimes",
-  ]);
-  const ALLOWED_KINDS = new Set([
-    "article", "tool", "benchmark", "course", "spec", "podcast", "video", "paper",
-  ]);
-  // Must match worker/src/validate.js ALLOWED_TAGS and data/tags.yml.
-  const ALLOWED_TAGS = new Set([
-    "agent-files", "benchmarks", "brownfield", "checkpoints", "coding-agents",
-    "compression", "computer-use", "context-engineering", "evals", "frameworks",
-    "greenfield", "long-running", "mcp", "multi-agent", "observability",
-    "orchestration", "planning", "quality", "retrieval", "runtimes", "search",
-    "security", "specs", "tools", "web-agents",
-  ]);
-  const DATE_RE = /^\d{4}-\d{2}-\d{2}$/;
-  const SLUG_RE = /^[a-z0-9][a-z0-9._-]*$/i;
-  const stripTags = (s) => s.replace(/<[^>]*>/g, "");
-
   function setError(name, msg) {
     const el = form.querySelector(`[data-err="${name}"]`);
     if (el) {
@@ -48,48 +27,11 @@
 
   function validate(payload) {
     const errors = {};
-    const title = (payload.title || "").trim();
-    if (!title) errors.title = "Required";
-    else if (title.length > 200) errors.title = "Keep under 200 characters";
-
     const link = (payload.link || "").trim();
     if (!link) errors.link = "Required";
     else if (!/^https?:\/\/\S+$/i.test(link)) errors.link = "Must be an http(s) URL";
-
-    const category = (payload.category || "").trim();
-    if (!category) errors.category = "Required";
-    else if (!ALLOWED_CATEGORIES.has(category)) errors.category = "Invalid category";
-
-    const resource_kind = (payload.resource_kind || "").trim();
-    if (!resource_kind) errors.resource_kind = "Required";
-    else if (!ALLOWED_KINDS.has(resource_kind)) errors.resource_kind = "Invalid kind";
-
-    const source = (payload.source || "").trim();
-    if (!source) errors.source = "Required";
-    else if (!SLUG_RE.test(source)) errors.source = "Lowercase letters, numbers, ., _, -";
-
-    const description = (payload.description || "").trim();
-    if (!description) errors.description = "Required";
-    else if (description.length > 500) errors.description = "Keep under 500 characters";
-
-    const tags = (payload.tags || "").trim();
-    if (tags) {
-      const parts = tags.split(",").map((t) => t.trim()).filter(Boolean);
-      for (const t of parts) {
-        if (!/^[a-z0-9][a-z0-9._-]*$/.test(t)) {
-          errors.tags = "Tags: lowercase letters, numbers, ., _, -, comma-separated";
-          break;
-        }
-        if (!ALLOWED_TAGS.has(t)) {
-          errors.tags = `Tag '${t}' is not in the controlled vocabulary`;
-          break;
-        }
-      }
-    }
     return errors;
   }
-
-  // ---------- Submission ----------
 
   function setFormState(state, msg) {
     status.textContent = msg || "";
@@ -101,19 +43,10 @@
     e.preventDefault();
     clearAllErrors();
 
-    const tagsRaw = form.tags.value;
-    const tags = tagsRaw
-      ? tagsRaw.split(",").map((t) => t.trim().toLowerCase()).filter(Boolean).join(", ")
-      : "";
-
     const payload = {
-      title: form.title.value,
       link: form.link.value,
-      category: form.category.value,
-      resource_kind: form.resource_kind.value,
-      source: form.source.value,
       description: form.description.value,
-      tags,
+      category: form.category.value,
       submitter: form.submitter.value,
     };
 
@@ -123,17 +56,17 @@
       return;
     }
 
-    if (!SUBMIT_ENDPOINT) {
+    if (!window.SUBMIT_ENDPOINT) {
       setFormState("error", "Submission endpoint is not configured yet.");
       return;
     }
 
-    setFormState("loading", "Opening pull request…");
+    setFormState("loading", "Fetching page and opening pull request…");
 
     try {
       const headers = { "Content-Type": "application/json" };
       if (window.FORM_SECRET) headers["Authorization"] = `Bearer ${window.FORM_SECRET}`;
-      const res = await fetch(SUBMIT_ENDPOINT, {
+      const res = await fetch(window.SUBMIT_ENDPOINT, {
         method: "POST",
         headers,
         body: JSON.stringify(payload),
@@ -164,7 +97,7 @@
       form.hidden = false;
       resultBox.hidden = true;
       setFormState("idle", "");
-      form.title.focus();
+      form.link.focus();
     });
   }
 })();
