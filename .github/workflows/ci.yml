@@ -82,7 +82,7 @@ jobs:
           extended: true
       - uses: actions/setup-node@v4
         with:
-          node-version: "20"
+          node-version: "22"
       - run: npm ci
       - uses: actions/setup-python@v5
         with:
@@ -116,7 +116,7 @@ jobs:
           extended: true
       - uses: actions/setup-node@v4
         with:
-          node-version: "20"
+          node-version: "22"
       - run: npm ci
       - uses: actions/setup-python@v5
         with:
