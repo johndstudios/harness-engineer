@@ -1,0 +1,66 @@
+{
+  "slug": "evaluating-deep-agents-our-learnings",
+  "url": "https://blog.langchain.com/evaluating-deep-agents-our-learnings/",
+  "crawled_at": "2026-08-03T04:33:56.257708+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://www.langchain.com/blog/evaluating-deep-agents-our-learnings",
+  "content_type": "article",
+  "last_modified": "Mon, 03 Aug 2026 04:33:56 GMT",
+  "fetched_title": "Evaluating Deep Agents: Our Learnings",
+  "meta_description": "Learn 5 patterns for evaluating deep agents: bespoke testing, single-step validation, full turns, multi-turn simulations, and environment setup.",
+  "og_title": "Evaluating Deep Agents: Our Learnings",
+  "og_description": "Learn 5 patterns for evaluating deep agents: bespoke testing, single-step validation, full turns, multi-turn simulations, and environment setup.",
+  "og_image": "https://cdn.prod.website-files.com/65c81e88c254bb0f97633a71/69cbaa2fcd1956c2e4fa1ff2_Evaluating-Deep-Agents.png",
+  "og_type": "website",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://cdn.prod.website-files.com/65c81e88c254bb0f97633a71/69cbaa2fcd1956c2e4fa1ff2_Evaluating-Deep-Agents.png",
+  "author": "LangChain Accounts",
+  "publish_date": "2025-12-03",
+  "language": "en",
+  "canonical_url": "https://www.langchain.com/blog/evaluating-deep-agents-our-learnings",
+  "word_count": 1808,
+  "reading_time_min": 9,
+  "outline": [
+    {
+      "level": 1,
+      "text": "Evaluating Deep Agents: Our Learnings"
+    },
+    {
+      "level": 3,
+      "text": "Glossary"
+    },
+    {
+      "level": 2,
+      "text": "#1: Deep Agents require more bespoke test logic (code) for each datapoint"
+    },
+    {
+      "level": 2,
+      "text": "#2: Single step evals are valuable and efficient"
+    },
+    {
+      "level": 2,
+      "text": "#3: Full agent turns give you a complete picture"
+    },
+    {
+      "level": 2,
+      "text": "#4: Running an agent across multiple turns simulates full user interactions"
+    },
+    {
+      "level": 2,
+      "text": "#5: Setting up the right eval environment is important"
+    },
+    {
+      "level": 2,
+      "text": "Evaluate Deep Agents with LangSmith"
+    },
+    {
+      "level": 3,
+      "text": "Related content"
+    },
+    {
+      "level": 3,
+      "text": "See\u00a0what\u00a0your\u00a0agent\u00a0is\u00a0really\u00a0doing"
+    }
+  ]
+}

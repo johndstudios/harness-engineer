@@ -1,0 +1,76 @@
+{
+  "slug": "ai-agents-that-matter",
+  "url": "https://arxiv.org/abs/2407.01502",
+  "crawled_at": "2026-08-03T04:32:33.927774+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://arxiv.org/abs/2407.01502",
+  "content_type": "paper",
+  "last_modified": "",
+  "fetched_title": "[2407.01502] AI Agents That Matter",
+  "meta_description": "Abstract page for arXiv paper 2407.01502: AI Agents That Matter",
+  "og_title": "AI Agents That Matter",
+  "og_description": "AI agents are an exciting new research direction, and agent development is driven by benchmarks. Our analysis of current agent benchmarks and evaluation practices reveals several shortcomings that hinder their usefulness in real-world applications. First, there is a narrow focus on accuracy without attention to other metrics. As a result, SOTA agents are needlessly complex and costly, and the community has reached mistaken conclusions about the sources of accuracy gains. Our focus on cost in addition to accuracy motivates the new goal of jointly optimizing the two metrics. We design and implement one such optimization, showing its potential to greatly reduce cost while maintaining accuracy. Second, the benchmarking needs of model and downstream developers have been conflated, making it hard to identify which agent would be best suited for a particular application. Third, many agent benchmarks have inadequate holdout sets, and sometimes none at all. This has led to agents that are fragile because they take shortcuts and overfit to the benchmark in various ways. We prescribe a principled framework for avoiding overfitting. Finally, there is a lack of standardization in evaluation practices, leading to a pervasive lack of reproducibility. We hope that the steps we introduce for addressing these shortcomings will spur the development of agents that are useful in the real world and not just accurate on benchmarks.",
+  "og_image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+  "og_type": "website",
+  "twitter_card": "summary",
+  "twitter_image": "https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png",
+  "language": "en",
+  "canonical_url": "https://arxiv.org/abs/2407.01502",
+  "word_count": 699,
+  "reading_time_min": 3,
+  "outline": [
+    {
+      "level": 1,
+      "text": "Computer Science > Machine Learning"
+    },
+    {
+      "level": 1,
+      "text": "Title:AI Agents That Matter"
+    },
+    {
+      "level": 2,
+      "text": "Submission history"
+    },
+    {
+      "level": 2,
+      "text": "Access Paper:"
+    },
+    {
+      "level": 3,
+      "text": "Current browse context:"
+    },
+    {
+      "level": 3,
+      "text": "References & Citations"
+    },
+    {
+      "level": 2,
+      "text": "BibTeX formatted citation"
+    },
+    {
+      "level": 3,
+      "text": "Bookmark"
+    },
+    {
+      "level": 1,
+      "text": "Bibliographic and Citation Tools"
+    },
+    {
+      "level": 1,
+      "text": "Code, Data and Media Associated with this Article"
+    },
+    {
+      "level": 1,
+      "text": "Demos"
+    },
+    {
+      "level": 1,
+      "text": "Recommenders and Search Tools"
+    },
+    {
+      "level": 1,
+      "text": "arXivLabs: experimental projects with community collaborators"
+    }
+  ]
+}

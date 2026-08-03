@@ -1,0 +1,146 @@
+{
+  "slug": "anthropic-sandbox-runtime-srt",
+  "url": "https://github.com/anthropic-experimental/sandbox-runtime",
+  "crawled_at": "2026-08-03T04:32:37.643074+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://github.com/anthropic-experimental/sandbox-runtime",
+  "content_type": "github",
+  "last_modified": "",
+  "github_stars": 4832,
+  "github_forks": 385,
+  "github_open_issues": 140,
+  "github_topics": [],
+  "github_language": "TypeScript",
+  "github_description": "A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.",
+  "github_created": "2025-10-20",
+  "github_updated": "2026-08-03",
+  "github_pushed": "2026-07-24",
+  "github_license": "Apache-2.0",
+  "github_homepage": "",
+  "fetched_title": "GitHub - anthropic-experimental/sandbox-runtime: A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container. \u00b7 GitHub",
+  "meta_description": "A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container. - anthropic-experimental/sandbox-runtime",
+  "og_title": "GitHub - anthropic-experimental/sandbox-runtime: A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.",
+  "og_description": "A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container. - anthropic-experimental/sandbox-runtime",
+  "og_image": "https://opengraph.githubassets.com/871c9f01e41310b8521d5278c3f0030fd258653093d702586878f017a12bb4ed/anthropic-experimental/sandbox-runtime",
+  "og_type": "object",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://opengraph.githubassets.com/871c9f01e41310b8521d5278c3f0030fd258653093d702586878f017a12bb4ed/anthropic-experimental/sandbox-runtime",
+  "language": "en",
+  "word_count": 3780,
+  "reading_time_min": 19,
+  "outline": [
+    {
+      "level": 3,
+      "text": "Uh oh!"
+    },
+    {
+      "level": 2,
+      "text": "Folders and files"
+    },
+    {
+      "level": 2,
+      "text": "Latest commit"
+    },
+    {
+      "level": 2,
+      "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Repository files navigation"
+    },
+    {
+      "level": 1,
+      "text": "Anthropic Sandbox Runtime (srt)"
+    },
+    {
+      "level": 2,
+      "text": "Installation"
+    },
+    {
+      "level": 2,
+      "text": "Basic Usage"
+    },
+    {
+      "level": 2,
+      "text": "Overview"
+    },
+    {
+      "level": 3,
+      "text": "Example Use Case: Sandboxing MCP Servers"
+    },
+    {
+      "level": 2,
+      "text": "How It Works"
+    },
+    {
+      "level": 3,
+      "text": "Dual Isolation Model"
+    },
+    {
+      "level": 2,
+      "text": "Architecture"
+    },
+    {
+      "level": 2,
+      "text": "Usage"
+    },
+    {
+      "level": 3,
+      "text": "As a CLI tool"
+    },
+    {
+      "level": 3,
+      "text": "As a library"
+    },
+    {
+      "level": 2,
+      "text": "Configuration"
+    },
+    {
+      "level": 3,
+      "text": "Settings File Location"
+    },
+    {
+      "level": 3,
+      "text": "Complete Configuration Example"
+    },
+    {
+      "level": 3,
+      "text": "Configuration Options"
+    },
+    {
+      "level": 3,
+      "text": "Common Configuration Recipes"
+    },
+    {
+      "level": 3,
+      "text": "Common Issues and Tips"
+    },
+    {
+      "level": 2,
+      "text": "Platform Support"
+    },
+    {
+      "level": 3,
+      "text": "Platform-Specific Dependencies"
+    },
+    {
+      "level": 2,
+      "text": "Windows (alpha)"
+    },
+    {
+      "level": 3,
+      "text": "Setup"
+    },
+    {
+      "level": 3,
+      "text": "Security model"
+    },
+    {
+      "level": 3,
+      "text": "TLS termination on Windows"
+    }
+  ]
+}

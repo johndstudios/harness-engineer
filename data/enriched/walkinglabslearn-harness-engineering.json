@@ -1,0 +1,164 @@
+{
+  "slug": "walkinglabslearn-harness-engineering",
+  "url": "https://github.com/walkinglabs/learn-harness-engineering",
+  "crawled_at": "2026-08-03T04:35:37.897592+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://github.com/walkinglabs/learn-harness-engineering",
+  "content_type": "github",
+  "last_modified": "",
+  "github_stars": 10952,
+  "github_forks": 1187,
+  "github_open_issues": 14,
+  "github_topics": [
+    "agent",
+    "agentic",
+    "agentic-ai",
+    "ai",
+    "ai-agent",
+    "harness",
+    "harness-engineering",
+    "harness-framework",
+    "llm"
+  ],
+  "github_language": "TypeScript",
+  "github_description": "Harness engineering beginner tutorial, from 0 to 1",
+  "github_created": "2026-03-29",
+  "github_updated": "2026-08-03",
+  "github_pushed": "2026-07-31",
+  "github_license": "MIT",
+  "github_homepage": "https://walkinglabs.github.io/learn-harness-engineering/",
+  "fetched_title": "GitHub - walkinglabs/learn-harness-engineering: Harness engineering beginner tutorial, from 0 to 1 \u00b7 GitHub",
+  "meta_description": "Harness engineering beginner tutorial, from 0 to 1 - walkinglabs/learn-harness-engineering",
+  "og_title": "GitHub - walkinglabs/learn-harness-engineering: Harness engineering beginner tutorial, from 0 to 1",
+  "og_description": "Harness engineering beginner tutorial, from 0 to 1 - walkinglabs/learn-harness-engineering",
+  "og_image": "https://opengraph.githubassets.com/1b91478d5fe2b3ed5394a4f373da9a3ffbe963e71b3869cc87dfb07abd5e7330/walkinglabs/learn-harness-engineering",
+  "og_type": "object",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://opengraph.githubassets.com/1b91478d5fe2b3ed5394a4f373da9a3ffbe963e71b3869cc87dfb07abd5e7330/walkinglabs/learn-harness-engineering",
+  "language": "en",
+  "word_count": 3684,
+  "reading_time_min": 18,
+  "outline": [
+    {
+      "level": 3,
+      "text": "Uh oh!"
+    },
+    {
+      "level": 2,
+      "text": "Folders and files"
+    },
+    {
+      "level": 2,
+      "text": "Latest commit"
+    },
+    {
+      "level": 2,
+      "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Repository files navigation"
+    },
+    {
+      "level": 1,
+      "text": "Learn Harness Engineering"
+    },
+    {
+      "level": 2,
+      "text": "\ud83c\udd95 What's New \u2014 July 2026"
+    },
+    {
+      "level": 2,
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "text": "\u2728 Visual Preview"
+    },
+    {
+      "level": 3,
+      "text": "\ud83c\udfe0 Course Homepage"
+    },
+    {
+      "level": 3,
+      "text": "\ud83d\udcd6 Immersive Lectures"
+    },
+    {
+      "level": 3,
+      "text": "\ud83d\uddc2\ufe0f Ready-to-Use Resource Library"
+    },
+    {
+      "level": 2,
+      "text": "PDF Coursebooks"
+    },
+    {
+      "level": 2,
+      "text": "The Model Is Smart, The Harness Makes It Reliable"
+    },
+    {
+      "level": 2,
+      "text": "What Harness Engineering Actually Means"
+    },
+    {
+      "level": 2,
+      "text": "Why This Course Exists"
+    },
+    {
+      "level": 2,
+      "text": "Course Curriculum & Documentation"
+    },
+    {
+      "level": 2,
+      "text": "Quick Start: Improve Your Agent Today"
+    },
+    {
+      "level": 2,
+      "text": "Capstone Project: A Real App"
+    },
+    {
+      "level": 2,
+      "text": "Learning Path"
+    },
+    {
+      "level": 2,
+      "text": "Syllabus"
+    },
+    {
+      "level": 3,
+      "text": "Lectures \u2014 13 conceptual units, each answering one core question"
+    },
+    {
+      "level": 3,
+      "text": "Projects \u2014 7 hands-on projects applying lecture methods to the same Electron app"
+    },
+    {
+      "level": 3,
+      "text": "Resource Library"
+    },
+    {
+      "level": 2,
+      "text": "The Agent Session Lifecycle"
+    },
+    {
+      "level": 2,
+      "text": "Who This Is For"
+    },
+    {
+      "level": 2,
+      "text": "Requirements"
+    },
+    {
+      "level": 2,
+      "text": "Local Preview"
+    },
+    {
+      "level": 2,
+      "text": "Prerequisites"
+    },
+    {
+      "level": 2,
+      "text": "Core References"
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "slug": "agentops",
+  "url": "https://github.com/AgentOps-AI/agentops",
+  "crawled_at": "2026-08-03T04:32:26.751920+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://github.com/AgentOps-AI/agentops",
+  "content_type": "github",
+  "last_modified": "",
+  "github_stars": 5749,
+  "github_forks": 611,
+  "github_open_issues": 178,
+  "github_topics": [
+    "agent",
+    "agentops",
+    "agents-sdk",
+    "ai",
+    "anthropic",
+    "autogen",
+    "cost-estimation",
+    "crewai",
+    "evals",
+    "evaluation-metrics",
+    "groq",
+    "langchain",
+    "llm",
+    "mistral",
+    "ollama",
+    "openai",
+    "openai-agents"
+  ],
+  "github_language": "Python",
+  "github_description": "Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks including CrewAI, Agno, OpenAI Agents SDK, Langchain, Autogen, AG2, and CamelAI",
+  "github_created": "2023-08-15",
+  "github_updated": "2026-08-03",
+  "github_pushed": "2026-06-25",
+  "github_license": "MIT",
+  "github_homepage": "https://agentops.ai",
+  "fetched_title": "GitHub - AgentOps-AI/agentops: Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks including CrewAI, Agno, OpenAI Agents SDK, Langchain, Autogen, AG2, and CamelAI \u00b7 GitHub",
+  "meta_description": "Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks including CrewAI, Agno, OpenAI Agents SDK, Langchain, Autogen, AG2, and CamelAI - AgentOps-AI/agentops",
+  "og_title": "GitHub - AgentOps-AI/agentops: Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks including CrewAI, Agno, OpenAI Agents SDK, Langchain, Autogen, AG2, and CamelAI",
+  "og_description": "Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks including CrewAI, Agno, OpenAI Agents SDK, Langchain, Autogen, AG2, and...",
+  "og_image": "https://opengraph.githubassets.com/eab7791b321ce657c099215533dfc25fd99535eb1a00f37b92bffce6fad5a9e6/AgentOps-AI/agentops",
+  "og_type": "object",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://opengraph.githubassets.com/eab7791b321ce657c099215533dfc25fd99535eb1a00f37b92bffce6fad5a9e6/AgentOps-AI/agentops",
+  "language": "en",
+  "word_count": 2337,
+  "reading_time_min": 12,
+  "outline": [
+    {
+      "level": 3,
+      "text": "Uh oh!"
+    },
+    {
+      "level": 2,
+      "text": "Folders and files"
+    },
+    {
+      "level": 2,
+      "text": "Latest commit"
+    },
+    {
+      "level": 2,
+      "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Repository files navigation"
+    },
+    {
+      "level": 2,
+      "text": "Open Source"
+    },
+    {
+      "level": 2,
+      "text": "Key Integrations \ud83d\udd0c"
+    },
+    {
+      "level": 2,
+      "text": "Quick Start \u2328\ufe0f"
+    },
+    {
+      "level": 2,
+      "text": "Self-Hosting"
+    },
+    {
+      "level": 3,
+      "text": "First class Developer Experience"
+    },
+    {
+      "level": 2,
+      "text": "Integrations \ud83e\uddbe"
+    },
+    {
+      "level": 3,
+      "text": "OpenAI Agents SDK \ud83d\udd87\ufe0f"
+    },
+    {
+      "level": 3,
+      "text": "CrewAI \ud83d\udef6"
+    },
+    {
+      "level": 3,
+      "text": "AG2 \ud83e\udd16"
+    },
+    {
+      "level": 3,
+      "text": "Camel AI \ud83d\udc2a"
+    },
+    {
+      "level": 3,
+      "text": "Langchain \ud83e\udd9c\ud83d\udd17"
+    },
+    {
+      "level": 3,
+      "text": "Cohere \u2328\ufe0f"
+    },
+    {
+      "level": 3,
+      "text": "Anthropic \ufe68"
+    },
+    {
+      "level": 3,
+      "text": "Mistral \u303d\ufe0f"
+    },
+    {
+      "level": 3,
+      "text": "CamelAI \ufe68"
+    },
+    {
+      "level": 3,
+      "text": "LiteLLM \ud83d\ude85"
+    },
+    {
+      "level": 3,
+      "text": "LlamaIndex \ud83e\udd99"
+    },
+    {
+      "level": 3,
+      "text": "Llama Stack \ud83e\udd99\ud83e\udd5e"
+    }
+  ]
+}

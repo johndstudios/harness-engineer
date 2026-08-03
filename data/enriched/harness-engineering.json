@@ -1,0 +1,94 @@
+{
+  "slug": "harness-engineering",
+  "url": "https://martinfowler.com/articles/exploring-gen-ai/harness-engineering.html",
+  "crawled_at": "2026-08-03T04:34:17.585136+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://martinfowler.com/articles/harness-engineering.html",
+  "content_type": "article",
+  "last_modified": "Fri, 31 Jul 2026 19:04:22 GMT",
+  "fetched_title": "Harness engineering for coding agent users",
+  "meta_description": "",
+  "og_title": "Harness engineering for coding agent users",
+  "og_description": "A mental model for building trust in coding agents through feedforward guides, feedback sensors, and iterative harness engineering.",
+  "og_image": "https://martinfowler.com/articles/harness-engineering/card.png",
+  "og_type": "article",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "",
+  "word_count": 2613,
+  "reading_time_min": 13,
+  "outline": [
+    {
+      "level": 1,
+      "text": "Harness engineering for coding agent users"
+    },
+    {
+      "level": 2,
+      "text": "Contents"
+    },
+    {
+      "level": 3,
+      "text": "Sidebars"
+    },
+    {
+      "level": 2,
+      "text": "Feedforward and Feedback"
+    },
+    {
+      "level": 2,
+      "text": "Computational vs Inferential"
+    },
+    {
+      "level": 2,
+      "text": "The steering loop"
+    },
+    {
+      "level": 2,
+      "text": "Timing: Keep quality left"
+    },
+    {
+      "level": 2,
+      "text": "Regulation categories"
+    },
+    {
+      "level": 3,
+      "text": "Maintainability harness"
+    },
+    {
+      "level": 3,
+      "text": "Architecture fitness harness"
+    },
+    {
+      "level": 3,
+      "text": "Behaviour harness"
+    },
+    {
+      "level": 2,
+      "text": "Harnessability"
+    },
+    {
+      "level": 2,
+      "text": "Harness templates"
+    },
+    {
+      "level": 2,
+      "text": "The role of the human"
+    },
+    {
+      "level": 2,
+      "text": "A starting point - and open questions"
+    },
+    {
+      "level": 2,
+      "text": "Acknowledgements"
+    },
+    {
+      "level": 2,
+      "text": "More on sensors"
+    },
+    {
+      "level": 2,
+      "text": "Earlier Memo"
+    }
+  ]
+}

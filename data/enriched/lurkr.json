@@ -1,0 +1,165 @@
+{
+  "slug": "lurkr",
+  "url": "https://github.com/agentveil-protocol/lurkr",
+  "crawled_at": "2026-08-03T04:34:39.339099+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://github.com/agentveil-protocol/lurkr",
+  "content_type": "github",
+  "last_modified": "",
+  "github_stars": 6,
+  "github_forks": 1,
+  "github_open_issues": 0,
+  "github_topics": [
+    "agent",
+    "ai-agents",
+    "cli",
+    "crewai",
+    "github-actions",
+    "langchain",
+    "mcp",
+    "pre-deployment",
+    "security",
+    "static-analysis"
+  ],
+  "github_language": "Python",
+  "github_description": "Pre-deploy static scanner for risky AI agent capabilities. Local-only. No telemetry. No network calls during scan. Redacted output. MIT.",
+  "github_created": "2026-05-06",
+  "github_updated": "2026-07-13",
+  "github_pushed": "2026-06-01",
+  "github_license": "MIT",
+  "github_homepage": "https://agentveil.dev",
+  "fetched_title": "GitHub - agentveil-protocol/lurkr: Pre-deploy static scanner for risky AI agent capabilities. Local-only. No telemetry. No network calls during scan. Redacted output. MIT. \u00b7 GitHub",
+  "meta_description": "Pre-deploy static scanner for risky AI agent capabilities. Local-only. No telemetry. No network calls during scan. Redacted output. MIT. - agentveil-protocol/lurkr",
+  "og_title": "GitHub - agentveil-protocol/lurkr: Pre-deploy static scanner for risky AI agent capabilities. Local-only. No telemetry. No network calls during scan. Redacted output. MIT.",
+  "og_description": "Pre-deploy static scanner for risky AI agent capabilities. Local-only. No telemetry. No network calls during scan. Redacted output. MIT. - agentveil-protocol/lurkr",
+  "og_image": "https://opengraph.githubassets.com/a6c13e2fcc4de5602eb0e1e0d3f695c56db063789506aba75fd9b0bd74b97394/agentveil-protocol/lurkr",
+  "og_type": "object",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://opengraph.githubassets.com/a6c13e2fcc4de5602eb0e1e0d3f695c56db063789506aba75fd9b0bd74b97394/agentveil-protocol/lurkr",
+  "language": "en",
+  "word_count": 2660,
+  "reading_time_min": 13,
+  "outline": [
+    {
+      "level": 3,
+      "text": "Uh oh!"
+    },
+    {
+      "level": 2,
+      "text": "Folders and files"
+    },
+    {
+      "level": 2,
+      "text": "Latest commit"
+    },
+    {
+      "level": 2,
+      "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Repository files navigation"
+    },
+    {
+      "level": 1,
+      "text": "Lurkr"
+    },
+    {
+      "level": 2,
+      "text": "New in v0.4.0"
+    },
+    {
+      "level": 2,
+      "text": "GitHub Actions"
+    },
+    {
+      "level": 2,
+      "text": "Local CLI"
+    },
+    {
+      "level": 2,
+      "text": "Privacy & Data Handling"
+    },
+    {
+      "level": 2,
+      "text": "What a Finding Looks Like"
+    },
+    {
+      "level": 2,
+      "text": "Detection Scope"
+    },
+    {
+      "level": 2,
+      "text": "How Lurkr is different"
+    },
+    {
+      "level": 2,
+      "text": "Roadmap"
+    },
+    {
+      "level": 3,
+      "text": "Available now"
+    },
+    {
+      "level": 3,
+      "text": "v0.5.0 \u2014 broader framework coverage"
+    },
+    {
+      "level": 3,
+      "text": "v0.6.0+ \u2014 quality and ergonomics"
+    },
+    {
+      "level": 3,
+      "text": "Community input welcome"
+    },
+    {
+      "level": 2,
+      "text": "Install"
+    },
+    {
+      "level": 2,
+      "text": "Use as a GitHub Action"
+    },
+    {
+      "level": 2,
+      "text": "Pre-commit Hook"
+    },
+    {
+      "level": 2,
+      "text": "Triaging Findings"
+    },
+    {
+      "level": 2,
+      "text": "Why This Exists"
+    },
+    {
+      "level": 2,
+      "text": "Hard Constraints"
+    },
+    {
+      "level": 2,
+      "text": "Dependency Policy"
+    },
+    {
+      "level": 2,
+      "text": "Known Limitations"
+    },
+    {
+      "level": 2,
+      "text": "Community"
+    },
+    {
+      "level": 2,
+      "text": "Further reading"
+    },
+    {
+      "level": 2,
+      "text": "License"
+    },
+    {
+      "level": 2,
+      "text": "About"
+    }
+  ]
+}

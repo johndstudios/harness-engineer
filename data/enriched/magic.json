@@ -1,0 +1,62 @@
+{
+  "slug": "magic",
+  "url": "https://zhiyuanhubj.github.io/MAgIC/",
+  "crawled_at": "2026-08-03T04:34:41.127779+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://zhiyuanhubj.github.io/MAgIC/",
+  "content_type": "article",
+  "last_modified": "Wed, 13 Nov 2024 13:05:35 GMT",
+  "fetched_title": "MAgIC",
+  "meta_description": "DESCRIPTION META TAG",
+  "og_title": "MAgIC: Benchmarking Large Language Model Powered Multi-Agent in Cognition, Adaptability, Rationality and Collaboration",
+  "og_description": "MAgIC: A novel benchmarking framework specifically tailored to assess LLMs within multi-agent settings, providing quantitative metrics to evaluate their judgment, reasoning, deception, self-awareness, cooperation, coordination, and rationality.",
+  "og_image": "static/images/banner.png",
+  "og_type": "",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "static/images/banner.png",
+  "word_count": 649,
+  "reading_time_min": 3,
+  "outline": [
+    {
+      "level": 1,
+      "text": "MAgIC: Investigation of Large Language Model PoweredMulti-Agent in Cognition, Adaptability, Rationality andCollaboration"
+    },
+    {
+      "level": 2,
+      "text": "Abstract"
+    },
+    {
+      "level": 2,
+      "text": "How about current LLMs-powered Multi-agent's capabilities"
+    },
+    {
+      "level": 2,
+      "text": "Benchmarking Environment"
+    },
+    {
+      "level": 3,
+      "text": "We assess Multi-agent's abilities in Chameleon, Undercover, and Game Theory Scenarios (Cost Sharing, Prisoner\u2019s Dilemma and Public Good)"
+    },
+    {
+      "level": 2,
+      "text": "PGM-Aware Agent"
+    },
+    {
+      "level": 3,
+      "text": "PGM enhancement boosts the inherent abilities of all selected models by 50% on average!"
+    },
+    {
+      "level": 2,
+      "text": "Results"
+    },
+    {
+      "level": 3,
+      "text": "Ability Measurement of LLMs"
+    },
+    {
+      "level": 2,
+      "text": "BibTeX"
+    }
+  ]
+}

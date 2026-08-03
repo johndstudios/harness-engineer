@@ -1,0 +1,65 @@
+{
+  "slug": "writing-a-good-claudemd",
+  "url": "https://www.humanlayer.dev/blog/writing-a-good-claude-md",
+  "crawled_at": "2026-08-03T04:35:47.938493+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://www.humanlayer.dev/blog/writing-a-good-claude-md",
+  "content_type": "article",
+  "last_modified": "",
+  "fetched_title": "Writing a good CLAUDE.md | HumanLayer Blog",
+  "meta_description": "`CLAUDE.md` is a high-leverage configuration point for Claude Code. Learning how to write a good `CLAUDE.md` (or `AGENTS.md`) is a key skill for agent-enabled software engineering.",
+  "og_title": "Writing a good CLAUDE.md",
+  "og_description": "`CLAUDE.md` is a high-leverage configuration point for Claude Code. Learning how to write a good `CLAUDE.md` (or `AGENTS.md`) is a key skill for agent-enabled software engineering.",
+  "og_image": "https://humanlayer.dev/api/writing-a-good-claude-md/og",
+  "og_type": "article",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://humanlayer.dev/api/writing-a-good-claude-md/og",
+  "author": "Kyle",
+  "publish_date": "11/25/2025",
+  "language": "en",
+  "word_count": 1896,
+  "reading_time_min": 9,
+  "outline": [
+    {
+      "level": 2,
+      "text": "##Principle: LLMs are (mostly) stateless"
+    },
+    {
+      "level": 2,
+      "text": "##CLAUDE.mdonboards Claude to your codebase"
+    },
+    {
+      "level": 2,
+      "text": "##Claude often ignoresCLAUDE.md"
+    },
+    {
+      "level": 2,
+      "text": "##Creating a goodCLAUDE.mdfile"
+    },
+    {
+      "level": 3,
+      "text": "###Less (instructions) is more"
+    },
+    {
+      "level": 3,
+      "text": "###CLAUDE.mdfile length & applicability"
+    },
+    {
+      "level": 3,
+      "text": "###Progressive Disclosure"
+    },
+    {
+      "level": 3,
+      "text": "###Claude is (not) an expensive linter"
+    },
+    {
+      "level": 3,
+      "text": "###Don't use/initor auto-generate yourCLAUDE.md"
+    },
+    {
+      "level": 2,
+      "text": "##In Conclusion"
+    }
+  ]
+}

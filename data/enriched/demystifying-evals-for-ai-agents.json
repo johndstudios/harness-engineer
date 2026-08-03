@@ -1,0 +1,108 @@
+{
+  "slug": "demystifying-evals-for-ai-agents",
+  "url": "https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents",
+  "crawled_at": "2026-08-03T04:33:48.124052+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents",
+  "content_type": "article",
+  "last_modified": "",
+  "fetched_title": "Demystifying evals for AI agents \\ Anthropic",
+  "meta_description": "Demystifying evals for AI agents",
+  "og_title": "Demystifying evals for AI agents",
+  "og_description": "Demystifying evals for AI agents",
+  "og_image": "https://cdn.sanity.io/images/4zrzovbb/website/412be842c5c6bae6b4bcd515c191b0aa5015e05f-2400x1260.png",
+  "og_type": "website",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://cdn.sanity.io/images/4zrzovbb/website/412be842c5c6bae6b4bcd515c191b0aa5015e05f-2400x1260.png",
+  "language": "en",
+  "canonical_url": "https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents",
+  "word_count": 6052,
+  "reading_time_min": 30,
+  "outline": [
+    {
+      "level": 1,
+      "text": "Demystifying evals for AI agents"
+    },
+    {
+      "level": 2,
+      "text": "Introduction"
+    },
+    {
+      "level": 2,
+      "text": "The structure of an evaluation"
+    },
+    {
+      "level": 2,
+      "text": "Why build evaluations?"
+    },
+    {
+      "level": 2,
+      "text": "How to evaluate AI agents"
+    },
+    {
+      "level": 3,
+      "text": "Types of graders for agents"
+    },
+    {
+      "level": 3,
+      "text": "Capability vs. regression evals"
+    },
+    {
+      "level": 3,
+      "text": "Evaluating coding agents"
+    },
+    {
+      "level": 3,
+      "text": "Evaluating conversational agents"
+    },
+    {
+      "level": 3,
+      "text": "Evaluating research agents"
+    },
+    {
+      "level": 3,
+      "text": "Computer use agents"
+    },
+    {
+      "level": 3,
+      "text": "How to think about non-determinism in evaluations for agents"
+    },
+    {
+      "level": 2,
+      "text": "Going from zero to one: a roadmap to great evals for agents"
+    },
+    {
+      "level": 3,
+      "text": "Collect tasks for the initial eval dataset"
+    },
+    {
+      "level": 3,
+      "text": "Design the eval harness and graders"
+    },
+    {
+      "level": 3,
+      "text": "Maintain and use the eval long-term"
+    },
+    {
+      "level": 2,
+      "text": "How evals fit with other methods for a holistic understanding of agents"
+    },
+    {
+      "level": 2,
+      "text": "Conclusion"
+    },
+    {
+      "level": 3,
+      "text": "Acknowledgements"
+    },
+    {
+      "level": 2,
+      "text": "Appendix: Eval frameworks"
+    },
+    {
+      "level": 2,
+      "text": "Get the developer newsletter"
+    }
+  ]
+}

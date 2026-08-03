@@ -1,0 +1,154 @@
+{
+  "slug": "workarena",
+  "url": "https://github.com/ServiceNow/WorkArena",
+  "crawled_at": "2026-08-03T04:35:46.063642+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://github.com/ServiceNow/WorkArena",
+  "content_type": "github",
+  "last_modified": "",
+  "github_stars": 264,
+  "github_forks": 39,
+  "github_open_issues": 25,
+  "github_topics": [],
+  "github_language": "Python",
+  "github_description": "WorkArena: How Capable are Web Agents at Solving Common Knowledge Work Tasks?",
+  "github_created": "2024-02-28",
+  "github_updated": "2026-07-31",
+  "github_pushed": "2026-04-25",
+  "github_license": "NOASSERTION",
+  "github_homepage": "https://servicenow.github.io/WorkArena/",
+  "fetched_title": "GitHub - ServiceNow/WorkArena: WorkArena: How Capable are Web Agents at Solving Common Knowledge Work Tasks? \u00b7 GitHub",
+  "meta_description": "WorkArena: How Capable are Web Agents at Solving Common Knowledge Work Tasks? - ServiceNow/WorkArena",
+  "og_title": "GitHub - ServiceNow/WorkArena: WorkArena: How Capable are Web Agents at Solving Common Knowledge Work Tasks?",
+  "og_description": "WorkArena: How Capable are Web Agents at Solving Common Knowledge Work Tasks? - ServiceNow/WorkArena",
+  "og_image": "https://opengraph.githubassets.com/5d62fdb224876ce696f5d3e2ff6b900ba4a8c99f770bb7747c58503077ae0ae1/ServiceNow/WorkArena",
+  "og_type": "object",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://opengraph.githubassets.com/5d62fdb224876ce696f5d3e2ff6b900ba4a8c99f770bb7747c58503077ae0ae1/ServiceNow/WorkArena",
+  "language": "en",
+  "word_count": 1437,
+  "reading_time_min": 7,
+  "outline": [
+    {
+      "level": 3,
+      "text": "Uh oh!"
+    },
+    {
+      "level": 2,
+      "text": "Folders and files"
+    },
+    {
+      "level": 2,
+      "text": "Latest commit"
+    },
+    {
+      "level": 2,
+      "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Repository files navigation"
+    },
+    {
+      "level": 1,
+      "text": "WorkArena: A Benchmark for Evaluating Agents on Knowledge Work Tasks"
+    },
+    {
+      "level": 3,
+      "text": "Explore the BrowserGym Ecosystem"
+    },
+    {
+      "level": 3,
+      "text": "Papers"
+    },
+    {
+      "level": 2,
+      "text": "Getting Started"
+    },
+    {
+      "level": 3,
+      "text": "a) Gain Access to ServiceNow Instances"
+    },
+    {
+      "level": 3,
+      "text": "b) Install WorkArena"
+    },
+    {
+      "level": 2,
+      "text": "Benchmark Contents"
+    },
+    {
+      "level": 3,
+      "text": "Knowledge Bases"
+    },
+    {
+      "level": 3,
+      "text": "Forms"
+    },
+    {
+      "level": 3,
+      "text": "Service Catalogs"
+    },
+    {
+      "level": 3,
+      "text": "Lists"
+    },
+    {
+      "level": 3,
+      "text": "Menus"
+    },
+    {
+      "level": 3,
+      "text": "Dashboards"
+    },
+    {
+      "level": 2,
+      "text": "Live Demo"
+    },
+    {
+      "level": 2,
+      "text": "Citing This Work"
+    },
+    {
+      "level": 3,
+      "text": "WorkArena"
+    },
+    {
+      "level": 3,
+      "text": "WorkArena++"
+    },
+    {
+      "level": 2,
+      "text": "About"
+    },
+    {
+      "level": 3,
+      "text": "Resources"
+    },
+    {
+      "level": 3,
+      "text": "Code of conduct"
+    },
+    {
+      "level": 3,
+      "text": "Security policy"
+    },
+    {
+      "level": 3,
+      "text": "Stars"
+    },
+    {
+      "level": 3,
+      "text": "Watchers"
+    },
+    {
+      "level": 3,
+      "text": "Forks"
+    },
+    {
+      "level": 2,
+      "text": "Releases"
+    }
+  ]
+}

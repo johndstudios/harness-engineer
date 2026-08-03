@@ -1,0 +1,88 @@
+{
+  "slug": "your-agent-needs-a-harness-not-a-framework",
+  "url": "https://www.inngest.com/blog/your-agent-needs-a-harness-not-a-framework",
+  "crawled_at": "2026-08-03T04:35:49.375314+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://www.inngest.com/blog/your-agent-needs-a-harness-not-a-framework",
+  "content_type": "article",
+  "last_modified": "",
+  "fetched_title": "Your Agent Needs a Harness, Not a Framework - Inngest Blog",
+  "meta_description": "Agent runtimes don't need yet another framework \u2014 they need a durable, event-driven harness that connects tools, memory, and models on production-grade infrastructure.",
+  "og_title": "Your Agent Needs a Harness, Not a Framework - Inngest Blog",
+  "og_description": "Agent runtimes don't need yet another framework \u2014 they need a durable, event-driven harness that connects tools, memory, and models on production-grade infrastructure.",
+  "og_image": "https://www.inngest.com/assets/blog/your-agent-needs-a-harness-not-a-framework/featured-image.png",
+  "og_type": "article",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://www.inngest.com/assets/blog/your-agent-needs-a-harness-not-a-framework/featured-image.png",
+  "publish_date": "2026-03-03",
+  "canonical_url": "https://www.inngest.com/blog/your-agent-needs-a-harness-not-a-framework",
+  "word_count": 2846,
+  "reading_time_min": 14,
+  "outline": [
+    {
+      "level": 1,
+      "text": "Your Agent Needs a Harness, Not a Framework"
+    },
+    {
+      "level": 2,
+      "text": "The architecture"
+    },
+    {
+      "level": 2,
+      "text": "If it's local, why use Inngest? Why not just use OpenClaw?"
+    },
+    {
+      "level": 2,
+      "text": "The agent loop as steps"
+    },
+    {
+      "level": 2,
+      "text": "You don't need to build your own tools"
+    },
+    {
+      "level": 2,
+      "text": "Six functions, not one monolith"
+    },
+    {
+      "level": 2,
+      "text": "Sub-agents viastep.invoke()"
+    },
+    {
+      "level": 2,
+      "text": "Singleton concurrency: one conversation at a time"
+    },
+    {
+      "level": 2,
+      "text": "What we learned the hard way"
+    },
+    {
+      "level": 2,
+      "text": "What we're exploring next"
+    },
+    {
+      "level": 2,
+      "text": "Try it yourself"
+    },
+    {
+      "level": 2,
+      "text": "Related content"
+    },
+    {
+      "level": 3,
+      "text": "Root Cause Analysis: July 2026 Service Incidents"
+    },
+    {
+      "level": 3,
+      "text": "Your Agent Architecture Has a Half-Life. Your Execution Layer Shouldn't."
+    },
+    {
+      "level": 3,
+      "text": "Your agent just learned to spend money. Now make sure it only spends it once."
+    },
+    {
+      "level": 2,
+      "text": "Build betteragents today"
+    }
+  ]
+}

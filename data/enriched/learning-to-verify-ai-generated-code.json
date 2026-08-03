@@ -1,0 +1,78 @@
+{
+  "slug": "learning-to-verify-ai-generated-code",
+  "url": "https://openhands.dev/blog/20260305-learning-to-verify-ai-generated-code",
+  "crawled_at": "2026-08-03T04:34:32.432808+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://www.openhands.dev/blog/20260305-learning-to-verify-ai-generated-code",
+  "content_type": "article",
+  "last_modified": "",
+  "fetched_title": "Learning to Verify AI-Generated Code | Mar 05, 2026",
+  "meta_description": "LLMs made generating code cheap. The real bottleneck is verification: checking that a change is correct, follows repo conventions, and is something your team can trust, review, and merge. This post introduces the first layer of our verification stack.",
+  "og_title": "Learning to Verify AI-Generated Code",
+  "og_description": "LLMs made generating code cheap. The real bottleneck is verification: checking that a change is correct, follows repo conventions, and is something your team can trust, review, and merge. This post introduces the first layer of our verification stack.",
+  "og_image": "https://www.openhands.dev/assets/notion-blog/20260305-learning-to-verify-ai-generated-code/og.png",
+  "og_type": "article",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://www.openhands.dev/assets/notion-blog/20260305-learning-to-verify-ai-generated-code/og.png",
+  "author": "Xingyao Wang",
+  "publish_date": "2026-03-05",
+  "language": "en",
+  "canonical_url": "https://www.openhands.dev/blog/20260305-learning-to-verify-ai-generated-code",
+  "word_count": 1101,
+  "reading_time_min": 6,
+  "outline": [
+    {
+      "level": 2,
+      "text": "What this critic does"
+    },
+    {
+      "level": 2,
+      "text": "Why production use is different from benchmarks"
+    },
+    {
+      "level": 2,
+      "text": "How we train it (from production traces)"
+    },
+    {
+      "level": 3,
+      "text": "Step 1: Assign credit to agent segments"
+    },
+    {
+      "level": 3,
+      "text": "Step 2: Turn traces into dense supervision"
+    },
+    {
+      "level": 3,
+      "text": "Step 3: Ground with sparse outcomes, then train the critic"
+    },
+    {
+      "level": 2,
+      "text": "Does it work? Key evaluation takeaways"
+    },
+    {
+      "level": 2,
+      "text": "Try it today"
+    },
+    {
+      "level": 3,
+      "text": "OpenHands SDK"
+    },
+    {
+      "level": 3,
+      "text": "OpenHands CLI"
+    },
+    {
+      "level": 2,
+      "text": "What's next"
+    },
+    {
+      "level": 1,
+      "text": "Get useful insights in our blog"
+    },
+    {
+      "level": 3,
+      "text": "Thank you for your submission!"
+    }
+  ]
+}

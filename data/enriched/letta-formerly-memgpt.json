@@ -1,0 +1,135 @@
+{
+  "slug": "letta-formerly-memgpt",
+  "url": "https://github.com/letta-ai/letta",
+  "crawled_at": "2026-08-03T04:34:35.044548+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://github.com/letta-ai/letta",
+  "content_type": "github",
+  "last_modified": "",
+  "github_stars": 24062,
+  "github_forks": 2567,
+  "github_open_issues": 48,
+  "github_topics": [
+    "ai",
+    "ai-agents",
+    "llm",
+    "llm-agent"
+  ],
+  "github_language": "Python",
+  "github_description": "Platform for stateful agents: AI with advanced memory that can learn and self-improve over time.",
+  "github_created": "2023-10-11",
+  "github_updated": "2026-08-02",
+  "github_pushed": "2026-08-01",
+  "github_license": "Apache-2.0",
+  "github_homepage": "https://docs.letta.com/",
+  "fetched_title": "GitHub - letta-ai/letta: Platform for stateful agents: AI with advanced memory that can learn and self-improve over time. \u00b7 GitHub",
+  "meta_description": "Platform for stateful agents: AI with advanced memory that can learn and self-improve over time. - letta-ai/letta",
+  "og_title": "GitHub - letta-ai/letta: Platform for stateful agents: AI with advanced memory that can learn and self-improve over time.",
+  "og_description": "Platform for stateful agents: AI with advanced memory that can learn and self-improve over time. - letta-ai/letta",
+  "og_image": "https://opengraph.githubassets.com/d618560fa2337b0c242c5c1e7bd9c6c495a7ba1ffff83f9843fe16d6aae4d275/letta-ai/letta",
+  "og_type": "object",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://opengraph.githubassets.com/d618560fa2337b0c242c5c1e7bd9c6c495a7ba1ffff83f9843fe16d6aae4d275/letta-ai/letta",
+  "language": "en",
+  "word_count": 866,
+  "reading_time_min": 4,
+  "outline": [
+    {
+      "level": 3,
+      "text": "Uh oh!"
+    },
+    {
+      "level": 2,
+      "text": "Folders and files"
+    },
+    {
+      "level": 2,
+      "text": "Latest commit"
+    },
+    {
+      "level": 2,
+      "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Repository files navigation"
+    },
+    {
+      "level": 1,
+      "text": "Letta (formerly MemGPT)"
+    },
+    {
+      "level": 2,
+      "text": "Get started in the CLI"
+    },
+    {
+      "level": 2,
+      "text": "Get started with the Letta Agent SDK"
+    },
+    {
+      "level": 3,
+      "text": "Installation"
+    },
+    {
+      "level": 3,
+      "text": "Hello World example"
+    },
+    {
+      "level": 3,
+      "text": "Letta V1 SDK"
+    },
+    {
+      "level": 2,
+      "text": "Contributing"
+    },
+    {
+      "level": 2,
+      "text": "About"
+    },
+    {
+      "level": 3,
+      "text": "Topics"
+    },
+    {
+      "level": 3,
+      "text": "Resources"
+    },
+    {
+      "level": 3,
+      "text": "Contributing"
+    },
+    {
+      "level": 3,
+      "text": "Security policy"
+    },
+    {
+      "level": 3,
+      "text": "Stars"
+    },
+    {
+      "level": 3,
+      "text": "Watchers"
+    },
+    {
+      "level": 3,
+      "text": "Forks"
+    },
+    {
+      "level": 2,
+      "text": "Releases"
+    },
+    {
+      "level": 2,
+      "text": "Used by"
+    },
+    {
+      "level": 2,
+      "text": "Contributors"
+    },
+    {
+      "level": 2,
+      "text": "Languages"
+    }
+  ]
+}

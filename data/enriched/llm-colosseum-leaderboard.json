@@ -1,0 +1,159 @@
+{
+  "slug": "llm-colosseum-leaderboard",
+  "url": "https://github.com/OpenGenerativeAI/llm-colosseum",
+  "crawled_at": "2026-08-03T04:34:36.788257+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://github.com/OpenGenerativeAI/llm-colosseum",
+  "content_type": "github",
+  "last_modified": "",
+  "github_stars": 1484,
+  "github_forks": 181,
+  "github_open_issues": 16,
+  "github_topics": [
+    "benchmark",
+    "genai",
+    "llm",
+    "streetfighterai"
+  ],
+  "github_language": "Jupyter Notebook",
+  "github_description": "Benchmark LLMs by fighting in Street Fighter 3! The new way to evaluate the quality of an LLM",
+  "github_created": "2024-03-23",
+  "github_updated": "2026-07-30",
+  "github_pushed": "2025-03-21",
+  "github_license": "MIT",
+  "github_homepage": "https://llm-colosseum.phospho.ai",
+  "fetched_title": "GitHub - OpenGenerativeAI/llm-colosseum: Benchmark LLMs by fighting in Street Fighter 3! The new way to evaluate the quality of an LLM \u00b7 GitHub",
+  "meta_description": "Benchmark LLMs by fighting in Street Fighter 3! The new way to evaluate the quality of an LLM - OpenGenerativeAI/llm-colosseum",
+  "og_title": "GitHub - OpenGenerativeAI/llm-colosseum: Benchmark LLMs by fighting in Street Fighter 3! The new way to evaluate the quality of an LLM",
+  "og_description": "Benchmark LLMs by fighting in Street Fighter 3! The new way to evaluate the quality of an LLM - OpenGenerativeAI/llm-colosseum",
+  "og_image": "https://opengraph.githubassets.com/083dacccaed9033f530ba25224fa3f16a22b133cfbe907807b1f541f25374593/OpenGenerativeAI/llm-colosseum",
+  "og_type": "object",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://opengraph.githubassets.com/083dacccaed9033f530ba25224fa3f16a22b133cfbe907807b1f541f25374593/OpenGenerativeAI/llm-colosseum",
+  "language": "en",
+  "word_count": 1588,
+  "reading_time_min": 8,
+  "outline": [
+    {
+      "level": 3,
+      "text": "Uh oh!"
+    },
+    {
+      "level": 2,
+      "text": "Folders and files"
+    },
+    {
+      "level": 2,
+      "text": "Latest commit"
+    },
+    {
+      "level": 2,
+      "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Repository files navigation"
+    },
+    {
+      "level": 1,
+      "text": "Evaluate LLMs in real time with Street Fighter III"
+    },
+    {
+      "level": 2,
+      "text": "Our criterias \ud83d\udd25"
+    },
+    {
+      "level": 2,
+      "text": "Let the fight begin \ud83e\udd77"
+    },
+    {
+      "level": 3,
+      "text": "1 VS 1: Mistral 7B vs Mistral 7B"
+    },
+    {
+      "level": 3,
+      "text": "1 VS 1 X 6 : Mistral 7B vs Mistral 7B"
+    },
+    {
+      "level": 2,
+      "text": "A new kind of benchmark ?"
+    },
+    {
+      "level": 1,
+      "text": "Results"
+    },
+    {
+      "level": 2,
+      "text": "Ranking"
+    },
+    {
+      "level": 3,
+      "text": "ELO ranking"
+    },
+    {
+      "level": 3,
+      "text": "Win rate matrix"
+    },
+    {
+      "level": 1,
+      "text": "Explanation"
+    },
+    {
+      "level": 3,
+      "text": "TextRobot"
+    },
+    {
+      "level": 3,
+      "text": "VisionRobot"
+    },
+    {
+      "level": 1,
+      "text": "Installation"
+    },
+    {
+      "level": 2,
+      "text": "Running with Docker"
+    },
+    {
+      "level": 3,
+      "text": "Building the Docker Image"
+    },
+    {
+      "level": 3,
+      "text": "Running the Docker Container"
+    },
+    {
+      "level": 3,
+      "text": "Running with Docker Compose on Ollama locally"
+    },
+    {
+      "level": 3,
+      "text": "Stopping the Services"
+    },
+    {
+      "level": 2,
+      "text": "Test mode"
+    },
+    {
+      "level": 2,
+      "text": "Logging"
+    },
+    {
+      "level": 2,
+      "text": "Local model"
+    },
+    {
+      "level": 2,
+      "text": "How to make my own LLM model play? Can I improve the prompts?"
+    },
+    {
+      "level": 3,
+      "text": "Submit your model"
+    },
+    {
+      "level": 1,
+      "text": "Credits"
+    }
+  ]
+}

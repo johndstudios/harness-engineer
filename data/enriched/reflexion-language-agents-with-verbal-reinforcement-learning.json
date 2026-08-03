@@ -1,0 +1,80 @@
+{
+  "slug": "reflexion-language-agents-with-verbal-reinforcement-learning",
+  "url": "https://arxiv.org/abs/2303.11366",
+  "crawled_at": "2026-08-03T04:35:04.632619+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://arxiv.org/abs/2303.11366",
+  "content_type": "paper",
+  "last_modified": "",
+  "fetched_title": "[2303.11366] Reflexion: Language Agents with Verbal Reinforcement Learning",
+  "meta_description": "Abstract page for arXiv paper 2303.11366: Reflexion: Language Agents with Verbal Reinforcement Learning",
+  "og_title": "Reflexion: Language Agents with Verbal Reinforcement Learning",
+  "og_description": "Large language models (LLMs) have been increasingly used to interact with external environments (e.g., games, compilers, APIs) as goal-driven agents. However, it remains challenging for these language agents to quickly and efficiently learn from trial-and-error as traditional reinforcement learning methods require extensive training samples and expensive model fine-tuning. We propose Reflexion, a novel framework to reinforce language agents not by updating weights, but instead through linguistic feedback. Concretely, Reflexion agents verbally reflect on task feedback signals, then maintain their own reflective text in an episodic memory buffer to induce better decision-making in subsequent trials. Reflexion is flexible enough to incorporate various types (scalar values or free-form language) and sources (external or internally simulated) of feedback signals, and obtains significant improvements over a baseline agent across diverse tasks (sequential decision-making, coding, language reasoning). For example, Reflexion achieves a 91% pass@1 accuracy on the HumanEval coding benchmark, surpassing the previous state-of-the-art GPT-4 that achieves 80%. We also conduct ablation and analysis studies using different feedback signals, feedback incorporation methods, and agent types, and provide insights into how they affect performance.",
+  "og_image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+  "og_type": "website",
+  "twitter_card": "summary",
+  "twitter_image": "https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png",
+  "language": "en",
+  "canonical_url": "https://arxiv.org/abs/2303.11366",
+  "word_count": 715,
+  "reading_time_min": 4,
+  "outline": [
+    {
+      "level": 1,
+      "text": "Computer Science > Artificial Intelligence"
+    },
+    {
+      "level": 1,
+      "text": "Title:Reflexion: Language Agents with Verbal Reinforcement Learning"
+    },
+    {
+      "level": 2,
+      "text": "Submission history"
+    },
+    {
+      "level": 2,
+      "text": "Access Paper:"
+    },
+    {
+      "level": 3,
+      "text": "Current browse context:"
+    },
+    {
+      "level": 3,
+      "text": "References & Citations"
+    },
+    {
+      "level": 3,
+      "text": "3 blog links"
+    },
+    {
+      "level": 2,
+      "text": "BibTeX formatted citation"
+    },
+    {
+      "level": 3,
+      "text": "Bookmark"
+    },
+    {
+      "level": 1,
+      "text": "Bibliographic and Citation Tools"
+    },
+    {
+      "level": 1,
+      "text": "Code, Data and Media Associated with this Article"
+    },
+    {
+      "level": 1,
+      "text": "Demos"
+    },
+    {
+      "level": 1,
+      "text": "Recommenders and Search Tools"
+    },
+    {
+      "level": 1,
+      "text": "arXivLabs: experimental projects with community collaborators"
+    }
+  ]
+}

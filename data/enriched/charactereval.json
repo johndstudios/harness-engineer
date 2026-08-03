@@ -1,0 +1,126 @@
+{
+  "slug": "charactereval",
+  "url": "https://github.com/morecry/CharacterEval",
+  "crawled_at": "2026-08-03T04:32:56.673287+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://github.com/morecry/CharacterEval",
+  "content_type": "github",
+  "last_modified": "",
+  "github_stars": 301,
+  "github_forks": 18,
+  "github_open_issues": 27,
+  "github_topics": [],
+  "github_language": "Python",
+  "github_description": null,
+  "github_created": "2024-01-09",
+  "github_updated": "2026-07-16",
+  "github_pushed": "2025-05-27",
+  "github_license": "MIT",
+  "github_homepage": null,
+  "fetched_title": "GitHub - morecry/CharacterEval \u00b7 GitHub",
+  "meta_description": "Contribute to morecry/CharacterEval development by creating an account on GitHub.",
+  "og_title": "GitHub - morecry/CharacterEval",
+  "og_description": "Contribute to morecry/CharacterEval development by creating an account on GitHub.",
+  "og_image": "https://opengraph.githubassets.com/f1a4ed9a02cb221e677e5a8910ae5ffd3a97eee0f48eb2a5ff0b2b17b48be6b9/morecry/CharacterEval",
+  "og_type": "object",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://opengraph.githubassets.com/f1a4ed9a02cb221e677e5a8910ae5ffd3a97eee0f48eb2a5ff0b2b17b48be6b9/morecry/CharacterEval",
+  "language": "en",
+  "word_count": 556,
+  "reading_time_min": 3,
+  "outline": [
+    {
+      "level": 2,
+      "text": "Folders and files"
+    },
+    {
+      "level": 2,
+      "text": "Latest commit"
+    },
+    {
+      "level": 2,
+      "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Repository files navigation"
+    },
+    {
+      "level": 1,
+      "text": "CharacterEval: A Chinese Benchmark for Role-Playing Conversational Agent Evaluation"
+    },
+    {
+      "level": 2,
+      "text": "News"
+    },
+    {
+      "level": 2,
+      "text": "Evaluation Dimensions"
+    },
+    {
+      "level": 2,
+      "text": "Leaderboard"
+    },
+    {
+      "level": 2,
+      "text": "Installation"
+    },
+    {
+      "level": 2,
+      "text": "Generate response"
+    },
+    {
+      "level": 2,
+      "text": "Transform format"
+    },
+    {
+      "level": 2,
+      "text": "Run CharacterRM"
+    },
+    {
+      "level": 2,
+      "text": "Compute evaluation scores"
+    },
+    {
+      "level": 2,
+      "text": "About"
+    },
+    {
+      "level": 3,
+      "text": "Resources"
+    },
+    {
+      "level": 3,
+      "text": "Stars"
+    },
+    {
+      "level": 3,
+      "text": "Watchers"
+    },
+    {
+      "level": 3,
+      "text": "Forks"
+    },
+    {
+      "level": 2,
+      "text": "Releases"
+    },
+    {
+      "level": 2,
+      "text": "Packages"
+    },
+    {
+      "level": 2,
+      "text": "Used by"
+    },
+    {
+      "level": 2,
+      "text": "Contributors"
+    },
+    {
+      "level": 2,
+      "text": "Languages"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "the-dual-llm-pattern-for-building-ai-assistants-that-can-resist-prompt-injection",
+  "url": "https://simonwillison.net/2023/Apr/25/dual-llm-pattern/",
+  "crawled_at": "2026-08-03T04:35:20.607669+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://simonwillison.net/2023/Apr/25/dual-llm-pattern/",
+  "content_type": "article",
+  "last_modified": "",
+  "fetched_title": "The Dual LLM pattern for building AI assistants that can resist prompt injection",
+  "meta_description": "",
+  "og_title": "The Dual LLM pattern for building AI assistants that can resist prompt injection",
+  "og_description": "I really want an AI assistant: a Large Language Model powered chatbot that can answer questions and perform actions for me based on access to my private data and tools. \u2026",
+  "og_image": "",
+  "og_type": "article",
+  "twitter_card": "summary",
+  "twitter_image": "",
+  "author": "Simon Willison",
+  "language": "en-gb",
+  "canonical_url": "https://simonwillison.net/2023/Apr/25/dual-llm-pattern/",
+  "word_count": 2916,
+  "reading_time_min": 15,
+  "outline": [
+    {
+      "level": 1,
+      "text": "Simon Willison\u2019s Weblog"
+    },
+    {
+      "level": 2,
+      "text": "The Dual LLM pattern for building AI assistants that can resist prompt injection"
+    },
+    {
+      "level": 2,
+      "text": "More recent articles"
+    },
+    {
+      "level": 3,
+      "text": "Monthly briefing"
+    }
+  ]
+}

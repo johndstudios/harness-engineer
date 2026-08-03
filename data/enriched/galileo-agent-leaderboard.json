@@ -1,0 +1,21 @@
+{
+  "slug": "galileo-agent-leaderboard",
+  "url": "https://huggingface.co/spaces/galileo-ai/agent-leaderboard",
+  "crawled_at": "2026-08-03T04:34:03.400957+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://huggingface.co/spaces/galileo-ai/agent-leaderboard",
+  "content_type": "article",
+  "last_modified": "",
+  "fetched_title": "Agent Leaderboard - a Hugging Face Space by galileo-ai",
+  "meta_description": "This app lets you browse interactive leaderboards that compare performance across different categories and methods. Simply pick a category, methodology, and metric to see updated tables and charts....",
+  "og_title": "Agent Leaderboard - a Hugging Face Space by galileo-ai",
+  "og_description": "Ranking of LLMs for agentic tasks",
+  "og_image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/spaces/galileo-ai/agent-leaderboard.png",
+  "og_type": "website",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/spaces/galileo-ai/agent-leaderboard.png",
+  "canonical_url": "https://huggingface.co/spaces/galileo-ai/agent-leaderboard",
+  "word_count": 17,
+  "reading_time_min": 1
+}

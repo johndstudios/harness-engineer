@@ -1,0 +1,72 @@
+{
+  "slug": "designing-ai-resistant-technical-evaluations",
+  "url": "https://www.anthropic.com/engineering/AI-resistant-technical-evaluations",
+  "crawled_at": "2026-08-03T04:33:49.589056+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://www.anthropic.com/engineering/AI-resistant-technical-evaluations",
+  "content_type": "article",
+  "last_modified": "",
+  "fetched_title": "Designing AI resistant technical evaluations \\ Anthropic",
+  "meta_description": "What we learned from three iterations of a performance engineering take-home that Claude keeps beating.",
+  "og_title": "Designing AI resistant technical evaluations",
+  "og_description": "What we learned from three iterations of a performance engineering take-home that Claude keeps beating.",
+  "og_image": "https://cdn.sanity.io/images/4zrzovbb/website/19121280eda2955bdd2d0b12c4f61b1a89b6098f-2400x1260.png",
+  "og_type": "website",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://cdn.sanity.io/images/4zrzovbb/website/19121280eda2955bdd2d0b12c4f61b1a89b6098f-2400x1260.png",
+  "language": "en",
+  "canonical_url": "https://www.anthropic.com/engineering/AI-resistant-technical-evaluations",
+  "word_count": 2743,
+  "reading_time_min": 14,
+  "outline": [
+    {
+      "level": 1,
+      "text": "Designing AI-resistant technical evaluations"
+    },
+    {
+      "level": 2,
+      "text": "The origin of the take-home"
+    },
+    {
+      "level": 3,
+      "text": "Design goals"
+    },
+    {
+      "level": 3,
+      "text": "The simulated machine"
+    },
+    {
+      "level": 2,
+      "text": "Early results"
+    },
+    {
+      "level": 3,
+      "text": "Then Claude Opus 4 defeated it"
+    },
+    {
+      "level": 3,
+      "text": "Then Claude Opus 4.5 defeated that"
+    },
+    {
+      "level": 2,
+      "text": "Considering the options"
+    },
+    {
+      "level": 3,
+      "text": "Attempt 1: A different optimization problem"
+    },
+    {
+      "level": 3,
+      "text": "Attempt 2: Going weirder"
+    },
+    {
+      "level": 2,
+      "text": "An open challenge"
+    },
+    {
+      "level": 2,
+      "text": "Get the developer newsletter"
+    }
+  ]
+}

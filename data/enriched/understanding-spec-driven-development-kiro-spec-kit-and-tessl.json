@@ -1,0 +1,82 @@
+{
+  "slug": "understanding-spec-driven-development-kiro-spec-kit-and-tessl",
+  "url": "https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html",
+  "crawled_at": "2026-08-03T04:35:32.112951+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html",
+  "content_type": "article",
+  "last_modified": "Fri, 31 Jul 2026 19:04:20 GMT",
+  "fetched_title": "Understanding Spec-Driven-Development: Kiro, spec-kit, and Tessl",
+  "meta_description": "",
+  "og_title": "Understanding Spec-Driven-Development: Kiro, spec-kit, and Tessl",
+  "og_description": "Notes from my Thoughtworks colleagues on AI-assisted software delivery",
+  "og_image": "https://martinfowler.com/articles/exploring-gen-ai/donkey-card.png",
+  "og_type": "article",
+  "twitter_card": "summary",
+  "twitter_image": "",
+  "word_count": 3316,
+  "reading_time_min": 17,
+  "outline": [
+    {
+      "level": 1,
+      "text": "Understanding Spec-Driven-Development: Kiro, spec-kit, and Tessl"
+    },
+    {
+      "level": 2,
+      "text": "Definition"
+    },
+    {
+      "level": 2,
+      "text": "What is a spec?"
+    },
+    {
+      "level": 2,
+      "text": "The challenge with evaluating SDD tools"
+    },
+    {
+      "level": 2,
+      "text": "Kiro"
+    },
+    {
+      "level": 2,
+      "text": "Spec-kit"
+    },
+    {
+      "level": 2,
+      "text": "Tessl Framework"
+    },
+    {
+      "level": 2,
+      "text": "Observations and questions"
+    },
+    {
+      "level": 3,
+      "text": "One workflow to fit all sizes?"
+    },
+    {
+      "level": 3,
+      "text": "Reviewing markdown over reviewing code?"
+    },
+    {
+      "level": 3,
+      "text": "False sense of control?"
+    },
+    {
+      "level": 3,
+      "text": "How to effectively separate functional from technical spec?"
+    },
+    {
+      "level": 3,
+      "text": "Who is the target user?"
+    },
+    {
+      "level": 3,
+      "text": "Spec-anchored and spec-as-source: Are we learning from the past?"
+    },
+    {
+      "level": 2,
+      "text": "Conclusions"
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "slug": "deepagents",
+  "url": "https://github.com/langchain-ai/deepagents",
+  "crawled_at": "2026-08-03T04:33:45.629977+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://github.com/langchain-ai/deepagents",
+  "content_type": "github",
+  "last_modified": "",
+  "github_stars": 27238,
+  "github_forks": 3811,
+  "github_open_issues": 192,
+  "github_topics": [
+    "ai",
+    "deepagents",
+    "langchain",
+    "langgraph",
+    "python",
+    "typescript"
+  ],
+  "github_language": "Python",
+  "github_description": "The batteries-included agent harness.",
+  "github_created": "2025-07-27",
+  "github_updated": "2026-08-03",
+  "github_pushed": "2026-08-02",
+  "github_license": "MIT",
+  "github_homepage": "https://docs.langchain.com/deepagents",
+  "fetched_title": "GitHub - langchain-ai/deepagents: The batteries-included agent harness. \u00b7 GitHub",
+  "meta_description": "The batteries-included agent harness. Contribute to langchain-ai/deepagents development by creating an account on GitHub.",
+  "og_title": "GitHub - langchain-ai/deepagents: The batteries-included agent harness.",
+  "og_description": "The batteries-included agent harness. Contribute to langchain-ai/deepagents development by creating an account on GitHub.",
+  "og_image": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/1027384981/ea816c48-7caa-46b8-b4bd-1f90a6807f55?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260803%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260803T043346Z&X-Amz-Expires=300&X-Amz-Signature=e082d3131c25e21d225850f4aca6ec131beec31b1c9452e2ca890b1328ffa236&X-Amz-SignedHeaders=host&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTczMTkyNiwibmJmIjoxNzg1NzMxNjI2LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.ZYoSIkJJxeHVEOS3sBMNkg_6cJhk5QgAl_feM1Fb3vQ",
+  "og_type": "object",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/1027384981/ea816c48-7caa-46b8-b4bd-1f90a6807f55?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260803%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260803T043346Z&X-Amz-Expires=300&X-Amz-Signature=e082d3131c25e21d225850f4aca6ec131beec31b1c9452e2ca890b1328ffa236&X-Amz-SignedHeaders=host&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTczMTkyNiwibmJmIjoxNzg1NzMxNjI2LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.ZYoSIkJJxeHVEOS3sBMNkg_6cJhk5QgAl_feM1Fb3vQ",
+  "language": "en",
+  "word_count": 896,
+  "reading_time_min": 4,
+  "outline": [
+    {
+      "level": 3,
+      "text": "Uh oh!"
+    },
+    {
+      "level": 2,
+      "text": "Folders and files"
+    },
+    {
+      "level": 2,
+      "text": "Latest commit"
+    },
+    {
+      "level": 2,
+      "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Repository files navigation"
+    },
+    {
+      "level": 3,
+      "text": "The batteries-included agent harness."
+    },
+    {
+      "level": 2,
+      "text": "Quickstart"
+    },
+    {
+      "level": 2,
+      "text": "FAQ"
+    },
+    {
+      "level": 3,
+      "text": "How is this different from LangGraph or LangChain?"
+    },
+    {
+      "level": 3,
+      "text": "Does this work with open-weight or local models?"
+    },
+    {
+      "level": 3,
+      "text": "Can I use this in production?"
+    },
+    {
+      "level": 3,
+      "text": "When should I use Deep Agents vs. LangChain or LangGraph directly?"
+    },
+    {
+      "level": 2,
+      "text": "Resources"
+    },
+    {
+      "level": 2,
+      "text": "Acknowledgements"
+    },
+    {
+      "level": 2,
+      "text": "Security"
+    },
+    {
+      "level": 2,
+      "text": "About"
+    },
+    {
+      "level": 3,
+      "text": "Topics"
+    },
+    {
+      "level": 3,
+      "text": "Resources"
+    },
+    {
+      "level": 3,
+      "text": "Code of conduct"
+    },
+    {
+      "level": 3,
+      "text": "Contributing"
+    },
+    {
+      "level": 3,
+      "text": "Security policy"
+    },
+    {
+      "level": 3,
+      "text": "Stars"
+    },
+    {
+      "level": 3,
+      "text": "Watchers"
+    },
+    {
+      "level": 3,
+      "text": "Forks"
+    },
+    {
+      "level": 2,
+      "text": "Releases"
+    },
+    {
+      "level": 2,
+      "text": "Used by"
+    },
+    {
+      "level": 2,
+      "text": "Contributors"
+    },
+    {
+      "level": 2,
+      "text": "Languages"
+    }
+  ]
+}

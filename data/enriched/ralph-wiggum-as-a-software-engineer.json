@@ -1,0 +1,106 @@
+{
+  "slug": "ralph-wiggum-as-a-software-engineer",
+  "url": "https://ghuntley.com/ralph/",
+  "crawled_at": "2026-08-03T04:35:01.548887+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://ghuntley.com/ralph/",
+  "content_type": "web",
+  "last_modified": "",
+  "fetched_title": "Ralph Wiggum as a \"software engineer\"",
+  "meta_description": "",
+  "og_title": "Ralph Wiggum as a \"software engineer\"",
+  "og_description": "How Ralph Wiggum went from 'The Simpsons' to the biggest name in AI right now - Venture Beat\n\n\ud83d\ude0eHere's a cool little field report from a Y Combinator hackathon event where they put Ralph Wiggum to the test.\n\n\"We Put a Coding Agent in a While Loop and It Shipped",
+  "og_image": "https://storage.ghost.io/c/06/e5/06e5d12b-0328-469d-a0d0-3a0f0ba34c46/content/images/size/w1200/2025/06/3ea367ed-cae3-454a-840f-134531dea1fd.jpg",
+  "og_type": "article",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://storage.ghost.io/c/06/e5/06e5d12b-0328-469d-a0d0-3a0f0ba34c46/content/images/size/w1200/2025/06/3ea367ed-cae3-454a-840f-134531dea1fd.jpg",
+  "author": "Geoffrey Huntley",
+  "publish_date": "2025-07-14",
+  "language": "en",
+  "canonical_url": "https://ghuntley.com/ralph/",
+  "word_count": 5381,
+  "reading_time_min": 27,
+  "outline": [
+    {
+      "level": 2,
+      "text": "what's in the prompt.md? can I have it?"
+    },
+    {
+      "level": 2,
+      "text": "first some fundamentals"
+    },
+    {
+      "level": 2,
+      "text": "one item per loop"
+    },
+    {
+      "level": 2,
+      "text": "extend the context window"
+    },
+    {
+      "level": 2,
+      "text": "don't assume it's not implemented"
+    },
+    {
+      "level": 2,
+      "text": "phase one: generate"
+    },
+    {
+      "level": 2,
+      "text": "phase two: backpressure"
+    },
+    {
+      "level": 2,
+      "text": "capture the importance of tests in the moment"
+    },
+    {
+      "level": 2,
+      "text": "no cheating"
+    },
+    {
+      "level": 2,
+      "text": "the todo list"
+    },
+    {
+      "level": 2,
+      "text": "loop back is everything"
+    },
+    {
+      "level": 2,
+      "text": "ralph can take himself to university"
+    },
+    {
+      "level": 2,
+      "text": "you will wake up to a broken code base"
+    },
+    {
+      "level": 2,
+      "text": "but maintainability?"
+    },
+    {
+      "level": 2,
+      "text": "any problem created by AI can be resolved through a different series of prompts"
+    },
+    {
+      "level": 3,
+      "text": "current prompt used to build cursed"
+    },
+    {
+      "level": 3,
+      "text": "current prompt used to plan cursed"
+    },
+    {
+      "level": 3,
+      "text": "ps. socials"
+    },
+    {
+      "level": 3,
+      "text": "p.p.s don't miss out on free lifetime access"
+    },
+    {
+      "level": 3,
+      "text": "You might also like..."
+    }
+  ]
+}

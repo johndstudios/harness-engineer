@@ -1,0 +1,80 @@
+{
+  "slug": "large-language-models-as-tool-makers-latm",
+  "url": "https://arxiv.org/abs/2305.17126",
+  "crawled_at": "2026-08-03T04:34:31.817547+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://arxiv.org/abs/2305.17126",
+  "content_type": "paper",
+  "last_modified": "",
+  "fetched_title": "[2305.17126] Large Language Models as Tool Makers",
+  "meta_description": "Abstract page for arXiv paper 2305.17126: Large Language Models as Tool Makers",
+  "og_title": "Large Language Models as Tool Makers",
+  "og_description": "Recent research has highlighted the potential of large language models (LLMs) to improve their problem-solving capabilities with the aid of suitable external tools. In our work, we further advance this concept by introducing a closed-loop framework, referred to as LLMs A s Tool Makers (LATM), where LLMs create their own reusable tools for problem-solving. Our approach consists of two phases: 1) tool making: an LLM acts as the tool maker that crafts tools for a set of tasks. 2) tool using: another LLM acts as the tool user, which applies the tool built by the tool maker for problem-solving. On the problem-solving server side, tool-making enables continual tool generation and caching as new requests emerge. This framework enables subsequent requests to access cached tools via their corresponding APIs, enhancing the efficiency of task resolution. Recognizing that tool-making requires more sophisticated capabilities, we assign this task to a powerful, albeit resource-intensive, model. Conversely, the simpler tool-using phase is delegated to a lightweight model. This strategic division of labor allows the once-off cost of tool-making to be spread over multiple instances of tool-using, significantly reducing average costs while maintaining strong performance. Furthermore, our method offers a functional cache through the caching and reuse of tools, which stores the functionality of a class of requests instead of the natural language responses from LLMs, thus extending the applicability of the conventional cache mechanism. We evaluate our approach across various complex reasoning tasks, including Big-Bench tasks. With GPT-4 as the tool maker and GPT-3.5 as the tool user, LATM demonstrates performance equivalent to using GPT-4 for both roles, but with a significantly reduced inference cost.",
+  "og_image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+  "og_type": "website",
+  "twitter_card": "summary",
+  "twitter_image": "https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png",
+  "language": "en",
+  "canonical_url": "https://arxiv.org/abs/2305.17126",
+  "word_count": 792,
+  "reading_time_min": 4,
+  "outline": [
+    {
+      "level": 1,
+      "text": "Computer Science > Machine Learning"
+    },
+    {
+      "level": 1,
+      "text": "Title:Large Language Models as Tool Makers"
+    },
+    {
+      "level": 2,
+      "text": "Submission history"
+    },
+    {
+      "level": 2,
+      "text": "Access Paper:"
+    },
+    {
+      "level": 3,
+      "text": "Current browse context:"
+    },
+    {
+      "level": 3,
+      "text": "References & Citations"
+    },
+    {
+      "level": 3,
+      "text": "3 blog links"
+    },
+    {
+      "level": 2,
+      "text": "BibTeX formatted citation"
+    },
+    {
+      "level": 3,
+      "text": "Bookmark"
+    },
+    {
+      "level": 1,
+      "text": "Bibliographic and Citation Tools"
+    },
+    {
+      "level": 1,
+      "text": "Code, Data and Media Associated with this Article"
+    },
+    {
+      "level": 1,
+      "text": "Demos"
+    },
+    {
+      "level": 1,
+      "text": "Recommenders and Search Tools"
+    },
+    {
+      "level": 1,
+      "text": "arXivLabs: experimental projects with community collaborators"
+    }
+  ]
+}

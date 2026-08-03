@@ -1,0 +1,162 @@
+{
+  "slug": "mcpmark",
+  "url": "https://github.com/eval-sys/mcpmark",
+  "crawled_at": "2026-08-03T04:34:45.581801+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://github.com/eval-sys/mcpmark",
+  "content_type": "github",
+  "last_modified": "",
+  "github_stars": 455,
+  "github_forks": 42,
+  "github_open_issues": 19,
+  "github_topics": [
+    "agentic",
+    "benchmark",
+    "eval-sys",
+    "mcp",
+    "mcp-servers",
+    "mcpmark",
+    "tool-use"
+  ],
+  "github_language": "Python",
+  "github_description": "MCPMark is a comprehensive, stress-testing MCP benchmark designed to evaluate model and agent capabilities in real-world MCP use.",
+  "github_created": "2025-07-01",
+  "github_updated": "2026-08-01",
+  "github_pushed": "2026-06-12",
+  "github_license": "Apache-2.0",
+  "github_homepage": "https://mcpmark.ai",
+  "fetched_title": "GitHub - eval-sys/mcpmark: MCPMark is a comprehensive, stress-testing MCP benchmark designed to evaluate model and agent capabilities in real-world MCP use. \u00b7 GitHub",
+  "meta_description": "MCPMark is a comprehensive, stress-testing MCP benchmark designed to evaluate model and agent capabilities in real-world MCP use. - eval-sys/mcpmark",
+  "og_title": "GitHub - eval-sys/mcpmark: MCPMark is a comprehensive, stress-testing MCP benchmark designed to evaluate model and agent capabilities in real-world MCP use.",
+  "og_description": "MCPMark is a comprehensive, stress-testing MCP benchmark designed to evaluate model and agent capabilities in real-world MCP use. - eval-sys/mcpmark",
+  "og_image": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/1011688294/53318ba5-63e0-4d92-9af1-4ac5067c4dc7?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260803%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260803T043446Z&X-Amz-Expires=300&X-Amz-Signature=280fe53f2e41b870c717f5c2205a2fa62b0e007c125c4874a7c7bd3d0335de72&X-Amz-SignedHeaders=host&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTczMTk4NiwibmJmIjoxNzg1NzMxNjg2LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.Sk99S7v9_wJxHO4gKLS3Eji7hesGln4D6EVpyp1c_mc",
+  "og_type": "object",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/1011688294/53318ba5-63e0-4d92-9af1-4ac5067c4dc7?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260803%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260803T043446Z&X-Amz-Expires=300&X-Amz-Signature=280fe53f2e41b870c717f5c2205a2fa62b0e007c125c4874a7c7bd3d0335de72&X-Amz-SignedHeaders=host&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTczMTk4NiwibmJmIjoxNzg1NzMxNjg2LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.Sk99S7v9_wJxHO4gKLS3Eji7hesGln4D6EVpyp1c_mc",
+  "language": "en",
+  "word_count": 1769,
+  "reading_time_min": 9,
+  "outline": [
+    {
+      "level": 3,
+      "text": "Uh oh!"
+    },
+    {
+      "level": 2,
+      "text": "Folders and files"
+    },
+    {
+      "level": 2,
+      "text": "Latest commit"
+    },
+    {
+      "level": 2,
+      "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Repository files navigation"
+    },
+    {
+      "level": 1,
+      "text": "MCPMark: Stress-Testing Comprehensive MCP Use"
+    },
+    {
+      "level": 2,
+      "text": "News"
+    },
+    {
+      "level": 2,
+      "text": "What you can do with MCPMark"
+    },
+    {
+      "level": 2,
+      "text": "Quickstart (5 minutes)"
+    },
+    {
+      "level": 3,
+      "text": "1) Clone the repository"
+    },
+    {
+      "level": 3,
+      "text": "2) Set environment variables (create.mcp_envat repo root)"
+    },
+    {
+      "level": 3,
+      "text": "3) Install and run a minimal example"
+    },
+    {
+      "level": 2,
+      "text": "Run your evaluations"
+    },
+    {
+      "level": 3,
+      "text": "Task suites (standard vs easy)"
+    },
+    {
+      "level": 3,
+      "text": "Single run (k=1)"
+    },
+    {
+      "level": 3,
+      "text": "Multiple runs (k>1) for pass@k"
+    },
+    {
+      "level": 3,
+      "text": "Run with Docker"
+    },
+    {
+      "level": 2,
+      "text": "Service setup and authentication"
+    },
+    {
+      "level": 3,
+      "text": "Important Notice: GitHub Repository Privacy"
+    },
+    {
+      "level": 2,
+      "text": "Results and metrics"
+    },
+    {
+      "level": 2,
+      "text": "Model and Tasks"
+    },
+    {
+      "level": 2,
+      "text": "Contributing"
+    },
+    {
+      "level": 2,
+      "text": "Citation"
+    },
+    {
+      "level": 2,
+      "text": "License"
+    },
+    {
+      "level": 2,
+      "text": "About"
+    },
+    {
+      "level": 3,
+      "text": "Topics"
+    },
+    {
+      "level": 3,
+      "text": "Resources"
+    },
+    {
+      "level": 3,
+      "text": "Stars"
+    },
+    {
+      "level": 3,
+      "text": "Watchers"
+    },
+    {
+      "level": 3,
+      "text": "Forks"
+    }
+  ]
+}

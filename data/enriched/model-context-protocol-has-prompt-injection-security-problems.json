@@ -1,0 +1,41 @@
+{
+  "slug": "model-context-protocol-has-prompt-injection-security-problems",
+  "url": "https://simonwillison.net/2025/Apr/9/mcp-prompt-injection/",
+  "crawled_at": "2026-08-03T04:34:52.420641+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://simonwillison.net/2025/Apr/9/mcp-prompt-injection/",
+  "content_type": "article",
+  "last_modified": "",
+  "fetched_title": "Model Context Protocol has prompt injection security problems",
+  "meta_description": "",
+  "og_title": "Model Context Protocol has prompt injection security problems",
+  "og_description": "As more people start hacking around with implementations of MCP (the Model Context Protocol, a new standard for making tools available to LLM-powered systems) the security implications of tools built \u2026",
+  "og_image": "https://static.simonwillison.net/static/2025/stolen-data-card.jpg",
+  "og_type": "article",
+  "twitter_card": "summary",
+  "twitter_image": "https://static.simonwillison.net/static/2025/stolen-data-card.jpg",
+  "author": "Simon Willison",
+  "language": "en-gb",
+  "canonical_url": "https://simonwillison.net/2025/Apr/9/mcp-prompt-injection/",
+  "word_count": 1803,
+  "reading_time_min": 9,
+  "outline": [
+    {
+      "level": 1,
+      "text": "Simon Willison\u2019s Weblog"
+    },
+    {
+      "level": 2,
+      "text": "Model Context Protocol has prompt injection security problems"
+    },
+    {
+      "level": 2,
+      "text": "More recent articles"
+    },
+    {
+      "level": 3,
+      "text": "Monthly briefing"
+    }
+  ]
+}

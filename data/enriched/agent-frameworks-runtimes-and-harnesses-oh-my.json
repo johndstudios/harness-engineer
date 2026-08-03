@@ -1,0 +1,54 @@
+{
+  "slug": "agent-frameworks-runtimes-and-harnesses-oh-my",
+  "url": "https://blog.langchain.com/agent-frameworks-runtimes-and-harnesses-oh-my/",
+  "crawled_at": "2026-08-03T04:32:12.859405+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://www.langchain.com/blog/agent-frameworks-runtimes-and-harnesses-oh-my",
+  "content_type": "article",
+  "last_modified": "Mon, 03 Aug 2026 04:32:13 GMT",
+  "fetched_title": "Agent Frameworks, Runtimes, and Harnesses- oh my!",
+  "meta_description": "Explore agent frameworks, runtimes, and harnesses. When to use LangChain, LangGraph, and DeepAgents for building AI agents.",
+  "og_title": "Agent Frameworks, Runtimes, and Harnesses- oh my!",
+  "og_description": "Explore agent frameworks, runtimes, and harnesses. When to use LangChain, LangGraph, and DeepAgents for building AI agents.",
+  "og_image": "https://cdn.prod.website-files.com/65c81e88c254bb0f97633a71/69cbaa558a482a10676a945d_Screenshot-2025-10-25-at-9.08.30---AM-1.png",
+  "og_type": "website",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://cdn.prod.website-files.com/65c81e88c254bb0f97633a71/69cbaa558a482a10676a945d_Screenshot-2025-10-25-at-9.08.30---AM-1.png",
+  "author": "LangChain Accounts",
+  "publish_date": "2025-10-25",
+  "language": "en",
+  "canonical_url": "https://www.langchain.com/blog/agent-frameworks-runtimes-and-harnesses-oh-my",
+  "word_count": 819,
+  "reading_time_min": 4,
+  "outline": [
+    {
+      "level": 1,
+      "text": "Agent Frameworks, Runtimes, and Harnesses- oh my!"
+    },
+    {
+      "level": 2,
+      "text": "Agent Frameworks (LangChain)"
+    },
+    {
+      "level": 2,
+      "text": "Agent Runtimes (LangGraph)"
+    },
+    {
+      "level": 2,
+      "text": "Agent Harnesses (DeepAgents)"
+    },
+    {
+      "level": 2,
+      "text": "When to use each one"
+    },
+    {
+      "level": 3,
+      "text": "Related content"
+    },
+    {
+      "level": 3,
+      "text": "See\u00a0what\u00a0your\u00a0agent\u00a0is\u00a0really\u00a0doing"
+    }
+  ]
+}

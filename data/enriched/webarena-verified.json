@@ -1,0 +1,154 @@
+{
+  "slug": "webarena-verified",
+  "url": "https://github.com/ServiceNow/webarena-verified",
+  "crawled_at": "2026-08-03T04:35:39.905040+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://github.com/ServiceNow/webarena-verified",
+  "content_type": "github",
+  "last_modified": "",
+  "github_stars": 48,
+  "github_forks": 7,
+  "github_open_issues": 12,
+  "github_topics": [],
+  "github_language": "Python",
+  "github_description": "A verified version of the WebArena Benchmark",
+  "github_created": "2025-12-02",
+  "github_updated": "2026-07-30",
+  "github_pushed": "2026-03-08",
+  "github_license": "Apache-2.0",
+  "github_homepage": "https://servicenow.github.io/webarena-verified/",
+  "fetched_title": "GitHub - ServiceNow/webarena-verified: A verified version of the WebArena Benchmark \u00b7 GitHub",
+  "meta_description": "A verified version of the WebArena Benchmark. Contribute to ServiceNow/webarena-verified development by creating an account on GitHub.",
+  "og_title": "GitHub - ServiceNow/webarena-verified: A verified version of the WebArena Benchmark",
+  "og_description": "A verified version of the WebArena Benchmark. Contribute to ServiceNow/webarena-verified development by creating an account on GitHub.",
+  "og_image": "https://opengraph.githubassets.com/6bcced8482a877bb2d8de1aa22f8dc871ea3c750a6bf281dc7d4d2e245f35190/ServiceNow/webarena-verified",
+  "og_type": "object",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://opengraph.githubassets.com/6bcced8482a877bb2d8de1aa22f8dc871ea3c750a6bf281dc7d4d2e245f35190/ServiceNow/webarena-verified",
+  "language": "en",
+  "word_count": 1347,
+  "reading_time_min": 7,
+  "outline": [
+    {
+      "level": 3,
+      "text": "Uh oh!"
+    },
+    {
+      "level": 2,
+      "text": "Folders and files"
+    },
+    {
+      "level": 2,
+      "text": "Latest commit"
+    },
+    {
+      "level": 2,
+      "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Repository files navigation"
+    },
+    {
+      "level": 1,
+      "text": "WebArena-Verified"
+    },
+    {
+      "level": 2,
+      "text": "\ud83d\udce2 Announcements"
+    },
+    {
+      "level": 2,
+      "text": "\ud83c\udfaf Highlights"
+    },
+    {
+      "level": 2,
+      "text": "Usage"
+    },
+    {
+      "level": 3,
+      "text": "uvx (no install)"
+    },
+    {
+      "level": 3,
+      "text": "pip / uv (project dependency)"
+    },
+    {
+      "level": 3,
+      "text": "Docker"
+    },
+    {
+      "level": 2,
+      "text": "Dataset"
+    },
+    {
+      "level": 3,
+      "text": "Full dataset"
+    },
+    {
+      "level": 3,
+      "text": "Hard subset"
+    },
+    {
+      "level": 2,
+      "text": "\ud83c\udf10 Environments"
+    },
+    {
+      "level": 3,
+      "text": "Start and Stop Sites"
+    },
+    {
+      "level": 3,
+      "text": "Environment Control"
+    },
+    {
+      "level": 2,
+      "text": "\ud83e\uddea Evaluate A Task"
+    },
+    {
+      "level": 2,
+      "text": "\ud83d\udcca Dataset"
+    },
+    {
+      "level": 2,
+      "text": "\ud83e\udd1d Contributing"
+    },
+    {
+      "level": 2,
+      "text": "\ud83d\udcc4 Citation"
+    },
+    {
+      "level": 2,
+      "text": "\ud83d\ude4f Acknowledgements"
+    },
+    {
+      "level": 2,
+      "text": "About"
+    },
+    {
+      "level": 3,
+      "text": "Resources"
+    },
+    {
+      "level": 3,
+      "text": "Contributing"
+    },
+    {
+      "level": 3,
+      "text": "Stars"
+    },
+    {
+      "level": 3,
+      "text": "Watchers"
+    },
+    {
+      "level": 3,
+      "text": "Forks"
+    },
+    {
+      "level": 2,
+      "text": "Releases"
+    }
+  ]
+}

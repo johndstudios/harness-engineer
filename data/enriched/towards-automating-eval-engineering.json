@@ -1,0 +1,58 @@
+{
+  "slug": "towards-automating-eval-engineering",
+  "url": "https://blog.langchain.com/towards-automating-eval-engineering",
+  "crawled_at": "2026-08-03T04:35:25.889609+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://www.langchain.com/blog/towards-automating-eval-engineering",
+  "content_type": "article",
+  "last_modified": "Mon, 03 Aug 2026 04:35:26 GMT",
+  "fetched_title": "Eval Engineering Skill: Build Evals From Repo Context and Traces",
+  "meta_description": "LangChain's Eval Engineering Skill inspects your agent's repo and traces, proposes evals through user interviews, and outputs runnable Harbor tasks.",
+  "og_title": "Eval Engineering Skill: Build Evals From Repo Context and Traces",
+  "og_description": "LangChain's Eval Engineering Skill inspects your agent's repo and traces, proposes evals through user interviews, and outputs runnable Harbor tasks.",
+  "og_image": "https://cdn.prod.website-files.com/65c81e88c254bb0f97633a71/6a60d3691d5b4683f5396ac5_purple-77%20characters%20max.png",
+  "og_type": "website",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://cdn.prod.website-files.com/65c81e88c254bb0f97633a71/6a60d3691d5b4683f5396ac5_purple-77%20characters%20max.png",
+  "author": "LangChain Accounts",
+  "publish_date": "2026-07-22",
+  "language": "en",
+  "canonical_url": "https://www.langchain.com/blog/towards-automating-eval-engineering",
+  "word_count": 1088,
+  "reading_time_min": 5,
+  "outline": [
+    {
+      "level": 1,
+      "text": "Towards Automating Eval Engineering"
+    },
+    {
+      "level": 2,
+      "text": "Building the Environment & Task"
+    },
+    {
+      "level": 2,
+      "text": "Eval Design is iterative"
+    },
+    {
+      "level": 2,
+      "text": "Evals are in Harbor format"
+    },
+    {
+      "level": 2,
+      "text": "Why this matters"
+    },
+    {
+      "level": 2,
+      "text": "Try it today"
+    },
+    {
+      "level": 3,
+      "text": "Related content"
+    },
+    {
+      "level": 3,
+      "text": "See\u00a0what\u00a0your\u00a0agent\u00a0is\u00a0really\u00a0doing"
+    }
+  ]
+}

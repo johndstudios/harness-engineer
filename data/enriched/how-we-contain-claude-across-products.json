@@ -1,0 +1,68 @@
+{
+  "slug": "how-we-contain-claude-across-products",
+  "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
+  "crawled_at": "2026-08-03T04:34:24.291987+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://www.anthropic.com/engineering/how-we-contain-claude",
+  "content_type": "article",
+  "last_modified": "",
+  "fetched_title": "How we contain Claude across products \\ Anthropic",
+  "meta_description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+  "og_title": "How we contain Claude across products",
+  "og_description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+  "og_image": "https://cdn.sanity.io/images/4zrzovbb/website/82d2262129af025d98a46411fbd42ee970a95cb4-2400x1260.heif",
+  "og_type": "website",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://cdn.sanity.io/images/4zrzovbb/website/82d2262129af025d98a46411fbd42ee970a95cb4-2400x1260.heif",
+  "language": "en",
+  "canonical_url": "https://www.anthropic.com/engineering/how-we-contain-claude",
+  "word_count": 4387,
+  "reading_time_min": 22,
+  "outline": [
+    {
+      "level": 1,
+      "text": "How we contain Claude across products"
+    },
+    {
+      "level": 2,
+      "text": "Three types of risk, three components of defense"
+    },
+    {
+      "level": 2,
+      "text": "Patterns for containing agents"
+    },
+    {
+      "level": 3,
+      "text": "Pattern 1: The ephemeral container (claude.ai code execution)"
+    },
+    {
+      "level": 3,
+      "text": "Pattern 2: The human-in-the-loop sandbox (Claude Code)"
+    },
+    {
+      "level": 3,
+      "text": "Pattern 3: The local VM (Claude Cowork)"
+    },
+    {
+      "level": 2,
+      "text": "Trusting what the agent reads"
+    },
+    {
+      "level": 2,
+      "text": "Looking ahead"
+    },
+    {
+      "level": 2,
+      "text": "Summary"
+    },
+    {
+      "level": 3,
+      "text": "Acknowledgements"
+    },
+    {
+      "level": 2,
+      "text": "Get the developer newsletter"
+    }
+  ]
+}

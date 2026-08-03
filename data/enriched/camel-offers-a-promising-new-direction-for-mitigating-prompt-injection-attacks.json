@@ -1,0 +1,41 @@
+{
+  "slug": "camel-offers-a-promising-new-direction-for-mitigating-prompt-injection-attacks",
+  "url": "https://simonwillison.net/2025/Apr/11/camel/",
+  "crawled_at": "2026-08-03T04:32:56.084185+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://simonwillison.net/2025/Apr/11/camel/",
+  "content_type": "article",
+  "last_modified": "",
+  "fetched_title": "CaMeL offers a promising new direction for mitigating prompt injection attacks",
+  "meta_description": "",
+  "og_title": "CaMeL offers a promising new direction for mitigating prompt injection attacks",
+  "og_description": "In the two and a half years that we\u2019ve been talking about prompt injection attacks I\u2019ve seen alarmingly little progress towards a robust solution. The new paper Defeating Prompt Injections \u2026",
+  "og_image": "https://static.simonwillison.net/static/2025/camel-card.jpg",
+  "og_type": "article",
+  "twitter_card": "summary",
+  "twitter_image": "https://static.simonwillison.net/static/2025/camel-card.jpg",
+  "author": "Simon Willison",
+  "language": "en-gb",
+  "canonical_url": "https://simonwillison.net/2025/Apr/11/camel/",
+  "word_count": 2245,
+  "reading_time_min": 11,
+  "outline": [
+    {
+      "level": 1,
+      "text": "Simon Willison\u2019s Weblog"
+    },
+    {
+      "level": 2,
+      "text": "CaMeL offers a promising new direction for mitigating prompt injection attacks"
+    },
+    {
+      "level": 2,
+      "text": "More recent articles"
+    },
+    {
+      "level": 3,
+      "text": "Monthly briefing"
+    }
+  ]
+}

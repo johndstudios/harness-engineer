@@ -1,0 +1,136 @@
+{
+  "slug": "openhands",
+  "url": "https://github.com/All-Hands-AI/OpenHands",
+  "crawled_at": "2026-08-03T04:34:55.798915+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://github.com/OpenHands/OpenHands",
+  "content_type": "github",
+  "last_modified": "",
+  "github_stars": 82922,
+  "github_forks": 10684,
+  "github_open_issues": 286,
+  "github_topics": [
+    "agent",
+    "artificial-intelligence",
+    "chatgpt",
+    "claude-ai",
+    "cli",
+    "developer-tools",
+    "gpt",
+    "llm",
+    "openai"
+  ],
+  "github_language": "TypeScript",
+  "github_description": "\ud83d\ude4c OpenHands: AI-Driven Development",
+  "github_created": "2024-03-13",
+  "github_updated": "2026-08-03",
+  "github_pushed": "2026-08-03",
+  "github_license": "MIT",
+  "github_homepage": "https://openhands.dev",
+  "fetched_title": "GitHub - OpenHands/OpenHands: \ud83d\ude4c OpenHands: AI-Driven Development \u00b7 GitHub",
+  "meta_description": "\ud83d\ude4c OpenHands: AI-Driven Development. Contribute to OpenHands/OpenHands development by creating an account on GitHub.",
+  "og_title": "GitHub - OpenHands/OpenHands: \ud83d\ude4c OpenHands: AI-Driven Development",
+  "og_description": "\ud83d\ude4c OpenHands: AI-Driven Development. Contribute to OpenHands/OpenHands development by creating an account on GitHub.",
+  "og_image": "https://opengraph.githubassets.com/731a7728e56e2e5ad8e4577e20e7d121e32c5506c28ca594678dafcdb8706026/OpenHands/OpenHands",
+  "og_type": "object",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://opengraph.githubassets.com/731a7728e56e2e5ad8e4577e20e7d121e32c5506c28ca594678dafcdb8706026/OpenHands/OpenHands",
+  "language": "en",
+  "word_count": 1056,
+  "reading_time_min": 5,
+  "outline": [
+    {
+      "level": 3,
+      "text": "Uh oh!"
+    },
+    {
+      "level": 2,
+      "text": "Folders and files"
+    },
+    {
+      "level": 2,
+      "text": "Latest commit"
+    },
+    {
+      "level": 2,
+      "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Repository files navigation"
+    },
+    {
+      "level": 1,
+      "text": "Agent Canvas"
+    },
+    {
+      "level": 2,
+      "text": "Quickstart"
+    },
+    {
+      "level": 3,
+      "text": "Option 1: Without a Sandbox"
+    },
+    {
+      "level": 3,
+      "text": "Option 2: With a Docker Sandbox"
+    },
+    {
+      "level": 3,
+      "text": "Option 3: From Source"
+    },
+    {
+      "level": 1,
+      "text": "Architecture"
+    },
+    {
+      "level": 2,
+      "text": "More documentation"
+    },
+    {
+      "level": 2,
+      "text": "About"
+    },
+    {
+      "level": 3,
+      "text": "Topics"
+    },
+    {
+      "level": 3,
+      "text": "Resources"
+    },
+    {
+      "level": 3,
+      "text": "Stars"
+    },
+    {
+      "level": 3,
+      "text": "Watchers"
+    },
+    {
+      "level": 3,
+      "text": "Forks"
+    },
+    {
+      "level": 2,
+      "text": "Releases"
+    },
+    {
+      "level": 2,
+      "text": "Packages"
+    },
+    {
+      "level": 2,
+      "text": "Used by"
+    },
+    {
+      "level": 2,
+      "text": "Contributors"
+    },
+    {
+      "level": 2,
+      "text": "Languages"
+    }
+  ]
+}

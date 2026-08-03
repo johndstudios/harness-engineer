@@ -1,0 +1,158 @@
+{
+  "slug": "agenttrace",
+  "url": "https://github.com/luoyuctl/agenttrace",
+  "crawled_at": "2026-08-03T04:32:32.185329+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://github.com/luoyuctl/agenttrace",
+  "content_type": "github",
+  "last_modified": "",
+  "github_stars": 113,
+  "github_forks": 5,
+  "github_open_issues": 7,
+  "github_topics": [
+    "ai-agent-observability",
+    "ai-agents",
+    "ai-cost-tracking",
+    "claude-code",
+    "codex-cli",
+    "coding-agent",
+    "cursor",
+    "gemini-cli",
+    "opencode",
+    "qwen-code",
+    "rust",
+    "rust-cli",
+    "session-history",
+    "token-usage",
+    "tui"
+  ],
+  "github_language": "Rust",
+  "github_description": "Local-first Rust TUI/CLI for auditing AI coding-agent sessions: cost, tokens, latency, failures, and health\uff5c\u672c\u5730\u4f18\u5148 Rust TUI/CLI\uff0c\u5ba1\u8ba1 AI \u7f16\u7a0b Agent \u4f1a\u8bdd\u7684\u6210\u672c\u3001Token\u3001\u5ef6\u8fdf\u3001\u5931\u8d25\u4e0e\u5065\u5eb7\u5ea6",
+  "github_created": "2026-05-01",
+  "github_updated": "2026-07-31",
+  "github_pushed": "2026-08-03",
+  "github_license": "MIT",
+  "github_homepage": "https://github.com/luoyuctl/agenttrace",
+  "fetched_title": "GitHub - luoyuctl/agenttrace: Local-first Rust TUI/CLI for auditing AI coding-agent sessions: cost, tokens, latency, failures, and health\uff5c\u672c\u5730\u4f18\u5148 Rust TUI/CLI\uff0c\u5ba1\u8ba1 AI \u7f16\u7a0b Agent \u4f1a\u8bdd\u7684\u6210\u672c\u3001Token\u3001\u5ef6\u8fdf\u3001\u5931\u8d25\u4e0e\u5065\u5eb7\u5ea6 \u00b7 GitHub",
+  "meta_description": "Local-first Rust TUI/CLI for auditing AI coding-agent sessions: cost, tokens, latency, failures, and health\uff5c\u672c\u5730\u4f18\u5148 Rust TUI/CLI\uff0c\u5ba1\u8ba1 AI \u7f16\u7a0b Agent \u4f1a\u8bdd\u7684\u6210\u672c\u3001Token\u3001\u5ef6\u8fdf\u3001\u5931\u8d25\u4e0e\u5065\u5eb7\u5ea6 - luoyuctl/agenttrace",
+  "og_title": "GitHub - luoyuctl/agenttrace: Local-first Rust TUI/CLI for auditing AI coding-agent sessions: cost, tokens, latency, failures, and health\uff5c\u672c\u5730\u4f18\u5148 Rust TUI/CLI\uff0c\u5ba1\u8ba1 AI \u7f16\u7a0b Agent \u4f1a\u8bdd\u7684\u6210\u672c\u3001Token\u3001\u5ef6\u8fdf\u3001\u5931\u8d25\u4e0e\u5065\u5eb7\u5ea6",
+  "og_description": "Local-first Rust TUI/CLI for auditing AI coding-agent sessions: cost, tokens, latency, failures, and health\uff5c\u672c\u5730\u4f18\u5148 Rust TUI/CLI\uff0c\u5ba1\u8ba1 AI \u7f16\u7a0b Agent \u4f1a\u8bdd\u7684\u6210\u672c\u3001Token\u3001\u5ef6\u8fdf\u3001\u5931\u8d25\u4e0e\u5065\u5eb7\u5ea6 - luoyuctl/agenttrace",
+  "og_image": "https://opengraph.githubassets.com/e2f7d8329f53dd09631c77babb6269c92ee7154fea9c3f5dc4a6a43f4c974425/luoyuctl/agenttrace",
+  "og_type": "object",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://opengraph.githubassets.com/e2f7d8329f53dd09631c77babb6269c92ee7154fea9c3f5dc4a6a43f4c974425/luoyuctl/agenttrace",
+  "language": "en",
+  "word_count": 1147,
+  "reading_time_min": 6,
+  "outline": [
+    {
+      "level": 2,
+      "text": "Folders and files"
+    },
+    {
+      "level": 2,
+      "text": "Latest commit"
+    },
+    {
+      "level": 2,
+      "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Repository files navigation"
+    },
+    {
+      "level": 1,
+      "text": "AgentTrace"
+    },
+    {
+      "level": 2,
+      "text": "Why agenttrace?"
+    },
+    {
+      "level": 2,
+      "text": "Real local run"
+    },
+    {
+      "level": 2,
+      "text": "Install"
+    },
+    {
+      "level": 2,
+      "text": "Quickstart"
+    },
+    {
+      "level": 3,
+      "text": "Governance reports"
+    },
+    {
+      "level": 2,
+      "text": "What you get"
+    },
+    {
+      "level": 2,
+      "text": "Docs"
+    },
+    {
+      "level": 2,
+      "text": "Contributing"
+    },
+    {
+      "level": 2,
+      "text": "License"
+    },
+    {
+      "level": 2,
+      "text": "About"
+    },
+    {
+      "level": 3,
+      "text": "Topics"
+    },
+    {
+      "level": 3,
+      "text": "Resources"
+    },
+    {
+      "level": 3,
+      "text": "Code of conduct"
+    },
+    {
+      "level": 3,
+      "text": "Contributing"
+    },
+    {
+      "level": 3,
+      "text": "Security policy"
+    },
+    {
+      "level": 3,
+      "text": "Stars"
+    },
+    {
+      "level": 3,
+      "text": "Watchers"
+    },
+    {
+      "level": 3,
+      "text": "Forks"
+    },
+    {
+      "level": 2,
+      "text": "Releases"
+    },
+    {
+      "level": 2,
+      "text": "Used by"
+    },
+    {
+      "level": 2,
+      "text": "Contributors"
+    },
+    {
+      "level": 2,
+      "text": "Languages"
+    }
+  ]
+}

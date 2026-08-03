@@ -1,0 +1,128 @@
+{
+  "slug": "agentkit",
+  "url": "https://github.com/inngest/agent-kit",
+  "crawled_at": "2026-08-03T04:32:22.869846+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://github.com/inngest/agent-kit",
+  "content_type": "github",
+  "last_modified": "",
+  "github_stars": 918,
+  "github_forks": 139,
+  "github_open_issues": 46,
+  "github_topics": [
+    "agent",
+    "ai",
+    "ai-agent-framework",
+    "ai-agents",
+    "llm"
+  ],
+  "github_language": "TypeScript",
+  "github_description": "AgentKit: Build multi-agent networks in TypeScript with deterministic routing and rich tooling via MCP.",
+  "github_created": "2024-11-18",
+  "github_updated": "2026-08-01",
+  "github_pushed": "2026-04-29",
+  "github_license": "Apache-2.0",
+  "github_homepage": "https://agentkit.inngest.com",
+  "fetched_title": "GitHub - inngest/agent-kit: AgentKit: Build multi-agent networks in TypeScript with deterministic routing and rich tooling via MCP. \u00b7 GitHub",
+  "meta_description": "AgentKit: Build multi-agent networks in TypeScript with deterministic routing and rich tooling via MCP. - inngest/agent-kit",
+  "og_title": "GitHub - inngest/agent-kit: AgentKit: Build multi-agent networks in TypeScript with deterministic routing and rich tooling via MCP.",
+  "og_description": "AgentKit: Build multi-agent networks in TypeScript with deterministic routing and rich tooling via MCP. - inngest/agent-kit",
+  "og_image": "https://opengraph.githubassets.com/ad40232e4605c7a3d2681113788f901f38a86b4bd02c05f3b4739fa09d5a6dc8/inngest/agent-kit",
+  "og_type": "object",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://opengraph.githubassets.com/ad40232e4605c7a3d2681113788f901f38a86b4bd02c05f3b4739fa09d5a6dc8/inngest/agent-kit",
+  "language": "en",
+  "word_count": 3271,
+  "reading_time_min": 16,
+  "outline": [
+    {
+      "level": 3,
+      "text": "Uh oh!"
+    },
+    {
+      "level": 2,
+      "text": "Folders and files"
+    },
+    {
+      "level": 2,
+      "text": "Latest commit"
+    },
+    {
+      "level": 2,
+      "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Repository files navigation"
+    },
+    {
+      "level": 1,
+      "text": "AgentKit"
+    },
+    {
+      "level": 2,
+      "text": "Get started"
+    },
+    {
+      "level": 2,
+      "text": "MCP Agent example"
+    },
+    {
+      "level": 2,
+      "text": "Deterministic Routing with State-based routing"
+    },
+    {
+      "level": 3,
+      "text": "Code-based routing"
+    },
+    {
+      "level": 3,
+      "text": "Agent-based routing"
+    },
+    {
+      "level": 2,
+      "text": "Examples"
+    },
+    {
+      "level": 2,
+      "text": "Contributing"
+    },
+    {
+      "level": 2,
+      "text": "About"
+    },
+    {
+      "level": 3,
+      "text": "Topics"
+    },
+    {
+      "level": 3,
+      "text": "Resources"
+    },
+    {
+      "level": 3,
+      "text": "Stars"
+    },
+    {
+      "level": 3,
+      "text": "Watchers"
+    },
+    {
+      "level": 3,
+      "text": "Forks"
+    },
+    {
+      "level": 2,
+      "text": "Releases"
+    },
+    {
+      "level": 2,
+      "text": "Used by"
+    },
+    {
+      "level": 2,
+      "text": "Contributors"
+    }
+  ]
+}

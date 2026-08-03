@@ -1,0 +1,80 @@
+{
+  "slug": "react-synergizing-reasoning-and-acting-in-language-models",
+  "url": "https://arxiv.org/abs/2210.03629",
+  "crawled_at": "2026-08-03T04:35:02.257217+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://arxiv.org/abs/2210.03629",
+  "content_type": "paper",
+  "last_modified": "",
+  "fetched_title": "[2210.03629] ReAct: Synergizing Reasoning and Acting in Language Models",
+  "meta_description": "Abstract page for arXiv paper 2210.03629: ReAct: Synergizing Reasoning and Acting in Language Models",
+  "og_title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+  "og_description": "While large language models (LLMs) have demonstrated impressive capabilities across tasks in language understanding and interactive decision making, their abilities for reasoning (e.g. chain-of-thought prompting) and acting (e.g. action plan generation) have primarily been studied as separate topics. In this paper, we explore the use of LLMs to generate both reasoning traces and task-specific actions in an interleaved manner, allowing for greater synergy between the two: reasoning traces help the model induce, track, and update action plans as well as handle exceptions, while actions allow it to interface with external sources, such as knowledge bases or environments, to gather additional information. We apply our approach, named ReAct, to a diverse set of language and decision making tasks and demonstrate its effectiveness over state-of-the-art baselines, as well as improved human interpretability and trustworthiness over methods without reasoning or acting components. Concretely, on question answering (HotpotQA) and fact verification (Fever), ReAct overcomes issues of hallucination and error propagation prevalent in chain-of-thought reasoning by interacting with a simple Wikipedia API, and generates human-like task-solving trajectories that are more interpretable than baselines without reasoning traces. On two interactive decision making benchmarks (ALFWorld and WebShop), ReAct outperforms imitation and reinforcement learning methods by an absolute success rate of 34% and 10% respectively, while being prompted with only one or two in-context examples. Project site with code: https://react-lm.github.io",
+  "og_image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+  "og_type": "website",
+  "twitter_card": "summary",
+  "twitter_image": "https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png",
+  "language": "en",
+  "canonical_url": "https://arxiv.org/abs/2210.03629",
+  "word_count": 772,
+  "reading_time_min": 4,
+  "outline": [
+    {
+      "level": 1,
+      "text": "Computer Science > Computation and Language"
+    },
+    {
+      "level": 1,
+      "text": "Title:ReAct: Synergizing Reasoning and Acting in Language Models"
+    },
+    {
+      "level": 2,
+      "text": "Submission history"
+    },
+    {
+      "level": 2,
+      "text": "Access Paper:"
+    },
+    {
+      "level": 3,
+      "text": "Current browse context:"
+    },
+    {
+      "level": 3,
+      "text": "References & Citations"
+    },
+    {
+      "level": 3,
+      "text": "13 blog links"
+    },
+    {
+      "level": 2,
+      "text": "BibTeX formatted citation"
+    },
+    {
+      "level": 3,
+      "text": "Bookmark"
+    },
+    {
+      "level": 1,
+      "text": "Bibliographic and Citation Tools"
+    },
+    {
+      "level": 1,
+      "text": "Code, Data and Media Associated with this Article"
+    },
+    {
+      "level": 1,
+      "text": "Demos"
+    },
+    {
+      "level": 1,
+      "text": "Recommenders and Search Tools"
+    },
+    {
+      "level": 1,
+      "text": "arXivLabs: experimental projects with community collaborators"
+    }
+  ]
+}

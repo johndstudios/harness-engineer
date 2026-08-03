@@ -1,0 +1,102 @@
+{
+  "slug": "agentsmd",
+  "url": "https://github.com/agentsmd/agents.md",
+  "crawled_at": "2026-08-03T04:32:28.618175+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://github.com/agentsmd/agents.md",
+  "content_type": "github",
+  "last_modified": "",
+  "github_stars": 23380,
+  "github_forks": 1753,
+  "github_open_issues": 161,
+  "github_topics": [],
+  "github_language": "TypeScript",
+  "github_description": "AGENTS.md \u2014 a simple, open format for guiding coding agents",
+  "github_created": "2025-08-19",
+  "github_updated": "2026-08-03",
+  "github_pushed": "2026-03-12",
+  "github_license": "MIT",
+  "github_homepage": "https://agents.md",
+  "fetched_title": "GitHub - agentsmd/agents.md: AGENTS.md \u2014 a simple, open format for guiding coding agents \u00b7 GitHub",
+  "meta_description": "AGENTS.md \u2014 a simple, open format for guiding coding agents - agentsmd/agents.md",
+  "og_title": "GitHub - agentsmd/agents.md: AGENTS.md \u2014 a simple, open format for guiding coding agents",
+  "og_description": "AGENTS.md \u2014 a simple, open format for guiding coding agents - agentsmd/agents.md",
+  "og_image": "https://opengraph.githubassets.com/398653e80ae913bd30be6a274cffaa7c59a8afdf2b43fb8dc61720f768d7704d/agentsmd/agents.md",
+  "og_type": "object",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://opengraph.githubassets.com/398653e80ae913bd30be6a274cffaa7c59a8afdf2b43fb8dc61720f768d7704d/agentsmd/agents.md",
+  "language": "en",
+  "word_count": 531,
+  "reading_time_min": 3,
+  "outline": [
+    {
+      "level": 3,
+      "text": "Uh oh!"
+    },
+    {
+      "level": 2,
+      "text": "Folders and files"
+    },
+    {
+      "level": 2,
+      "text": "Latest commit"
+    },
+    {
+      "level": 2,
+      "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Repository files navigation"
+    },
+    {
+      "level": 1,
+      "text": "AGENTS.md"
+    },
+    {
+      "level": 2,
+      "text": "Website"
+    },
+    {
+      "level": 3,
+      "text": "Running the app locally"
+    },
+    {
+      "level": 2,
+      "text": "About"
+    },
+    {
+      "level": 3,
+      "text": "Resources"
+    },
+    {
+      "level": 3,
+      "text": "Stars"
+    },
+    {
+      "level": 3,
+      "text": "Watchers"
+    },
+    {
+      "level": 3,
+      "text": "Forks"
+    },
+    {
+      "level": 2,
+      "text": "Releases"
+    },
+    {
+      "level": 2,
+      "text": "Packages"
+    },
+    {
+      "level": 2,
+      "text": "Contributors"
+    },
+    {
+      "level": 2,
+      "text": "Languages"
+    }
+  ]
+}

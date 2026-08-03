@@ -1,0 +1,159 @@
+{
+  "slug": "agentbench",
+  "url": "https://github.com/THUDM/AgentBench",
+  "crawled_at": "2026-08-03T04:32:16.808030+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://github.com/THUDM/AgentBench",
+  "content_type": "github",
+  "last_modified": "",
+  "github_stars": 3635,
+  "github_forks": 272,
+  "github_open_issues": 74,
+  "github_topics": [
+    "chatgpt",
+    "gpt-4",
+    "llm",
+    "llm-agent"
+  ],
+  "github_language": "Python",
+  "github_description": "A Comprehensive Benchmark to Evaluate LLMs as Agents (ICLR'24)",
+  "github_created": "2023-07-28",
+  "github_updated": "2026-08-03",
+  "github_pushed": "2026-02-08",
+  "github_license": "Apache-2.0",
+  "github_homepage": "",
+  "fetched_title": "GitHub - THUDM/AgentBench: A Comprehensive Benchmark to Evaluate LLMs as Agents (ICLR'24) \u00b7 GitHub",
+  "meta_description": "A Comprehensive Benchmark to Evaluate LLMs as Agents (ICLR'24) - THUDM/AgentBench",
+  "og_title": "GitHub - THUDM/AgentBench: A Comprehensive Benchmark to Evaluate LLMs as Agents (ICLR'24)",
+  "og_description": "A Comprehensive Benchmark to Evaluate LLMs as Agents (ICLR'24) - THUDM/AgentBench",
+  "og_image": "https://opengraph.githubassets.com/906968116d4867a9d0e9e11c614e646b2ff36438dd17c8b3f5035af4440345f1/THUDM/AgentBench",
+  "og_type": "object",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://opengraph.githubassets.com/906968116d4867a9d0e9e11c614e646b2ff36438dd17c8b3f5035af4440345f1/THUDM/AgentBench",
+  "language": "en",
+  "word_count": 1498,
+  "reading_time_min": 7,
+  "outline": [
+    {
+      "level": 3,
+      "text": "Uh oh!"
+    },
+    {
+      "level": 2,
+      "text": "Folders and files"
+    },
+    {
+      "level": 2,
+      "text": "Latest commit"
+    },
+    {
+      "level": 2,
+      "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Repository files navigation"
+    },
+    {
+      "level": 1,
+      "text": "AgentBench"
+    },
+    {
+      "level": 2,
+      "text": "\ud83d\udd25[2025.10.10] IntroducingAgentBench FC (Function Calling)based onAgentRL"
+    },
+    {
+      "level": 3,
+      "text": "Quick Start"
+    },
+    {
+      "level": 3,
+      "text": "Benchmarking Results"
+    },
+    {
+      "level": 2,
+      "text": "\ud83d\udd25[2024.08.13] IntroducingVisualAgentBench"
+    },
+    {
+      "level": 1,
+      "text": "AgentBench: Evaluating LLMs as Agents"
+    },
+    {
+      "level": 2,
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "text": "Dataset Summary"
+    },
+    {
+      "level": 2,
+      "text": "Leaderboard"
+    },
+    {
+      "level": 2,
+      "text": "Quick Start"
+    },
+    {
+      "level": 3,
+      "text": "Step 1. Prerequisites"
+    },
+    {
+      "level": 3,
+      "text": "Step 2. Configure the Agent"
+    },
+    {
+      "level": 3,
+      "text": "Step 3. Start the task server"
+    },
+    {
+      "level": 3,
+      "text": "Step 4. Start the assigner"
+    },
+    {
+      "level": 2,
+      "text": "Next Steps"
+    },
+    {
+      "level": 3,
+      "text": "Deploy the KnowledgeGraph service loacally"
+    },
+    {
+      "level": 2,
+      "text": "Extending AgentBench"
+    },
+    {
+      "level": 2,
+      "text": "References"
+    },
+    {
+      "level": 2,
+      "text": "Citation"
+    },
+    {
+      "level": 2,
+      "text": "About"
+    },
+    {
+      "level": 3,
+      "text": "Topics"
+    },
+    {
+      "level": 3,
+      "text": "Resources"
+    },
+    {
+      "level": 3,
+      "text": "Stars"
+    },
+    {
+      "level": 3,
+      "text": "Watchers"
+    },
+    {
+      "level": 3,
+      "text": "Forks"
+    }
+  ]
+}

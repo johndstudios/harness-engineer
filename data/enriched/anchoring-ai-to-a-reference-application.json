@@ -1,0 +1,38 @@
+{
+  "slug": "anchoring-ai-to-a-reference-application",
+  "url": "https://martinfowler.com/articles/exploring-gen-ai/anchoring-to-reference.html",
+  "crawled_at": "2026-08-03T04:32:35.279798+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://martinfowler.com/articles/exploring-gen-ai/anchoring-to-reference.html",
+  "content_type": "article",
+  "last_modified": "Fri, 31 Jul 2026 19:04:20 GMT",
+  "fetched_title": "Anchoring AI to a reference application",
+  "meta_description": "",
+  "og_title": "Anchoring AI to a reference application",
+  "og_description": "Notes from my Thoughtworks colleagues on AI-assisted software delivery",
+  "og_image": "https://martinfowler.com/articles/exploring-gen-ai/donkey-card.png",
+  "og_type": "article",
+  "twitter_card": "summary",
+  "twitter_image": "",
+  "word_count": 741,
+  "reading_time_min": 4,
+  "outline": [
+    {
+      "level": 1,
+      "text": "Anchoring AI to a reference application"
+    },
+    {
+      "level": 2,
+      "text": "Reference application as sample provider"
+    },
+    {
+      "level": 2,
+      "text": "Detect drift from the reference application"
+    },
+    {
+      "level": 3,
+      "text": "When is AI bringing something new to the table?"
+    }
+  ]
+}

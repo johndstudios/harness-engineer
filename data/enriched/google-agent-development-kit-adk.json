@@ -1,0 +1,171 @@
+{
+  "slug": "google-agent-development-kit-adk",
+  "url": "https://github.com/google/adk-python",
+  "crawled_at": "2026-08-03T04:34:06.729709+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://github.com/google/adk-python",
+  "content_type": "github",
+  "last_modified": "",
+  "github_stars": 20981,
+  "github_forks": 3784,
+  "github_open_issues": 595,
+  "github_topics": [
+    "agent",
+    "agentic",
+    "agentic-ai",
+    "agents",
+    "agents-sdk",
+    "ai",
+    "ai-agents",
+    "aiagentframework",
+    "genai",
+    "genai-chatbot",
+    "llm",
+    "llms",
+    "multi-agent",
+    "multi-agent-systems",
+    "multi-agents",
+    "multi-agents-collaboration"
+  ],
+  "github_language": "Python",
+  "github_description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
+  "github_created": "2025-04-01",
+  "github_updated": "2026-08-03",
+  "github_pushed": "2026-08-01",
+  "github_license": "Apache-2.0",
+  "github_homepage": "https://google.github.io/adk-docs/",
+  "fetched_title": "GitHub - google/adk-python: An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. \u00b7 GitHub",
+  "meta_description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. - google/adk-python",
+  "og_title": "GitHub - google/adk-python: An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
+  "og_description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. - google/adk-python",
+  "og_image": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/958830659/9d57973c-4761-4c31-b073-c8dbeb9728d5?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260803%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260803T043407Z&X-Amz-Expires=300&X-Amz-Signature=d04d45c2f9e57f242da8f1b7fb8a46540094ad4e288df274272cfb9d90baa4a6&X-Amz-SignedHeaders=host&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTczMTk0NywibmJmIjoxNzg1NzMxNjQ3LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.Wx1VxoX4E9cRXcC52Cp0ZwbHGrCXbyRVtB9gDH2NjN0",
+  "og_type": "object",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/958830659/9d57973c-4761-4c31-b073-c8dbeb9728d5?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260803%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260803T043407Z&X-Amz-Expires=300&X-Amz-Signature=d04d45c2f9e57f242da8f1b7fb8a46540094ad4e288df274272cfb9d90baa4a6&X-Amz-SignedHeaders=host&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTczMTk0NywibmJmIjoxNzg1NzMxNjQ3LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.Wx1VxoX4E9cRXcC52Cp0ZwbHGrCXbyRVtB9gDH2NjN0",
+  "language": "en",
+  "word_count": 663,
+  "reading_time_min": 3,
+  "outline": [
+    {
+      "level": 3,
+      "text": "Uh oh!"
+    },
+    {
+      "level": 2,
+      "text": "Folders and files"
+    },
+    {
+      "level": 2,
+      "text": "Latest commit"
+    },
+    {
+      "level": 2,
+      "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Repository files navigation"
+    },
+    {
+      "level": 1,
+      "text": "Agent Development Kit (ADK) 2.0"
+    },
+    {
+      "level": 3,
+      "text": "An open-source, code-first Python framework for building, evaluating, and deploying sophisticated AI agents with flexibility and control."
+    },
+    {
+      "level": 3,
+      "text": "Important Links:Docs,Samples&ADK Web."
+    },
+    {
+      "level": 2,
+      "text": "\ud83d\udd25 What's New in 2.0"
+    },
+    {
+      "level": 2,
+      "text": "\ud83d\ude80 Installation"
+    },
+    {
+      "level": 2,
+      "text": "Quick Start"
+    },
+    {
+      "level": 3,
+      "text": "Agent"
+    },
+    {
+      "level": 3,
+      "text": "Workflow"
+    },
+    {
+      "level": 3,
+      "text": "Run Locally"
+    },
+    {
+      "level": 2,
+      "text": "\ud83d\udcda Documentation"
+    },
+    {
+      "level": 2,
+      "text": "\ud83e\udd1d Contributing"
+    },
+    {
+      "level": 2,
+      "text": "\ud83d\udcc4 License"
+    },
+    {
+      "level": 2,
+      "text": "About"
+    },
+    {
+      "level": 3,
+      "text": "Topics"
+    },
+    {
+      "level": 3,
+      "text": "Resources"
+    },
+    {
+      "level": 3,
+      "text": "Code of conduct"
+    },
+    {
+      "level": 3,
+      "text": "Contributing"
+    },
+    {
+      "level": 3,
+      "text": "Security policy"
+    },
+    {
+      "level": 3,
+      "text": "Stars"
+    },
+    {
+      "level": 3,
+      "text": "Watchers"
+    },
+    {
+      "level": 3,
+      "text": "Forks"
+    },
+    {
+      "level": 2,
+      "text": "Releases"
+    },
+    {
+      "level": 2,
+      "text": "Used by"
+    },
+    {
+      "level": 2,
+      "text": "Contributors"
+    },
+    {
+      "level": 2,
+      "text": "Languages"
+    }
+  ]
+}

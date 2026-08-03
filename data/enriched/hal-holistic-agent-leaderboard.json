@@ -1,0 +1,143 @@
+{
+  "slug": "hal-holistic-agent-leaderboard",
+  "url": "https://hal.cs.princeton.edu/",
+  "crawled_at": "2026-08-03T04:34:11.060515+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://hal.cs.princeton.edu/",
+  "content_type": "article",
+  "last_modified": "",
+  "fetched_title": "HAL: Holistic Agent Leaderboard",
+  "meta_description": "The Holistic Agent Leaderboard (HAL) is the standardized, cost-aware, and third-party leaderboard for evaluating agents.",
+  "og_title": "",
+  "og_description": "",
+  "og_image": "",
+  "og_type": "",
+  "twitter_card": "",
+  "twitter_image": "",
+  "language": "en",
+  "word_count": 1297,
+  "reading_time_min": 6,
+  "outline": [
+    {
+      "level": 1,
+      "text": "HAL: Holistic Agent Leaderboard"
+    },
+    {
+      "level": 3,
+      "text": "The standardized, cost-aware, and third-party leaderboard for evaluating agents.Read the paper introducing HALhere."
+    },
+    {
+      "level": 2,
+      "text": "Performance Highlights"
+    },
+    {
+      "level": 3,
+      "text": "AssistantBench"
+    },
+    {
+      "level": 3,
+      "text": "CORE-Bench Hard"
+    },
+    {
+      "level": 3,
+      "text": "GAIA"
+    },
+    {
+      "level": 3,
+      "text": "Online Mind2Web"
+    },
+    {
+      "level": 3,
+      "text": "SWE-bench Verified Mini"
+    },
+    {
+      "level": 3,
+      "text": "Scicode"
+    },
+    {
+      "level": 3,
+      "text": "ScienceAgentBench"
+    },
+    {
+      "level": 3,
+      "text": "TAU-bench Airline"
+    },
+    {
+      "level": 3,
+      "text": "USACO"
+    },
+    {
+      "level": 2,
+      "text": "Who is it for?"
+    },
+    {
+      "level": 3,
+      "text": "Downstream Users & Procurers"
+    },
+    {
+      "level": 3,
+      "text": "Benchmark Developers"
+    },
+    {
+      "level": 3,
+      "text": "Agent Developers"
+    },
+    {
+      "level": 3,
+      "text": "Safety Researchers"
+    },
+    {
+      "level": 2,
+      "text": "Cost-Controlled Agent Evaluations"
+    },
+    {
+      "level": 3,
+      "text": "Why looking at the Pareto frontier matters"
+    },
+    {
+      "level": 2,
+      "text": "The HAL Evaluation Harness"
+    },
+    {
+      "level": 3,
+      "text": "Standardized Evaluation"
+    },
+    {
+      "level": 3,
+      "text": "Comprehensive Logging"
+    },
+    {
+      "level": 3,
+      "text": "Developer Friendly"
+    },
+    {
+      "level": 2,
+      "text": "Reliability Evaluation"
+    },
+    {
+      "level": 2,
+      "text": "Agent Traces"
+    },
+    {
+      "level": 3,
+      "text": "Complete Agent Traces"
+    },
+    {
+      "level": 3,
+      "text": "Encrypted Distribution"
+    },
+    {
+      "level": 2,
+      "text": "Meet the Team"
+    },
+    {
+      "level": 3,
+      "text": "Authors"
+    },
+    {
+      "level": 3,
+      "text": "Acknowledgments"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "i-think-agent-may-finally-have-a-widely-enough-agreed-upon-definition-to-be-useful-jargon-now",
+  "url": "https://simonwillison.net/2025/Sep/18/agents/",
+  "crawled_at": "2026-08-03T04:34:27.290232+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://simonwillison.net/2025/Sep/18/agents/",
+  "content_type": "article",
+  "last_modified": "",
+  "fetched_title": "I think \u201cagent\u201d may finally have a widely enough agreed upon definition to be useful jargon now",
+  "meta_description": "",
+  "og_title": "I think \u201cagent\u201d may finally have a widely enough agreed upon definition to be useful jargon now",
+  "og_description": "I\u2019ve noticed something interesting over the past few weeks: I\u2019ve started using the term \u201cagent\u201d in conversations where I don\u2019t feel the need to then define it, roll my eyes \u2026",
+  "og_image": "https://static.simonwillison.net/static/2025/agents-meme-card.jpg",
+  "og_type": "article",
+  "twitter_card": "summary",
+  "twitter_image": "https://static.simonwillison.net/static/2025/agents-meme-card.jpg",
+  "author": "Simon Willison",
+  "language": "en-gb",
+  "canonical_url": "https://simonwillison.net/2025/Sep/18/agents/",
+  "word_count": 1322,
+  "reading_time_min": 7,
+  "outline": [
+    {
+      "level": 1,
+      "text": "Simon Willison\u2019s Weblog"
+    },
+    {
+      "level": 2,
+      "text": "I think \u201cagent\u201d may finally have a widely enough agreed upon definition to be useful jargon now"
+    },
+    {
+      "level": 2,
+      "text": "More recent articles"
+    },
+    {
+      "level": 3,
+      "text": "Monthly briefing"
+    }
+  ]
+}

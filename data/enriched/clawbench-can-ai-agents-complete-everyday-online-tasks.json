@@ -1,0 +1,51 @@
+{
+  "slug": "clawbench-can-ai-agents-complete-everyday-online-tasks",
+  "url": "https://huggingface.co/papers/2604.08523",
+  "crawled_at": "2026-08-03T04:33:02.525590+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://huggingface.co/papers/2604.08523",
+  "content_type": "article",
+  "last_modified": "",
+  "fetched_title": "Paper page - ClawBench: Can AI Agents Complete Everyday Online Tasks?",
+  "meta_description": "Join the discussion on this paper page",
+  "og_title": "Paper page - ClawBench: Can AI Agents Complete Everyday Online Tasks?",
+  "og_description": "Join the discussion on this paper page",
+  "og_image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2604.08523/gradient.png",
+  "og_type": "website",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2604.08523/gradient.png",
+  "canonical_url": "https://huggingface.co/papers/2604.08523",
+  "word_count": 839,
+  "reading_time_min": 4,
+  "outline": [
+    {
+      "level": 1,
+      "text": "ClawBench: Can AI Agents Complete Everyday Online Tasks?"
+    },
+    {
+      "level": 2,
+      "text": "Abstract"
+    },
+    {
+      "level": 3,
+      "text": "Community"
+    },
+    {
+      "level": 2,
+      "text": "Models citing this paper0"
+    },
+    {
+      "level": 2,
+      "text": "Datasets citing this paper8"
+    },
+    {
+      "level": 3,
+      "text": "Spaces citing this paper2"
+    },
+    {
+      "level": 2,
+      "text": "Collections including this paper9"
+    }
+  ]
+}

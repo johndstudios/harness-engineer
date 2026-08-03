@@ -1,0 +1,154 @@
+{
+  "slug": "agentboard",
+  "url": "https://github.com/HKUST-NLP/AgentBoard",
+  "crawled_at": "2026-08-03T04:32:18.954318+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://github.com/HKUST-NLP/AgentBoard",
+  "content_type": "github",
+  "last_modified": "",
+  "github_stars": 432,
+  "github_forks": 44,
+  "github_open_issues": 17,
+  "github_topics": [],
+  "github_language": "SAS",
+  "github_description": "An Analytical Evaluation Board of Multi-turn LLM Agents [NeurIPS 2024 Oral]",
+  "github_created": "2024-01-08",
+  "github_updated": "2026-07-31",
+  "github_pushed": "2024-05-20",
+  "github_license": "",
+  "github_homepage": "",
+  "fetched_title": "GitHub - hkust-nlp/AgentBoard: An Analytical Evaluation Board of Multi-turn LLM Agents [NeurIPS 2024 Oral] \u00b7 GitHub",
+  "meta_description": "An Analytical Evaluation Board of Multi-turn LLM Agents [NeurIPS 2024 Oral] - hkust-nlp/AgentBoard",
+  "og_title": "GitHub - hkust-nlp/AgentBoard: An Analytical Evaluation Board of Multi-turn LLM Agents [NeurIPS 2024 Oral]",
+  "og_description": "An Analytical Evaluation Board of Multi-turn LLM Agents [NeurIPS 2024 Oral] - hkust-nlp/AgentBoard",
+  "og_image": "https://opengraph.githubassets.com/f0bac9ace9d8a78cbc651a31c6ee33dc271c94d52be171496414e36b8a6be22b/hkust-nlp/AgentBoard",
+  "og_type": "object",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://opengraph.githubassets.com/f0bac9ace9d8a78cbc651a31c6ee33dc271c94d52be171496414e36b8a6be22b/hkust-nlp/AgentBoard",
+  "language": "en",
+  "word_count": 2362,
+  "reading_time_min": 12,
+  "outline": [
+    {
+      "level": 3,
+      "text": "Uh oh!"
+    },
+    {
+      "level": 2,
+      "text": "Folders and files"
+    },
+    {
+      "level": 2,
+      "text": "Latest commit"
+    },
+    {
+      "level": 2,
+      "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Repository files navigation"
+    },
+    {
+      "level": 1,
+      "text": "AgentBoard: An Analytical Evaluation Board of Multi-turn LLM Agents"
+    },
+    {
+      "level": 2,
+      "text": "What's New"
+    },
+    {
+      "level": 2,
+      "text": "Introduction"
+    },
+    {
+      "level": 2,
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "text": "\ud83d\ude80 Quick Start"
+    },
+    {
+      "level": 3,
+      "text": "Setup Environment"
+    },
+    {
+      "level": 3,
+      "text": "Setup Environment Variables inAgentBoard/.env"
+    },
+    {
+      "level": 3,
+      "text": "Evaluate Models"
+    },
+    {
+      "level": 3,
+      "text": "Launch AgentBoard Analytical Evaluation Panel"
+    },
+    {
+      "level": 2,
+      "text": "Data"
+    },
+    {
+      "level": 3,
+      "text": "Data Overview"
+    },
+    {
+      "level": 3,
+      "text": "Download Link"
+    },
+    {
+      "level": 2,
+      "text": "Evaluation Details"
+    },
+    {
+      "level": 3,
+      "text": "Evaluation Preparation"
+    },
+    {
+      "level": 3,
+      "text": "Running Proprietary Models"
+    },
+    {
+      "level": 3,
+      "text": "Running Open-source Models"
+    },
+    {
+      "level": 3,
+      "text": "LLM Customization"
+    },
+    {
+      "level": 3,
+      "text": "Agent Customization"
+    },
+    {
+      "level": 3,
+      "text": "Runtime Estimation"
+    },
+    {
+      "level": 2,
+      "text": "\ufe0fCitation"
+    },
+    {
+      "level": 2,
+      "text": "License"
+    },
+    {
+      "level": 2,
+      "text": "About"
+    },
+    {
+      "level": 3,
+      "text": "Resources"
+    },
+    {
+      "level": 3,
+      "text": "Stars"
+    },
+    {
+      "level": 3,
+      "text": "Watchers"
+    }
+  ]
+}

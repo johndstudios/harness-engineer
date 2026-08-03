@@ -1,0 +1,162 @@
+{
+  "slug": "github-spec-kit",
+  "url": "https://github.com/github/spec-kit",
+  "crawled_at": "2026-08-03T04:34:04.785877+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://github.com/github/spec-kit",
+  "content_type": "github",
+  "last_modified": "",
+  "github_stars": 125071,
+  "github_forks": 11181,
+  "github_open_issues": 331,
+  "github_topics": [
+    "ai",
+    "copilot",
+    "development",
+    "engineering",
+    "prd",
+    "spec",
+    "spec-driven"
+  ],
+  "github_language": "Python",
+  "github_description": "\ud83d\udcab Toolkit to help you get started with Spec-Driven Development",
+  "github_created": "2025-08-21",
+  "github_updated": "2026-08-03",
+  "github_pushed": "2026-07-31",
+  "github_license": "MIT",
+  "github_homepage": "https://github.github.com/spec-kit/",
+  "fetched_title": "GitHub - github/spec-kit: \ud83d\udcab Toolkit to help you get started with Spec-Driven Development \u00b7 GitHub",
+  "meta_description": "\ud83d\udcab Toolkit to help you get started with Spec-Driven Development - github/spec-kit",
+  "og_title": "GitHub - github/spec-kit: \ud83d\udcab Toolkit to help you get started with Spec-Driven Development",
+  "og_description": "\ud83d\udcab Toolkit to help you get started with Spec-Driven Development - github/spec-kit",
+  "og_image": "https://opengraph.githubassets.com/0eccc6fde6add32aad978478ef7e454d11e2cdf331d3bdec6e596da537a31b2d/github/spec-kit",
+  "og_type": "object",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://opengraph.githubassets.com/0eccc6fde6add32aad978478ef7e454d11e2cdf331d3bdec6e596da537a31b2d/github/spec-kit",
+  "language": "en",
+  "word_count": 2493,
+  "reading_time_min": 12,
+  "outline": [
+    {
+      "level": 3,
+      "text": "Uh oh!"
+    },
+    {
+      "level": 2,
+      "text": "Folders and files"
+    },
+    {
+      "level": 2,
+      "text": "Latest commit"
+    },
+    {
+      "level": 2,
+      "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Repository files navigation"
+    },
+    {
+      "level": 1,
+      "text": "\ud83c\udf31 Spec Kit"
+    },
+    {
+      "level": 3,
+      "text": "Define what to build before building it \u2014 with any AI coding agent."
+    },
+    {
+      "level": 2,
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "text": "\ud83e\udd14 What is Spec-Driven Development?"
+    },
+    {
+      "level": 2,
+      "text": "\u26a1 Get Started"
+    },
+    {
+      "level": 3,
+      "text": "1. Install Specify CLI"
+    },
+    {
+      "level": 3,
+      "text": "2. Initialize a project"
+    },
+    {
+      "level": 3,
+      "text": "3. Establish project principles"
+    },
+    {
+      "level": 3,
+      "text": "4. Create the spec"
+    },
+    {
+      "level": 3,
+      "text": "5. Create a technical implementation plan"
+    },
+    {
+      "level": 3,
+      "text": "6. Break down into tasks"
+    },
+    {
+      "level": 3,
+      "text": "7. Execute implementation"
+    },
+    {
+      "level": 2,
+      "text": "\ud83d\udcfd\ufe0f Video Overview"
+    },
+    {
+      "level": 2,
+      "text": "\ud83c\udf0d Community"
+    },
+    {
+      "level": 2,
+      "text": "\ud83e\udd16 Supported AI Coding Agent Integrations"
+    },
+    {
+      "level": 2,
+      "text": "Available Slash Commands"
+    },
+    {
+      "level": 3,
+      "text": "Core Commands"
+    },
+    {
+      "level": 3,
+      "text": "Optional Commands"
+    },
+    {
+      "level": 2,
+      "text": "\ud83d\udd27 Specify CLI Reference"
+    },
+    {
+      "level": 2,
+      "text": "\ud83e\udde9 Making Spec Kit Your Own: Extensions & Presets"
+    },
+    {
+      "level": 3,
+      "text": "Extensions \u2014 Add New Capabilities"
+    },
+    {
+      "level": 3,
+      "text": "Presets \u2014 Customize Existing Workflows"
+    },
+    {
+      "level": 2,
+      "text": "\ud83d\udce6 Bundles: Role-Based Setups"
+    },
+    {
+      "level": 3,
+      "text": "When to Use Which"
+    },
+    {
+      "level": 2,
+      "text": "\ud83d\udcda Core Philosophy"
+    }
+  ]
+}

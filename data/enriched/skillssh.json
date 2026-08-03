@@ -1,0 +1,144 @@
+{
+  "slug": "skillssh",
+  "url": "https://skills.sh",
+  "crawled_at": "2026-08-03T04:35:08.361953+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://www.skills.sh/",
+  "content_type": "article",
+  "last_modified": "",
+  "fetched_title": "The Agent Skills Directory",
+  "meta_description": "Discover and install skills for AI agents.",
+  "og_title": "The Agent Skills Directory",
+  "og_description": "Discover and install skills for AI agents.",
+  "og_image": "https://www.skills.sh/og.jpeg",
+  "og_type": "website",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://www.skills.sh/og.jpeg",
+  "language": "en",
+  "canonical_url": "https://www.skills.sh",
+  "word_count": 607,
+  "reading_time_min": 3,
+  "outline": [
+    {
+      "level": 1,
+      "text": "Skills"
+    },
+    {
+      "level": 2,
+      "text": "Try it now"
+    },
+    {
+      "level": 2,
+      "text": "Available for these agents"
+    },
+    {
+      "level": 2,
+      "text": "Skills Leaderboard"
+    },
+    {
+      "level": 3,
+      "text": "find-skills"
+    },
+    {
+      "level": 3,
+      "text": "frontend-design"
+    },
+    {
+      "level": 3,
+      "text": "grill-me"
+    },
+    {
+      "level": 3,
+      "text": "grill-with-docs"
+    },
+    {
+      "level": 3,
+      "text": "agent-browser"
+    },
+    {
+      "level": 3,
+      "text": "vercel-react-best-practices"
+    },
+    {
+      "level": 3,
+      "text": "improve-codebase-architecture"
+    },
+    {
+      "level": 3,
+      "text": "tdd"
+    },
+    {
+      "level": 3,
+      "text": "ai-video-generation"
+    },
+    {
+      "level": 3,
+      "text": "setup-matt-pocock-skills"
+    },
+    {
+      "level": 3,
+      "text": "lark-approval"
+    },
+    {
+      "level": 3,
+      "text": "web-design-guidelines"
+    },
+    {
+      "level": 3,
+      "text": "microsoft-foundry"
+    },
+    {
+      "level": 3,
+      "text": "lark-okr"
+    },
+    {
+      "level": 3,
+      "text": "azure-ai"
+    },
+    {
+      "level": 3,
+      "text": "handoff"
+    },
+    {
+      "level": 3,
+      "text": "azure-validate"
+    },
+    {
+      "level": 3,
+      "text": "triage"
+    },
+    {
+      "level": 3,
+      "text": "azure-messaging"
+    },
+    {
+      "level": 3,
+      "text": "lark-markdown"
+    },
+    {
+      "level": 3,
+      "text": "prototype"
+    },
+    {
+      "level": 3,
+      "text": "azure-rbac"
+    },
+    {
+      "level": 3,
+      "text": "remotion-best-practices"
+    },
+    {
+      "level": 3,
+      "text": "lark-vc-agent"
+    },
+    {
+      "level": 3,
+      "text": "azure-compute"
+    },
+    {
+      "level": 3,
+      "text": "azure-hosted-copilot-sdk"
+    }
+  ]
+}

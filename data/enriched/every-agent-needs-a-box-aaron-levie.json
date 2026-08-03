@@ -1,0 +1,106 @@
+{
+  "slug": "every-agent-needs-a-box-aaron-levie",
+  "url": "https://www.latent.space/p/box",
+  "crawled_at": "2026-08-03T04:33:58.589932+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://www.latent.space/p/box",
+  "content_type": "podcast",
+  "last_modified": "",
+  "fetched_title": "Every Agent Needs a Box \u2014 Aaron Levie, Box - Latent.Space",
+  "meta_description": "The reception to our recent post on Code Reviews has been strong. Catch up!",
+  "og_title": "Every Agent Needs a Box \u2014 Aaron Levie, Box",
+  "og_description": "The reception to our recent post on Code Reviews has been strong. Catch up!",
+  "og_image": "https://substackcdn.com/image/fetch/$s_!Q9U2!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-video.s3.amazonaws.com%2Fvideo_upload%2Fpost%2F189936942%2F2f18c5c0-6521-4e05-b803-2d46148d091a%2Ftranscoded-1772670862.png",
+  "og_type": "article",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://substackcdn.com/image/fetch/$s_!1VxG!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fswyx.substack.com%2Fapi%2Fv1%2Fpost_preview%2F189936942%2Ftwitter.jpg%3Fversion%3D4",
+  "author": "Latent.Space",
+  "publish_date": "2026-03-05",
+  "language": "en",
+  "canonical_url": "https://www.latent.space/p/box",
+  "word_count": 19262,
+  "reading_time_min": 96,
+  "outline": [
+    {
+      "level": 2,
+      "text": "Every Agent Needs a Box \u2014 Aaron Levie, Box"
+    },
+    {
+      "level": 2,
+      "text": "Full Video Episode"
+    },
+    {
+      "level": 2,
+      "text": "Timestamps"
+    },
+    {
+      "level": 2,
+      "text": "Transcript"
+    },
+    {
+      "level": 2,
+      "text": "Adapting Work for Agents"
+    },
+    {
+      "level": 2,
+      "text": "Why Every Agent Needs a Box"
+    },
+    {
+      "level": 2,
+      "text": "Agent Governance and Identity"
+    },
+    {
+      "level": 2,
+      "text": "Why Coding Agents Took Off First"
+    },
+    {
+      "level": 2,
+      "text": "Context Engineering and Search Limits"
+    },
+    {
+      "level": 2,
+      "text": "Inside Agent Evals"
+    },
+    {
+      "level": 2,
+      "text": "Industries and Datasets"
+    },
+    {
+      "level": 2,
+      "text": "Building the Agent Team"
+    },
+    {
+      "level": 2,
+      "text": "Read Write Agent Workflows"
+    },
+    {
+      "level": 2,
+      "text": "Docs Graphs and Founder Mode"
+    },
+    {
+      "level": 2,
+      "text": "Token FOMO Culture"
+    },
+    {
+      "level": 2,
+      "text": "Production Function Secrets"
+    },
+    {
+      "level": 2,
+      "text": "Film Roots to Box"
+    },
+    {
+      "level": 2,
+      "text": "AI Future of Movies"
+    },
+    {
+      "level": 2,
+      "text": "Media DevRel and Engineering"
+    },
+    {
+      "level": 3,
+      "text": "Ready for more?"
+    }
+  ]
+}

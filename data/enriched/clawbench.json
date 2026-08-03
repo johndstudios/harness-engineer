@@ -1,0 +1,21 @@
+{
+  "slug": "clawbench",
+  "url": "https://clawbench.net",
+  "crawled_at": "2026-08-03T04:33:03.309180+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://clawbench.net",
+  "content_type": "article",
+  "last_modified": "Wed, 08 Apr 2026 17:16:29 GMT",
+  "fetched_title": "Claw Bench Leaderboard",
+  "meta_description": "Benchmark leaderboard for AI coding agents across frameworks, models, and task categories.",
+  "og_title": "",
+  "og_description": "",
+  "og_image": "",
+  "og_type": "",
+  "twitter_card": "",
+  "twitter_image": "",
+  "language": "en",
+  "word_count": 2039,
+  "reading_time_min": 10
+}

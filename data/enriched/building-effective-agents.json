@@ -1,0 +1,104 @@
+{
+  "slug": "building-effective-agents",
+  "url": "https://www.anthropic.com/engineering/building-effective-agents",
+  "crawled_at": "2026-08-03T04:32:54.557705+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://www.anthropic.com/engineering/building-effective-agents",
+  "content_type": "article",
+  "last_modified": "",
+  "fetched_title": "Building Effective AI Agents \\ Anthropic",
+  "meta_description": "Discover how Anthropic approaches the development of reliable AI agents. Learn about our research on agent capabilities, safety considerations, and technical framework for building trustworthy AI.",
+  "og_title": "Building Effective AI Agents",
+  "og_description": "Discover how Anthropic approaches the development of reliable AI agents. Learn about our research on agent capabilities, safety considerations, and technical framework for building trustworthy AI.",
+  "og_image": "https://cdn.sanity.io/images/4zrzovbb/website/76b5733c669f0dfb9c7aa7fc512a495867cf12e6-2400x1260.png",
+  "og_type": "website",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://cdn.sanity.io/images/4zrzovbb/website/76b5733c669f0dfb9c7aa7fc512a495867cf12e6-2400x1260.png",
+  "language": "en",
+  "canonical_url": "https://www.anthropic.com/engineering/building-effective-agents",
+  "word_count": 2763,
+  "reading_time_min": 14,
+  "outline": [
+    {
+      "level": 1,
+      "text": "Building effective agents"
+    },
+    {
+      "level": 2,
+      "text": "What are agents?"
+    },
+    {
+      "level": 2,
+      "text": "When (and when not) to use agents"
+    },
+    {
+      "level": 2,
+      "text": "When and how to use frameworks"
+    },
+    {
+      "level": 2,
+      "text": "Building blocks, workflows, and agents"
+    },
+    {
+      "level": 3,
+      "text": "Building block: The augmented LLM"
+    },
+    {
+      "level": 3,
+      "text": "Workflow: Prompt chaining"
+    },
+    {
+      "level": 3,
+      "text": "Workflow: Routing"
+    },
+    {
+      "level": 3,
+      "text": "Workflow: Parallelization"
+    },
+    {
+      "level": 3,
+      "text": "Workflow: Orchestrator-workers"
+    },
+    {
+      "level": 3,
+      "text": "Workflow: Evaluator-optimizer"
+    },
+    {
+      "level": 3,
+      "text": "Agents"
+    },
+    {
+      "level": 2,
+      "text": "Combining and customizing these patterns"
+    },
+    {
+      "level": 2,
+      "text": "Summary"
+    },
+    {
+      "level": 3,
+      "text": "Acknowledgements"
+    },
+    {
+      "level": 2,
+      "text": "Appendix 1: Agents in practice"
+    },
+    {
+      "level": 3,
+      "text": "A. Customer support"
+    },
+    {
+      "level": 3,
+      "text": "B. Coding agents"
+    },
+    {
+      "level": 2,
+      "text": "Appendix 2: Prompt engineering your tools"
+    },
+    {
+      "level": 2,
+      "text": "Get the developer newsletter"
+    }
+  ]
+}

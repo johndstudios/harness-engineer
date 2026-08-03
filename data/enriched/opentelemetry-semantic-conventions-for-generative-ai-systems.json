@@ -1,0 +1,32 @@
+{
+  "slug": "opentelemetry-semantic-conventions-for-generative-ai-systems",
+  "url": "https://opentelemetry.io/docs/specs/semconv/gen-ai/",
+  "crawled_at": "2026-08-03T04:34:57.914749+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://opentelemetry.io/docs/specs/semconv/gen-ai/",
+  "content_type": "article",
+  "last_modified": "",
+  "fetched_title": "Moved: Generative AI semantic conventions | OpenTelemetry",
+  "meta_description": "Important GenAI semantic conventions have moved to the OpenTelemetry GenAI semantic conventions repository. This page has moved and is no longer maintained in this repository.",
+  "og_title": "Moved: Generative AI semantic conventions",
+  "og_description": "Important GenAI semantic conventions have moved to the OpenTelemetry GenAI semantic conventions repository. This page has moved and is no longer maintained in this repository.",
+  "og_image": "https://opentelemetry.io/img/social/logo-wordmark-001.png",
+  "og_type": "website",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://opentelemetry.io/img/social/logo-wordmark-001.png",
+  "language": "en",
+  "canonical_url": "https://opentelemetry.io/docs/specs/semconv/gen-ai/",
+  "word_count": 121,
+  "reading_time_min": 1,
+  "outline": [
+    {
+      "level": 1,
+      "text": "Moved: Generative AI semantic conventions"
+    },
+    {
+      "level": 2,
+      "text": "Feedback"
+    }
+  ]
+}

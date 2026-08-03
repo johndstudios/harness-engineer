@@ -1,0 +1,41 @@
+{
+  "slug": "prompt-injection-attacks-against-gpt-3",
+  "url": "https://simonwillison.net/2022/Sep/12/prompt-injection/",
+  "crawled_at": "2026-08-03T04:35:00.267229+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://simonwillison.net/2022/Sep/12/prompt-injection/",
+  "content_type": "article",
+  "last_modified": "",
+  "fetched_title": "Prompt injection attacks against GPT-3",
+  "meta_description": "",
+  "og_title": "Prompt injection attacks against GPT-3",
+  "og_description": "Riley Goodside, yesterday: Exploiting GPT-3 prompts with malicious inputs that order the model to ignore its previous directions. pic.twitter.com/I0NVr9LOJq- Riley Goodside (@goodside) September 12, 2022 Riley provided several examples. Here\u2019s \u2026",
+  "og_image": "https://static.simonwillison.net/static/2022/prompt-injection-threat.jpg",
+  "og_type": "article",
+  "twitter_card": "summary",
+  "twitter_image": "https://static.simonwillison.net/static/2022/prompt-injection-threat.jpg",
+  "author": "Simon Willison",
+  "language": "en-gb",
+  "canonical_url": "https://simonwillison.net/2022/Sep/12/prompt-injection/",
+  "word_count": 1641,
+  "reading_time_min": 8,
+  "outline": [
+    {
+      "level": 1,
+      "text": "Simon Willison\u2019s Weblog"
+    },
+    {
+      "level": 2,
+      "text": "Prompt injection attacks against GPT-3"
+    },
+    {
+      "level": 2,
+      "text": "More recent articles"
+    },
+    {
+      "level": 3,
+      "text": "Monthly briefing"
+    }
+  ]
+}

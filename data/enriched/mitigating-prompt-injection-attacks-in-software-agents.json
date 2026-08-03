@@ -1,0 +1,78 @@
+{
+  "slug": "mitigating-prompt-injection-attacks-in-software-agents",
+  "url": "https://openhands.dev/blog/mitigating-prompt-injection-attacks-in-software-agents",
+  "crawled_at": "2026-08-03T04:34:51.504978+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://www.openhands.dev/blog/mitigating-prompt-injection-attacks-in-software-agents",
+  "content_type": "article",
+  "last_modified": "",
+  "fetched_title": "Mitigating Prompt Injection Attacks in Software Agents | Aug 14, 2025",
+  "meta_description": "There's a major security dilemma when it comes to working with AI agents. If you give an agent access to untrusted data sources and the ability to take destructive actions, you become vulnerable to prompt injection attacks. Here's how we're addressing this challenge at OpenHands.",
+  "og_title": "Mitigating Prompt Injection Attacks in Software Agents",
+  "og_description": "There's a major security dilemma when it comes to working with AI agents. If you give an agent access to untrusted data sources and the ability to take destructive actions, you become vulnerable to prompt injection attacks. Here's how we're addressing this challenge at OpenHands.",
+  "og_image": "https://www.openhands.dev/assets/notion-blog/mitigating-prompt-injection-attacks-in-software-agents/og.png",
+  "og_type": "article",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://www.openhands.dev/assets/notion-blog/mitigating-prompt-injection-attacks-in-software-agents/og.png",
+  "author": "Robert Brennan",
+  "publish_date": "2025-08-14",
+  "language": "en",
+  "canonical_url": "https://www.openhands.dev/blog/mitigating-prompt-injection-attacks-in-software-agents",
+  "word_count": 1387,
+  "reading_time_min": 7,
+  "outline": [
+    {
+      "level": 2,
+      "text": "The Good News"
+    },
+    {
+      "level": 2,
+      "text": "The Bad News"
+    },
+    {
+      "level": 2,
+      "text": "Comparison to Other Threat Vectors"
+    },
+    {
+      "level": 2,
+      "text": "Mitigation Strategies"
+    },
+    {
+      "level": 3,
+      "text": "Confirmation Mode"
+    },
+    {
+      "level": 3,
+      "text": "Security Analyzers"
+    },
+    {
+      "level": 3,
+      "text": "Sandboxing"
+    },
+    {
+      "level": 3,
+      "text": "Hard Policies"
+    },
+    {
+      "level": 2,
+      "text": "Future Work"
+    },
+    {
+      "level": 2,
+      "text": "Stay Safe"
+    },
+    {
+      "level": 2,
+      "text": "Further Reading"
+    },
+    {
+      "level": 1,
+      "text": "Get useful insights in our blog"
+    },
+    {
+      "level": 3,
+      "text": "Thank you for your submission!"
+    }
+  ]
+}

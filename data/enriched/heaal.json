@@ -1,0 +1,114 @@
+{
+  "slug": "heaal",
+  "url": "https://github.com/hyun06000/AIL",
+  "crawled_at": "2026-08-03T04:34:20.086979+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://github.com/hyun06000/AIL",
+  "content_type": "github",
+  "last_modified": "",
+  "github_stars": 1,
+  "github_forks": 0,
+  "github_open_issues": 0,
+  "github_topics": [],
+  "github_language": "Python",
+  "github_description": null,
+  "github_created": "2026-08-02",
+  "github_updated": "2026-08-03",
+  "github_pushed": "2026-08-03",
+  "github_license": "MIT",
+  "github_homepage": null,
+  "fetched_title": "GitHub - hyun06000/AIL \u00b7 GitHub",
+  "meta_description": "Contribute to hyun06000/AIL development by creating an account on GitHub.",
+  "og_title": "GitHub - hyun06000/AIL",
+  "og_description": "Contribute to hyun06000/AIL development by creating an account on GitHub.",
+  "og_image": "https://opengraph.githubassets.com/1ed03b906697f9970afaa29d519dcce7580a22350e393542a4aeb4ec1a348e90/hyun06000/AIL",
+  "og_type": "object",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://opengraph.githubassets.com/1ed03b906697f9970afaa29d519dcce7580a22350e393542a4aeb4ec1a348e90/hyun06000/AIL",
+  "language": "en",
+  "word_count": 620,
+  "reading_time_min": 3,
+  "outline": [
+    {
+      "level": 2,
+      "text": "Folders and files"
+    },
+    {
+      "level": 2,
+      "text": "Latest commit"
+    },
+    {
+      "level": 2,
+      "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Repository files navigation"
+    },
+    {
+      "level": 1,
+      "text": "AIL \u2014 AI Intent Language"
+    },
+    {
+      "level": 2,
+      "text": "Why a new language?"
+    },
+    {
+      "level": 2,
+      "text": "What is different?"
+    },
+    {
+      "level": 2,
+      "text": "Current status"
+    },
+    {
+      "level": 2,
+      "text": "How this repository works"
+    },
+    {
+      "level": 2,
+      "text": "Contributing & documents"
+    },
+    {
+      "level": 2,
+      "text": "About"
+    },
+    {
+      "level": 3,
+      "text": "Resources"
+    },
+    {
+      "level": 3,
+      "text": "Contributing"
+    },
+    {
+      "level": 3,
+      "text": "Stars"
+    },
+    {
+      "level": 3,
+      "text": "Watchers"
+    },
+    {
+      "level": 3,
+      "text": "Forks"
+    },
+    {
+      "level": 2,
+      "text": "Releases"
+    },
+    {
+      "level": 2,
+      "text": "Packages"
+    },
+    {
+      "level": 2,
+      "text": "Contributors"
+    },
+    {
+      "level": 2,
+      "text": "Languages"
+    }
+  ]
+}

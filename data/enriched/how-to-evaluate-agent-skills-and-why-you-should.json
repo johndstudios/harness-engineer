@@ -1,0 +1,78 @@
+{
+  "slug": "how-to-evaluate-agent-skills-and-why-you-should",
+  "url": "https://openhands.dev/blog/evaluating-agent-skills",
+  "crawled_at": "2026-08-03T04:34:21.673524+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://www.openhands.dev/blog/evaluating-agent-skills",
+  "content_type": "article",
+  "last_modified": "",
+  "fetched_title": "How to Evaluate Agent Skills (And Why You Should) | Mar 18, 2026",
+  "meta_description": "Skills can make coding agents dramatically better, slightly more reliable, or actively worse. This post shows how to evaluate agent skills with deterministic tasks, verifiers, and no-skill baselines so you can measure what actually helps.",
+  "og_title": "How to Evaluate Agent Skills (And Why You Should)",
+  "og_description": "Skills can make coding agents dramatically better, slightly more reliable, or actively worse. This post shows how to evaluate agent skills with deterministic tasks, verifiers, and no-skill baselines so you can measure what actually helps.",
+  "og_image": "https://www.openhands.dev/assets/notion-blog/evaluating-agent-skills/og.png",
+  "og_type": "article",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://www.openhands.dev/assets/notion-blog/evaluating-agent-skills/og.png",
+  "author": "Rajiv Shah",
+  "publish_date": "2026-03-18",
+  "language": "en",
+  "canonical_url": "https://www.openhands.dev/blog/evaluating-agent-skills",
+  "word_count": 1430,
+  "reading_time_min": 7,
+  "outline": [
+    {
+      "level": 2,
+      "text": "Why evaluate skills?"
+    },
+    {
+      "level": 2,
+      "text": "What makes a skill evaluation useful?"
+    },
+    {
+      "level": 2,
+      "text": "A hands-on evaluation setup"
+    },
+    {
+      "level": 2,
+      "text": "Three tasks, three different stories"
+    },
+    {
+      "level": 3,
+      "text": "1. Dependency audit: the skill is essential"
+    },
+    {
+      "level": 3,
+      "text": "2. Financial report extraction: the skill is a safety net"
+    },
+    {
+      "level": 3,
+      "text": "3. Sales pivot analysis: the skill can help or hurt"
+    },
+    {
+      "level": 2,
+      "text": "The bigger lesson"
+    },
+    {
+      "level": 2,
+      "text": "What traces add"
+    },
+    {
+      "level": 2,
+      "text": "How to evaluate your own skills"
+    },
+    {
+      "level": 2,
+      "text": "Try it yourself"
+    },
+    {
+      "level": 1,
+      "text": "Get useful insights in our blog"
+    },
+    {
+      "level": 3,
+      "text": "Thank you for your submission!"
+    }
+  ]
+}

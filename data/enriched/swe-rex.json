@@ -1,0 +1,129 @@
+{
+  "slug": "swe-rex",
+  "url": "https://github.com/SWE-agent/SWE-ReX",
+  "crawled_at": "2026-08-03T04:35:13.874046+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://github.com/SWE-agent/SWE-ReX",
+  "content_type": "github",
+  "last_modified": "",
+  "github_stars": 561,
+  "github_forks": 117,
+  "github_open_issues": 52,
+  "github_topics": [
+    "agent",
+    "agents",
+    "ai",
+    "aws",
+    "cloud",
+    "coding-agents",
+    "docker",
+    "fargate",
+    "modal",
+    "swe-agent"
+  ],
+  "github_language": "Python",
+  "github_description": "Sandboxed code execution for AI agents, locally or on the cloud. Massively parallel, easy to extend. Powering SWE-agent and more. ",
+  "github_created": "2024-10-14",
+  "github_updated": "2026-08-01",
+  "github_pushed": "2026-07-27",
+  "github_license": "MIT",
+  "github_homepage": "https://swe-rex.com/",
+  "fetched_title": "GitHub - SWE-agent/SWE-ReX: Sandboxed code execution for AI agents, locally or on the cloud. Massively parallel, easy to extend. Powering SWE-agent and more. \u00b7 GitHub",
+  "meta_description": "Sandboxed code execution for AI agents, locally or on the cloud. Massively parallel, easy to extend. Powering SWE-agent and more.  - GitHub - SWE-agent/SWE-ReX: Sandboxed code execution for AI agents, locally or on the cloud. Massively parallel, easy to extend. Powering SWE-agent and more.",
+  "og_title": "GitHub - SWE-agent/SWE-ReX: Sandboxed code execution for AI agents, locally or on the cloud. Massively parallel, easy to extend. Powering SWE-agent and more.",
+  "og_description": "Sandboxed code execution for AI agents, locally or on the cloud. Massively parallel, easy to extend. Powering SWE-agent and more.  - SWE-agent/SWE-ReX",
+  "og_image": "https://opengraph.githubassets.com/a2aff036ec0007d59fd73f5583006e173e9db0707758590e43f92085f522f053/SWE-agent/SWE-ReX",
+  "og_type": "object",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://opengraph.githubassets.com/a2aff036ec0007d59fd73f5583006e173e9db0707758590e43f92085f522f053/SWE-agent/SWE-ReX",
+  "language": "en",
+  "word_count": 522,
+  "reading_time_min": 3,
+  "outline": [
+    {
+      "level": 3,
+      "text": "Uh oh!"
+    },
+    {
+      "level": 2,
+      "text": "Folders and files"
+    },
+    {
+      "level": 2,
+      "text": "Latest commit"
+    },
+    {
+      "level": 2,
+      "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Repository files navigation"
+    },
+    {
+      "level": 1,
+      "text": "SWE-agent Remote Execution Framework"
+    },
+    {
+      "level": 2,
+      "text": "Get started"
+    },
+    {
+      "level": 2,
+      "text": "Our other projects"
+    },
+    {
+      "level": 2,
+      "text": "About"
+    },
+    {
+      "level": 3,
+      "text": "Topics"
+    },
+    {
+      "level": 3,
+      "text": "Resources"
+    },
+    {
+      "level": 3,
+      "text": "Code of conduct"
+    },
+    {
+      "level": 3,
+      "text": "Security policy"
+    },
+    {
+      "level": 3,
+      "text": "Stars"
+    },
+    {
+      "level": 3,
+      "text": "Watchers"
+    },
+    {
+      "level": 3,
+      "text": "Forks"
+    },
+    {
+      "level": 2,
+      "text": "Releases"
+    },
+    {
+      "level": 2,
+      "text": "Packages"
+    },
+    {
+      "level": 2,
+      "text": "Used by"
+    },
+    {
+      "level": 2,
+      "text": "Contributors"
+    },
+    {
+      "level": 2,
+      "text": "Languages"
+    }
+  ]
+}

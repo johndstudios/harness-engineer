@@ -1,0 +1,80 @@
+{
+  "slug": "metagpt-meta-programming-for-a-multi-agent-collaborative-framework",
+  "url": "https://arxiv.org/abs/2308.00352",
+  "crawled_at": "2026-08-03T04:34:47.384842+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://arxiv.org/abs/2308.00352",
+  "content_type": "paper",
+  "last_modified": "",
+  "fetched_title": "[2308.00352] MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework",
+  "meta_description": "Abstract page for arXiv paper 2308.00352: MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework",
+  "og_title": "MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework",
+  "og_description": "Remarkable progress has been made on automated problem solving through societies of agents based on large language models (LLMs). Existing LLM-based multi-agent systems can already solve simple dialogue tasks. Solutions to more complex tasks, however, are complicated through logic inconsistencies due to cascading hallucinations caused by naively chaining LLMs. Here we introduce MetaGPT, an innovative meta-programming framework incorporating efficient human workflows into LLM-based multi-agent collaborations. MetaGPT encodes Standardized Operating Procedures (SOPs) into prompt sequences for more streamlined workflows, thus allowing agents with human-like domain expertise to verify intermediate results and reduce errors. MetaGPT utilizes an assembly line paradigm to assign diverse roles to various agents, efficiently breaking down complex tasks into subtasks involving many agents working together. On collaborative software engineering benchmarks, MetaGPT generates more coherent solutions than previous chat-based multi-agent systems. Our project can be found at https://github.com/geekan/MetaGPT",
+  "og_image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+  "og_type": "website",
+  "twitter_card": "summary",
+  "twitter_image": "https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png",
+  "language": "en",
+  "canonical_url": "https://arxiv.org/abs/2308.00352",
+  "word_count": 730,
+  "reading_time_min": 4,
+  "outline": [
+    {
+      "level": 1,
+      "text": "Computer Science > Artificial Intelligence"
+    },
+    {
+      "level": 1,
+      "text": "Title:MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework"
+    },
+    {
+      "level": 2,
+      "text": "Submission history"
+    },
+    {
+      "level": 2,
+      "text": "Access Paper:"
+    },
+    {
+      "level": 3,
+      "text": "Current browse context:"
+    },
+    {
+      "level": 3,
+      "text": "References & Citations"
+    },
+    {
+      "level": 3,
+      "text": "1 blog link"
+    },
+    {
+      "level": 2,
+      "text": "BibTeX formatted citation"
+    },
+    {
+      "level": 3,
+      "text": "Bookmark"
+    },
+    {
+      "level": 1,
+      "text": "Bibliographic and Citation Tools"
+    },
+    {
+      "level": 1,
+      "text": "Code, Data and Media Associated with this Article"
+    },
+    {
+      "level": 1,
+      "text": "Demos"
+    },
+    {
+      "level": 1,
+      "text": "Recommenders and Search Tools"
+    },
+    {
+      "level": 1,
+      "text": "arXivLabs: experimental projects with community collaborators"
+    }
+  ]
+}

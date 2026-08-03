@@ -1,4 +1,6 @@
 {{ define "main" }}
+  {{- $slug := .File.ContentBaseName -}}
+  {{- $enriched := index .Site.Data.enriched $slug -}}
   <article class="single resource-single">
     <h1>{{ .Title }}</h1>
     <p class="resource-meta">
@@ -7,7 +9,6 @@
       · {{ index .Params.source 0 | default .Params.source }}
       · added {{ .Params.added }}
       {{- with .Site.Data.resource_authors -}}
-        {{- $slug := $.File.ContentBaseName -}}
         {{- with index . $slug -}}
           · by {{ delimit . ", " }}
         {{- end -}}
@@ -16,11 +17,64 @@
     <p class="tags">
       {{ range .Params.tags }}<span class="tag">#{{ . }}</span>{{ end }}
     </p>
+
+    {{- with $enriched -}}
+      {{- if .og_image -}}
+        <img class="og-image" src="{{ .og_image }}" alt="{{ .fetched_title }}" loading="lazy">
+      {{- end -}}
+
+      <div class="enriched-meta">
+        {{- with .author }}<span class="em-item">Author: {{ . }}</span>{{ end }}
+        {{- with .publish_date }}<span class="em-item">Published: {{ . }}</span>{{ end }}
+        {{- with .reading_time_min }}<span class="em-item">Reading time: ~{{ . }} min</span>{{ end }}
+        {{- with .word_count }}<span class="em-item">{{ . }} words</span>{{ end }}
+        {{- with .language }}<span class="em-item">Language: {{ . }}</span>{{ end }}
+        {{- with .content_type }}<span class="em-item">Type: {{ . }}</span>{{ end }}
+        {{- with .crawled_at }}<span class="em-item em-crawled" title="{{ . }}">Crawled: {{ (substr . 0 10) }}</span>{{ end }}
+      </div>
+
+      {{- if .github_stars -}}
+      <div class="github-stats">
+        <span class="gh-stat">⭐ {{ .github_stars }} stars</span>
+        <span class="gh-stat">🍴 {{ .github_forks }} forks</span>
+        <span class="gh-stat">📋 {{ .github_open_issues }} issues</span>
+        {{- with .github_language }}<span class="gh-stat">🔧 {{ . }}</span>{{ end }}
+        {{- with .github_license }}<span class="gh-stat">⚖ {{ . }}</span>{{ end }}
+        {{- with .github_pushed }}<span class="gh-stat">Updated: {{ . }}</span>{{ end }}
+      </div>
+      {{- end -}}
+
+      {{- with .github_description }}
+      <blockquote class="github-desc">{{ . }}</blockquote>
+      {{- end -}}
+
+      {{- with .meta_description }}
+        {{- if not $.Params.description -}}
+        <p class="meta-desc">{{ . }}</p>
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+
     {{ .Content }}
+
     <p><a class="link-out" href="{{ .Params.link }}" target="_blank" rel="noopener noreferrer">Open resource →</a></p>
     <p class="edit-link">
       <a href="{{ .Site.Params.githubRepo }}/edit/main/content/resources/{{ .File.ContentBaseName }}.md" target="_blank" rel="noopener noreferrer">Edit this resource on GitHub →</a>
     </p>
+
+    {{- with $enriched -}}
+      {{- if .outline -}}
+      <details class="outline">
+        <summary>Content outline</summary>
+        <ul class="outline-list">
+        {{ range .outline }}
+          <li class="outline-h{{ .level }}">{{ .text }}</li>
+        {{ end }}
+        </ul>
+      </details>
+      {{- end -}}
+    {{- end -}}
+
     {{ partial "related-resources.html" . }}
   </article>
 {{ end }}

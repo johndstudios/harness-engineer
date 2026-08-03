@@ -1,0 +1,130 @@
+{
+  "slug": "agentstudio",
+  "url": "https://github.com/SkyworkAI/agent-studio",
+  "crawled_at": "2026-08-03T04:32:30.449970+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://github.com/SkyworkAI/agent-studio",
+  "content_type": "github",
+  "last_modified": "",
+  "github_stars": 17,
+  "github_forks": 7,
+  "github_open_issues": 0,
+  "github_topics": [],
+  "github_language": "Python",
+  "github_description": "Environments, tools, and benchmarks for general computer agents",
+  "github_created": "2024-10-14",
+  "github_updated": "2026-06-16",
+  "github_pushed": "2024-12-03",
+  "github_license": "AGPL-3.0",
+  "github_homepage": "https://computer-agents.github.io/agent-studio/",
+  "fetched_title": "GitHub - SkyworkAI/agent-studio: Environments, tools, and benchmarks for general computer agents \u00b7 GitHub",
+  "meta_description": "Environments, tools, and benchmarks for general computer agents - SkyworkAI/agent-studio",
+  "og_title": "GitHub - SkyworkAI/agent-studio: Environments, tools, and benchmarks for general computer agents",
+  "og_description": "Environments, tools, and benchmarks for general computer agents - SkyworkAI/agent-studio",
+  "og_image": "https://opengraph.githubassets.com/55c6ed82c73b48bd963d459c96955d321cca0a6bb712b43ed7292059090e0e53/SkyworkAI/agent-studio",
+  "og_type": "object",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://opengraph.githubassets.com/55c6ed82c73b48bd963d459c96955d321cca0a6bb712b43ed7292059090e0e53/SkyworkAI/agent-studio",
+  "language": "en",
+  "word_count": 740,
+  "reading_time_min": 4,
+  "outline": [
+    {
+      "level": 3,
+      "text": "Uh oh!"
+    },
+    {
+      "level": 2,
+      "text": "Folders and files"
+    },
+    {
+      "level": 2,
+      "text": "Latest commit"
+    },
+    {
+      "level": 2,
+      "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Repository files navigation"
+    },
+    {
+      "level": 1,
+      "text": "AgentStudio"
+    },
+    {
+      "level": 2,
+      "text": "News"
+    },
+    {
+      "level": 2,
+      "text": "Installation"
+    },
+    {
+      "level": 2,
+      "text": "AgentStudio Overall Benchmark Tasks"
+    },
+    {
+      "level": 2,
+      "text": "AgentStudio Datasets Decompose Agent Abilities"
+    },
+    {
+      "level": 2,
+      "text": "AgentStudio Tools"
+    },
+    {
+      "level": 2,
+      "text": "Contributing"
+    },
+    {
+      "level": 2,
+      "text": "Acknowledgement"
+    },
+    {
+      "level": 2,
+      "text": "Citation"
+    },
+    {
+      "level": 2,
+      "text": "About"
+    },
+    {
+      "level": 3,
+      "text": "Resources"
+    },
+    {
+      "level": 3,
+      "text": "Contributing"
+    },
+    {
+      "level": 3,
+      "text": "Stars"
+    },
+    {
+      "level": 3,
+      "text": "Watchers"
+    },
+    {
+      "level": 3,
+      "text": "Forks"
+    },
+    {
+      "level": 2,
+      "text": "Releases"
+    },
+    {
+      "level": 2,
+      "text": "Packages"
+    },
+    {
+      "level": 2,
+      "text": "Contributors"
+    },
+    {
+      "level": 2,
+      "text": "Languages"
+    }
+  ]
+}

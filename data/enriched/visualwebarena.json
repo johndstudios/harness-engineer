@@ -1,0 +1,58 @@
+{
+  "slug": "visualwebarena",
+  "url": "https://jykoh.com/vwa",
+  "crawled_at": "2026-08-03T04:35:36.532152+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://jykoh.com/vwa",
+  "content_type": "article",
+  "last_modified": "Sat, 27 Jun 2026 04:21:07 GMT",
+  "fetched_title": "VisualWebArena: Evaluating Multimodal Agents on Realistic Visual Web Tasks",
+  "meta_description": "Project webpage for the VisualWebArena paper.",
+  "og_title": "",
+  "og_description": "",
+  "og_image": "",
+  "og_type": "",
+  "twitter_card": "",
+  "twitter_image": "",
+  "word_count": 839,
+  "reading_time_min": 4,
+  "outline": [
+    {
+      "level": 1,
+      "text": "VisualWebArena: Evaluating Multimodal Agents on Realistic Visual Web Tasks"
+    },
+    {
+      "level": 1,
+      "text": "Example VWA Tasks"
+    },
+    {
+      "level": 2,
+      "text": "Try the environments yourself!"
+    },
+    {
+      "level": 1,
+      "text": "Execution-Based Evaluation"
+    },
+    {
+      "level": 1,
+      "text": "Set-of-Marks Representation for Improved Navigability"
+    },
+    {
+      "level": 1,
+      "text": "Baseline LLM and VLM Agents"
+    },
+    {
+      "level": 1,
+      "text": "Paper"
+    },
+    {
+      "level": 1,
+      "text": "Citation"
+    },
+    {
+      "level": 1,
+      "text": "Acknowledgements"
+    }
+  ]
+}

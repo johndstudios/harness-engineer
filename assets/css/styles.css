@@ -220,6 +220,21 @@ pre { padding: .9em 1em; border-radius: 6px; overflow-x: auto; }
 .edit-link a { font-size: .85rem; color: var(--fg-muted); text-decoration: none; }
 .edit-link a:hover { color: var(--accent); }
 
+/* Enriched data on resource pages */
+.og-image { max-width: 100%; height: auto; border-radius: 8px; margin: 1rem 0; border: 1px solid var(--border); }
+.enriched-meta { display: flex; gap: .8rem; flex-wrap: wrap; margin: .8rem 0; font-size: .85rem; color: var(--fg-muted); }
+.enriched-meta .em-item { display: inline-flex; align-items: center; gap: .2rem; }
+.em-crawled { color: var(--accent); }
+.github-stats { display: flex; gap: .6rem; flex-wrap: wrap; margin: .8rem 0; }
+.gh-stat { background: var(--bg-soft); border: 1px solid var(--border); border-radius: 999px; padding: .2em .7em; font-size: .82rem; color: var(--fg); }
+.github-desc { margin: 1rem 0; padding: .8em 1em; border-left: 3px solid var(--accent); background: var(--accent-soft); border-radius: 0 6px 6px 0; font-size: .9rem; }
+.meta-desc { font-size: .92rem; color: var(--fg-muted); margin: .5rem 0 1rem; }
+.outline { margin-top: 1.5rem; }
+.outline summary { cursor: pointer; font-weight: 600; font-size: .9rem; color: var(--fg-muted); }
+.outline-list { list-style: none; padding: .5rem 0 0 1rem; margin: 0; }
+.outline-h2 { font-weight: 600; font-size: .88rem; margin: .3rem 0; }
+.outline-h3 { font-size: .82rem; color: var(--fg-muted); margin: .2rem 0 .2rem 1rem; }
+
 /* Faceted filter bar */
 .facet-bar { display: flex; gap: 1.5rem; flex-wrap: wrap; margin-bottom: 1.5rem; padding: 1rem; background: var(--bg-soft); border: 1px solid var(--border); border-radius: 8px; }
 .facet-group { display: flex; flex-direction: column; gap: .3rem; }

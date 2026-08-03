@@ -1,0 +1,41 @@
+{
+  "slug": "design-patterns-for-securing-llm-agents-against-prompt-injections",
+  "url": "https://simonwillison.net/2025/Jun/13/prompt-injection-design-patterns/",
+  "crawled_at": "2026-08-03T04:33:48.967970+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://simonwillison.net/2025/Jun/13/prompt-injection-design-patterns/",
+  "content_type": "article",
+  "last_modified": "",
+  "fetched_title": "Design Patterns for Securing LLM Agents against Prompt Injections",
+  "meta_description": "",
+  "og_title": "Design Patterns for Securing LLM Agents against Prompt Injections",
+  "og_description": "This new paper by 11 authors from organizations including IBM, Invariant Labs, ETH Zurich, Google and Microsoft is an excellent addition to the literature on prompt injection and LLM security. \u2026",
+  "og_image": "https://static.simonwillison.net/static/2025/design-patterns-card.jpg",
+  "og_type": "article",
+  "twitter_card": "summary",
+  "twitter_image": "https://static.simonwillison.net/static/2025/design-patterns-card.jpg",
+  "author": "Simon Willison",
+  "language": "en-gb",
+  "canonical_url": "https://simonwillison.net/2025/Jun/13/prompt-injection-design-patterns/",
+  "word_count": 2049,
+  "reading_time_min": 10,
+  "outline": [
+    {
+      "level": 1,
+      "text": "Simon Willison\u2019s Weblog"
+    },
+    {
+      "level": 2,
+      "text": "Design Patterns for Securing LLM Agents against Prompt Injections"
+    },
+    {
+      "level": 2,
+      "text": "More recent articles"
+    },
+    {
+      "level": 3,
+      "text": "Monthly briefing"
+    }
+  ]
+}

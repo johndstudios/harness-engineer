@@ -1,0 +1,76 @@
+{
+  "slug": "agentboard-an-analytical-evaluation-board-of-multi-turn-llm-agents",
+  "url": "https://arxiv.org/abs/2401.13178",
+  "crawled_at": "2026-08-03T04:32:18.351661+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://arxiv.org/abs/2401.13178",
+  "content_type": "paper",
+  "last_modified": "",
+  "fetched_title": "[2401.13178] AgentBoard: An Analytical Evaluation Board of Multi-turn LLM Agents",
+  "meta_description": "Abstract page for arXiv paper 2401.13178: AgentBoard: An Analytical Evaluation Board of Multi-turn LLM Agents",
+  "og_title": "AgentBoard: An Analytical Evaluation Board of Multi-turn LLM Agents",
+  "og_description": "Evaluating Large Language Models (LLMs) as general-purpose agents is essential for understanding their capabilities and facilitating their integration into practical applications. However, the evaluation process presents substantial challenges. A primary obstacle is the benchmarking of agent performance across diverse scenarios within a unified framework, especially in maintaining partially-observable environments and ensuring multi-round interactions. Moreover, current evaluation frameworks mostly focus on the final success rate, revealing few insights during the process and failing to provide a deep understanding of the model abilities. To address these challenges, we introduce AgentBoard, a pioneering comprehensive benchmark and accompanied open-source evaluation framework tailored to analytical evaluation of LLM agents. AgentBoard offers a fine-grained progress rate metric that captures incremental advancements as well as a comprehensive evaluation toolkit that features easy assessment of agents for multi-faceted analysis. This not only sheds light on the capabilities and limitations of LLM agents but also propels the interpretability of their performance to the forefront. Ultimately, AgentBoard serves as a step towards demystifying agent behaviors and accelerating the development of stronger LLM agents.",
+  "og_image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+  "og_type": "website",
+  "twitter_card": "summary",
+  "twitter_image": "https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png",
+  "language": "en",
+  "canonical_url": "https://arxiv.org/abs/2401.13178",
+  "word_count": 699,
+  "reading_time_min": 3,
+  "outline": [
+    {
+      "level": 1,
+      "text": "Computer Science > Computation and Language"
+    },
+    {
+      "level": 1,
+      "text": "Title:AgentBoard: An Analytical Evaluation Board of Multi-turn LLM Agents"
+    },
+    {
+      "level": 2,
+      "text": "Submission history"
+    },
+    {
+      "level": 2,
+      "text": "Access Paper:"
+    },
+    {
+      "level": 3,
+      "text": "Current browse context:"
+    },
+    {
+      "level": 3,
+      "text": "References & Citations"
+    },
+    {
+      "level": 2,
+      "text": "BibTeX formatted citation"
+    },
+    {
+      "level": 3,
+      "text": "Bookmark"
+    },
+    {
+      "level": 1,
+      "text": "Bibliographic and Citation Tools"
+    },
+    {
+      "level": 1,
+      "text": "Code, Data and Media Associated with this Article"
+    },
+    {
+      "level": 1,
+      "text": "Demos"
+    },
+    {
+      "level": 1,
+      "text": "Recommenders and Search Tools"
+    },
+    {
+      "level": 1,
+      "text": "arXivLabs: experimental projects with community collaborators"
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "slug": "agent-evals",
+  "url": "https://platform.openai.com/docs/guides/agent-evals",
+  "crawled_at": "2026-08-03T04:32:11.850427+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://developers.openai.com/api/docs/guides/agent-evals",
+  "content_type": "article",
+  "last_modified": "Sun, 02 Aug 2026 20:09:25 GMT",
+  "fetched_title": "Evaluate agent workflows | OpenAI API",
+  "meta_description": "Learn how to evaluate agent workflows with traces, graders, datasets, and evaluation runs on the OpenAI platform.",
+  "og_title": "Evaluate agent workflows | OpenAI API",
+  "og_description": "Learn how to evaluate agent workflows with traces, graders, datasets, and evaluation runs on the OpenAI platform.",
+  "og_image": "https://developers.openai.com/og/api/docs/guides/agent-evals.png",
+  "og_type": "website",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://developers.openai.com/og/api/docs/guides/agent-evals.png",
+  "language": "en",
+  "canonical_url": "https://developers.openai.com/api/docs/guides/agent-evals",
+  "word_count": 1479,
+  "reading_time_min": 7,
+  "outline": [
+    {
+      "level": 2,
+      "text": "Search the API docs"
+    },
+    {
+      "level": 3,
+      "text": "Suggested"
+    },
+    {
+      "level": 3,
+      "text": "Suggested"
+    },
+    {
+      "level": 3,
+      "text": "Get started"
+    },
+    {
+      "level": 3,
+      "text": "Core concepts"
+    },
+    {
+      "level": 3,
+      "text": "SDKs and CLI"
+    },
+    {
+      "level": 3,
+      "text": "Resources"
+    },
+    {
+      "level": 3,
+      "text": "Legacy APIs"
+    },
+    {
+      "level": 3,
+      "text": "Choose a model"
+    },
+    {
+      "level": 3,
+      "text": "Text and code"
+    },
+    {
+      "level": 3,
+      "text": "Prompting"
+    },
+    {
+      "level": 3,
+      "text": "Reasoning"
+    },
+    {
+      "level": 3,
+      "text": "Images and video"
+    },
+    {
+      "level": 3,
+      "text": "Realtime and audio"
+    },
+    {
+      "level": 3,
+      "text": "Specialized models"
+    },
+    {
+      "level": 3,
+      "text": "Agents SDK"
+    },
+    {
+      "level": 3,
+      "text": "ChatKit"
+    },
+    {
+      "level": 3,
+      "text": "Search and retrieval"
+    },
+    {
+      "level": 3,
+      "text": "Connect tools and data"
+    },
+    {
+      "level": 3,
+      "text": "Build tool workflows"
+    },
+    {
+      "level": 3,
+      "text": "Computer and code"
+    },
+    {
+      "level": 3,
+      "text": "Media"
+    },
+    {
+      "level": 3,
+      "text": "Get started"
+    },
+    {
+      "level": 3,
+      "text": "Audio"
+    },
+    {
+      "level": 3,
+      "text": "Connection methods"
+    },
+    {
+      "level": 3,
+      "text": "Sessions and operations"
+    },
+    {
+      "level": 3,
+      "text": "Go live"
+    },
+    {
+      "level": 3,
+      "text": "Performance and quality"
+    },
+    {
+      "level": 3,
+      "text": "Cost and throughput"
+    },
+    {
+      "level": 3,
+      "text": "Safety and governance"
+    }
+  ]
+}

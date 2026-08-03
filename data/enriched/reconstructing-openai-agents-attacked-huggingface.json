@@ -1,0 +1,31 @@
+{
+  "slug": "reconstructing-openai-agents-attacked-huggingface",
+  "url": "https://practicalai.fm/366",
+  "crawled_at": "2026-08-03T04:35:03.723797+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://practicalai.show/366",
+  "content_type": "podcast",
+  "last_modified": "",
+  "fetched_title": "Practical AI | Reconstructing how OpenAI agents attacked Hugging Face",
+  "meta_description": "What happens when AI agents driven by a top frontier model escape their secure sandbox? Join Daniel and Chris as they unpack the AI wonk's equivalent of a murder mystery! OpenAI agents went rogue a...",
+  "og_title": "Practical AI | Reconstructing how OpenAI agents attacked Hugging Face",
+  "og_description": "What happens when AI agents driven by a top frontier model escape their secure sandbox? Join Daniel and Chris as they unpack the AI wonk's equivalent of a murder mystery! OpenAI agents went rogue a...",
+  "og_image": "https://img.transistorcdn.com/tZC-JYLVHh_NGoqswvS5GZ5uAk9x_hCbKh-XsZ8BwSw/rs:fill:0:0:1/w:800/h:800/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9iNzk2/OWU3MjAyMzU2MTdm/NjgxMDFlMDg0NjE1/ZGViNC5wbmc.webp",
+  "og_type": "website",
+  "twitter_card": "summary",
+  "twitter_image": "https://img.transistorcdn.com/tZC-JYLVHh_NGoqswvS5GZ5uAk9x_hCbKh-XsZ8BwSw/rs:fill:0:0:1/w:800/h:800/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9iNzk2/OWU3MjAyMzU2MTdm/NjgxMDFlMDg0NjE1/ZGViNC5wbmc.webp",
+  "language": "en",
+  "word_count": 266,
+  "reading_time_min": 1,
+  "outline": [
+    {
+      "level": 3,
+      "text": "Creators and Guests"
+    },
+    {
+      "level": 2,
+      "text": "headphonesListen Anywhere"
+    }
+  ]
+}

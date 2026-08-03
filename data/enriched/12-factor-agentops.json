@@ -1,0 +1,41 @@
+{
+  "slug": "12-factor-agentops",
+  "url": "https://www.12factoragentops.com/",
+  "crawled_at": "2026-08-03T04:32:08.451311+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://www.12factoragentops.com/",
+  "content_type": "article",
+  "last_modified": "Sat, 18 Jul 2026 01:28:46 GMT",
+  "fetched_title": "12-Factor AgentOps | Independent Verification for Agent-Built Software",
+  "meta_description": "Twelve operating rules for agent-built software: fixed intent, one bounded build, fresh validation, and a content-addressed verdict.",
+  "og_title": "12-Factor AgentOps | Independent Verification for Agent-Built Software",
+  "og_description": "Twelve operating rules for agent-built software: fixed intent, one bounded build, fresh validation, and a content-addressed verdict.",
+  "og_image": "https://www.12factoragentops.com/og-image.png",
+  "og_type": "website",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://www.12factoragentops.com/og-image.png",
+  "author": "Bo Fuller",
+  "language": "en",
+  "canonical_url": "https://www.12factoragentops.com",
+  "word_count": 518,
+  "reading_time_min": 3,
+  "outline": [
+    {
+      "level": 1,
+      "text": "Don't run productionon vibes."
+    },
+    {
+      "level": 2,
+      "text": "//the 12 factors"
+    },
+    {
+      "level": 2,
+      "text": "//the three gaps they address"
+    },
+    {
+      "level": 2,
+      "text": "//the boundary"
+    }
+  ]
+}

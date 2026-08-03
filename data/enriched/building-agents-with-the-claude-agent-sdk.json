@@ -1,0 +1,133 @@
+{
+  "slug": "building-agents-with-the-claude-agent-sdk",
+  "url": "https://claude.com/blog/building-agents-with-the-claude-agent-sdk",
+  "crawled_at": "2026-08-03T04:32:52.784008+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://claude.com/blog/building-agents-with-the-claude-agent-sdk",
+  "content_type": "article",
+  "last_modified": "Sun, 02 Aug 2026 17:09:35 GMT",
+  "fetched_title": "Building agents with the Claude Agent SDK | Claude by Anthropic",
+  "meta_description": "How to get started with the Claude Agent SDK and best practices for using it.",
+  "og_title": "Building agents with the Claude Agent SDK | Claude by Anthropic",
+  "og_description": "How to get started with the Claude Agent SDK and best practices for using it.",
+  "og_image": "",
+  "og_type": "website",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "",
+  "publish_date": "Sep 29, 20",
+  "language": "en-US",
+  "canonical_url": "https://claude.com/blog/building-agents-with-the-claude-agent-sdk",
+  "word_count": 4074,
+  "reading_time_min": 20,
+  "outline": [
+    {
+      "level": 1,
+      "text": "Building agents with the Claude Agent SDK"
+    },
+    {
+      "level": 2,
+      "text": "Giving Claude a computer"
+    },
+    {
+      "level": 2,
+      "text": "Creating new types of agents"
+    },
+    {
+      "level": 2,
+      "text": "Building your agent loop"
+    },
+    {
+      "level": 2,
+      "text": "Gather context"
+    },
+    {
+      "level": 3,
+      "text": "Agentic search and the file system"
+    },
+    {
+      "level": 3,
+      "text": "Semantic search"
+    },
+    {
+      "level": 3,
+      "text": "Subagents"
+    },
+    {
+      "level": 3,
+      "text": "Compaction"
+    },
+    {
+      "level": 2,
+      "text": "Take action"
+    },
+    {
+      "level": 3,
+      "text": "Tools"
+    },
+    {
+      "level": 3,
+      "text": "Bash & scripts"
+    },
+    {
+      "level": 3,
+      "text": "Code generation"
+    },
+    {
+      "level": 3,
+      "text": "MCPs"
+    },
+    {
+      "level": 2,
+      "text": "Verify your work"
+    },
+    {
+      "level": 3,
+      "text": "Defining rules"
+    },
+    {
+      "level": 3,
+      "text": "Visual feedback"
+    },
+    {
+      "level": 3,
+      "text": "LLM as a judge"
+    },
+    {
+      "level": 2,
+      "text": "Testing and improving your agent"
+    },
+    {
+      "level": 2,
+      "text": "Getting started"
+    },
+    {
+      "level": 2,
+      "text": "Acknowledgements"
+    },
+    {
+      "level": 2,
+      "text": "Related posts"
+    },
+    {
+      "level": 3,
+      "text": "Claude models explained: choosing the best model for your use case"
+    },
+    {
+      "level": 3,
+      "text": "The new rules of context engineering for Claude 5 generation models"
+    },
+    {
+      "level": 3,
+      "text": "Building verification loops in Claude Code with skills"
+    },
+    {
+      "level": 3,
+      "text": "How Anthropic secures its AI-native software development lifecycle"
+    },
+    {
+      "level": 2,
+      "text": "Transform how your organization operates with Claude"
+    }
+  ]
+}

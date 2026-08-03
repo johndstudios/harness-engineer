@@ -1,0 +1,76 @@
+{
+  "slug": "code-execution-with-mcp-building-more-efficient-agents",
+  "url": "https://www.anthropic.com/engineering/code-execution-with-mcp",
+  "crawled_at": "2026-08-03T04:33:08.402961+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://www.anthropic.com/engineering/code-execution-with-mcp",
+  "content_type": "article",
+  "last_modified": "",
+  "fetched_title": "Code execution with MCP: building more efficient AI agents \\ Anthropic",
+  "meta_description": "Learn how code execution with the Model Context Protocol enables agents to handle more tools while using fewer tokens, reducing context overhead by up to 98.7%.",
+  "og_title": "Code execution with MCP: building more efficient AI agents",
+  "og_description": "Learn how code execution with the Model Context Protocol enables agents to handle more tools while using fewer tokens, reducing context overhead by up to 98.7%.",
+  "og_image": "https://cdn.sanity.io/images/4zrzovbb/website/8071ace7b1158ab6d3f8fa04679cef31234425ab-2400x1260.png",
+  "og_type": "website",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://cdn.sanity.io/images/4zrzovbb/website/8071ace7b1158ab6d3f8fa04679cef31234425ab-2400x1260.png",
+  "language": "en",
+  "canonical_url": "https://www.anthropic.com/engineering/code-execution-with-mcp",
+  "word_count": 2022,
+  "reading_time_min": 10,
+  "outline": [
+    {
+      "level": 1,
+      "text": "Code execution with MCP: Building more efficient agents"
+    },
+    {
+      "level": 2,
+      "text": "Excessive token consumption from tools makes agents less efficient"
+    },
+    {
+      "level": 3,
+      "text": "1. Tool definitions overload the context window"
+    },
+    {
+      "level": 3,
+      "text": "2. Intermediate tool results consume additional tokens"
+    },
+    {
+      "level": 2,
+      "text": "Code execution with MCP improves context efficiency"
+    },
+    {
+      "level": 2,
+      "text": "Benefits of code execution with MCP"
+    },
+    {
+      "level": 3,
+      "text": "Progressive disclosure"
+    },
+    {
+      "level": 3,
+      "text": "Context efficient tool results"
+    },
+    {
+      "level": 3,
+      "text": "Privacy-preserving operations"
+    },
+    {
+      "level": 3,
+      "text": "State persistence and skills"
+    },
+    {
+      "level": 2,
+      "text": "Summary"
+    },
+    {
+      "level": 3,
+      "text": "Acknowledgments"
+    },
+    {
+      "level": 2,
+      "text": "Get the developer newsletter"
+    }
+  ]
+}

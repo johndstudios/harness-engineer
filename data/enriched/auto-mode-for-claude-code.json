@@ -1,0 +1,37 @@
+{
+  "slug": "auto-mode-for-claude-code",
+  "url": "https://simonwillison.net/2026/Mar/24/auto-mode-for-claude-code/",
+  "crawled_at": "2026-08-03T04:32:42.223863+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://simonwillison.net/2026/Mar/24/auto-mode-for-claude-code/",
+  "content_type": "article",
+  "last_modified": "",
+  "fetched_title": "Auto mode for Claude Code",
+  "meta_description": "",
+  "og_title": "Auto mode for Claude Code",
+  "og_description": "Really interesting new development in Claude Code today as an alternative to --dangerously-skip-permissions: Today, we're introducing auto mode, a new permissions mode in Claude Code where Claude makes permission decisions \u2026",
+  "og_image": "",
+  "og_type": "article",
+  "twitter_card": "summary",
+  "twitter_image": "",
+  "author": "Simon Willison",
+  "language": "en-gb",
+  "canonical_url": "https://simonwillison.net/2026/Mar/24/auto-mode-for-claude-code/",
+  "word_count": 873,
+  "reading_time_min": 4,
+  "outline": [
+    {
+      "level": 1,
+      "text": "Simon Willison\u2019s Weblog"
+    },
+    {
+      "level": 2,
+      "text": "Recent articles"
+    },
+    {
+      "level": 3,
+      "text": "Monthly briefing"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "slug": "agentdojo",
+  "url": "https://github.com/ethz-spylab/agentdojo",
+  "crawled_at": "2026-08-03T04:32:21.155381+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://github.com/ethz-spylab/agentdojo",
+  "content_type": "github",
+  "last_modified": "",
+  "github_stars": 705,
+  "github_forks": 185,
+  "github_open_issues": 40,
+  "github_topics": [
+    "benchmark",
+    "large-language-models",
+    "prompt-injection",
+    "security"
+  ],
+  "github_language": "Python",
+  "github_description": "A Dynamic Environment to Evaluate Attacks and Defenses for LLM Agents.",
+  "github_created": "2024-02-29",
+  "github_updated": "2026-08-02",
+  "github_pushed": "2026-06-02",
+  "github_license": "MIT",
+  "github_homepage": "https://agentdojo.spylab.ai/",
+  "fetched_title": "GitHub - ethz-spylab/agentdojo: A Dynamic Environment to Evaluate Attacks and Defenses for LLM Agents. \u00b7 GitHub",
+  "meta_description": "A Dynamic Environment to Evaluate Attacks and Defenses for LLM Agents. - ethz-spylab/agentdojo",
+  "og_title": "GitHub - ethz-spylab/agentdojo: A Dynamic Environment to Evaluate Attacks and Defenses for LLM Agents.",
+  "og_description": "A Dynamic Environment to Evaluate Attacks and Defenses for LLM Agents. - ethz-spylab/agentdojo",
+  "og_image": "https://opengraph.githubassets.com/cddfdb403397c0c318c87a758d1f641b3224c265d2edde01567c9e0f3b5f0ac8/ethz-spylab/agentdojo",
+  "og_type": "object",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://opengraph.githubassets.com/cddfdb403397c0c318c87a758d1f641b3224c265d2edde01567c9e0f3b5f0ac8/ethz-spylab/agentdojo",
+  "language": "en",
+  "word_count": 550,
+  "reading_time_min": 3,
+  "outline": [
+    {
+      "level": 3,
+      "text": "Uh oh!"
+    },
+    {
+      "level": 2,
+      "text": "Folders and files"
+    },
+    {
+      "level": 2,
+      "text": "Latest commit"
+    },
+    {
+      "level": 2,
+      "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Repository files navigation"
+    },
+    {
+      "level": 1,
+      "text": "AgentDojo: A Dynamic Environment to Evaluate Prompt Injection Attacks and Defenses for LLM Agents"
+    },
+    {
+      "level": 2,
+      "text": "Quickstart"
+    },
+    {
+      "level": 2,
+      "text": "Running the benchmark"
+    },
+    {
+      "level": 2,
+      "text": "Inspect the results"
+    },
+    {
+      "level": 2,
+      "text": "Documentation of the Dojo"
+    },
+    {
+      "level": 2,
+      "text": "Development set-up"
+    },
+    {
+      "level": 2,
+      "text": "Citing"
+    },
+    {
+      "level": 2,
+      "text": "About"
+    },
+    {
+      "level": 3,
+      "text": "Topics"
+    },
+    {
+      "level": 3,
+      "text": "Resources"
+    },
+    {
+      "level": 3,
+      "text": "Contributing"
+    },
+    {
+      "level": 3,
+      "text": "Stars"
+    },
+    {
+      "level": 3,
+      "text": "Watchers"
+    },
+    {
+      "level": 3,
+      "text": "Forks"
+    },
+    {
+      "level": 2,
+      "text": "Releases"
+    },
+    {
+      "level": 2,
+      "text": "Used by"
+    },
+    {
+      "level": 2,
+      "text": "Contributors"
+    },
+    {
+      "level": 2,
+      "text": "Languages"
+    }
+  ]
+}

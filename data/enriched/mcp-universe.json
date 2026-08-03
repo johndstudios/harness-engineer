@@ -1,0 +1,51 @@
+{
+  "slug": "mcp-universe",
+  "url": "https://mcp-universe.github.io/",
+  "crawled_at": "2026-08-03T04:34:44.848926+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://mcp-universe.github.io/",
+  "content_type": "article",
+  "last_modified": "Sat, 11 Jul 2026 04:49:57 GMT",
+  "fetched_title": "MCP-Universe",
+  "meta_description": "MCP-Universe: Benchmarking LLMs with real-world Model Context Protocol servers across 6 domains and 231 tasks.",
+  "og_title": "MCP-Universe: Benchmarking LLMs with Real-World MCP Servers",
+  "og_description": "Comprehensive benchmark evaluating LLMs with real-world MCP servers across 6 domains with execution-based evaluation.",
+  "og_image": "intro-mcp-universe.png",
+  "og_type": "website",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "intro-mcp-universe.png",
+  "language": "en",
+  "word_count": 1163,
+  "reading_time_min": 6,
+  "outline": [
+    {
+      "level": 1,
+      "text": "MCP-Universe: Benchmarking Large Language Models withReal-World Model Context Protocol Servers"
+    },
+    {
+      "level": 2,
+      "text": "Leaderboard"
+    },
+    {
+      "level": 2,
+      "text": "Key Findings"
+    },
+    {
+      "level": 3,
+      "text": "Long-Context Challenge"
+    },
+    {
+      "level": 3,
+      "text": "Unknown-Tools Challenge"
+    },
+    {
+      "level": 3,
+      "text": "Cross-Domain Variations"
+    },
+    {
+      "level": 2,
+      "text": "Citation"
+    }
+  ]
+}

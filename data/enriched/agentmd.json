@@ -1,0 +1,149 @@
+{
+  "slug": "agentmd",
+  "url": "https://github.com/agentmd/agent.md",
+  "crawled_at": "2026-08-03T04:32:24.804815+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://github.com/agentmd/agent.md",
+  "content_type": "github",
+  "last_modified": "",
+  "github_stars": 87,
+  "github_forks": 7,
+  "github_open_issues": 3,
+  "github_topics": [
+    "agentmd",
+    "rfc"
+  ],
+  "github_language": null,
+  "github_description": "This repository defines AGENT.md, a standardized format that lets your codebase speak directly to any agentic coding tool.",
+  "github_created": "2025-07-09",
+  "github_updated": "2026-07-21",
+  "github_pushed": "2025-07-10",
+  "github_license": "MIT",
+  "github_homepage": "https://agent.md",
+  "fetched_title": "GitHub - agentmd/agent.md: This repository defines AGENT.md, a standardized format that lets your codebase speak directly to any agentic coding tool. \u00b7 GitHub",
+  "meta_description": "This repository defines AGENT.md, a standardized format that lets your codebase speak directly to any agentic coding tool. - agentmd/agent.md",
+  "og_title": "GitHub - agentmd/agent.md: This repository defines AGENT.md, a standardized format that lets your codebase speak directly to any agentic coding tool.",
+  "og_description": "This repository defines AGENT.md, a standardized format that lets your codebase speak directly to any agentic coding tool. - agentmd/agent.md",
+  "og_image": "https://opengraph.githubassets.com/888b3393628823036c2b75c960f05edb348980d7c6f13223c52087157ba7b849/agentmd/agent.md",
+  "og_type": "object",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://opengraph.githubassets.com/888b3393628823036c2b75c960f05edb348980d7c6f13223c52087157ba7b849/agentmd/agent.md",
+  "language": "en",
+  "word_count": 1571,
+  "reading_time_min": 8,
+  "outline": [
+    {
+      "level": 3,
+      "text": "Uh oh!"
+    },
+    {
+      "level": 2,
+      "text": "Folders and files"
+    },
+    {
+      "level": 2,
+      "text": "Latest commit"
+    },
+    {
+      "level": 2,
+      "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Repository files navigation"
+    },
+    {
+      "level": 1,
+      "text": "AGENT.md: The Universal Agent Configuration File"
+    },
+    {
+      "level": 2,
+      "text": "Abstract"
+    },
+    {
+      "level": 2,
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "text": "1. Introduction"
+    },
+    {
+      "level": 2,
+      "text": "2. Specification"
+    },
+    {
+      "level": 3,
+      "text": "2.1. Multiple AGENT.md Files"
+    },
+    {
+      "level": 3,
+      "text": "2.2. File References"
+    },
+    {
+      "level": 2,
+      "text": "3. Implementation Guidelines"
+    },
+    {
+      "level": 2,
+      "text": "4. Migration from Legacy Configuration Files"
+    },
+    {
+      "level": 3,
+      "text": "4.1. Migration Commands"
+    },
+    {
+      "level": 3,
+      "text": "4.2. AGENT.md Content Structure"
+    },
+    {
+      "level": 3,
+      "text": "4.3. Example AGENT.md File"
+    },
+    {
+      "level": 2,
+      "text": "5. Tool Integration"
+    },
+    {
+      "level": 2,
+      "text": "6. IANA Considerations"
+    },
+    {
+      "level": 2,
+      "text": "7. References"
+    },
+    {
+      "level": 2,
+      "text": "8. Authors' Addresses"
+    },
+    {
+      "level": 2,
+      "text": "About"
+    },
+    {
+      "level": 3,
+      "text": "Topics"
+    },
+    {
+      "level": 3,
+      "text": "Resources"
+    },
+    {
+      "level": 3,
+      "text": "Stars"
+    },
+    {
+      "level": 3,
+      "text": "Watchers"
+    },
+    {
+      "level": 3,
+      "text": "Forks"
+    },
+    {
+      "level": 2,
+      "text": "Contributors"
+    }
+  ]
+}

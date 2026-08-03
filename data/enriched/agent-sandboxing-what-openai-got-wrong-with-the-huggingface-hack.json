@@ -1,0 +1,54 @@
+{
+  "slug": "agent-sandboxing-what-openai-got-wrong-with-the-huggingface-hack",
+  "url": "https://www.openhands.dev/blog/agent-sandboxing-what-openai-got-wrong-with-the-huggingface-hack",
+  "crawled_at": "2026-08-03T04:32:13.738939+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://www.openhands.dev/blog/agent-sandboxing-what-openai-got-wrong-with-the-huggingface-hack",
+  "content_type": "article",
+  "last_modified": "",
+  "fetched_title": "Agent Sandboxing: What OpenAI got wrong with the HuggingFace hack | Jul 22, 2026",
+  "meta_description": "OpenAI accidentally hacked HuggingFace during a security exercise. Learn what they got wrong, and how you can avoid the same mistakes.",
+  "og_title": "Agent Sandboxing: What OpenAI got wrong with the HuggingFace hack",
+  "og_description": "OpenAI accidentally hacked HuggingFace during a security exercise. Learn what they got wrong, and how you can avoid the same mistakes.",
+  "og_image": "https://www.openhands.dev/assets/notion-blog/agent-sandboxing-what-openai-got-wrong-with-the-huggingface-hack/og.png",
+  "og_type": "article",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://www.openhands.dev/assets/notion-blog/agent-sandboxing-what-openai-got-wrong-with-the-huggingface-hack/og.png",
+  "author": "OpenHands Team",
+  "publish_date": "2026-07-22",
+  "language": "en",
+  "canonical_url": "https://www.openhands.dev/blog/agent-sandboxing-what-openai-got-wrong-with-the-huggingface-hack",
+  "word_count": 1599,
+  "reading_time_min": 8,
+  "outline": [
+    {
+      "level": 2,
+      "text": "The proxy was the problem, not the model"
+    },
+    {
+      "level": 2,
+      "text": "Red teams are not the only source of risk"
+    },
+    {
+      "level": 2,
+      "text": "Observability is not optional"
+    },
+    {
+      "level": 2,
+      "text": "Human-in-the-loop for the dangerous subset"
+    },
+    {
+      "level": 2,
+      "text": "What OpenHands Enterprise does about this"
+    },
+    {
+      "level": 1,
+      "text": "Get useful insights in our blog"
+    },
+    {
+      "level": 3,
+      "text": "Thank you for your submission!"
+    }
+  ]
+}

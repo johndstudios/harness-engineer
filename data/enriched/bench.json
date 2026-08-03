@@ -1,0 +1,142 @@
+{
+  "slug": "bench",
+  "url": "https://github.com/sierra-research/tau-bench",
+  "crawled_at": "2026-08-03T04:32:44.576499+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://github.com/sierra-research/tau-bench",
+  "content_type": "github",
+  "last_modified": "",
+  "github_stars": 1361,
+  "github_forks": 213,
+  "github_open_issues": 51,
+  "github_topics": [],
+  "github_language": "Python",
+  "github_description": "Code and Data for Tau-Bench",
+  "github_created": "2024-06-06",
+  "github_updated": "2026-08-03",
+  "github_pushed": "2026-03-18",
+  "github_license": "MIT",
+  "github_homepage": null,
+  "fetched_title": "GitHub - sierra-research/tau-bench: Code and Data for Tau-Bench \u00b7 GitHub",
+  "meta_description": "Code and Data for Tau-Bench. Contribute to sierra-research/tau-bench development by creating an account on GitHub.",
+  "og_title": "GitHub - sierra-research/tau-bench: Code and Data for Tau-Bench",
+  "og_description": "Code and Data for Tau-Bench. Contribute to sierra-research/tau-bench development by creating an account on GitHub.",
+  "og_image": "https://opengraph.githubassets.com/e796e7538fb4d550215284fa874bf1e29d4575aef46a08a0d79487382d72fc99/sierra-research/tau-bench",
+  "og_type": "object",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://opengraph.githubassets.com/e796e7538fb4d550215284fa874bf1e29d4575aef46a08a0d79487382d72fc99/sierra-research/tau-bench",
+  "language": "en",
+  "word_count": 1115,
+  "reading_time_min": 6,
+  "outline": [
+    {
+      "level": 3,
+      "text": "Uh oh!"
+    },
+    {
+      "level": 2,
+      "text": "Folders and files"
+    },
+    {
+      "level": 2,
+      "text": "Latest commit"
+    },
+    {
+      "level": 2,
+      "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Repository files navigation"
+    },
+    {
+      "level": 1,
+      "text": "\u03c4-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains"
+    },
+    {
+      "level": 2,
+      "text": "Leaderboard"
+    },
+    {
+      "level": 3,
+      "text": "Airline"
+    },
+    {
+      "level": 3,
+      "text": "Retail"
+    },
+    {
+      "level": 2,
+      "text": "Setup"
+    },
+    {
+      "level": 2,
+      "text": "Run"
+    },
+    {
+      "level": 2,
+      "text": "User simulators"
+    },
+    {
+      "level": 2,
+      "text": "Auto error identification"
+    },
+    {
+      "level": 2,
+      "text": "Historical trajectories"
+    },
+    {
+      "level": 2,
+      "text": "License"
+    },
+    {
+      "level": 2,
+      "text": "Contact"
+    },
+    {
+      "level": 2,
+      "text": "Citation"
+    },
+    {
+      "level": 2,
+      "text": "About"
+    },
+    {
+      "level": 3,
+      "text": "Resources"
+    },
+    {
+      "level": 3,
+      "text": "Stars"
+    },
+    {
+      "level": 3,
+      "text": "Watchers"
+    },
+    {
+      "level": 3,
+      "text": "Forks"
+    },
+    {
+      "level": 2,
+      "text": "Releases"
+    },
+    {
+      "level": 2,
+      "text": "Packages"
+    },
+    {
+      "level": 2,
+      "text": "Used by"
+    },
+    {
+      "level": 2,
+      "text": "Contributors"
+    },
+    {
+      "level": 2,
+      "text": "Languages"
+    }
+  ]
+}

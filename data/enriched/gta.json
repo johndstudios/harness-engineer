@@ -1,0 +1,157 @@
+{
+  "slug": "gta",
+  "url": "https://github.com/open-compass/GTA",
+  "crawled_at": "2026-08-03T04:34:09.315919+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://github.com/open-compass/GTA",
+  "content_type": "github",
+  "last_modified": "",
+  "github_stars": 148,
+  "github_forks": 10,
+  "github_open_issues": 2,
+  "github_topics": [
+    "llm-agent",
+    "llm-evaluation"
+  ],
+  "github_language": "Python",
+  "github_description": "[NeurIPS 2024 D&B] GTA: A Benchmark for General Tool Agents & [arXiv 2026] GTA-2",
+  "github_created": "2024-06-06",
+  "github_updated": "2026-07-27",
+  "github_pushed": "2026-04-20",
+  "github_license": "Apache-2.0",
+  "github_homepage": "",
+  "fetched_title": "GitHub - open-compass/GTA: [NeurIPS 2024 D&B] GTA: A Benchmark for General Tool Agents & [arXiv 2026] GTA-2 \u00b7 GitHub",
+  "meta_description": "[NeurIPS 2024 D&B] GTA: A Benchmark for General Tool Agents & [arXiv 2026] GTA-2 - open-compass/GTA",
+  "og_title": "GitHub - open-compass/GTA: [NeurIPS 2024 D&B] GTA: A Benchmark for General Tool Agents & [arXiv 2026] GTA-2",
+  "og_description": "[NeurIPS 2024 D&B] GTA: A Benchmark for General Tool Agents & [arXiv 2026] GTA-2 - open-compass/GTA",
+  "og_image": "https://opengraph.githubassets.com/93897d9f0be8fd9dbbbe74c3d38b41ba009f56094577dd348f3643998492f51d/open-compass/GTA",
+  "og_type": "object",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://opengraph.githubassets.com/93897d9f0be8fd9dbbbe74c3d38b41ba009f56094577dd348f3643998492f51d/open-compass/GTA",
+  "language": "en",
+  "word_count": 1480,
+  "reading_time_min": 7,
+  "outline": [
+    {
+      "level": 3,
+      "text": "Uh oh!"
+    },
+    {
+      "level": 2,
+      "text": "Folders and files"
+    },
+    {
+      "level": 2,
+      "text": "Latest commit"
+    },
+    {
+      "level": 2,
+      "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Repository files navigation"
+    },
+    {
+      "level": 1,
+      "text": "GTA: General Tool Agent Benchmark and Evaluation Framework"
+    },
+    {
+      "level": 3,
+      "text": "[NeurIPS 2024 D&B] GTA: A Benchmark for General Tool Agents"
+    },
+    {
+      "level": 3,
+      "text": "[arXiv 2026] GTA-2: Benchmarking General Tool Agents from Atomic Tool-Use to Open-Ended Workflows"
+    },
+    {
+      "level": 2,
+      "text": "\ud83c\udf1f Introduction"
+    },
+    {
+      "level": 3,
+      "text": "Benchmark hierarchy"
+    },
+    {
+      "level": 3,
+      "text": "What this repo supports"
+    },
+    {
+      "level": 2,
+      "text": "\ud83d\udce3 What's New"
+    },
+    {
+      "level": 2,
+      "text": "\ud83d\udcda Dataset Statistics"
+    },
+    {
+      "level": 3,
+      "text": "GTA-Workflow: Real-World Productivity Tasks"
+    },
+    {
+      "level": 3,
+      "text": "Data Sources"
+    },
+    {
+      "level": 2,
+      "text": "\ud83c\udfc6 Leaderboard, Apr. 2026"
+    },
+    {
+      "level": 2,
+      "text": "\ud83d\ude80 How to Evaluate on GTA-2"
+    },
+    {
+      "level": 3,
+      "text": "Prepare GTA-2 Dataset"
+    },
+    {
+      "level": 3,
+      "text": "Prepare Your Model"
+    },
+    {
+      "level": 3,
+      "text": "Deploy Tools"
+    },
+    {
+      "level": 3,
+      "text": "Start Evaluation"
+    },
+    {
+      "level": 1,
+      "text": "\ud83d\udcdd Citation"
+    },
+    {
+      "level": 2,
+      "text": "About"
+    },
+    {
+      "level": 3,
+      "text": "Topics"
+    },
+    {
+      "level": 3,
+      "text": "Resources"
+    },
+    {
+      "level": 3,
+      "text": "Stars"
+    },
+    {
+      "level": 3,
+      "text": "Watchers"
+    },
+    {
+      "level": 3,
+      "text": "Forks"
+    },
+    {
+      "level": 2,
+      "text": "Releases"
+    },
+    {
+      "level": 2,
+      "text": "Packages"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "slug": "issuebench-how-we-evaluate-engine",
+  "url": "https://blog.langchain.com/issuebench-how-we-evaluate-engine",
+  "crawled_at": "2026-08-03T04:34:30.459461+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://www.langchain.com/blog/issuebench-how-we-evaluate-engine",
+  "content_type": "article",
+  "last_modified": "Mon, 03 Aug 2026 04:34:30 GMT",
+  "fetched_title": "IssueBench - How We Evaluate Engine",
+  "meta_description": "Learn how LangChain built IssueBench, a synthetic benchmark for evaluating how well LangSmith Engine identifies, categorizes, and groups issues in agent traces.",
+  "og_title": "IssueBench - How We Evaluate Engine",
+  "og_description": "Learn how LangChain built IssueBench, a synthetic benchmark for evaluating how well LangSmith Engine identifies, categorizes, and groups issues in agent traces.",
+  "og_image": "https://cdn.prod.website-files.com/65c81e88c254bb0f97633a71/6a5e456b9974fd831e5d3c9a_Screenshot%202026-07-20%20at%208.57.24%E2%80%AFAM.png",
+  "og_type": "website",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://cdn.prod.website-files.com/65c81e88c254bb0f97633a71/6a5e456b9974fd831e5d3c9a_Screenshot%202026-07-20%20at%208.57.24%E2%80%AFAM.png",
+  "author": "LangChain Accounts",
+  "publish_date": "2026-07-20",
+  "language": "en",
+  "canonical_url": "https://www.langchain.com/blog/issuebench-how-we-evaluate-engine",
+  "word_count": 1235,
+  "reading_time_min": 6,
+  "outline": [
+    {
+      "level": 1,
+      "text": "IssueBench - How We Evaluate Engine"
+    },
+    {
+      "level": 2,
+      "text": "What IssueBench evaluates"
+    },
+    {
+      "level": 2,
+      "text": "How IssueBench works"
+    },
+    {
+      "level": 2,
+      "text": "The failure taxonomy"
+    },
+    {
+      "level": 2,
+      "text": "How we score the output"
+    },
+    {
+      "level": 2,
+      "text": "How we use IssueBench"
+    },
+    {
+      "level": 2,
+      "text": "What We Learned From Building IssueBench"
+    },
+    {
+      "level": 2,
+      "text": "What comes next"
+    },
+    {
+      "level": 3,
+      "text": "Related content"
+    },
+    {
+      "level": 3,
+      "text": "See\u00a0what\u00a0your\u00a0agent\u00a0is\u00a0really\u00a0doing"
+    }
+  ]
+}

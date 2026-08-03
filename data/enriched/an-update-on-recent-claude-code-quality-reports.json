@@ -1,0 +1,48 @@
+{
+  "slug": "an-update-on-recent-claude-code-quality-reports",
+  "url": "https://www.anthropic.com/engineering/april-23-postmortem",
+  "crawled_at": "2026-08-03T04:32:34.529940+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://www.anthropic.com/engineering/april-23-postmortem",
+  "content_type": "article",
+  "last_modified": "",
+  "fetched_title": "An update on recent Claude Code quality reports \\ Anthropic",
+  "meta_description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+  "og_title": "An update on recent Claude Code quality reports",
+  "og_description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+  "og_image": "https://cdn.sanity.io/images/4zrzovbb/website/3f522820d47355885631ebda60e5d1f3e5c0fbc2-2000x1050.heif",
+  "og_type": "website",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://cdn.sanity.io/images/4zrzovbb/website/3f522820d47355885631ebda60e5d1f3e5c0fbc2-2000x1050.heif",
+  "language": "en",
+  "canonical_url": "https://www.anthropic.com/engineering/april-23-postmortem",
+  "word_count": 1776,
+  "reading_time_min": 9,
+  "outline": [
+    {
+      "level": 1,
+      "text": "An update on recent Claude Code quality reports"
+    },
+    {
+      "level": 2,
+      "text": "A change to Claude Code's default reasoning effort"
+    },
+    {
+      "level": 2,
+      "text": "A caching optimization that dropped prior reasoning"
+    },
+    {
+      "level": 2,
+      "text": "A system prompt change to reduce verbosity"
+    },
+    {
+      "level": 2,
+      "text": "Going forward"
+    },
+    {
+      "level": 2,
+      "text": "Get the developer newsletter"
+    }
+  ]
+}

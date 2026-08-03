@@ -1,0 +1,144 @@
+{
+  "slug": "building-governed-agents-a-framework-for-cost-control-and-compliance",
+  "url": "https://blog.langchain.com/building-governed-agents-a-framework-for-cost-control-and-compliance",
+  "crawled_at": "2026-08-03T04:32:55.320383+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://www.langchain.com/blog/building-governed-agents-a-framework-for-cost-control-and-compliance",
+  "content_type": "article",
+  "last_modified": "Mon, 03 Aug 2026 02:08:27 GMT",
+  "fetched_title": "Building Governed Agents: A Framework for Cost, Control, and Compliance",
+  "meta_description": "The gateway is the runtime control plane for enterprise AI, turning policy into enforceable decisions across every model call, tool call, and agent hop.",
+  "og_title": "Building Governed Agents: A Framework for Cost, Control, and Compliance",
+  "og_description": "The gateway is the runtime control plane for enterprise AI, turning policy into enforceable decisions across every model call, tool call, and agent hop.",
+  "og_image": "https://cdn.prod.website-files.com/65c81e88c254bb0f97633a71/6a5e362ac00e78ef4df1e97d_A%20Framework%20for%20Banner%20-%20Building%20Governed%20Agents%20-%20Cost%2C%20Control%2C%20and%20Compliance.png",
+  "og_type": "website",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://cdn.prod.website-files.com/65c81e88c254bb0f97633a71/6a5e362ac00e78ef4df1e97d_A%20Framework%20for%20Banner%20-%20Building%20Governed%20Agents%20-%20Cost%2C%20Control%2C%20and%20Compliance.png",
+  "language": "en",
+  "canonical_url": "https://www.langchain.com/blog/building-governed-agents-a-framework-for-cost-control-and-compliance",
+  "word_count": 3044,
+  "reading_time_min": 15,
+  "outline": [
+    {
+      "level": 1,
+      "text": "Building Governed Agents: A Framework for Cost, Control, and Compliance"
+    },
+    {
+      "level": 2,
+      "text": "Why governance matters"
+    },
+    {
+      "level": 2,
+      "text": "Starting points for governance"
+    },
+    {
+      "level": 2,
+      "text": "The foundations of governance"
+    },
+    {
+      "level": 3,
+      "text": "Security"
+    },
+    {
+      "level": 3,
+      "text": "Authentication and identity"
+    },
+    {
+      "level": 3,
+      "text": "Audit logs"
+    },
+    {
+      "level": 3,
+      "text": "User management"
+    },
+    {
+      "level": 3,
+      "text": "Provider secrets"
+    },
+    {
+      "level": 3,
+      "text": "Data separation"
+    },
+    {
+      "level": 3,
+      "text": "Data residency"
+    },
+    {
+      "level": 2,
+      "text": "What needs to be governed"
+    },
+    {
+      "level": 2,
+      "text": "How to enforce governance"
+    },
+    {
+      "level": 3,
+      "text": "Evaluate the true cost of building a gateway"
+    },
+    {
+      "level": 3,
+      "text": "Build governance into the agent stack"
+    },
+    {
+      "level": 3,
+      "text": "Make adoption simple and centrally managed"
+    },
+    {
+      "level": 2,
+      "text": "Keep the gateway reliable under production load"
+    },
+    {
+      "level": 3,
+      "text": "Resilience and failure behavior"
+    },
+    {
+      "level": 3,
+      "text": "Fallbacks"
+    },
+    {
+      "level": 3,
+      "text": "Rate limits and alerts"
+    },
+    {
+      "level": 3,
+      "text": "Price accuracy"
+    },
+    {
+      "level": 3,
+      "text": "Model access"
+    },
+    {
+      "level": 2,
+      "text": "Governing AI cost and model choice"
+    },
+    {
+      "level": 3,
+      "text": "Spend controls"
+    },
+    {
+      "level": 3,
+      "text": "Model routing"
+    },
+    {
+      "level": 3,
+      "text": "Context efficiency"
+    },
+    {
+      "level": 2,
+      "text": "Protecting sensitive data at runtime"
+    },
+    {
+      "level": 2,
+      "text": "How guardrails work"
+    },
+    {
+      "level": 2,
+      "text": "Conclusion"
+    },
+    {
+      "level": 3,
+      "text": "Related content"
+    }
+  ]
+}

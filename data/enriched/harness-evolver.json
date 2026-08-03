@@ -1,0 +1,152 @@
+{
+  "slug": "harness-evolver",
+  "url": "https://github.com/raphaelchristi/harness-evolver",
+  "crawled_at": "2026-08-03T04:34:18.334716+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://github.com/raphaelchristi/harness-evolver",
+  "content_type": "github",
+  "last_modified": "",
+  "github_stars": 43,
+  "github_forks": 5,
+  "github_open_issues": 3,
+  "github_topics": [
+    "agent-evolution",
+    "claude-code-plugin",
+    "codex-skills",
+    "harness-engineering",
+    "meta-harness"
+  ],
+  "github_language": "Python",
+  "github_description": "Automated harness evolution for AI agents. A Claude Code plugin that iteratively optimizes system prompts, routing, retrieval, and orchestration code using full-trace counterfactual diagnosis. Based on Meta-Harness (Lee et al., 2026).",
+  "github_created": "2026-03-31",
+  "github_updated": "2026-07-29",
+  "github_pushed": "2026-04-18",
+  "github_license": "MIT",
+  "github_homepage": "",
+  "fetched_title": "GitHub - raphaelchristi/harness-evolver: Automated harness evolution for AI agents. A Claude Code plugin that iteratively optimizes system prompts, routing, retrieval, and orchestration code using full-trace counterfactual diagnosis. Based on Meta-Harness (Lee et al., 2026). \u00b7 GitHub",
+  "meta_description": "Automated harness evolution for AI agents. A Claude Code plugin that iteratively optimizes system prompts, routing, retrieval, and orchestration code using full-trace counterfactual diagnosis. Based on Meta-Harness (Lee et al., 2026). - raphaelchristi/harness-evolver",
+  "og_title": "GitHub - raphaelchristi/harness-evolver: Automated harness evolution for AI agents. A Claude Code plugin that iteratively optimizes system prompts, routing, retrieval, and orchestration code using full-trace counterfactual diagnosis. Based on Meta-Harness (Lee et al., 2026).",
+  "og_description": "Automated harness evolution for AI agents. A Claude Code plugin that iteratively optimizes system prompts, routing, retrieval, and orchestration code using full-trace counterfactual diagnosis. Base...",
+  "og_image": "https://opengraph.githubassets.com/2d9635c3c0fac57464fe35fdbfabe0e9d3bfdd51187c7cb34ae17bd999d850a3/raphaelchristi/harness-evolver",
+  "og_type": "object",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://opengraph.githubassets.com/2d9635c3c0fac57464fe35fdbfabe0e9d3bfdd51187c7cb34ae17bd999d850a3/raphaelchristi/harness-evolver",
+  "language": "en",
+  "word_count": 987,
+  "reading_time_min": 5,
+  "outline": [
+    {
+      "level": 2,
+      "text": "Folders and files"
+    },
+    {
+      "level": 2,
+      "text": "Latest commit"
+    },
+    {
+      "level": 2,
+      "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Repository files navigation"
+    },
+    {
+      "level": 1,
+      "text": "Harness Evolver"
+    },
+    {
+      "level": 2,
+      "text": "Install"
+    },
+    {
+      "level": 3,
+      "text": "Claude Code Plugin (recommended)"
+    },
+    {
+      "level": 3,
+      "text": "npx (first-time setup or non-Claude Code runtimes)"
+    },
+    {
+      "level": 2,
+      "text": "Quick Start"
+    },
+    {
+      "level": 2,
+      "text": "What It Looks Like"
+    },
+    {
+      "level": 2,
+      "text": "How It Works"
+    },
+    {
+      "level": 2,
+      "text": "Evolution Loop"
+    },
+    {
+      "level": 2,
+      "text": "Agents"
+    },
+    {
+      "level": 2,
+      "text": "Requirements"
+    },
+    {
+      "level": 2,
+      "text": "Companion: LangSmith Tracing"
+    },
+    {
+      "level": 2,
+      "text": "References"
+    },
+    {
+      "level": 2,
+      "text": "License"
+    },
+    {
+      "level": 2,
+      "text": "About"
+    },
+    {
+      "level": 3,
+      "text": "Topics"
+    },
+    {
+      "level": 3,
+      "text": "Resources"
+    },
+    {
+      "level": 3,
+      "text": "Code of conduct"
+    },
+    {
+      "level": 3,
+      "text": "Stars"
+    },
+    {
+      "level": 3,
+      "text": "Watchers"
+    },
+    {
+      "level": 3,
+      "text": "Forks"
+    },
+    {
+      "level": 2,
+      "text": "Releases"
+    },
+    {
+      "level": 2,
+      "text": "Packages"
+    },
+    {
+      "level": 2,
+      "text": "Contributors"
+    },
+    {
+      "level": 2,
+      "text": "Languages"
+    }
+  ]
+}

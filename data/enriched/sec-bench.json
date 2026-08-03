@@ -1,0 +1,154 @@
+{
+  "slug": "sec-bench",
+  "url": "https://github.com/SEC-bench/SEC-bench",
+  "crawled_at": "2026-08-03T04:35:05.909527+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://github.com/SEC-bench/SEC-bench",
+  "content_type": "github",
+  "last_modified": "",
+  "github_stars": 89,
+  "github_forks": 10,
+  "github_open_issues": 3,
+  "github_topics": [],
+  "github_language": "Python",
+  "github_description": "Automated Benchmarking of LLM Agents on Real-World Software Security Tasks [NeurIPS 2025]",
+  "github_created": "2025-06-05",
+  "github_updated": "2026-07-30",
+  "github_pushed": "2026-01-27",
+  "github_license": "MIT",
+  "github_homepage": "https://sec-bench.github.io",
+  "fetched_title": "GitHub - SEC-bench/SEC-bench: Automated Benchmarking of LLM Agents on Real-World Software Security Tasks [NeurIPS 2025] \u00b7 GitHub",
+  "meta_description": "Automated Benchmarking of LLM Agents on Real-World Software Security Tasks [NeurIPS 2025] - SEC-bench/SEC-bench",
+  "og_title": "GitHub - SEC-bench/SEC-bench: Automated Benchmarking of LLM Agents on Real-World Software Security Tasks [NeurIPS 2025]",
+  "og_description": "Automated Benchmarking of LLM Agents on Real-World Software Security Tasks [NeurIPS 2025] - SEC-bench/SEC-bench",
+  "og_image": "https://opengraph.githubassets.com/89d434356c48d33464139ded51b3b6ed9edb88cb2ac9fbf68f688598effd0446/SEC-bench/SEC-bench",
+  "og_type": "object",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://opengraph.githubassets.com/89d434356c48d33464139ded51b3b6ed9edb88cb2ac9fbf68f688598effd0446/SEC-bench/SEC-bench",
+  "language": "en",
+  "word_count": 1319,
+  "reading_time_min": 7,
+  "outline": [
+    {
+      "level": 3,
+      "text": "Uh oh!"
+    },
+    {
+      "level": 2,
+      "text": "Folders and files"
+    },
+    {
+      "level": 2,
+      "text": "Latest commit"
+    },
+    {
+      "level": 2,
+      "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Repository files navigation"
+    },
+    {
+      "level": 1,
+      "text": "SEC-bench"
+    },
+    {
+      "level": 2,
+      "text": "\ud83c\udfaf Overview"
+    },
+    {
+      "level": 2,
+      "text": "\u2728 Features"
+    },
+    {
+      "level": 2,
+      "text": "\ud83d\udd27 Prerequisites"
+    },
+    {
+      "level": 2,
+      "text": "\ud83d\ude80 Installation"
+    },
+    {
+      "level": 3,
+      "text": "1. Clone the Repository"
+    },
+    {
+      "level": 3,
+      "text": "2. Create Python Environment"
+    },
+    {
+      "level": 3,
+      "text": "3. Install Dependencies"
+    },
+    {
+      "level": 2,
+      "text": "\ud83d\udd11 Environment Setup"
+    },
+    {
+      "level": 2,
+      "text": "\ud83d\udcd6 Usage"
+    },
+    {
+      "level": 3,
+      "text": "\ud83d\uddc2\ufe0f Data Collection"
+    },
+    {
+      "level": 3,
+      "text": "\ud83c\udfd7\ufe0f Instance Building"
+    },
+    {
+      "level": 3,
+      "text": "\u2705 Verification"
+    },
+    {
+      "level": 3,
+      "text": "\ud83e\uddea Evaluation"
+    },
+    {
+      "level": 3,
+      "text": "\ud83e\udd16 Running smolagent"
+    },
+    {
+      "level": 3,
+      "text": "\ud83d\udcca Results Viewing"
+    },
+    {
+      "level": 2,
+      "text": "\ud83d\udc33 Docker Images"
+    },
+    {
+      "level": 3,
+      "text": "Image Naming Convention"
+    },
+    {
+      "level": 2,
+      "text": "\ud83d\udcda Citation"
+    },
+    {
+      "level": 2,
+      "text": "About"
+    },
+    {
+      "level": 3,
+      "text": "Resources"
+    },
+    {
+      "level": 3,
+      "text": "Stars"
+    },
+    {
+      "level": 3,
+      "text": "Watchers"
+    },
+    {
+      "level": 3,
+      "text": "Forks"
+    },
+    {
+      "level": 2,
+      "text": "Releases"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "slug": "gaia",
+  "url": "https://huggingface.co/datasets/gaia-benchmark/GAIA",
+  "crawled_at": "2026-08-03T04:34:02.614296+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://huggingface.co/datasets/gaia-benchmark/GAIA",
+  "content_type": "article",
+  "last_modified": "",
+  "fetched_title": "gaia-benchmark/GAIA \u00b7 Datasets at Hugging Face",
+  "meta_description": "We\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
+  "og_title": "gaia-benchmark/GAIA \u00b7 Datasets at Hugging Face",
+  "og_description": "We\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
+  "og_image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/datasets/gaia-benchmark/GAIA.png",
+  "og_type": "website",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/datasets/gaia-benchmark/GAIA.png",
+  "canonical_url": "https://huggingface.co/datasets/gaia-benchmark/GAIA",
+  "word_count": 476,
+  "reading_time_min": 2,
+  "outline": [
+    {
+      "level": 2,
+      "text": "You need to agree to share your contact information to access this dataset"
+    },
+    {
+      "level": 1,
+      "text": "GAIA dataset"
+    },
+    {
+      "level": 2,
+      "text": "Data and leaderboard"
+    },
+    {
+      "level": 2,
+      "text": "Dataset Format update (October 2025)"
+    },
+    {
+      "level": 3,
+      "text": "Load datasets"
+    },
+    {
+      "level": 2,
+      "text": "Models trained or fine-tuned ongaia-benchmark/GAIA"
+    },
+    {
+      "level": 2,
+      "text": "Spaces usinggaia-benchmark/GAIA24"
+    },
+    {
+      "level": 2,
+      "text": "Collection includinggaia-benchmark/GAIA"
+    },
+    {
+      "level": 2,
+      "text": "Paper forgaia-benchmark/GAIA"
+    }
+  ]
+}

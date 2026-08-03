@@ -1,0 +1,75 @@
+{
+  "slug": "terminal-bench",
+  "url": "https://www.tbench.ai/",
+  "crawled_at": "2026-08-03T04:35:17.467798+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://www.tbench.ai/",
+  "content_type": "article",
+  "last_modified": "",
+  "fetched_title": "Terminal-Bench",
+  "meta_description": "A benchmark for terminal agents",
+  "og_title": "Terminal-Bench",
+  "og_description": "A benchmark for terminal agents",
+  "og_image": "https://www.tbench.ai/og/ascii-logo-dark-1200x630.png",
+  "og_type": "website",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://www.tbench.ai/og/ascii-logo-dark-1200x630.png",
+  "language": "en",
+  "word_count": 887,
+  "reading_time_min": 4,
+  "outline": [
+    {
+      "level": 2,
+      "text": "terminal-bench: benchmarks for ai agents in terminal environments"
+    },
+    {
+      "level": 2,
+      "text": "build-linux-kernel-qemu"
+    },
+    {
+      "level": 2,
+      "text": "configure-git-webserver"
+    },
+    {
+      "level": 2,
+      "text": "crack-7z-hash"
+    },
+    {
+      "level": 2,
+      "text": "openssl-selfsigned-cert"
+    },
+    {
+      "level": 2,
+      "text": "reshard-c4-data"
+    },
+    {
+      "level": 2,
+      "text": "train-fasttext"
+    },
+    {
+      "level": 2,
+      "text": "Frontier-Bench"
+    },
+    {
+      "level": 2,
+      "text": "Terminal-Bench 2.1"
+    },
+    {
+      "level": 2,
+      "text": "Terminal-Bench 2.0"
+    },
+    {
+      "level": 2,
+      "text": "Terminal-Bench 1.0"
+    },
+    {
+      "level": 2,
+      "text": "Terminal-Bench Science"
+    },
+    {
+      "level": 2,
+      "text": "Terminal-Bench Challenges"
+    }
+  ]
+}

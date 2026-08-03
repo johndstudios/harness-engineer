@@ -1,0 +1,160 @@
+{
+  "slug": "wildclawbench",
+  "url": "https://github.com/InternLM/WildClawBench",
+  "crawled_at": "2026-08-03T04:35:42.421931+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://github.com/InternLM/WildClawBench",
+  "content_type": "github",
+  "last_modified": "",
+  "github_stars": 498,
+  "github_forks": 56,
+  "github_open_issues": 9,
+  "github_topics": [
+    "agentic-ai",
+    "agentic-evaluation",
+    "agents",
+    "benchmarks",
+    "openclaw"
+  ],
+  "github_language": "Python",
+  "github_description": "An in-the-wild benchmark for AI agents in the OpenClaw Environment.",
+  "github_created": "2026-03-23",
+  "github_updated": "2026-07-30",
+  "github_pushed": "2026-07-30",
+  "github_license": "MIT",
+  "github_homepage": "https://internlm.github.io/WildClawBench/",
+  "fetched_title": "GitHub - InternLM/WildClawBench: An in-the-wild benchmark for AI agents in the OpenClaw Environment. \u00b7 GitHub",
+  "meta_description": "An in-the-wild benchmark for AI agents in the OpenClaw Environment. - InternLM/WildClawBench",
+  "og_title": "GitHub - InternLM/WildClawBench: An in-the-wild benchmark for AI agents in the OpenClaw Environment.",
+  "og_description": "An in-the-wild benchmark for AI agents in the OpenClaw Environment. - InternLM/WildClawBench",
+  "og_image": "https://opengraph.githubassets.com/12608d05b98640484ef6097910f09ee8b2f611ed193fc67115dbd6c4c64a3868/InternLM/WildClawBench",
+  "og_type": "object",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://opengraph.githubassets.com/12608d05b98640484ef6097910f09ee8b2f611ed193fc67115dbd6c4c64a3868/InternLM/WildClawBench",
+  "language": "en",
+  "word_count": 2901,
+  "reading_time_min": 15,
+  "outline": [
+    {
+      "level": 3,
+      "text": "Uh oh!"
+    },
+    {
+      "level": 2,
+      "text": "Folders and files"
+    },
+    {
+      "level": 2,
+      "text": "Latest commit"
+    },
+    {
+      "level": 2,
+      "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Repository files navigation"
+    },
+    {
+      "level": 1,
+      "text": "WildClawBench"
+    },
+    {
+      "level": 3,
+      "text": "Why WildClawBench?"
+    },
+    {
+      "level": 3,
+      "text": "What Sets Us Apart"
+    },
+    {
+      "level": 2,
+      "text": "News"
+    },
+    {
+      "level": 2,
+      "text": "Leaderboard"
+    },
+    {
+      "level": 3,
+      "text": "Model leaderboard (OpenClaw harness)"
+    },
+    {
+      "level": 3,
+      "text": "Harness comparison"
+    },
+    {
+      "level": 2,
+      "text": "Tasks"
+    },
+    {
+      "level": 2,
+      "text": "Quick Start"
+    },
+    {
+      "level": 3,
+      "text": "Install Docker"
+    },
+    {
+      "level": 3,
+      "text": "Download Images"
+    },
+    {
+      "level": 3,
+      "text": "Download Task Data"
+    },
+    {
+      "level": 3,
+      "text": "Prepare Data"
+    },
+    {
+      "level": 3,
+      "text": "Run"
+    },
+    {
+      "level": 3,
+      "text": "Using a Custom Model Endpoint (Without OpenRouter)"
+    },
+    {
+      "level": 2,
+      "text": "Check the Results"
+    },
+    {
+      "level": 2,
+      "text": "Personal OpenClaw Evaluation"
+    },
+    {
+      "level": 2,
+      "text": "Citation"
+    },
+    {
+      "level": 2,
+      "text": "Contributors"
+    },
+    {
+      "level": 2,
+      "text": "Acknowledgements"
+    },
+    {
+      "level": 2,
+      "text": "Cleanup"
+    },
+    {
+      "level": 2,
+      "text": "License"
+    },
+    {
+      "level": 2,
+      "text": "Star History"
+    },
+    {
+      "level": 2,
+      "text": "About"
+    },
+    {
+      "level": 3,
+      "text": "Topics"
+    }
+  ]
+}

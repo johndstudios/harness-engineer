@@ -1,0 +1,118 @@
+{
+  "slug": "humanlayerskills",
+  "url": "https://github.com/humanlayer/skills",
+  "crawled_at": "2026-08-03T04:34:25.114355+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://github.com/humanlayer/skills",
+  "content_type": "github",
+  "last_modified": "",
+  "github_stars": 112,
+  "github_forks": 5,
+  "github_open_issues": 1,
+  "github_topics": [],
+  "github_language": "TypeScript",
+  "github_description": null,
+  "github_created": "2026-03-18",
+  "github_updated": "2026-08-02",
+  "github_pushed": "2026-06-30",
+  "github_license": "MIT",
+  "github_homepage": null,
+  "fetched_title": "GitHub - humanlayer/skills \u00b7 GitHub",
+  "meta_description": "Contribute to humanlayer/skills development by creating an account on GitHub.",
+  "og_title": "GitHub - humanlayer/skills",
+  "og_description": "Contribute to humanlayer/skills development by creating an account on GitHub.",
+  "og_image": "https://opengraph.githubassets.com/e976e838463285e57a49f6807ced48401e6755cd694053df702ae6c3542e1375/humanlayer/skills",
+  "og_type": "object",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://opengraph.githubassets.com/e976e838463285e57a49f6807ced48401e6755cd694053df702ae6c3542e1375/humanlayer/skills",
+  "language": "en",
+  "word_count": 301,
+  "reading_time_min": 2,
+  "outline": [
+    {
+      "level": 3,
+      "text": "Uh oh!"
+    },
+    {
+      "level": 2,
+      "text": "Folders and files"
+    },
+    {
+      "level": 2,
+      "text": "Latest commit"
+    },
+    {
+      "level": 2,
+      "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Repository files navigation"
+    },
+    {
+      "level": 1,
+      "text": "skills"
+    },
+    {
+      "level": 2,
+      "text": "Installation"
+    },
+    {
+      "level": 2,
+      "text": "Available Skills"
+    },
+    {
+      "level": 3,
+      "text": "improve-claude-md"
+    },
+    {
+      "level": 3,
+      "text": "narrow-react-prop-types"
+    },
+    {
+      "level": 3,
+      "text": "build-iterated-agentic-loop"
+    },
+    {
+      "level": 3,
+      "text": "design-control-loop"
+    },
+    {
+      "level": 2,
+      "text": "About"
+    },
+    {
+      "level": 3,
+      "text": "Resources"
+    },
+    {
+      "level": 3,
+      "text": "Stars"
+    },
+    {
+      "level": 3,
+      "text": "Watchers"
+    },
+    {
+      "level": 3,
+      "text": "Forks"
+    },
+    {
+      "level": 2,
+      "text": "Releases"
+    },
+    {
+      "level": 2,
+      "text": "Packages"
+    },
+    {
+      "level": 2,
+      "text": "Contributors"
+    },
+    {
+      "level": 2,
+      "text": "Languages"
+    }
+  ]
+}

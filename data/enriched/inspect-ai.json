@@ -1,0 +1,59 @@
+{
+  "slug": "inspect-ai",
+  "url": "https://inspect.aisi.org.uk/",
+  "crawled_at": "2026-08-03T04:34:28.699349+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://inspect.aisi.org.uk/",
+  "content_type": "article",
+  "last_modified": "Wed, 29 Jul 2026 15:08:57 GMT",
+  "fetched_title": "Inspect",
+  "meta_description": "",
+  "og_title": "Inspect",
+  "og_description": "Open-source framework for large language model evaluations",
+  "og_image": "https://inspect.aisi.org.uk/images/inspect.png",
+  "og_type": "",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://inspect.aisi.org.uk/images/inspect.png",
+  "language": "en",
+  "word_count": 1243,
+  "reading_time_min": 6,
+  "outline": [
+    {
+      "level": 2,
+      "text": "Welcome"
+    },
+    {
+      "level": 2,
+      "text": "Getting Started"
+    },
+    {
+      "level": 2,
+      "text": "Hello, Inspect"
+    },
+    {
+      "level": 3,
+      "text": "Benchmark: SimpleQA"
+    },
+    {
+      "level": 3,
+      "text": "Agent: CTF Challenge"
+    },
+    {
+      "level": 2,
+      "text": "Python API"
+    },
+    {
+      "level": 2,
+      "text": "LLM Assistance"
+    },
+    {
+      "level": 2,
+      "text": "Learning More"
+    },
+    {
+      "level": 2,
+      "text": "Citation"
+    }
+  ]
+}

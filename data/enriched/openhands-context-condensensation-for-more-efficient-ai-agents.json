@@ -1,0 +1,54 @@
+{
+  "slug": "openhands-context-condensensation-for-more-efficient-ai-agents",
+  "url": "https://openhands.dev/blog/openhands-context-condensensation-for-more-efficient-ai-agents",
+  "crawled_at": "2026-08-03T04:34:54.881179+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://www.openhands.dev/blog/openhands-context-condensensation-for-more-efficient-ai-agents",
+  "content_type": "article",
+  "last_modified": "",
+  "fetched_title": "OpenHands Context Condensensation for More Efficient AI Agents | Apr 09, 2025",
+  "meta_description": "Say 'goodbye' to long conversation frustrations. Our context condenser intelligently summarizes conversation history to maintain performance, cuts API costs by 50%, and keeps your agents responsive through even the longest problem-solving sessions.",
+  "og_title": "OpenHands Context Condensensation for More Efficient AI Agents",
+  "og_description": "Say 'goodbye' to long conversation frustrations. Our context condenser intelligently summarizes conversation history to maintain performance, cuts API costs by 50%, and keeps your agents responsive through even the longest problem-solving sessions.",
+  "og_image": "https://www.openhands.dev/assets/notion-blog/openhands-context-condensensation-for-more-efficient-ai-agents/og.png",
+  "og_type": "article",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://www.openhands.dev/assets/notion-blog/openhands-context-condensensation-for-more-efficient-ai-agents/og.png",
+  "author": "Calvin Smith",
+  "publish_date": "2025-04-09",
+  "language": "en",
+  "canonical_url": "https://www.openhands.dev/blog/openhands-context-condensensation-for-more-efficient-ai-agents",
+  "word_count": 802,
+  "reading_time_min": 4,
+  "outline": [
+    {
+      "level": 2,
+      "text": "The Context Growth Problem"
+    },
+    {
+      "level": 2,
+      "text": "Our Solution: Intelligent Context Condensation"
+    },
+    {
+      "level": 2,
+      "text": "Optimizing for Cache Efficiency"
+    },
+    {
+      "level": 2,
+      "text": "Major Efficiency Gains Without Compromising Performance"
+    },
+    {
+      "level": 2,
+      "text": "Try OpenHands Today"
+    },
+    {
+      "level": 1,
+      "text": "Get useful insights in our blog"
+    },
+    {
+      "level": 3,
+      "text": "Thank you for your submission!"
+    }
+  ]
+}

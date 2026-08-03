@@ -1,0 +1,175 @@
+{
+  "slug": "uni-cli",
+  "url": "https://github.com/olo-dot-io/Uni-CLI",
+  "crawled_at": "2026-08-03T04:35:32.773831+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://github.com/olo-dot-io/Uni-CLI",
+  "content_type": "github",
+  "last_modified": "",
+  "github_stars": 90,
+  "github_forks": 3,
+  "github_open_issues": 2,
+  "github_topics": [
+    "agent-infrastructure",
+    "ai-agents",
+    "ai-tools",
+    "automation",
+    "browser-automation",
+    "cdp",
+    "chrome",
+    "claude-code",
+    "cli",
+    "codex",
+    "cursor",
+    "developer-tools",
+    "mcp",
+    "mcp-server",
+    "nodejs",
+    "openai",
+    "self-repair",
+    "typescript",
+    "web-scraping",
+    "yaml"
+  ],
+  "github_language": "TypeScript",
+  "github_description": "Operation-first Agent-Computer Interface for real software\u2014discover one executable path across APIs, browsers, desktops, local tools, and MCP.",
+  "github_created": "2026-04-04",
+  "github_updated": "2026-08-02",
+  "github_pushed": "2026-08-02",
+  "github_license": "Apache-2.0",
+  "github_homepage": "https://olo-dot-io.github.io/Uni-CLI/",
+  "fetched_title": "GitHub - olo-dot-io/Uni-CLI: Operation-first Agent-Computer Interface for real software\u2014discover one executable path across APIs, browsers, desktops, local tools, and MCP. \u00b7 GitHub",
+  "meta_description": "Operation-first Agent-Computer Interface for real software\u2014discover one executable path across APIs, browsers, desktops, local tools, and MCP. - olo-dot-io/Uni-CLI",
+  "og_title": "GitHub - olo-dot-io/Uni-CLI: Operation-first Agent-Computer Interface for real software\u2014discover one executable path across APIs, browsers, desktops, local tools, and MCP.",
+  "og_description": "Operation-first Agent-Computer Interface for real software\u2014discover one executable path across APIs, browsers, desktops, local tools, and MCP. - olo-dot-io/Uni-CLI",
+  "og_image": "https://opengraph.githubassets.com/336d97347416d14c7b76113ad791f98610244cd148d09f1a54d5fc8d3750cf7f/olo-dot-io/Uni-CLI",
+  "og_type": "object",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://opengraph.githubassets.com/336d97347416d14c7b76113ad791f98610244cd148d09f1a54d5fc8d3750cf7f/olo-dot-io/Uni-CLI",
+  "language": "en",
+  "word_count": 1600,
+  "reading_time_min": 8,
+  "outline": [
+    {
+      "level": 3,
+      "text": "Uh oh!"
+    },
+    {
+      "level": 2,
+      "text": "Folders and files"
+    },
+    {
+      "level": 2,
+      "text": "Latest commit"
+    },
+    {
+      "level": 2,
+      "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Repository files navigation"
+    },
+    {
+      "level": 1,
+      "text": "Uni-CLI"
+    },
+    {
+      "level": 2,
+      "text": "Route By Task"
+    },
+    {
+      "level": 2,
+      "text": "The Operation Contract"
+    },
+    {
+      "level": 2,
+      "text": "Surfaces"
+    },
+    {
+      "level": 2,
+      "text": "Use It From An Agent"
+    },
+    {
+      "level": 3,
+      "text": "Native CLI"
+    },
+    {
+      "level": 3,
+      "text": "MCP"
+    },
+    {
+      "level": 3,
+      "text": "Local Computer"
+    },
+    {
+      "level": 2,
+      "text": "Results That Explain Themselves"
+    },
+    {
+      "level": 2,
+      "text": "Repair Drift At The Owned Boundary"
+    },
+    {
+      "level": 2,
+      "text": "Trust Boundaries"
+    },
+    {
+      "level": 2,
+      "text": "Development"
+    },
+    {
+      "level": 2,
+      "text": "License"
+    },
+    {
+      "level": 2,
+      "text": "About"
+    },
+    {
+      "level": 3,
+      "text": "Topics"
+    },
+    {
+      "level": 3,
+      "text": "Resources"
+    },
+    {
+      "level": 3,
+      "text": "Code of conduct"
+    },
+    {
+      "level": 3,
+      "text": "Contributing"
+    },
+    {
+      "level": 3,
+      "text": "Security policy"
+    },
+    {
+      "level": 3,
+      "text": "Stars"
+    },
+    {
+      "level": 3,
+      "text": "Watchers"
+    },
+    {
+      "level": 3,
+      "text": "Forks"
+    },
+    {
+      "level": 2,
+      "text": "Releases"
+    },
+    {
+      "level": 2,
+      "text": "Packages"
+    },
+    {
+      "level": 2,
+      "text": "Contributors"
+    }
+  ]
+}

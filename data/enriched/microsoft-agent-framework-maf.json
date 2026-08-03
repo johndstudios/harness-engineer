@@ -1,0 +1,165 @@
+{
+  "slug": "microsoft-agent-framework-maf",
+  "url": "https://github.com/microsoft/agent-framework",
+  "crawled_at": "2026-08-03T04:34:47.975311+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://github.com/microsoft/agent-framework",
+  "content_type": "github",
+  "last_modified": "",
+  "github_stars": 12550,
+  "github_forks": 2105,
+  "github_open_issues": 660,
+  "github_topics": [
+    "agent-framework",
+    "agentic-ai",
+    "agents",
+    "ai",
+    "dotnet",
+    "multi-agent",
+    "orchestration",
+    "python",
+    "sdk",
+    "workflows"
+  ],
+  "github_language": "Python",
+  "github_description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.",
+  "github_created": "2025-04-28",
+  "github_updated": "2026-08-03",
+  "github_pushed": "2026-08-03",
+  "github_license": "MIT",
+  "github_homepage": "https://aka.ms/agent-framework",
+  "fetched_title": "GitHub - microsoft/agent-framework: A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET. \u00b7 GitHub",
+  "meta_description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET. - microsoft/agent-framework",
+  "og_title": "GitHub - microsoft/agent-framework: A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.",
+  "og_description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET. - microsoft/agent-framework",
+  "og_image": "https://opengraph.githubassets.com/e21bcaa96f91f8dd7d3b81b23d3fcfbc8b1dcac0bfb3553a3d927280b85b87aa/microsoft/agent-framework",
+  "og_type": "object",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://opengraph.githubassets.com/e21bcaa96f91f8dd7d3b81b23d3fcfbc8b1dcac0bfb3553a3d927280b85b87aa/microsoft/agent-framework",
+  "language": "en",
+  "word_count": 1529,
+  "reading_time_min": 8,
+  "outline": [
+    {
+      "level": 3,
+      "text": "Uh oh!"
+    },
+    {
+      "level": 2,
+      "text": "Folders and files"
+    },
+    {
+      "level": 2,
+      "text": "Latest commit"
+    },
+    {
+      "level": 2,
+      "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Repository files navigation"
+    },
+    {
+      "level": 1,
+      "text": "Welcome to Microsoft Agent Framework!"
+    },
+    {
+      "level": 2,
+      "text": "Is this the right framework for you?"
+    },
+    {
+      "level": 2,
+      "text": "Key Features"
+    },
+    {
+      "level": 2,
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "text": "Getting Started"
+    },
+    {
+      "level": 3,
+      "text": "Installation"
+    },
+    {
+      "level": 3,
+      "text": "Learning Resources"
+    },
+    {
+      "level": 3,
+      "text": "Quickstart"
+    },
+    {
+      "level": 2,
+      "text": "More Examples & Samples"
+    },
+    {
+      "level": 3,
+      "text": "Python"
+    },
+    {
+      "level": 3,
+      "text": ".NET"
+    },
+    {
+      "level": 2,
+      "text": "Community & Feedback"
+    },
+    {
+      "level": 2,
+      "text": "Troubleshooting"
+    },
+    {
+      "level": 3,
+      "text": "Authentication"
+    },
+    {
+      "level": 3,
+      "text": "Environment Variables"
+    },
+    {
+      "level": 2,
+      "text": "Contributor Resources"
+    },
+    {
+      "level": 2,
+      "text": "Important Notes"
+    },
+    {
+      "level": 2,
+      "text": "About"
+    },
+    {
+      "level": 3,
+      "text": "Topics"
+    },
+    {
+      "level": 3,
+      "text": "Resources"
+    },
+    {
+      "level": 3,
+      "text": "Code of conduct"
+    },
+    {
+      "level": 3,
+      "text": "Contributing"
+    },
+    {
+      "level": 3,
+      "text": "Security policy"
+    },
+    {
+      "level": 3,
+      "text": "Stars"
+    },
+    {
+      "level": 3,
+      "text": "Watchers"
+    }
+  ]
+}

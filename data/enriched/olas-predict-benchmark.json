@@ -1,0 +1,130 @@
+{
+  "slug": "olas-predict-benchmark",
+  "url": "https://github.com/valory-xyz/olas-predict-benchmark",
+  "crawled_at": "2026-08-03T04:34:53.020863+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://github.com/valory-xyz/olas-predict-benchmark",
+  "content_type": "github",
+  "last_modified": "",
+  "github_stars": 3,
+  "github_forks": 1,
+  "github_open_issues": 1,
+  "github_topics": [],
+  "github_language": "Jupyter Notebook",
+  "github_description": "Olas Predict Benchmark of Mech tools",
+  "github_created": "2024-01-16",
+  "github_updated": "2025-09-13",
+  "github_pushed": "2025-04-24",
+  "github_license": "MIT",
+  "github_homepage": "https://olas.network/services/prediction-agents",
+  "fetched_title": "GitHub - valory-xyz/olas-predict-benchmark: Olas Predict Benchmark of Mech tools \u00b7 GitHub",
+  "meta_description": "Olas Predict Benchmark of Mech tools. Contribute to valory-xyz/olas-predict-benchmark development by creating an account on GitHub.",
+  "og_title": "GitHub - valory-xyz/olas-predict-benchmark: Olas Predict Benchmark of Mech tools",
+  "og_description": "Olas Predict Benchmark of Mech tools. Contribute to valory-xyz/olas-predict-benchmark development by creating an account on GitHub.",
+  "og_image": "https://opengraph.githubassets.com/5a841c85d1ed4816c08ce23df27f62214eff923bac2876a403de052ce856bd4e/valory-xyz/olas-predict-benchmark",
+  "og_type": "object",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://opengraph.githubassets.com/5a841c85d1ed4816c08ce23df27f62214eff923bac2876a403de052ce856bd4e/valory-xyz/olas-predict-benchmark",
+  "language": "en",
+  "word_count": 658,
+  "reading_time_min": 3,
+  "outline": [
+    {
+      "level": 3,
+      "text": "Uh oh!"
+    },
+    {
+      "level": 2,
+      "text": "Folders and files"
+    },
+    {
+      "level": 2,
+      "text": "Latest commit"
+    },
+    {
+      "level": 2,
+      "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Repository files navigation"
+    },
+    {
+      "level": 1,
+      "text": "Olas Predict Benchmark"
+    },
+    {
+      "level": 1,
+      "text": "Contents"
+    },
+    {
+      "level": 2,
+      "text": "Initial Setup"
+    },
+    {
+      "level": 2,
+      "text": "Troubleshooting"
+    },
+    {
+      "level": 2,
+      "text": "Dataset"
+    },
+    {
+      "level": 3,
+      "text": "Filtering Criteria"
+    },
+    {
+      "level": 3,
+      "text": "Scraping Approach"
+    },
+    {
+      "level": 2,
+      "text": "Results"
+    },
+    {
+      "level": 3,
+      "text": "Notes"
+    },
+    {
+      "level": 2,
+      "text": "About"
+    },
+    {
+      "level": 3,
+      "text": "Resources"
+    },
+    {
+      "level": 3,
+      "text": "Stars"
+    },
+    {
+      "level": 3,
+      "text": "Watchers"
+    },
+    {
+      "level": 3,
+      "text": "Forks"
+    },
+    {
+      "level": 2,
+      "text": "Releases"
+    },
+    {
+      "level": 2,
+      "text": "Packages"
+    },
+    {
+      "level": 2,
+      "text": "Used by"
+    },
+    {
+      "level": 2,
+      "text": "Contributors"
+    },
+    {
+      "level": 2,
+      "text": "Languages"
+    }
+  ]
+}

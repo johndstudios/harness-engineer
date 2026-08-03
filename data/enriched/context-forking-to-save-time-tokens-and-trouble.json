@@ -1,0 +1,53 @@
+{
+  "slug": "context-forking-to-save-time-tokens-and-trouble",
+  "url": "https://humanlayer.dev/blog/context-forking-to-save-time-trouble-and-tokens",
+  "crawled_at": "2026-08-03T04:33:43.940730+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://www.humanlayer.dev/blog/context-forking-to-save-time-trouble-and-tokens",
+  "content_type": "article",
+  "last_modified": "",
+  "fetched_title": "Context Forking to Save Time, Tokens and Trouble | HumanLayer Blog",
+  "meta_description": "Context forking is a powerful coding agent primitive that allows you to build up high-quality context and then reuse it multiple times.",
+  "og_title": "Context Forking to Save Time, Tokens and Trouble",
+  "og_description": "Context forking is a powerful coding agent primitive that allows you to build up high-quality context and then reuse it multiple times.",
+  "og_image": "https://humanlayer.dev/api/context-forking-to-save-time-trouble-and-tokens/og",
+  "og_type": "article",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://humanlayer.dev/api/context-forking-to-save-time-trouble-and-tokens/og",
+  "author": "Kyle",
+  "publish_date": "05/15/2026",
+  "language": "en",
+  "word_count": 800,
+  "reading_time_min": 4,
+  "outline": [
+    {
+      "level": 2,
+      "text": "##Context Windows as Operating System Stacks"
+    },
+    {
+      "level": 2,
+      "text": "##How does context forking work?"
+    },
+    {
+      "level": 2,
+      "text": "##When should you fork your context window?"
+    },
+    {
+      "level": 3,
+      "text": "###Rewinding to course-correct an agent"
+    },
+    {
+      "level": 3,
+      "text": "###Forking to explore different design paths"
+    },
+    {
+      "level": 3,
+      "text": "###Forking to preserve a context window from context-inefficient operations"
+    },
+    {
+      "level": 2,
+      "text": "##Let's recap:"
+    }
+  ]
+}

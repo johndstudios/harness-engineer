@@ -1,0 +1,41 @@
+{
+  "slug": "the-lethal-trifecta-for-ai-agents-private-data-untrusted-content-and-external-communication",
+  "url": "https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/",
+  "crawled_at": "2026-08-03T04:35:21.917272+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/",
+  "content_type": "article",
+  "last_modified": "",
+  "fetched_title": "The lethal trifecta for AI agents: private data, untrusted content, and external communication",
+  "meta_description": "",
+  "og_title": "The lethal trifecta for AI agents: private data, untrusted content, and external communication",
+  "og_description": "If you are a user of LLM systems that use tools (you can call them \u201cAI agents\u201d if you like) it is critically important that you understand the risk of \u2026",
+  "og_image": "https://static.simonwillison.net/static/2025/lethaltrifecta.jpg",
+  "og_type": "article",
+  "twitter_card": "summary",
+  "twitter_image": "https://static.simonwillison.net/static/2025/lethaltrifecta.jpg",
+  "author": "Simon Willison",
+  "language": "en-gb",
+  "canonical_url": "https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/",
+  "word_count": 1629,
+  "reading_time_min": 8,
+  "outline": [
+    {
+      "level": 1,
+      "text": "Simon Willison\u2019s Weblog"
+    },
+    {
+      "level": 2,
+      "text": "The lethal trifecta for AI agents: private data, untrusted content, and external communication"
+    },
+    {
+      "level": 2,
+      "text": "More recent articles"
+    },
+    {
+      "level": 3,
+      "text": "Monthly briefing"
+    }
+  ]
+}

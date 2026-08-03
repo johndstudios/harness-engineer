@@ -1,0 +1,56 @@
+{
+  "slug": "scaling-managed-agents-decoupling-the-brain-from-the-hands",
+  "url": "https://www.anthropic.com/engineering/managed-agents",
+  "crawled_at": "2026-08-03T04:35:05.203502+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://www.anthropic.com/engineering/managed-agents",
+  "content_type": "article",
+  "last_modified": "",
+  "fetched_title": "Scaling Managed Agents: Decoupling the brain from the hands \\ Anthropic",
+  "meta_description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+  "og_title": "Scaling Managed Agents: Decoupling the brain from the hands",
+  "og_description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+  "og_image": "https://cdn.sanity.io/images/4zrzovbb/website/c4c716fb31cdbd336b628549cdac0f14e10d0099-2000x1050.heif",
+  "og_type": "website",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://cdn.sanity.io/images/4zrzovbb/website/c4c716fb31cdbd336b628549cdac0f14e10d0099-2000x1050.heif",
+  "language": "en",
+  "canonical_url": "https://www.anthropic.com/engineering/managed-agents",
+  "word_count": 2154,
+  "reading_time_min": 11,
+  "outline": [
+    {
+      "level": 1,
+      "text": "Scaling Managed Agents: Decoupling the brain from the hands"
+    },
+    {
+      "level": 2,
+      "text": "Don\u2019t adopt a pet"
+    },
+    {
+      "level": 2,
+      "text": "Decouple the brain from the hands"
+    },
+    {
+      "level": 2,
+      "text": "The session is not Claude\u2019s context window"
+    },
+    {
+      "level": 2,
+      "text": "Many brains, many hands"
+    },
+    {
+      "level": 2,
+      "text": "Conclusion"
+    },
+    {
+      "level": 2,
+      "text": "Acknowledgements"
+    },
+    {
+      "level": 2,
+      "text": "Get the developer newsletter"
+    }
+  ]
+}

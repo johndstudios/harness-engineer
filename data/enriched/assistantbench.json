@@ -1,0 +1,106 @@
+{
+  "slug": "assistantbench",
+  "url": "https://github.com/oriyor/AssistantBench",
+  "crawled_at": "2026-08-03T04:32:40.679794+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://github.com/oriyor/AssistantBench",
+  "content_type": "github",
+  "last_modified": "",
+  "github_stars": 71,
+  "github_forks": 3,
+  "github_open_issues": 0,
+  "github_topics": [],
+  "github_language": "Python",
+  "github_description": "Implementation of the paper: \"AssistantBench: Can Web Agents Solve Realistic and Time-Consuming Tasks?\"",
+  "github_created": "2024-07-13",
+  "github_updated": "2026-06-05",
+  "github_pushed": "2024-12-09",
+  "github_license": "NOASSERTION",
+  "github_homepage": "",
+  "fetched_title": "GitHub - oriyor/assistantbench: Implementation of the paper: \"AssistantBench: Can Web Agents Solve Realistic and Time-Consuming Tasks?\" \u00b7 GitHub",
+  "meta_description": "Implementation of the paper: \"AssistantBench: Can Web Agents Solve Realistic and Time-Consuming Tasks?\" - oriyor/assistantbench",
+  "og_title": "GitHub - oriyor/assistantbench: Implementation of the paper: \"AssistantBench: Can Web Agents Solve Realistic and Time-Consuming Tasks?\"",
+  "og_description": "Implementation of the paper: \"AssistantBench: Can Web Agents Solve Realistic and Time-Consuming Tasks?\" - oriyor/assistantbench",
+  "og_image": "https://opengraph.githubassets.com/7dbfab78e81a6393625d1dbbdd41f0f040a6b304f7d8c0b8bbd2e81ef4019874/oriyor/assistantbench",
+  "og_type": "object",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://opengraph.githubassets.com/7dbfab78e81a6393625d1dbbdd41f0f040a6b304f7d8c0b8bbd2e81ef4019874/oriyor/assistantbench",
+  "language": "en",
+  "word_count": 295,
+  "reading_time_min": 1,
+  "outline": [
+    {
+      "level": 2,
+      "text": "Folders and files"
+    },
+    {
+      "level": 2,
+      "text": "Latest commit"
+    },
+    {
+      "level": 2,
+      "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Repository files navigation"
+    },
+    {
+      "level": 2,
+      "text": "\ud83c\udf10 AssistantBench: Can Web Agents Solve Realistic and Time-Consuming Tasks?"
+    },
+    {
+      "level": 3,
+      "text": "\u26f0\ufe0f Dataset and leaderboard"
+    },
+    {
+      "level": 3,
+      "text": "\ud83e\udd16 SPA"
+    },
+    {
+      "level": 3,
+      "text": "\u270d Citation"
+    },
+    {
+      "level": 2,
+      "text": "About"
+    },
+    {
+      "level": 3,
+      "text": "Resources"
+    },
+    {
+      "level": 3,
+      "text": "Stars"
+    },
+    {
+      "level": 3,
+      "text": "Watchers"
+    },
+    {
+      "level": 3,
+      "text": "Forks"
+    },
+    {
+      "level": 2,
+      "text": "Releases"
+    },
+    {
+      "level": 2,
+      "text": "Packages"
+    },
+    {
+      "level": 2,
+      "text": "Used by"
+    },
+    {
+      "level": 2,
+      "text": "Contributors"
+    },
+    {
+      "level": 2,
+      "text": "Languages"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "introducing-terminal-bench-20-and-harbor",
+  "url": "https://www.tbench.ai/news/announcement-2-0",
+  "crawled_at": "2026-08-03T04:34:29.534536+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://www.tbench.ai/news/announcement-2-0",
+  "content_type": "article",
+  "last_modified": "",
+  "fetched_title": "Introducing Terminal-Bench 2.0 and Harbor",
+  "meta_description": "A harder, better verified version of Terminal-Bench and a new package evaluating and optimizing agents.",
+  "og_title": "Terminal-Bench",
+  "og_description": "A benchmark for terminal agents",
+  "og_image": "https://www.tbench.ai/og/ascii-logo-dark-1200x630.png",
+  "og_type": "website",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://www.tbench.ai/og/ascii-logo-dark-1200x630.png",
+  "language": "en",
+  "word_count": 387,
+  "reading_time_min": 2,
+  "outline": [
+    {
+      "level": 1,
+      "text": "Introducing Terminal-Bench 2.0 and Harbor"
+    },
+    {
+      "level": 2,
+      "text": "Harbor"
+    },
+    {
+      "level": 2,
+      "text": "Terminal-Bench 2.0"
+    }
+  ]
+}

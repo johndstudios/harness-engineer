@@ -1,0 +1,84 @@
+{
+  "slug": "harness-engineering-leveraging-codex-in-an-agent-first-world",
+  "url": "https://openai.com/index/harness-engineering/",
+  "crawled_at": "2026-08-03T04:34:16.534406+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://openai.com/index/harness-engineering/",
+  "content_type": "article",
+  "last_modified": "",
+  "fetched_title": "Harness engineering: leveraging Codex in an agent-first world | OpenAI",
+  "meta_description": "By Ryan Lopopolo, Member of the Technical Staff",
+  "og_title": "Harness engineering: leveraging Codex in an agent-first world",
+  "og_description": "By Ryan Lopopolo, Member of the Technical Staff",
+  "og_image": "https://images.ctfassets.net/kftzwdyauwt9/2TjayW57xam6dBbbV28sae/887861e21b8d205c2c392ec5315d3681/SEO.png?w=1600&h=900&fit=fill",
+  "og_type": "website",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://images.ctfassets.net/kftzwdyauwt9/2TjayW57xam6dBbbV28sae/887861e21b8d205c2c392ec5315d3681/SEO.png?w=1600&h=900&fit=fill",
+  "language": "en-US",
+  "canonical_url": "https://openai.com/index/harness-engineering/",
+  "word_count": 3080,
+  "reading_time_min": 15,
+  "outline": [
+    {
+      "level": 1,
+      "text": "Harness engineering: leveraging Codex in an agent-first world"
+    },
+    {
+      "level": 2,
+      "text": "We started with an empty git repository"
+    },
+    {
+      "level": 2,
+      "text": "Redefining the role of the engineer"
+    },
+    {
+      "level": 2,
+      "text": "Increasing application legibility"
+    },
+    {
+      "level": 2,
+      "text": "We made repository knowledge the system of record"
+    },
+    {
+      "level": 2,
+      "text": "Agent legibility is the goal"
+    },
+    {
+      "level": 2,
+      "text": "Enforcing architecture and taste"
+    },
+    {
+      "level": 2,
+      "text": "Throughput changes the merge philosophy"
+    },
+    {
+      "level": 2,
+      "text": "What \u201cagent-generated\u201d actually means"
+    },
+    {
+      "level": 2,
+      "text": "Increasing levels of autonomy"
+    },
+    {
+      "level": 2,
+      "text": "Entropy and garbage collection"
+    },
+    {
+      "level": 2,
+      "text": "What we\u2019re still learning"
+    },
+    {
+      "level": 2,
+      "text": "Author"
+    },
+    {
+      "level": 2,
+      "text": "Acknowledgements"
+    },
+    {
+      "level": 2,
+      "text": "Keep reading"
+    }
+  ]
+}

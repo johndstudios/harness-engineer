@@ -1,0 +1,62 @@
+{
+  "slug": "greenfield-ai-brownfield-ai-and-the-vibecode-you-just-inherited",
+  "url": "https://sawinyh.com/blog/greenfield-vs-brownfield-ai-codebases",
+  "crawled_at": "2026-08-03T04:34:08.471347+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://sawinyh.com/blog/greenfield-vs-brownfield-ai-codebases/",
+  "content_type": "article",
+  "last_modified": "",
+  "fetched_title": "Greenfield AI, Brownfield AI, and the Vibecode You Just Inherited \u00b7 Nick Sawinyh",
+  "meta_description": "Three codebases walk into 2026: one built for agents from commit #1, one built by humans years ago, and one vibecoded six months back with no rules. The playbook is different for each, and only one of them is genuinely hard.",
+  "og_title": "Greenfield AI, Brownfield AI, and the Vibecode You Just Inherited \u00b7 Nick Sawinyh",
+  "og_description": "Three codebases walk into 2026: one built for agents from commit #1, one built by humans years ago, and one vibecoded six months back with no rules. The playbook is different for each, and only one of them is genuinely hard.",
+  "og_image": "https://sawinyh.com/og/greenfield-vs-brownfield-ai-codebases.png",
+  "og_type": "article",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://sawinyh.com/og/greenfield-vs-brownfield-ai-codebases.png",
+  "author": "Nick Sawinyh",
+  "publish_date": "2026-04-25",
+  "language": "en",
+  "canonical_url": "https://sawinyh.com/blog/greenfield-vs-brownfield-ai-codebases/",
+  "word_count": 4163,
+  "reading_time_min": 21,
+  "outline": [
+    {
+      "level": 2,
+      "text": "Which case are you in?"
+    },
+    {
+      "level": 2,
+      "text": "Greenfield AI-first: when the foundation does the work"
+    },
+    {
+      "level": 2,
+      "text": "True brownfield: when the legacy is someone else\u2019s"
+    },
+    {
+      "level": 2,
+      "text": "Vibecode inheritance: the case nobody talks about"
+    },
+    {
+      "level": 3,
+      "text": "But shouldn\u2019t we just rewrite?"
+    },
+    {
+      "level": 3,
+      "text": "The playbook"
+    },
+    {
+      "level": 2,
+      "text": "Three cases, not two"
+    },
+    {
+      "level": 2,
+      "text": "What the next two years look like"
+    },
+    {
+      "level": 2,
+      "text": "Frequently asked questions"
+    }
+  ]
+}

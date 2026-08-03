@@ -1,0 +1,41 @@
+{
+  "slug": "stateless-mcp-has-recaptured-my-interest-and-inspired-mcp-explorer-and-datasette-mcp",
+  "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/",
+  "crawled_at": "2026-08-03T04:35:10.089080+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/",
+  "content_type": "article",
+  "last_modified": "",
+  "fetched_title": "Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)",
+  "meta_description": "",
+  "og_title": "Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)",
+  "og_description": "Tuesday was Stateless MCP day\u2014the rollout of MCP 2.0, or the 2026-07-28 Model Context Protocol specification to use the more formal but less memorable name. This is the most significant \u2026",
+  "og_image": "https://raw.githubusercontent.com/simonw/til/refs/heads/main/llms/claude-add-custom-connector-dialog.webp",
+  "og_type": "article",
+  "twitter_card": "summary",
+  "twitter_image": "https://raw.githubusercontent.com/simonw/til/refs/heads/main/llms/claude-add-custom-connector-dialog.webp",
+  "author": "Simon Willison",
+  "language": "en-gb",
+  "canonical_url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/",
+  "word_count": 1466,
+  "reading_time_min": 7,
+  "outline": [
+    {
+      "level": 1,
+      "text": "Simon Willison\u2019s Weblog"
+    },
+    {
+      "level": 2,
+      "text": "Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)"
+    },
+    {
+      "level": 2,
+      "text": "More recent articles"
+    },
+    {
+      "level": 3,
+      "text": "Monthly briefing"
+    }
+  ]
+}

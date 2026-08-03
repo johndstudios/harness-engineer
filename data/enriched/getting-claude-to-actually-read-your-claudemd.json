@@ -1,0 +1,37 @@
+{
+  "slug": "getting-claude-to-actually-read-your-claudemd",
+  "url": "https://humanlayer.dev/blog/stop-claude-from-ignoring-your-claude-md",
+  "crawled_at": "2026-08-03T04:34:04.034828+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://www.humanlayer.dev/blog/stop-claude-from-ignoring-your-claude-md",
+  "content_type": "article",
+  "last_modified": "",
+  "fetched_title": "Getting Claude to Actually Read Your CLAUDE.md | HumanLayer Blog",
+  "meta_description": "Using conditional XML blocks to make Claude pay attention to the right instructions at the right time.",
+  "og_title": "Getting Claude to Actually Read Your CLAUDE.md",
+  "og_description": "Using conditional XML blocks to make Claude pay attention to the right instructions at the right time.",
+  "og_image": "https://humanlayer.dev/api/stop-claude-from-ignoring-your-claude-md/og",
+  "og_type": "article",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://humanlayer.dev/api/stop-claude-from-ignoring-your-claude-md/og",
+  "author": "Dex",
+  "publish_date": "03/17/2026",
+  "language": "en",
+  "word_count": 367,
+  "reading_time_min": 2,
+  "outline": [
+    {
+      "level": 2,
+      "text": "##Conditional<important if>blocks"
+    },
+    {
+      "level": 2,
+      "text": "##A skill to automate this"
+    },
+    {
+      "level": 2,
+      "text": "##Try it"
+    }
+  ]
+}

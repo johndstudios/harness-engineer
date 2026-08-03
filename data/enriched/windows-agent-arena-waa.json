@@ -1,0 +1,164 @@
+{
+  "slug": "windows-agent-arena-waa",
+  "url": "https://github.com/microsoft/WindowsAgentArena",
+  "crawled_at": "2026-08-03T04:35:44.214840+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://github.com/microsoft/WindowsAgentArena",
+  "content_type": "github",
+  "last_modified": "",
+  "github_stars": 884,
+  "github_forks": 99,
+  "github_open_issues": 36,
+  "github_topics": [
+    "agentic",
+    "ai",
+    "ai-agent",
+    "ai-benchmark",
+    "ai-research",
+    "computer",
+    "computer-use",
+    "desktop-agent",
+    "windows"
+  ],
+  "github_language": "Python",
+  "github_description": "Windows Agent Arena (WAA) \ud83e\ude9f is a scalable OS platform for testing and benchmarking of multi-modal AI agents.",
+  "github_created": "2024-07-29",
+  "github_updated": "2026-07-30",
+  "github_pushed": "2026-04-13",
+  "github_license": "MIT",
+  "github_homepage": "https://microsoft.github.io/WindowsAgentArena",
+  "fetched_title": "GitHub - microsoft/WindowsAgentArena: Windows Agent Arena (WAA) \ud83e\ude9f is a scalable OS platform for testing and benchmarking of multi-modal AI agents. \u00b7 GitHub",
+  "meta_description": "Windows Agent Arena (WAA) \ud83e\ude9f is a scalable OS platform for testing and benchmarking of multi-modal AI agents. - microsoft/WindowsAgentArena",
+  "og_title": "GitHub - microsoft/WindowsAgentArena: Windows Agent Arena (WAA) \ud83e\ude9f is a scalable OS platform for testing and benchmarking of multi-modal AI agents.",
+  "og_description": "Windows Agent Arena (WAA) \ud83e\ude9f is a scalable OS platform for testing and benchmarking of multi-modal AI agents. - microsoft/WindowsAgentArena",
+  "og_image": "https://opengraph.githubassets.com/5131a9e5d5c634517a6f7d0c6bcb74dfcb86b84d1d6b41a822c3d837f2c100ae/microsoft/WindowsAgentArena",
+  "og_type": "object",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://opengraph.githubassets.com/5131a9e5d5c634517a6f7d0c6bcb74dfcb86b84d1d6b41a822c3d837f2c100ae/microsoft/WindowsAgentArena",
+  "language": "en",
+  "word_count": 3071,
+  "reading_time_min": 15,
+  "outline": [
+    {
+      "level": 3,
+      "text": "Uh oh!"
+    },
+    {
+      "level": 2,
+      "text": "Folders and files"
+    },
+    {
+      "level": 2,
+      "text": "Latest commit"
+    },
+    {
+      "level": 2,
+      "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Repository files navigation"
+    },
+    {
+      "level": 2,
+      "text": "\ud83d\udce2 Updates"
+    },
+    {
+      "level": 2,
+      "text": "\ud83d\udcda Citation"
+    },
+    {
+      "level": 2,
+      "text": "\u261d\ufe0f Pre-requisites:"
+    },
+    {
+      "level": 2,
+      "text": "\ud83d\udcbb Local deployment (WSL or Linux)"
+    },
+    {
+      "level": 3,
+      "text": "1. Configuration file"
+    },
+    {
+      "level": 3,
+      "text": "2. Prepare the Windows Arena Docker Image"
+    },
+    {
+      "level": 3,
+      "text": "3. Prepare the Windows 11 VM"
+    },
+    {
+      "level": 3,
+      "text": "4. Deploying the agent in the arena"
+    },
+    {
+      "level": 2,
+      "text": "\ud83c\udf10 Azure Deployment -> Parallelizing the benchmark"
+    },
+    {
+      "level": 3,
+      "text": "1. Set up the Azure resource group:"
+    },
+    {
+      "level": 3,
+      "text": "2. Uploading Windows 11 and Docker images to Azure"
+    },
+    {
+      "level": 3,
+      "text": "3. Environment configurations and deployment"
+    },
+    {
+      "level": 2,
+      "text": "\ud83e\udd16 BYOA: Bring Your Own Agent"
+    },
+    {
+      "level": 2,
+      "text": "\ud83d\udc69\u200d\ud83d\udcbb Open-source contributions"
+    },
+    {
+      "level": 2,
+      "text": "\u2753 FAQ"
+    },
+    {
+      "level": 3,
+      "text": "What are approximate running times and costs for the benchmark?"
+    },
+    {
+      "level": 3,
+      "text": "How can I customizing resource allocation for local runs?"
+    },
+    {
+      "level": 3,
+      "text": "How can I toggle support for KVM acceleration?"
+    },
+    {
+      "level": 2,
+      "text": "\ud83d\udc4f Acknowledgements"
+    },
+    {
+      "level": 2,
+      "text": "\ud83e\udd1d Contributing"
+    },
+    {
+      "level": 2,
+      "text": "\ud83d\udee1\ufe0f Trademarks"
+    },
+    {
+      "level": 2,
+      "text": "About"
+    },
+    {
+      "level": 3,
+      "text": "Topics"
+    },
+    {
+      "level": 3,
+      "text": "Resources"
+    },
+    {
+      "level": 3,
+      "text": "Code of conduct"
+    }
+  ]
+}

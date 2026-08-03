@@ -1,0 +1,66 @@
+{
+  "slug": "assessing-internal-quality-while-coding-with-an-agent",
+  "url": "https://martinfowler.com/articles/exploring-gen-ai/ccmenu-quality.html",
+  "crawled_at": "2026-08-03T04:32:40.029785+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://martinfowler.com/articles/exploring-gen-ai/ccmenu-quality.html",
+  "content_type": "article",
+  "last_modified": "Fri, 31 Jul 2026 19:04:20 GMT",
+  "fetched_title": "Assessing internal quality while coding with an agent",
+  "meta_description": "",
+  "og_title": "Assessing internal quality while coding with an agent",
+  "og_description": "Notes from my Thoughtworks colleagues on AI-assisted software delivery",
+  "og_image": "https://martinfowler.com/articles/exploring-gen-ai/donkey-card.png",
+  "og_type": "article",
+  "twitter_card": "summary",
+  "twitter_image": "",
+  "word_count": 2142,
+  "reading_time_min": 11,
+  "outline": [
+    {
+      "level": 1,
+      "text": "Assessing internal quality while coding with an agent"
+    },
+    {
+      "level": 2,
+      "text": "The feature we\u2019re implementing"
+    },
+    {
+      "level": 2,
+      "text": "The API wrapper"
+    },
+    {
+      "level": 2,
+      "text": "Optional tokens"
+    },
+    {
+      "level": 2,
+      "text": "Let\u2019s go"
+    },
+    {
+      "level": 2,
+      "text": "First surprise"
+    },
+    {
+      "level": 2,
+      "text": "The vibe fix"
+    },
+    {
+      "level": 2,
+      "text": "The real fix"
+    },
+    {
+      "level": 2,
+      "text": "Does it really matter?"
+    },
+    {
+      "level": 2,
+      "text": "One more thing"
+    },
+    {
+      "level": 2,
+      "text": "My conclusions"
+    }
+  ]
+}

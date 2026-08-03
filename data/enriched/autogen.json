@@ -1,0 +1,161 @@
+{
+  "slug": "autogen",
+  "url": "https://github.com/microsoft/autogen",
+  "crawled_at": "2026-08-03T04:32:42.842435+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://github.com/microsoft/autogen",
+  "content_type": "github",
+  "last_modified": "",
+  "github_stars": 60176,
+  "github_forks": 9067,
+  "github_open_issues": 970,
+  "github_topics": [
+    "agentic",
+    "agentic-agi",
+    "agents",
+    "ai",
+    "autogen",
+    "autogen-ecosystem",
+    "chatgpt",
+    "framework",
+    "llm-agent",
+    "llm-framework"
+  ],
+  "github_language": "Python",
+  "github_description": "A programming framework for agentic AI",
+  "github_created": "2023-08-18",
+  "github_updated": "2026-08-03",
+  "github_pushed": "2026-04-15",
+  "github_license": "CC-BY-4.0",
+  "github_homepage": "https://microsoft.github.io/autogen/",
+  "fetched_title": "GitHub - microsoft/autogen: A programming framework for agentic AI \u00b7 GitHub",
+  "meta_description": "A programming framework for agentic AI. Contribute to microsoft/autogen development by creating an account on GitHub.",
+  "og_title": "GitHub - microsoft/autogen: A programming framework for agentic AI",
+  "og_description": "A programming framework for agentic AI. Contribute to microsoft/autogen development by creating an account on GitHub.",
+  "og_image": "https://opengraph.githubassets.com/e8f89c4d284c1d9736550fc24dcee8b4a67266751ff7fcc84fc76c9b39d8a06b/microsoft/autogen",
+  "og_type": "object",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://opengraph.githubassets.com/e8f89c4d284c1d9736550fc24dcee8b4a67266751ff7fcc84fc76c9b39d8a06b/microsoft/autogen",
+  "language": "en",
+  "word_count": 1587,
+  "reading_time_min": 8,
+  "outline": [
+    {
+      "level": 3,
+      "text": "Uh oh!"
+    },
+    {
+      "level": 2,
+      "text": "Folders and files"
+    },
+    {
+      "level": 2,
+      "text": "Latest commit"
+    },
+    {
+      "level": 2,
+      "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Repository files navigation"
+    },
+    {
+      "level": 1,
+      "text": "AutoGen"
+    },
+    {
+      "level": 2,
+      "text": "Installation"
+    },
+    {
+      "level": 2,
+      "text": "Quickstart"
+    },
+    {
+      "level": 3,
+      "text": "Hello World"
+    },
+    {
+      "level": 3,
+      "text": "MCP Server"
+    },
+    {
+      "level": 3,
+      "text": "Multi-Agent Orchestration"
+    },
+    {
+      "level": 3,
+      "text": "AutoGen Studio"
+    },
+    {
+      "level": 2,
+      "text": "Why AutoGen?"
+    },
+    {
+      "level": 2,
+      "text": "Where to go next?"
+    },
+    {
+      "level": 2,
+      "text": "Legal Notices"
+    },
+    {
+      "level": 2,
+      "text": "About"
+    },
+    {
+      "level": 3,
+      "text": "Topics"
+    },
+    {
+      "level": 3,
+      "text": "Resources"
+    },
+    {
+      "level": 3,
+      "text": "Code of conduct"
+    },
+    {
+      "level": 3,
+      "text": "Contributing"
+    },
+    {
+      "level": 3,
+      "text": "Security policy"
+    },
+    {
+      "level": 3,
+      "text": "Stars"
+    },
+    {
+      "level": 3,
+      "text": "Watchers"
+    },
+    {
+      "level": 3,
+      "text": "Forks"
+    },
+    {
+      "level": 2,
+      "text": "Releases"
+    },
+    {
+      "level": 2,
+      "text": "Packages"
+    },
+    {
+      "level": 2,
+      "text": "Used by"
+    },
+    {
+      "level": 2,
+      "text": "Contributors"
+    },
+    {
+      "level": 2,
+      "text": "Languages"
+    }
+  ]
+}

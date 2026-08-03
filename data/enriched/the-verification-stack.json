@@ -1,0 +1,82 @@
+{
+  "slug": "the-verification-stack",
+  "url": "https://www.openhands.dev/blog/20260506-the-verification-stack",
+  "crawled_at": "2026-08-03T04:35:22.498857+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://www.openhands.dev/blog/20260506-the-verification-stack",
+  "content_type": "article",
+  "last_modified": "",
+  "fetched_title": "The Verification Stack | Jun 22, 2026",
+  "meta_description": "Agents made generating code cheap. The real bottleneck is now verification: checking that a change is correct, follows repo conventions, and is something your team can trust, review, and merge. This post introduces the full verification stack \u2014 a layered set of automated verifiers that catch different mistakes at different stages, so coding agents fail fast and humans only spend time on changes worth merging.",
+  "og_title": "The Verification Stack",
+  "og_description": "Agents made generating code cheap. The real bottleneck is now verification: checking that a change is correct, follows repo conventions, and is something your team can trust, review, and merge. This post introduces the full verification stack \u2014 a layered set of automated verifiers that catch different mistakes at different stages, so coding agents fail fast and humans only spend time on changes worth merging.",
+  "og_image": "https://www.openhands.dev/assets/notion-blog/20260506-the-verification-stack/cover.png",
+  "og_type": "article",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://www.openhands.dev/assets/notion-blog/20260506-the-verification-stack/cover.png",
+  "author": "Xingyao Wang, Calvin Smith",
+  "publish_date": "2026-06-22",
+  "language": "en",
+  "canonical_url": "https://www.openhands.dev/blog/20260506-the-verification-stack",
+  "word_count": 1914,
+  "reading_time_min": 10,
+  "outline": [
+    {
+      "level": 2,
+      "text": "The verification stack"
+    },
+    {
+      "level": 2,
+      "text": "The agent-level verifier: OpenHands critic model"
+    },
+    {
+      "level": 2,
+      "text": "The repo-level verifier: OpenHands code review & QA agent"
+    },
+    {
+      "level": 3,
+      "text": "The code review skill"
+    },
+    {
+      "level": 3,
+      "text": "The QA agent"
+    },
+    {
+      "level": 2,
+      "text": "How effective is it? Evidence from production"
+    },
+    {
+      "level": 3,
+      "text": "Growing adoption leads to higher velocity"
+    },
+    {
+      "level": 3,
+      "text": "Approaching human-quality reviews"
+    },
+    {
+      "level": 3,
+      "text": "Keeping code quality high"
+    },
+    {
+      "level": 2,
+      "text": "Closing the loop: the iterate skill"
+    },
+    {
+      "level": 2,
+      "text": "Bring the full verification stack into your workflow"
+    },
+    {
+      "level": 2,
+      "text": "Resources"
+    },
+    {
+      "level": 1,
+      "text": "Get useful insights in our blog"
+    },
+    {
+      "level": 3,
+      "text": "Thank you for your submission!"
+    }
+  ]
+}

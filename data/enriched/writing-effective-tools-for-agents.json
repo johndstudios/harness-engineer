@@ -1,0 +1,88 @@
+{
+  "slug": "writing-effective-tools-for-agents",
+  "url": "https://www.anthropic.com/engineering/writing-tools-for-agents",
+  "crawled_at": "2026-08-03T04:35:48.585959+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://www.anthropic.com/engineering/writing-tools-for-agents",
+  "content_type": "article",
+  "last_modified": "",
+  "fetched_title": "Writing effective tools for AI agents\u2014using AI agents \\ Anthropic",
+  "meta_description": "Writing effective tools for AI agents\u2014using AI agents",
+  "og_title": "Writing effective tools for AI agents\u2014using AI agents",
+  "og_description": "Writing effective tools for AI agents\u2014using AI agents",
+  "og_image": "https://cdn.sanity.io/images/4zrzovbb/website/91df4759f1037fb6073de772278cb71e6e4ee37d-2400x1260.png",
+  "og_type": "website",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://cdn.sanity.io/images/4zrzovbb/website/91df4759f1037fb6073de772278cb71e6e4ee37d-2400x1260.png",
+  "language": "en",
+  "canonical_url": "https://www.anthropic.com/engineering/writing-tools-for-agents",
+  "word_count": 3347,
+  "reading_time_min": 17,
+  "outline": [
+    {
+      "level": 1,
+      "text": "Writing effective tools for agents \u2014 with agents"
+    },
+    {
+      "level": 2,
+      "text": "What is a tool?"
+    },
+    {
+      "level": 2,
+      "text": "How to write tools"
+    },
+    {
+      "level": 3,
+      "text": "Building a prototype"
+    },
+    {
+      "level": 3,
+      "text": "Running an evaluation"
+    },
+    {
+      "level": 3,
+      "text": "Collaborating with agents"
+    },
+    {
+      "level": 2,
+      "text": "Principles for writing effective tools"
+    },
+    {
+      "level": 3,
+      "text": "Choosing the right tools for agents"
+    },
+    {
+      "level": 3,
+      "text": "Namespacing your tools"
+    },
+    {
+      "level": 3,
+      "text": "Returning meaningful context from your tools"
+    },
+    {
+      "level": 3,
+      "text": "Optimizing tool responses for token efficiency"
+    },
+    {
+      "level": 3,
+      "text": "Prompt-engineering your tool descriptions"
+    },
+    {
+      "level": 2,
+      "text": "Looking ahead"
+    },
+    {
+      "level": 2,
+      "text": "Acknowledgements"
+    },
+    {
+      "level": 3,
+      "text": "Looking to learn more?"
+    },
+    {
+      "level": 2,
+      "text": "Get the developer newsletter"
+    }
+  ]
+}

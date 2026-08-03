@@ -1,0 +1,73 @@
+{
+  "slug": "skill-issue-harness-engineering-for-coding-agents",
+  "url": "https://www.humanlayer.dev/blog/skill-issue-harness-engineering-for-coding-agents",
+  "crawled_at": "2026-08-03T04:35:07.556597+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://www.humanlayer.dev/blog/skill-issue-harness-engineering-for-coding-agents",
+  "content_type": "article",
+  "last_modified": "",
+  "fetched_title": "Skill Issue: Harness Engineering for Coding Agents | HumanLayer Blog",
+  "meta_description": "Harness engineering is the art and science of leveraging your coding agent's configuration points to improve output quality and increase task success rates.",
+  "og_title": "Skill Issue: Harness Engineering for Coding Agents",
+  "og_description": "Harness engineering is the art and science of leveraging your coding agent's configuration points to improve output quality and increase task success rates.",
+  "og_image": "https://humanlayer.dev/api/skill-issue-harness-engineering-for-coding-agents/og",
+  "og_type": "article",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://humanlayer.dev/api/skill-issue-harness-engineering-for-coding-agents/og",
+  "author": "Kyle",
+  "publish_date": "3/12/2026",
+  "language": "en",
+  "word_count": 4416,
+  "reading_time_min": 22,
+  "outline": [
+    {
+      "level": 2,
+      "text": "##Harness Engineering"
+    },
+    {
+      "level": 2,
+      "text": "##... as a Subset of Context Engineering"
+    },
+    {
+      "level": 3,
+      "text": "###Views on Harness Engineering"
+    },
+    {
+      "level": 3,
+      "text": "###But What About Post-Training?"
+    },
+    {
+      "level": 2,
+      "text": "##Engineering Your Harness"
+    },
+    {
+      "level": 3,
+      "text": "###CLAUDE.md & AGENTS.md"
+    },
+    {
+      "level": 3,
+      "text": "###MCP Servers Are for Tools"
+    },
+    {
+      "level": 3,
+      "text": "###Skills Are for Reusable Knowledge (and Tools)"
+    },
+    {
+      "level": 3,
+      "text": "###Sub-Agents Are for Context Control"
+    },
+    {
+      "level": 3,
+      "text": "###Hooks Are for Control Flow"
+    },
+    {
+      "level": 2,
+      "text": "##Back-Pressure Increases Your Chances of Success"
+    },
+    {
+      "level": 2,
+      "text": "##Closing Notes"
+    }
+  ]
+}

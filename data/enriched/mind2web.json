@@ -1,0 +1,154 @@
+{
+  "slug": "mind2web",
+  "url": "https://github.com/OSU-NLP-Group/Mind2Web",
+  "crawled_at": "2026-08-03T04:34:49.762094+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://github.com/OSU-NLP-Group/Mind2Web",
+  "content_type": "github",
+  "last_modified": "",
+  "github_stars": 1017,
+  "github_forks": 123,
+  "github_open_issues": 12,
+  "github_topics": [],
+  "github_language": "Jupyter Notebook",
+  "github_description": "[NeurIPS'23 Spotlight] \"Mind2Web: Towards a Generalist Agent for the Web\" -- the first LLM-based web agent and benchmark for generalist web agents",
+  "github_created": "2023-04-21",
+  "github_updated": "2026-07-30",
+  "github_pushed": "2025-11-05",
+  "github_license": "MIT",
+  "github_homepage": "https://osu-nlp-group.github.io/Mind2Web/",
+  "fetched_title": "GitHub - OSU-NLP-Group/Mind2Web: [NeurIPS'23 Spotlight] \"Mind2Web: Towards a Generalist Agent for the Web\" -- the first LLM-based web agent and benchmark for generalist web agents \u00b7 GitHub",
+  "meta_description": "[NeurIPS'23 Spotlight] \"Mind2Web: Towards a Generalist Agent for the Web\" -- the first LLM-based web agent and benchmark for generalist web agents - OSU-NLP-Group/Mind2Web",
+  "og_title": "GitHub - OSU-NLP-Group/Mind2Web: [NeurIPS'23 Spotlight] \"Mind2Web: Towards a Generalist Agent for the Web\" -- the first LLM-based web agent and benchmark for generalist web agents",
+  "og_description": "[NeurIPS'23 Spotlight] \"Mind2Web: Towards a Generalist Agent for the Web\" -- the first LLM-based web agent and benchmark for generalist web agents - OSU-NLP-Group/Mind2Web",
+  "og_image": "https://opengraph.githubassets.com/24c9612deba78b325fc3e61f1e07202a5021584b1049a725d95a765c6ad01ffd/OSU-NLP-Group/Mind2Web",
+  "og_type": "object",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://opengraph.githubassets.com/24c9612deba78b325fc3e61f1e07202a5021584b1049a725d95a765c6ad01ffd/OSU-NLP-Group/Mind2Web",
+  "language": "en",
+  "word_count": 2403,
+  "reading_time_min": 12,
+  "outline": [
+    {
+      "level": 3,
+      "text": "Uh oh!"
+    },
+    {
+      "level": 2,
+      "text": "Folders and files"
+    },
+    {
+      "level": 2,
+      "text": "Latest commit"
+    },
+    {
+      "level": 2,
+      "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Repository files navigation"
+    },
+    {
+      "level": 1,
+      "text": "Mind2Web: Towards a Generalist Agent for the Web"
+    },
+    {
+      "level": 2,
+      "text": "Dataset Summary"
+    },
+    {
+      "level": 2,
+      "text": "Dataset Access"
+    },
+    {
+      "level": 2,
+      "text": "Dataset Structure"
+    },
+    {
+      "level": 3,
+      "text": "Data Splits"
+    },
+    {
+      "level": 3,
+      "text": "Data Fields"
+    },
+    {
+      "level": 2,
+      "text": "Raw Dump with Full Traces and Snapshots"
+    },
+    {
+      "level": 2,
+      "text": "Candidate Generation"
+    },
+    {
+      "level": 3,
+      "text": "Evaluation"
+    },
+    {
+      "level": 3,
+      "text": "Fine-tuning"
+    },
+    {
+      "level": 2,
+      "text": "Action Prediction"
+    },
+    {
+      "level": 3,
+      "text": "Evaluation"
+    },
+    {
+      "level": 3,
+      "text": "Fine-tuning"
+    },
+    {
+      "level": 2,
+      "text": "Action Prediction with LLM"
+    },
+    {
+      "level": 2,
+      "text": "Contact"
+    },
+    {
+      "level": 2,
+      "text": "Licensing Information"
+    },
+    {
+      "level": 2,
+      "text": "Disclaimer"
+    },
+    {
+      "level": 2,
+      "text": "Citation Information"
+    },
+    {
+      "level": 2,
+      "text": "About"
+    },
+    {
+      "level": 3,
+      "text": "Resources"
+    },
+    {
+      "level": 3,
+      "text": "Stars"
+    },
+    {
+      "level": 3,
+      "text": "Watchers"
+    },
+    {
+      "level": 3,
+      "text": "Forks"
+    },
+    {
+      "level": 2,
+      "text": "Releases"
+    },
+    {
+      "level": 2,
+      "text": "Packages"
+    }
+  ]
+}

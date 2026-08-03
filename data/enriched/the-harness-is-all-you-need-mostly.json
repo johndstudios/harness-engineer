@@ -1,0 +1,90 @@
+{
+  "slug": "the-harness-is-all-you-need-mostly",
+  "url": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly/",
+  "crawled_at": "2026-08-03T04:35:21.198390+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly/",
+  "content_type": "article",
+  "last_modified": "",
+  "fetched_title": "The harness is all you need (mostly) - The GitHub Blog",
+  "meta_description": "A practical GitHub Copilot workflow for prototyping, planning, implementing, and reviewing software without chasing every new AI tool.",
+  "og_title": "The harness is all you need (mostly)",
+  "og_description": "A practical GitHub Copilot workflow for prototyping, planning, implementing, and reviewing software without chasing every new AI tool.",
+  "og_image": "https://github.blog/wp-content/uploads/2026/01/generic-github-copilot-commit-logo.png",
+  "og_type": "article",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "",
+  "author": "Burke Holland",
+  "publish_date": "2026-07-27",
+  "language": "en-US",
+  "canonical_url": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly/",
+  "word_count": 2912,
+  "reading_time_min": 15,
+  "outline": [
+    {
+      "level": 2,
+      "text": "1. Pick a tool, any tool"
+    },
+    {
+      "level": 2,
+      "text": "2. Turn on YOLO mode"
+    },
+    {
+      "level": 2,
+      "text": "3. Start with a prototype"
+    },
+    {
+      "level": 2,
+      "text": "4. Plan methodically"
+    },
+    {
+      "level": 2,
+      "text": "5. Implement with Autopilot"
+    },
+    {
+      "level": 2,
+      "text": "6. Human review and iteration"
+    },
+    {
+      "level": 2,
+      "text": "7. Rubber duck the result"
+    },
+    {
+      "level": 2,
+      "text": "8. Profit"
+    },
+    {
+      "level": 2,
+      "text": "Things don\u2019t have to be complicated"
+    },
+    {
+      "level": 2,
+      "text": "Tags:"
+    },
+    {
+      "level": 2,
+      "text": "Written by"
+    },
+    {
+      "level": 2,
+      "text": "Related posts"
+    },
+    {
+      "level": 3,
+      "text": "Stacked sessions and pull requests in the GitHub Copilot app"
+    },
+    {
+      "level": 3,
+      "text": "GitHub Copilot app for Beginners: Getting started"
+    },
+    {
+      "level": 3,
+      "text": "Copilot vs. raw API access: What are you actually paying for?"
+    },
+    {
+      "level": 2,
+      "text": "We do newsletters, too"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "slug": "context-engineering-for-coding-agents",
+  "url": "https://martinfowler.com/articles/exploring-gen-ai/context-engineering-coding-agents.html",
+  "crawled_at": "2026-08-03T04:33:43.264964+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://martinfowler.com/articles/exploring-gen-ai/context-engineering-coding-agents.html",
+  "content_type": "article",
+  "last_modified": "Fri, 31 Jul 2026 19:04:20 GMT",
+  "fetched_title": "Context Engineering for Coding Agents",
+  "meta_description": "",
+  "og_title": "Context Engineering for Coding Agents",
+  "og_description": "Notes from my Thoughtworks colleagues on AI-assisted software delivery",
+  "og_image": "https://martinfowler.com/articles/exploring-gen-ai/donkey-card.png",
+  "og_type": "article",
+  "twitter_card": "summary",
+  "twitter_image": "",
+  "word_count": 2088,
+  "reading_time_min": 10,
+  "outline": [
+    {
+      "level": 1,
+      "text": "Context Engineering for Coding Agents"
+    },
+    {
+      "level": 2,
+      "text": "What is context in coding agents?"
+    },
+    {
+      "level": 3,
+      "text": "Reusable Prompts"
+    },
+    {
+      "level": 3,
+      "text": "Context interfaces"
+    },
+    {
+      "level": 2,
+      "text": "If and when: Who decides to load context?"
+    },
+    {
+      "level": 2,
+      "text": "How much: Keeping the context as small as possible"
+    },
+    {
+      "level": 2,
+      "text": "Example: Claude Code"
+    },
+    {
+      "level": 3,
+      "text": "CLAUDE.md"
+    },
+    {
+      "level": 3,
+      "text": "Rules"
+    },
+    {
+      "level": 3,
+      "text": "Slash commands"
+    },
+    {
+      "level": 3,
+      "text": "Skills"
+    },
+    {
+      "level": 3,
+      "text": "Subagents"
+    },
+    {
+      "level": 3,
+      "text": "MCP Servers"
+    },
+    {
+      "level": 3,
+      "text": "Hooks"
+    },
+    {
+      "level": 3,
+      "text": "Plugins"
+    },
+    {
+      "level": 2,
+      "text": "Sharing context configurations"
+    },
+    {
+      "level": 2,
+      "text": "Beware: Illusion of control"
+    }
+  ]
+}

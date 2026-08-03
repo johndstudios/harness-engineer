@@ -1,0 +1,150 @@
+{
+  "slug": "vab",
+  "url": "https://github.com/THUDM/VisualAgentBench",
+  "crawled_at": "2026-08-03T04:35:34.645714+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://github.com/THUDM/VisualAgentBench",
+  "content_type": "github",
+  "last_modified": "",
+  "github_stars": 274,
+  "github_forks": 12,
+  "github_open_issues": 18,
+  "github_topics": [
+    "gpt",
+    "llm-agent",
+    "multimodal-large-language-models"
+  ],
+  "github_language": "Python",
+  "github_description": "Towards Large Multimodal Models as Visual Foundation Agents",
+  "github_created": "2024-08-08",
+  "github_updated": "2026-07-24",
+  "github_pushed": "2025-04-24",
+  "github_license": "Apache-2.0",
+  "github_homepage": "",
+  "fetched_title": "GitHub - THUDM/VisualAgentBench: Towards Large Multimodal Models as Visual Foundation Agents \u00b7 GitHub",
+  "meta_description": "Towards Large Multimodal Models as Visual Foundation Agents - THUDM/VisualAgentBench",
+  "og_title": "GitHub - THUDM/VisualAgentBench: Towards Large Multimodal Models as Visual Foundation Agents",
+  "og_description": "Towards Large Multimodal Models as Visual Foundation Agents - THUDM/VisualAgentBench",
+  "og_image": "https://opengraph.githubassets.com/adf9f7016f122716d84dd25d4de7554ce9c36403b4a1d5e893ab8eeb66ee12fb/THUDM/VisualAgentBench",
+  "og_type": "object",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://opengraph.githubassets.com/adf9f7016f122716d84dd25d4de7554ce9c36403b4a1d5e893ab8eeb66ee12fb/THUDM/VisualAgentBench",
+  "language": "en",
+  "word_count": 969,
+  "reading_time_min": 5,
+  "outline": [
+    {
+      "level": 3,
+      "text": "Uh oh!"
+    },
+    {
+      "level": 2,
+      "text": "Folders and files"
+    },
+    {
+      "level": 2,
+      "text": "Latest commit"
+    },
+    {
+      "level": 2,
+      "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Repository files navigation"
+    },
+    {
+      "level": 1,
+      "text": "VisualAgentBench (VAB)"
+    },
+    {
+      "level": 1,
+      "text": "VisualAgentBench: Towards Large Multimodal Models as Visual Foundation Agents"
+    },
+    {
+      "level": 2,
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "text": "Quick Start"
+    },
+    {
+      "level": 3,
+      "text": "Overview on VAB Framework"
+    },
+    {
+      "level": 3,
+      "text": "Step 1. Prerequisites for All Environments"
+    },
+    {
+      "level": 3,
+      "text": "Step 2. Configure the Agent"
+    },
+    {
+      "level": 3,
+      "text": "Step 3. Start the task server"
+    },
+    {
+      "level": 3,
+      "text": "Step 4. Start the assigner"
+    },
+    {
+      "level": 3,
+      "text": "Next Steps"
+    },
+    {
+      "level": 2,
+      "text": "Dataset Summary"
+    },
+    {
+      "level": 2,
+      "text": "Leaderboard"
+    },
+    {
+      "level": 2,
+      "text": "Acknowledgement"
+    },
+    {
+      "level": 2,
+      "text": "Citation"
+    },
+    {
+      "level": 2,
+      "text": "About"
+    },
+    {
+      "level": 3,
+      "text": "Topics"
+    },
+    {
+      "level": 3,
+      "text": "Resources"
+    },
+    {
+      "level": 3,
+      "text": "Stars"
+    },
+    {
+      "level": 3,
+      "text": "Watchers"
+    },
+    {
+      "level": 3,
+      "text": "Forks"
+    },
+    {
+      "level": 2,
+      "text": "Used by"
+    },
+    {
+      "level": 2,
+      "text": "Contributors"
+    },
+    {
+      "level": 2,
+      "text": "Languages"
+    }
+  ]
+}

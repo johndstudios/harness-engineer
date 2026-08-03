@@ -1,0 +1,134 @@
+{
+  "slug": "osworld",
+  "url": "https://os-world.github.io/",
+  "crawled_at": "2026-08-03T04:34:59.364754+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "http://osworld-v1.xlang.ai/",
+  "content_type": "article",
+  "last_modified": "Mon, 27 Jul 2026 08:23:25 GMT",
+  "fetched_title": "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments",
+  "meta_description": "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments",
+  "og_title": "",
+  "og_description": "",
+  "og_image": "",
+  "og_type": "",
+  "twitter_card": "",
+  "twitter_image": "",
+  "word_count": 2192,
+  "reading_time_min": 11,
+  "outline": [
+    {
+      "level": 1,
+      "text": "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments"
+    },
+    {
+      "level": 2,
+      "text": "2026-06-26: OSWorld 2.0 is now available! Please visitOSWorld 2.0for the latest version."
+    },
+    {
+      "level": 2,
+      "text": "Abstract"
+    },
+    {
+      "level": 2,
+      "text": "OSWorld Environment Infrastructure"
+    },
+    {
+      "level": 2,
+      "text": "Data Statistics and Comparison"
+    },
+    {
+      "level": 2,
+      "text": "Benchmark"
+    },
+    {
+      "level": 2,
+      "text": "Analysis"
+    },
+    {
+      "level": 2,
+      "text": "Videos"
+    },
+    {
+      "level": 3,
+      "text": "@Yannic Kilcher"
+    },
+    {
+      "level": 3,
+      "text": "@Wes Roth"
+    },
+    {
+      "level": 3,
+      "text": "@hu-po"
+    },
+    {
+      "level": 3,
+      "text": "@Dylan Curious"
+    },
+    {
+      "level": 3,
+      "text": "@WorldofAI"
+    },
+    {
+      "level": 3,
+      "text": "@Gourcer"
+    },
+    {
+      "level": 3,
+      "text": "@AI Explained"
+    },
+    {
+      "level": 3,
+      "text": "@Fireship"
+    },
+    {
+      "level": 3,
+      "text": "@1littlecoder"
+    },
+    {
+      "level": 2,
+      "text": "Acknowledgement"
+    },
+    {
+      "level": 2,
+      "text": "Acknowledgement for OSWorld-Verified"
+    },
+    {
+      "level": 2,
+      "text": "Evaluation"
+    },
+    {
+      "level": 3,
+      "text": "Local Evaluation"
+    },
+    {
+      "level": 3,
+      "text": "Public Evaluation"
+    },
+    {
+      "level": 2,
+      "text": "FAQ"
+    },
+    {
+      "level": 3,
+      "text": "What is the username and password for the virtual machines?"
+    },
+    {
+      "level": 3,
+      "text": "How to setup the account and credentials for Google and Google Drive?"
+    },
+    {
+      "level": 3,
+      "text": "What should I do if Google Drive tasks fail to initialize properly?"
+    },
+    {
+      "level": 3,
+      "text": "How can I configure a proxy for the VM (if I'm behind the GFW, or I don't want some of my tasks to be identified as bot and get lower scores)?"
+    },
+    {
+      "level": 2,
+      "text": "BibTeX"
+    }
+  ]
+}

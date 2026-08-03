@@ -1,0 +1,154 @@
+{
+  "slug": "clawwork",
+  "url": "https://github.com/HKUDS/ClawWork",
+  "crawled_at": "2026-08-03T04:33:05.712246+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://github.com/HKUDS/ClawWork",
+  "content_type": "github",
+  "last_modified": "",
+  "github_stars": 8300,
+  "github_forks": 1066,
+  "github_open_issues": 37,
+  "github_topics": [],
+  "github_language": "Python",
+  "github_description": "\"ClawWork: OpenClaw as Your AI Coworker - \ud83d\udcb0 $15K earned in 11 Hours\"",
+  "github_created": "2026-02-15",
+  "github_updated": "2026-08-03",
+  "github_pushed": "2026-03-03",
+  "github_license": "MIT",
+  "github_homepage": "",
+  "fetched_title": "GitHub - HKUDS/ClawWork: \"ClawWork: OpenClaw as Your AI Coworker - \ud83d\udcb0 $15K earned in 11 Hours\" \u00b7 GitHub",
+  "meta_description": "\"ClawWork: OpenClaw as Your AI Coworker - \ud83d\udcb0 $15K earned in 11 Hours\" - HKUDS/ClawWork",
+  "og_title": "GitHub - HKUDS/ClawWork: \"ClawWork: OpenClaw as Your AI Coworker - \ud83d\udcb0 $15K earned in 11 Hours\"",
+  "og_description": "\"ClawWork: OpenClaw as Your AI Coworker - \ud83d\udcb0 $15K earned in 11 Hours\" - HKUDS/ClawWork",
+  "og_image": "https://opengraph.githubassets.com/e07781b8a3b6e8649fa5a55d836e98160b2bbcb0dbf275a6fe7e49216c79502d/HKUDS/ClawWork",
+  "og_type": "object",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://opengraph.githubassets.com/e07781b8a3b6e8649fa5a55d836e98160b2bbcb0dbf275a6fe7e49216c79502d/HKUDS/ClawWork",
+  "language": "en",
+  "word_count": 2396,
+  "reading_time_min": 12,
+  "outline": [
+    {
+      "level": 3,
+      "text": "Uh oh!"
+    },
+    {
+      "level": 2,
+      "text": "Folders and files"
+    },
+    {
+      "level": 2,
+      "text": "Latest commit"
+    },
+    {
+      "level": 2,
+      "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Repository files navigation"
+    },
+    {
+      "level": 1,
+      "text": "ClawWork: OpenClaw as Your AI Coworker"
+    },
+    {
+      "level": 3,
+      "text": "\ud83d\udcb0 $19K in 8 Hours \u2014 AI Coworker for 44+ Professions"
+    },
+    {
+      "level": 3,
+      "text": "\ud83d\udd34 Watch AI Coworkers Earn Money from Real-Life Tasks"
+    },
+    {
+      "level": 3,
+      "text": "\ud83d\ude80 AI Assistant \u2192 AI Coworker Evolution"
+    },
+    {
+      "level": 3,
+      "text": "\ud83d\udcb0 Real-World Economic Benchmark"
+    },
+    {
+      "level": 3,
+      "text": "\ud83d\udcca Production AI Validation"
+    },
+    {
+      "level": 3,
+      "text": "\ud83e\udd16 Multi-Model Competition Arena"
+    },
+    {
+      "level": 2,
+      "text": "\ud83d\udce2 News"
+    },
+    {
+      "level": 2,
+      "text": "\u2728 ClawWork's Key Features"
+    },
+    {
+      "level": 2,
+      "text": "\ud83d\udcbc Real-life Professional Earning Test"
+    },
+    {
+      "level": 3,
+      "text": "\ud83c\udfc6Live Earning Performance Arena for AI Coworkers"
+    },
+    {
+      "level": 2,
+      "text": "\ud83c\udfd7\ufe0f Architecture"
+    },
+    {
+      "level": 2,
+      "text": "\ud83d\ude80 Quick Start"
+    },
+    {
+      "level": 3,
+      "text": "Mode 1: Standalone Simulation"
+    },
+    {
+      "level": 3,
+      "text": "Mode 2: openclaw/nanobot Integration (ClawMode)"
+    },
+    {
+      "level": 2,
+      "text": "\ud83d\udce6 Install"
+    },
+    {
+      "level": 3,
+      "text": "Clone"
+    },
+    {
+      "level": 3,
+      "text": "Python Environment (Python 3.10+)"
+    },
+    {
+      "level": 3,
+      "text": "Install Dependencies"
+    },
+    {
+      "level": 3,
+      "text": "Frontend (for Dashboard)"
+    },
+    {
+      "level": 3,
+      "text": "Environment Variables"
+    },
+    {
+      "level": 2,
+      "text": "\ud83d\udcca GDPVal Benchmark Dataset"
+    },
+    {
+      "level": 3,
+      "text": "Task Types"
+    },
+    {
+      "level": 3,
+      "text": "Payment System"
+    },
+    {
+      "level": 2,
+      "text": "\u2699\ufe0f Configuration"
+    }
+  ]
+}

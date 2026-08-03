@@ -1,0 +1,76 @@
+{
+  "slug": "harness-design-for-long-running-application-development",
+  "url": "https://www.anthropic.com/engineering/harness-design-long-running-apps",
+  "crawled_at": "2026-08-03T04:34:15.144872+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://www.anthropic.com/engineering/harness-design-long-running-apps",
+  "content_type": "article",
+  "last_modified": "",
+  "fetched_title": "Harness design for long-running application development \\ Anthropic",
+  "meta_description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+  "og_title": "Harness design for long-running application development",
+  "og_description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+  "og_image": "https://cdn.sanity.io/images/4zrzovbb/website/84a488382e0428a5eebade574af047e5d3b610ab-2400x1260.png",
+  "og_type": "website",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://cdn.sanity.io/images/4zrzovbb/website/84a488382e0428a5eebade574af047e5d3b610ab-2400x1260.png",
+  "language": "en",
+  "canonical_url": "https://www.anthropic.com/engineering/harness-design-long-running-apps",
+  "word_count": 5322,
+  "reading_time_min": 27,
+  "outline": [
+    {
+      "level": 1,
+      "text": "Harness design for long-running application development"
+    },
+    {
+      "level": 2,
+      "text": "Why naive implementations fall short"
+    },
+    {
+      "level": 2,
+      "text": "Frontend design: making subjective quality gradable"
+    },
+    {
+      "level": 2,
+      "text": "Scaling to full-stack coding"
+    },
+    {
+      "level": 3,
+      "text": "The architecture"
+    },
+    {
+      "level": 3,
+      "text": "Running the harness"
+    },
+    {
+      "level": 3,
+      "text": "Iterating on the harness"
+    },
+    {
+      "level": 3,
+      "text": "Removing the sprint construct"
+    },
+    {
+      "level": 3,
+      "text": "Results from the updated harness"
+    },
+    {
+      "level": 2,
+      "text": "What comes next"
+    },
+    {
+      "level": 2,
+      "text": "Acknowledgements"
+    },
+    {
+      "level": 2,
+      "text": "Appendix"
+    },
+    {
+      "level": 2,
+      "text": "Get the developer newsletter"
+    }
+  ]
+}

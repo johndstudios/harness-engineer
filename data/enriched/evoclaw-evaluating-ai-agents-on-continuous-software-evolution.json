@@ -1,0 +1,62 @@
+{
+  "slug": "evoclaw-evaluating-ai-agents-on-continuous-software-evolution",
+  "url": "https://openhands.dev/blog/evoclaw-benchmark",
+  "crawled_at": "2026-08-03T04:34:00.053041+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://www.openhands.dev/blog/evoclaw-benchmark",
+  "content_type": "article",
+  "last_modified": "",
+  "fetched_title": "EvoClaw: Evaluating AI Agents on Continuous Software Evolution | Mar 23, 2026",
+  "meta_description": "EvoClaw evaluates coding agents on milestone-level, long-horizon software evolution. The early results show a clear pattern: agents keep adding new functionality, but regressions and technical debt compound faster than they can repair them.",
+  "og_title": "EvoClaw: Evaluating AI Agents on Continuous Software Evolution",
+  "og_description": "EvoClaw evaluates coding agents on milestone-level, long-horizon software evolution. The early results show a clear pattern: agents keep adding new functionality, but regressions and technical debt compound faster than they can repair them.",
+  "og_image": "https://www.openhands.dev/assets/notion-blog/evoclaw-benchmark/og.webp",
+  "og_type": "article",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://www.openhands.dev/assets/notion-blog/evoclaw-benchmark/og.webp",
+  "author": "Gangda Deng and Zhaoling Chen",
+  "publish_date": "2026-03-23",
+  "language": "en",
+  "canonical_url": "https://www.openhands.dev/blog/evoclaw-benchmark",
+  "word_count": 999,
+  "reading_time_min": 5,
+  "outline": [
+    {
+      "level": 2,
+      "text": "From isolated tasks to continuous evolution"
+    },
+    {
+      "level": 2,
+      "text": "Why milestones matter"
+    },
+    {
+      "level": 2,
+      "text": "What EvoClaw measures"
+    },
+    {
+      "level": 2,
+      "text": "The headline result"
+    },
+    {
+      "level": 2,
+      "text": "Evolution eventually stalls"
+    },
+    {
+      "level": 2,
+      "text": "Technical debt compounds faster than agents can repair it"
+    },
+    {
+      "level": 2,
+      "text": "From code generation to system governance"
+    },
+    {
+      "level": 1,
+      "text": "Get useful insights in our blog"
+    },
+    {
+      "level": 3,
+      "text": "Thank you for your submission!"
+    }
+  ]
+}

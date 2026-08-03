@@ -1,0 +1,144 @@
+{
+  "slug": "trace-grading",
+  "url": "https://platform.openai.com/docs/guides/trace-grading",
+  "crawled_at": "2026-08-03T04:35:26.682184+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://developers.openai.com/api/docs/guides/trace-grading",
+  "content_type": "article",
+  "last_modified": "Sun, 02 Aug 2026 20:09:25 GMT",
+  "fetched_title": "Trace grading | OpenAI API",
+  "meta_description": "Use trace grading to create datasets, configure graders, and track evaluation runs for your models.",
+  "og_title": "Trace grading | OpenAI API",
+  "og_description": "Use trace grading to create datasets, configure graders, and track evaluation runs for your models.",
+  "og_image": "https://developers.openai.com/og/api/docs/guides/trace-grading.png",
+  "og_type": "website",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://developers.openai.com/og/api/docs/guides/trace-grading.png",
+  "language": "en",
+  "canonical_url": "https://developers.openai.com/api/docs/guides/trace-grading",
+  "word_count": 1401,
+  "reading_time_min": 7,
+  "outline": [
+    {
+      "level": 2,
+      "text": "Search the API docs"
+    },
+    {
+      "level": 3,
+      "text": "Suggested"
+    },
+    {
+      "level": 3,
+      "text": "Suggested"
+    },
+    {
+      "level": 3,
+      "text": "Get started"
+    },
+    {
+      "level": 3,
+      "text": "Core concepts"
+    },
+    {
+      "level": 3,
+      "text": "SDKs and CLI"
+    },
+    {
+      "level": 3,
+      "text": "Resources"
+    },
+    {
+      "level": 3,
+      "text": "Legacy APIs"
+    },
+    {
+      "level": 3,
+      "text": "Choose a model"
+    },
+    {
+      "level": 3,
+      "text": "Text and code"
+    },
+    {
+      "level": 3,
+      "text": "Prompting"
+    },
+    {
+      "level": 3,
+      "text": "Reasoning"
+    },
+    {
+      "level": 3,
+      "text": "Images and video"
+    },
+    {
+      "level": 3,
+      "text": "Realtime and audio"
+    },
+    {
+      "level": 3,
+      "text": "Specialized models"
+    },
+    {
+      "level": 3,
+      "text": "Agents SDK"
+    },
+    {
+      "level": 3,
+      "text": "ChatKit"
+    },
+    {
+      "level": 3,
+      "text": "Search and retrieval"
+    },
+    {
+      "level": 3,
+      "text": "Connect tools and data"
+    },
+    {
+      "level": 3,
+      "text": "Build tool workflows"
+    },
+    {
+      "level": 3,
+      "text": "Computer and code"
+    },
+    {
+      "level": 3,
+      "text": "Media"
+    },
+    {
+      "level": 3,
+      "text": "Get started"
+    },
+    {
+      "level": 3,
+      "text": "Audio"
+    },
+    {
+      "level": 3,
+      "text": "Connection methods"
+    },
+    {
+      "level": 3,
+      "text": "Sessions and operations"
+    },
+    {
+      "level": 3,
+      "text": "Go live"
+    },
+    {
+      "level": 3,
+      "text": "Performance and quality"
+    },
+    {
+      "level": 3,
+      "text": "Cost and throughput"
+    },
+    {
+      "level": 3,
+      "text": "Safety and governance"
+    }
+  ]
+}

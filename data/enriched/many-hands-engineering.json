@@ -1,0 +1,58 @@
+{
+  "slug": "many-hands-engineering",
+  "url": "https://github.com/mseeks/many-hands-engineering/blob/main/many-hands-engineering.pdf",
+  "crawled_at": "2026-08-03T04:34:41.775946+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://github.com/mseeks/many-hands-engineering/blob/main/many-hands-engineering.pdf",
+  "content_type": "github",
+  "last_modified": "",
+  "github_stars": 3,
+  "github_forks": 0,
+  "github_open_issues": 0,
+  "github_topics": [],
+  "github_language": "Typst",
+  "github_description": null,
+  "github_created": "2026-04-26",
+  "github_updated": "2026-07-30",
+  "github_pushed": "2026-06-13",
+  "github_license": "MIT",
+  "github_homepage": null,
+  "fetched_title": "many-hands-engineering/many-hands-engineering.pdf at main \u00b7 mseeks/many-hands-engineering \u00b7 GitHub",
+  "meta_description": "Contribute to mseeks/many-hands-engineering development by creating an account on GitHub.",
+  "og_title": "many-hands-engineering/many-hands-engineering.pdf at main \u00b7 mseeks/many-hands-engineering",
+  "og_description": "Contribute to mseeks/many-hands-engineering development by creating an account on GitHub.",
+  "og_image": "https://opengraph.githubassets.com/6538d6b61ee33715bc00e40027727294e7affcc501ea9d833c1fbec442f70dd8/mseeks/many-hands-engineering",
+  "og_type": "object",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://opengraph.githubassets.com/6538d6b61ee33715bc00e40027727294e7affcc501ea9d833c1fbec442f70dd8/mseeks/many-hands-engineering",
+  "language": "en",
+  "word_count": 118,
+  "reading_time_min": 1,
+  "outline": [
+    {
+      "level": 2,
+      "text": "FilesExpand file tree"
+    },
+    {
+      "level": 1,
+      "text": "many-hands-engineering.pdf"
+    },
+    {
+      "level": 2,
+      "text": "Latest commit"
+    },
+    {
+      "level": 2,
+      "text": "History"
+    },
+    {
+      "level": 1,
+      "text": "many-hands-engineering.pdf"
+    },
+    {
+      "level": 2,
+      "text": "File metadata and controls"
+    }
+  ]
+}

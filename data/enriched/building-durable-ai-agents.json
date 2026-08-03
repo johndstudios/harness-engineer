@@ -1,0 +1,31 @@
+{
+  "slug": "building-durable-ai-agents",
+  "url": "https://practicalai.fm/363",
+  "crawled_at": "2026-08-03T04:32:53.708262+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://practicalai.show/363",
+  "content_type": "podcast",
+  "last_modified": "",
+  "fetched_title": "Practical AI | Building Durable AI Agents",
+  "meta_description": "What does it take to move AI agents from demos to reliable production systems? In this episode, Hamza Tahir explores how MLOps principles are shaping the future of generative AI, covering workflows...",
+  "og_title": "Practical AI | Building Durable AI Agents",
+  "og_description": "What does it take to move AI agents from demos to reliable production systems? In this episode, Hamza Tahir explores how MLOps principles are shaping the future of generative AI, covering workflows...",
+  "og_image": "https://img.transistorcdn.com/_aSyEAdKrqkCFb_ysShieKRXG9eno5R47sRZ9SmOEFM/rs:fill:0:0:1/w:800/h:800/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9iMTUx/NmM0ODdlNGI0YTdh/YjUxNjYwNTEyMzll/ZmVkMy5wbmc.webp",
+  "og_type": "website",
+  "twitter_card": "summary",
+  "twitter_image": "https://img.transistorcdn.com/_aSyEAdKrqkCFb_ysShieKRXG9eno5R47sRZ9SmOEFM/rs:fill:0:0:1/w:800/h:800/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9iMTUx/NmM0ODdlNGI0YTdh/YjUxNjYwNTEyMzll/ZmVkMy5wbmc.webp",
+  "language": "en",
+  "word_count": 159,
+  "reading_time_min": 1,
+  "outline": [
+    {
+      "level": 3,
+      "text": "Creators and Guests"
+    },
+    {
+      "level": 2,
+      "text": "headphonesListen Anywhere"
+    }
+  ]
+}

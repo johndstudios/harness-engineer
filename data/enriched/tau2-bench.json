@@ -1,0 +1,160 @@
+{
+  "slug": "tau2-bench",
+  "url": "https://github.com/sierra-research/tau2-bench",
+  "crawled_at": "2026-08-03T04:35:15.608829+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://github.com/sierra-research/tau2-bench",
+  "content_type": "github",
+  "last_modified": "",
+  "github_stars": 1713,
+  "github_forks": 429,
+  "github_open_issues": 156,
+  "github_topics": [
+    "ai",
+    "benchmark",
+    "conversational-agents",
+    "language-model-agent",
+    "llm"
+  ],
+  "github_language": "Python",
+  "github_description": "\u03c4-Bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains",
+  "github_created": "2025-06-09",
+  "github_updated": "2026-08-03",
+  "github_pushed": "2026-07-30",
+  "github_license": "MIT",
+  "github_homepage": "https://www.taubench.com",
+  "fetched_title": "GitHub - sierra-research/tau2-bench: \u03c4-Bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains \u00b7 GitHub",
+  "meta_description": "\u03c4-Bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains - sierra-research/tau2-bench",
+  "og_title": "GitHub - sierra-research/tau2-bench: \u03c4-Bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains",
+  "og_description": "\u03c4-Bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains - sierra-research/tau2-bench",
+  "og_image": "https://opengraph.githubassets.com/c98c308a09fa6b07c253b5981463004c56bf12900d6438221d6de98a2801ff70/sierra-research/tau2-bench",
+  "og_type": "object",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://opengraph.githubassets.com/c98c308a09fa6b07c253b5981463004c56bf12900d6438221d6de98a2801ff70/sierra-research/tau2-bench",
+  "language": "en",
+  "word_count": 1329,
+  "reading_time_min": 7,
+  "outline": [
+    {
+      "level": 3,
+      "text": "Uh oh!"
+    },
+    {
+      "level": 2,
+      "text": "Folders and files"
+    },
+    {
+      "level": 2,
+      "text": "Latest commit"
+    },
+    {
+      "level": 2,
+      "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Repository files navigation"
+    },
+    {
+      "level": 1,
+      "text": "$\\tau$-Bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains"
+    },
+    {
+      "level": 3,
+      "text": "\ud83d\ude80 \u03c4\u00b3-bench is here!"
+    },
+    {
+      "level": 2,
+      "text": "What's New in$\\tau^3$-bench"
+    },
+    {
+      "level": 2,
+      "text": "Overview"
+    },
+    {
+      "level": 2,
+      "text": "Quick Start"
+    },
+    {
+      "level": 3,
+      "text": "1. Install"
+    },
+    {
+      "level": 3,
+      "text": "2. Set up API keys"
+    },
+    {
+      "level": 3,
+      "text": "3. Run an evaluation"
+    },
+    {
+      "level": 2,
+      "text": "Documentation"
+    },
+    {
+      "level": 3,
+      "text": "Getting Started"
+    },
+    {
+      "level": 3,
+      "text": "Core Concepts"
+    },
+    {
+      "level": 3,
+      "text": "Knowledge Retrieval"
+    },
+    {
+      "level": 3,
+      "text": "Voice & Audio"
+    },
+    {
+      "level": 3,
+      "text": "RL & Training"
+    },
+    {
+      "level": 3,
+      "text": "Leaderboard & Experiments"
+    },
+    {
+      "level": 3,
+      "text": "Project"
+    },
+    {
+      "level": 2,
+      "text": "Contributing"
+    },
+    {
+      "level": 2,
+      "text": "Citation"
+    },
+    {
+      "level": 3,
+      "text": "Knowledge Domain (banking_knowledge)"
+    },
+    {
+      "level": 3,
+      "text": "Voice Full-Duplex Benchmark"
+    },
+    {
+      "level": 3,
+      "text": "Core$\\tau$-Bench"
+    },
+    {
+      "level": 3,
+      "text": "Task Fixes"
+    },
+    {
+      "level": 2,
+      "text": "About"
+    },
+    {
+      "level": 3,
+      "text": "Topics"
+    },
+    {
+      "level": 3,
+      "text": "Resources"
+    }
+  ]
+}

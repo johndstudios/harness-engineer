@@ -1,0 +1,68 @@
+{
+  "slug": "effective-harnesses-for-long-running-agents",
+  "url": "https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents",
+  "crawled_at": "2026-08-03T04:33:51.180257+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents",
+  "content_type": "article",
+  "last_modified": "",
+  "fetched_title": "Effective harnesses for long-running agents \\ Anthropic",
+  "meta_description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+  "og_title": "Effective harnesses for long-running agents",
+  "og_description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+  "og_image": "https://cdn.sanity.io/images/4zrzovbb/website/32ea71b3e8e87a990f6df4c4def2b9e52815e977-2400x1260.png",
+  "og_type": "website",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://cdn.sanity.io/images/4zrzovbb/website/32ea71b3e8e87a990f6df4c4def2b9e52815e977-2400x1260.png",
+  "language": "en",
+  "canonical_url": "https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents",
+  "word_count": 2187,
+  "reading_time_min": 11,
+  "outline": [
+    {
+      "level": 1,
+      "text": "Effective harnesses for long-running agents"
+    },
+    {
+      "level": 2,
+      "text": "The long-running agent problem"
+    },
+    {
+      "level": 2,
+      "text": "Environment management"
+    },
+    {
+      "level": 3,
+      "text": "Feature list"
+    },
+    {
+      "level": 3,
+      "text": "Incremental progress"
+    },
+    {
+      "level": 3,
+      "text": "Testing"
+    },
+    {
+      "level": 2,
+      "text": "Getting up to speed"
+    },
+    {
+      "level": 2,
+      "text": "Future work"
+    },
+    {
+      "level": 3,
+      "text": "Acknowledgements"
+    },
+    {
+      "level": 3,
+      "text": "Footnotes"
+    },
+    {
+      "level": 2,
+      "text": "Get the developer newsletter"
+    }
+  ]
+}

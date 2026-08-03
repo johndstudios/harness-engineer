@@ -1,0 +1,78 @@
+{
+  "slug": "improving-deep-agents-with-harness-engineering",
+  "url": "https://blog.langchain.com/improving-deep-agents-with-harness-engineering/",
+  "crawled_at": "2026-08-03T04:34:27.870817+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://www.langchain.com/blog/improving-deep-agents-with-harness-engineering",
+  "content_type": "article",
+  "last_modified": "Mon, 03 Aug 2026 04:34:28 GMT",
+  "fetched_title": "Improving Deep Agents with harness engineering",
+  "meta_description": "Harness engineering improved LangChain's coding agent from Top 30 to Top 5 on Terminal Bench using self-verification, tracing, and context optimization.",
+  "og_title": "Improving Deep Agents with harness engineering",
+  "og_description": "Harness engineering improved LangChain's coding agent from Top 30 to Top 5 on Terminal Bench using self-verification, tracing, and context optimization.",
+  "og_image": "https://cdn.prod.website-files.com/65c81e88c254bb0f97633a71/69cba9e8e691fa7cd1fac872_Screenshot-2026-02-12-at-12.25.20---PM.png",
+  "og_type": "website",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://cdn.prod.website-files.com/65c81e88c254bb0f97633a71/69cba9e8e691fa7cd1fac872_Screenshot-2026-02-12-at-12.25.20---PM.png",
+  "author": "LangChain Accounts",
+  "publish_date": "2026-02-17",
+  "language": "en",
+  "canonical_url": "https://www.langchain.com/blog/improving-deep-agents-with-harness-engineering",
+  "word_count": 1904,
+  "reading_time_min": 10,
+  "outline": [
+    {
+      "level": 1,
+      "text": "Improving Deep Agents with harness engineering"
+    },
+    {
+      "level": 2,
+      "text": "The Goal of Harness Engineering"
+    },
+    {
+      "level": 2,
+      "text": "Experiment Setup & The Knobs on a Harness"
+    },
+    {
+      "level": 3,
+      "text": "The Knobs we can Turn"
+    },
+    {
+      "level": 3,
+      "text": "The Trace Analyzer Skill"
+    },
+    {
+      "level": 2,
+      "text": "What Actually Improved Agent Performance"
+    },
+    {
+      "level": 3,
+      "text": "Build & Self-Verify"
+    },
+    {
+      "level": 3,
+      "text": "Giving Agents Context about their Environment"
+    },
+    {
+      "level": 3,
+      "text": "Encouraging Agents to Step Back & Reconsider Plans"
+    },
+    {
+      "level": 3,
+      "text": "Choosing How Much Compute to Spend on Reasoning"
+    },
+    {
+      "level": 2,
+      "text": "Practical Takeaways for Building Agent Harnesses"
+    },
+    {
+      "level": 3,
+      "text": "Related content"
+    },
+    {
+      "level": 3,
+      "text": "See\u00a0what\u00a0your\u00a0agent\u00a0is\u00a0really\u00a0doing"
+    }
+  ]
+}

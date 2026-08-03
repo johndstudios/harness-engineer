@@ -1,0 +1,92 @@
+{
+  "slug": "how-we-built-claude-code-auto-mode-a-safer-way-to-skip-permissions",
+  "url": "https://www.anthropic.com/engineering/claude-code-auto-mode",
+  "crawled_at": "2026-08-03T04:34:22.808961+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://www.anthropic.com/engineering/claude-code-auto-mode",
+  "content_type": "article",
+  "last_modified": "",
+  "fetched_title": "How we built Claude Code auto mode: a safer way to skip permissions \\ Anthropic",
+  "meta_description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+  "og_title": "How we built Claude Code auto mode: a safer way to skip permissions",
+  "og_description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+  "og_image": "https://cdn.sanity.io/images/4zrzovbb/website/5140cdbe58c21cc117e5f90bfe17245893cbce8d-2400x1260.png",
+  "og_type": "website",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://cdn.sanity.io/images/4zrzovbb/website/5140cdbe58c21cc117e5f90bfe17245893cbce8d-2400x1260.png",
+  "language": "en",
+  "canonical_url": "https://www.anthropic.com/engineering/claude-code-auto-mode",
+  "word_count": 3639,
+  "reading_time_min": 18,
+  "outline": [
+    {
+      "level": 1,
+      "text": "How we built Claude Code auto mode: a safer way to skip permissions"
+    },
+    {
+      "level": 2,
+      "text": "How it works"
+    },
+    {
+      "level": 2,
+      "text": "Threat model"
+    },
+    {
+      "level": 2,
+      "text": "How permission decisions work"
+    },
+    {
+      "level": 2,
+      "text": "The classifier decision criteria"
+    },
+    {
+      "level": 3,
+      "text": "The fixed template"
+    },
+    {
+      "level": 3,
+      "text": "The customizable slots"
+    },
+    {
+      "level": 2,
+      "text": "Results"
+    },
+    {
+      "level": 2,
+      "text": "Design decisions"
+    },
+    {
+      "level": 3,
+      "text": "Why we strip assistant text and tool results"
+    },
+    {
+      "level": 3,
+      "text": "Two-stage classification: efficiency and recall"
+    },
+    {
+      "level": 3,
+      "text": "Why the prompt-injection probe matters"
+    },
+    {
+      "level": 3,
+      "text": "Multi-agent handoffs"
+    },
+    {
+      "level": 3,
+      "text": "Deny-and-continue"
+    },
+    {
+      "level": 2,
+      "text": "What's next"
+    },
+    {
+      "level": 3,
+      "text": "Acknowledgements"
+    },
+    {
+      "level": 2,
+      "text": "Get the developer newsletter"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "slug": "advanced-context-engineering-for-coding-agents",
+  "url": "https://www.humanlayer.dev/blog/advanced-context-engineering",
+  "crawled_at": "2026-08-03T04:32:10.391434+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://www.humanlayer.dev/blog/advanced-context-engineering",
+  "content_type": "article",
+  "last_modified": "",
+  "fetched_title": "Advanced Context Engineering for Coding Agents | HumanLayer Blog",
+  "meta_description": "How do we get AI coding agents to solve hard problems in complex, brownfield codebases?",
+  "og_title": "Advanced Context Engineering for Coding Agents",
+  "og_description": "How do we get AI coding agents to solve hard problems in complex, brownfield codebases?",
+  "og_image": "https://humanlayer.dev/api/advanced-context-engineering/og",
+  "og_type": "article",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://humanlayer.dev/api/advanced-context-engineering/og",
+  "author": "Dex",
+  "publish_date": "08/29/2025",
+  "language": "en",
+  "word_count": 3851,
+  "reading_time_min": 19,
+  "outline": [
+    {
+      "level": 2,
+      "text": "##Getting AI to Work in Complex Codebases"
+    },
+    {
+      "level": 3,
+      "text": "###Grounding Context from AI Engineer"
+    },
+    {
+      "level": 3,
+      "text": "###What's actually possible today"
+    },
+    {
+      "level": 3,
+      "text": "###Our weird journey to get here"
+    },
+    {
+      "level": 2,
+      "text": "##Advanced Context Engineering for Coding Agents"
+    },
+    {
+      "level": 3,
+      "text": "###But first: The Naive Way to manage agent context"
+    },
+    {
+      "level": 3,
+      "text": "###Slightly Smarter: Intentional Compaction"
+    },
+    {
+      "level": 3,
+      "text": "###What Exactly Are We Compacting?"
+    },
+    {
+      "level": 3,
+      "text": "###Why obsess over context?"
+    },
+    {
+      "level": 3,
+      "text": "###Back to compaction: Using Sub-Agents"
+    },
+    {
+      "level": 3,
+      "text": "###What works even better: Frequent Intentional Compaction"
+    },
+    {
+      "level": 3,
+      "text": "###Putting this into practice"
+    },
+    {
+      "level": 3,
+      "text": "###Solving complex problems"
+    },
+    {
+      "level": 3,
+      "text": "###This is not Magic"
+    },
+    {
+      "level": 3,
+      "text": "###Eggs on Faces"
+    },
+    {
+      "level": 3,
+      "text": "###On Human Leverage"
+    },
+    {
+      "level": 3,
+      "text": "###What is code review for?"
+    },
+    {
+      "level": 3,
+      "text": "###Recap"
+    },
+    {
+      "level": 3,
+      "text": "###What's coming"
+    },
+    {
+      "level": 3,
+      "text": "###okay so clearly you have something to sell me"
+    },
+    {
+      "level": 2,
+      "text": "##For OSS Maintainers - lets ship something together"
+    },
+    {
+      "level": 2,
+      "text": "##For Engineering Leaders"
+    },
+    {
+      "level": 3,
+      "text": "###Thanks"
+    }
+  ]
+}

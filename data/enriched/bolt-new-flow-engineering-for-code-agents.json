@@ -1,0 +1,58 @@
+{
+  "slug": "bolt-new-flow-engineering-for-code-agents",
+  "url": "https://www.latent.space/p/bolt",
+  "crawled_at": "2026-08-03T04:32:46.929161+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://www.latent.space/p/bolt",
+  "content_type": "podcast",
+  "last_modified": "",
+  "fetched_title": "Bolt.new, Flow Engineering for Code Agents, and >$8m ARR in 2 months as a Claude Wrapper",
+  "meta_description": "The Stackblitz and Qodo CEOs dish on building production coding agents, from going viral as the hottest new consumer/low-code agent, to the gnarliest enterprise deployments for code/test agents.",
+  "og_title": "Bolt.new, Flow Engineering for Code Agents, and >$8m ARR in 2 months as a Claude Wrapper",
+  "og_description": "The Stackblitz and Qodo CEOs dish on building production coding agents, from going viral as the hottest new consumer/low-code agent, to the gnarliest enterprise deployments for code/test agents.",
+  "og_image": "https://substackcdn.com/image/fetch/$s_!Ll3H!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-video.s3.amazonaws.com%2Fvideo_upload%2Fpost%2F152358099%2F2ef24c1b-f38f-4d53-b441-761c0abdcdb5%2Ftranscoded-1733180566.png",
+  "og_type": "article",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://substackcdn.com/image/fetch/$s_!j-bZ!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fswyx.substack.com%2Fapi%2Fv1%2Fpost_preview%2F152358099%2Ftwitter.jpg%3Fversion%3D4",
+  "author": "Latent.Space",
+  "publish_date": "2024-12-02",
+  "language": "en",
+  "canonical_url": "https://www.latent.space/p/bolt",
+  "word_count": 22322,
+  "reading_time_min": 112,
+  "outline": [
+    {
+      "level": 2,
+      "text": "Bolt.new, Flow Engineering for Code Agents, and >$8m ARR in 2 months as a Claude Wrapper"
+    },
+    {
+      "level": 2,
+      "text": "Flow Engineering + Qodo/AlphaCodium Update"
+    },
+    {
+      "level": 2,
+      "text": "Debugging the Internet with AI agents \u2013 with Itamar Friedman of Codium AI and AutoGPT"
+    },
+    {
+      "level": 2,
+      "text": "Full Video Podcast"
+    },
+    {
+      "level": 2,
+      "text": "Show Notes"
+    },
+    {
+      "level": 2,
+      "text": "Chapters"
+    },
+    {
+      "level": 2,
+      "text": "Transcript"
+    },
+    {
+      "level": 3,
+      "text": "Ready for more?"
+    }
+  ]
+}

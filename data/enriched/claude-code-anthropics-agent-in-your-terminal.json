@@ -1,0 +1,126 @@
+{
+  "slug": "claude-code-anthropics-agent-in-your-terminal",
+  "url": "https://www.latent.space/p/claude-code",
+  "crawled_at": "2026-08-03T04:33:00.648300+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://www.latent.space/p/claude-code",
+  "content_type": "podcast",
+  "last_modified": "",
+  "fetched_title": "Claude Code: Anthropic's Agent in Your Terminal",
+  "meta_description": "Cat Wu and Boris Cherny from the Claude Code team stop by to tell all!",
+  "og_title": "Claude Code: Anthropic's Agent in Your Terminal",
+  "og_description": "Cat Wu and Boris Cherny from the Claude Code team stop by to tell all!",
+  "og_image": "https://substackcdn.com/image/fetch/$s_!1mZ7!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcd59d811-4ab8-4e38-aa46-f1d84ab1650b_1920x1080.jpeg",
+  "og_type": "article",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://substackcdn.com/image/fetch/$s_!l6Db!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fswyx.substack.com%2Fapi%2Fv1%2Fpost_preview%2F163091105%2Ftwitter.jpg%3Fversion%3D4",
+  "author": "Latent.Space",
+  "publish_date": "2025-05-07",
+  "language": "en",
+  "canonical_url": "https://www.latent.space/p/claude-code",
+  "word_count": 16594,
+  "reading_time_min": 83,
+  "outline": [
+    {
+      "level": 1,
+      "text": "Claude Code: Anthropic's Agent in Your Terminal"
+    },
+    {
+      "level": 3,
+      "text": "Cat Wu and Boris Cherny from the Claude Code team stop by to tell all!"
+    },
+    {
+      "level": 3,
+      "text": "Show Notes"
+    },
+    {
+      "level": 3,
+      "text": "Timestamps"
+    },
+    {
+      "level": 2,
+      "text": "Transcript"
+    },
+    {
+      "level": 2,
+      "text": "What is Claude Code?"
+    },
+    {
+      "level": 2,
+      "text": "Anthropic\u2019s Product Philosophy"
+    },
+    {
+      "level": 2,
+      "text": "What should go into Claude Code?"
+    },
+    {
+      "level": 2,
+      "text": "Claude.md and Memory Simplification"
+    },
+    {
+      "level": 2,
+      "text": "Claude Code vs Other Coding Tools"
+    },
+    {
+      "level": 2,
+      "text": "Parallel Workflows and Unix Utility Philosophy"
+    },
+    {
+      "level": 2,
+      "text": "Cost considerations and pricing model"
+    },
+    {
+      "level": 2,
+      "text": "Key Features Shipped Since Launch"
+    },
+    {
+      "level": 2,
+      "text": "Claude Code writes 80% of Claude Code"
+    },
+    {
+      "level": 2,
+      "text": "Custom Slash Commands and Integration with MCP"
+    },
+    {
+      "level": 2,
+      "text": "Code Review and Semantic Linting"
+    },
+    {
+      "level": 2,
+      "text": "Non-Interactive Mode and Automation Use Cases"
+    },
+    {
+      "level": 2,
+      "text": "Engineering Productivity Metrics"
+    },
+    {
+      "level": 2,
+      "text": "Balancing Feature Creation and Maintenance"
+    },
+    {
+      "level": 2,
+      "text": "Memory and the Future of Context"
+    },
+    {
+      "level": 2,
+      "text": "Sandboxing, Branching, and Agent Planning"
+    },
+    {
+      "level": 2,
+      "text": "Model Failures and Areas for Improvement"
+    },
+    {
+      "level": 2,
+      "text": "Future roadmap"
+    },
+    {
+      "level": 2,
+      "text": "Why Anthropic Excels at Developer Tools"
+    },
+    {
+      "level": 3,
+      "text": "Ready for more?"
+    }
+  ]
+}

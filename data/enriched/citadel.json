@@ -1,0 +1,155 @@
+{
+  "slug": "citadel",
+  "url": "https://github.com/SethGammon/Citadel",
+  "crawled_at": "2026-08-03T04:32:58.354746+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://github.com/SethGammon/Citadel",
+  "content_type": "github",
+  "last_modified": "",
+  "github_stars": 809,
+  "github_forks": 80,
+  "github_open_issues": 0,
+  "github_topics": [
+    "agent-orchestration",
+    "agent-workflow",
+    "ai-agents",
+    "claude-code-plugin",
+    "claude-plugins",
+    "codex-plugin",
+    "developer-tools",
+    "mcp"
+  ],
+  "github_language": "JavaScript",
+  "github_description": "The operating layer for Claude Code + OpenAI Codex: persistent project memory, intent routing, safety hooks, cost telemetry, and parallel agent fleets.",
+  "github_created": "2026-03-20",
+  "github_updated": "2026-08-02",
+  "github_pushed": "2026-08-02",
+  "github_license": "MIT",
+  "github_homepage": "https://sethgammon.github.io/Citadel/",
+  "fetched_title": "GitHub - SethGammon/Citadel: The operating layer for Claude Code + OpenAI Codex: persistent project memory, intent routing, safety hooks, cost telemetry, and parallel agent fleets. \u00b7 GitHub",
+  "meta_description": "The operating layer for Claude Code + OpenAI Codex: persistent project memory, intent routing, safety hooks, cost telemetry, and parallel agent fleets. - SethGammon/Citadel",
+  "og_title": "GitHub - SethGammon/Citadel: The operating layer for Claude Code + OpenAI Codex: persistent project memory, intent routing, safety hooks, cost telemetry, and parallel agent fleets.",
+  "og_description": "The operating layer for Claude Code + OpenAI Codex: persistent project memory, intent routing, safety hooks, cost telemetry, and parallel agent fleets. - SethGammon/Citadel",
+  "og_image": "https://opengraph.githubassets.com/582ebf8ecd53ce9a643c4f03b91b28f039438c36e6599fd31e6963eb7f931944/SethGammon/Citadel",
+  "og_type": "object",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://opengraph.githubassets.com/582ebf8ecd53ce9a643c4f03b91b28f039438c36e6599fd31e6963eb7f931944/SethGammon/Citadel",
+  "language": "en",
+  "word_count": 1666,
+  "reading_time_min": 8,
+  "outline": [
+    {
+      "level": 3,
+      "text": "Uh oh!"
+    },
+    {
+      "level": 2,
+      "text": "Folders and files"
+    },
+    {
+      "level": 2,
+      "text": "Latest commit"
+    },
+    {
+      "level": 2,
+      "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Repository files navigation"
+    },
+    {
+      "level": 2,
+      "text": "Quick install"
+    },
+    {
+      "level": 2,
+      "text": "Start using it"
+    },
+    {
+      "level": 2,
+      "text": "When Citadel is useful"
+    },
+    {
+      "level": 2,
+      "text": "Evidence status"
+    },
+    {
+      "level": 2,
+      "text": "One operating loop"
+    },
+    {
+      "level": 2,
+      "text": "Portable operations"
+    },
+    {
+      "level": 2,
+      "text": "Trust and scope"
+    },
+    {
+      "level": 2,
+      "text": "Choose your documentation"
+    },
+    {
+      "level": 2,
+      "text": "Common questions"
+    },
+    {
+      "level": 2,
+      "text": "Community"
+    },
+    {
+      "level": 2,
+      "text": "About"
+    },
+    {
+      "level": 3,
+      "text": "Topics"
+    },
+    {
+      "level": 3,
+      "text": "Resources"
+    },
+    {
+      "level": 3,
+      "text": "Contributing"
+    },
+    {
+      "level": 3,
+      "text": "Security policy"
+    },
+    {
+      "level": 3,
+      "text": "Stars"
+    },
+    {
+      "level": 3,
+      "text": "Watchers"
+    },
+    {
+      "level": 3,
+      "text": "Forks"
+    },
+    {
+      "level": 2,
+      "text": "Releases"
+    },
+    {
+      "level": 2,
+      "text": "Sponsor this project"
+    },
+    {
+      "level": 2,
+      "text": "Used by"
+    },
+    {
+      "level": 2,
+      "text": "Contributors"
+    },
+    {
+      "level": 2,
+      "text": "Languages"
+    }
+  ]
+}

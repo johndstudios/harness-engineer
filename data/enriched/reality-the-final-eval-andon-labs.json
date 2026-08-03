@@ -1,0 +1,126 @@
+{
+  "slug": "reality-the-final-eval-andon-labs",
+  "url": "https://www.latent.space/p/andon",
+  "crawled_at": "2026-08-03T04:35:02.829235+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://www.latent.space/p/andon",
+  "content_type": "podcast",
+  "last_modified": "",
+  "fetched_title": "Reality: The Final Eval \u2014 Lukas Petersson and Axel Backlund of Andon Labs",
+  "meta_description": "We talk with the VendingBench authors on evaling Claudes from Haiku to Mythos, and how they build leading, and lasting, frontier evals from scratch.",
+  "og_title": "Reality: The Final Eval \u2014 Lukas Petersson and Axel Backlund of Andon Labs",
+  "og_description": "We talk with the VendingBench authors on evaling Claudes from Haiku to Mythos, and how they build leading, and lasting, frontier evals from scratch.",
+  "og_image": "https://substackcdn.com/image/fetch/$s_!7756!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-video.s3.amazonaws.com%2Fvideo_upload%2Fpost%2F200614482%2F1621f1b3-afdf-4e73-96ad-7e9344965086%2Ftranscoded-1780580537.png",
+  "og_type": "article",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://substackcdn.com/image/fetch/$s_!aKO5!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fswyx.substack.com%2Fapi%2Fv1%2Fpost_preview%2F200614482%2Ftwitter.jpg%3Fversion%3D4",
+  "author": "Latent.Space",
+  "publish_date": "2026-06-04",
+  "language": "en",
+  "canonical_url": "https://www.latent.space/p/andon",
+  "word_count": 17455,
+  "reading_time_min": 87,
+  "outline": [
+    {
+      "level": 2,
+      "text": "Reality: The Final Eval \u2014 Lukas Petersson and Axel Backlund of Andon Labs"
+    },
+    {
+      "level": 2,
+      "text": "Full Video Pod"
+    },
+    {
+      "level": 2,
+      "text": "Timestamps"
+    },
+    {
+      "level": 1,
+      "text": "Transcript"
+    },
+    {
+      "level": 2,
+      "text": "Introduction: Andon Labs, Long-Running Agents, and Real-World Evals"
+    },
+    {
+      "level": 2,
+      "text": "From Dangerous Capability Evals to Vending Bench"
+    },
+    {
+      "level": 2,
+      "text": "Why Dollar-Based Evals Matter"
+    },
+    {
+      "level": 2,
+      "text": "Vending Bench 1, Harness Design, and Saturation"
+    },
+    {
+      "level": 2,
+      "text": "Self-Modifying Harnesses and Model-Specific Prompting"
+    },
+    {
+      "level": 2,
+      "text": "Claude Calls the FBI: Long-Context Failure Modes"
+    },
+    {
+      "level": 2,
+      "text": "Project Vend: Moving the Vending Machine Into the Real World"
+    },
+    {
+      "level": 2,
+      "text": "Project Vend V2: Claudius, Seymour Cash, and Multi-Agent Business Ops"
+    },
+    {
+      "level": 2,
+      "text": "Claude Long-Horizon Weirdness: Emoji Loops, Existential Drift, and Slack Observability"
+    },
+    {
+      "level": 2,
+      "text": "Zero-Human Companies, Bengt, and AI-Run Businesses"
+    },
+    {
+      "level": 2,
+      "text": "Bengt the Office Agent: Internet Access, Real Tasks, and Trace Reading"
+    },
+    {
+      "level": 2,
+      "text": "Andon Labs\u2019 Mission: Safe Real-World AI Deployment"
+    },
+    {
+      "level": 2,
+      "text": "Opus, Mythos, and Aggressive Agent Behavior"
+    },
+    {
+      "level": 2,
+      "text": "Vending Bench Arena: Competing Agents, Cartels, and Model Comparisons"
+    },
+    {
+      "level": 2,
+      "text": "Eval Awareness, Simulation Awareness, and Real-World Testing"
+    },
+    {
+      "level": 2,
+      "text": "Robot Evals: Orchestrators, Executors, and Home Tasks"
+    },
+    {
+      "level": 2,
+      "text": "Luna\u2019s Store: Scheduling Failures, AI Employees, and Real-World Operations"
+    },
+    {
+      "level": 2,
+      "text": "The Sweden Cafe: Permits, Perishables, and Geographic Generalization"
+    },
+    {
+      "level": 2,
+      "text": "Future Branches: Simulation, Real Life, Robots, and New Business Evals"
+    },
+    {
+      "level": 2,
+      "text": "Hiring, Collaborations, and What Comes Next"
+    },
+    {
+      "level": 3,
+      "text": "Ready for more?"
+    }
+  ]
+}

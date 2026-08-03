@@ -1,0 +1,127 @@
+{
+  "slug": "bring-your-ai-mcp",
+  "url": "https://github.com/unitedideas/bringyour-mcp",
+  "crawled_at": "2026-08-03T04:32:47.878904+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://github.com/unitedideas/bringyour-mcp",
+  "content_type": "github",
+  "last_modified": "",
+  "github_stars": 1,
+  "github_forks": 1,
+  "github_open_issues": 0,
+  "github_topics": [
+    "agent-commerce",
+    "agent-infrastructure",
+    "agents-md",
+    "claude-code",
+    "codex",
+    "codex-import",
+    "developer-tools",
+    "harness-migration",
+    "local-first",
+    "mcp",
+    "mcp-commerce",
+    "mcp-server"
+  ],
+  "github_language": null,
+  "github_description": "Public metadata for the Bring Your AI no-data remote MCP endpoint",
+  "github_created": "2026-04-27",
+  "github_updated": "2026-07-06",
+  "github_pushed": "2026-05-25",
+  "github_license": "NOASSERTION",
+  "github_homepage": "https://bringyour.ai",
+  "fetched_title": "GitHub - unitedideas/bringyour-mcp: Public metadata for the Bring Your AI no-data remote MCP endpoint \u00b7 GitHub",
+  "meta_description": "Public metadata for the Bring Your AI no-data remote MCP endpoint - unitedideas/bringyour-mcp",
+  "og_title": "GitHub - unitedideas/bringyour-mcp: Public metadata for the Bring Your AI no-data remote MCP endpoint",
+  "og_description": "Public metadata for the Bring Your AI no-data remote MCP endpoint - unitedideas/bringyour-mcp",
+  "og_image": "https://opengraph.githubassets.com/81212cd9c38ff5720052b426fca65c228b2b43e8481a814501aa0490d9dbbffd/unitedideas/bringyour-mcp",
+  "og_type": "object",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://opengraph.githubassets.com/81212cd9c38ff5720052b426fca65c228b2b43e8481a814501aa0490d9dbbffd/unitedideas/bringyour-mcp",
+  "language": "en",
+  "word_count": 824,
+  "reading_time_min": 4,
+  "outline": [
+    {
+      "level": 2,
+      "text": "Folders and files"
+    },
+    {
+      "level": 2,
+      "text": "Latest commit"
+    },
+    {
+      "level": 2,
+      "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Repository files navigation"
+    },
+    {
+      "level": 1,
+      "text": "Bring Your AI MCP"
+    },
+    {
+      "level": 2,
+      "text": "Endpoint"
+    },
+    {
+      "level": 2,
+      "text": "Tools"
+    },
+    {
+      "level": 2,
+      "text": "Local CLI Flow"
+    },
+    {
+      "level": 2,
+      "text": "Privacy Boundary"
+    },
+    {
+      "level": 2,
+      "text": "Public Codex Artifacts"
+    },
+    {
+      "level": 2,
+      "text": "Links"
+    },
+    {
+      "level": 2,
+      "text": "About"
+    },
+    {
+      "level": 3,
+      "text": "Topics"
+    },
+    {
+      "level": 3,
+      "text": "Resources"
+    },
+    {
+      "level": 3,
+      "text": "Stars"
+    },
+    {
+      "level": 3,
+      "text": "Watchers"
+    },
+    {
+      "level": 3,
+      "text": "Forks"
+    },
+    {
+      "level": 2,
+      "text": "Releases"
+    },
+    {
+      "level": 2,
+      "text": "Packages"
+    },
+    {
+      "level": 2,
+      "text": "Contributors"
+    }
+  ]
+}

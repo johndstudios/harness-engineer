@@ -1,0 +1,42 @@
+{
+  "slug": "humans-and-agents-in-software-engineering-loops",
+  "url": "https://martinfowler.com/articles/exploring-gen-ai/humans-and-agents.html",
+  "crawled_at": "2026-08-03T04:34:26.636116+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://martinfowler.com/articles/exploring-gen-ai/humans-and-agents.html",
+  "content_type": "article",
+  "last_modified": "Fri, 31 Jul 2026 19:04:20 GMT",
+  "fetched_title": "Humans and Agents in Software Engineering Loops",
+  "meta_description": "",
+  "og_title": "Humans and Agents in Software Engineering Loops",
+  "og_description": "Notes from my Thoughtworks colleagues on AI-assisted software delivery",
+  "og_image": "https://martinfowler.com/articles/exploring-gen-ai/donkey-card.png",
+  "og_type": "article",
+  "twitter_card": "summary",
+  "twitter_image": "",
+  "word_count": 1733,
+  "reading_time_min": 9,
+  "outline": [
+    {
+      "level": 1,
+      "text": "Humans and Agents in Software Engineering Loops"
+    },
+    {
+      "level": 2,
+      "text": "Humans outside the loop"
+    },
+    {
+      "level": 2,
+      "text": "Humans in the loop"
+    },
+    {
+      "level": 2,
+      "text": "Humans on the loop"
+    },
+    {
+      "level": 2,
+      "text": "The agentic flywheel"
+    }
+  ]
+}

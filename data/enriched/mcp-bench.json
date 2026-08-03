@@ -1,0 +1,128 @@
+{
+  "slug": "mcp-bench",
+  "url": "https://github.com/modelscope/MCPBench",
+  "crawled_at": "2026-08-03T04:34:43.260522+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://github.com/modelscope/MCPBench",
+  "content_type": "github",
+  "last_modified": "",
+  "github_stars": 251,
+  "github_forks": 16,
+  "github_open_issues": 6,
+  "github_topics": [
+    "benchmark",
+    "database",
+    "mcp",
+    "mcp-server",
+    "websearch"
+  ],
+  "github_language": "Python",
+  "github_description": "The evaluation benchmark on MCP servers",
+  "github_created": "2025-04-13",
+  "github_updated": "2026-07-24",
+  "github_pushed": "2025-09-03",
+  "github_license": "Apache-2.0",
+  "github_homepage": "",
+  "fetched_title": "GitHub - modelscope/MCPBench: The evaluation benchmark on MCP servers \u00b7 GitHub",
+  "meta_description": "The evaluation benchmark on MCP servers. Contribute to modelscope/MCPBench development by creating an account on GitHub.",
+  "og_title": "GitHub - modelscope/MCPBench: The evaluation benchmark on MCP servers",
+  "og_description": "The evaluation benchmark on MCP servers. Contribute to modelscope/MCPBench development by creating an account on GitHub.",
+  "og_image": "https://opengraph.githubassets.com/48ceba21d605f3e7933a3f906dc479178d9cf74e9b13151a90128d0667dbdeba/modelscope/MCPBench",
+  "og_type": "object",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://opengraph.githubassets.com/48ceba21d605f3e7933a3f906dc479178d9cf74e9b13151a90128d0667dbdeba/modelscope/MCPBench",
+  "language": "en",
+  "word_count": 889,
+  "reading_time_min": 4,
+  "outline": [
+    {
+      "level": 3,
+      "text": "Uh oh!"
+    },
+    {
+      "level": 2,
+      "text": "Folders and files"
+    },
+    {
+      "level": 2,
+      "text": "Latest commit"
+    },
+    {
+      "level": 2,
+      "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Repository files navigation"
+    },
+    {
+      "level": 1,
+      "text": "\ud83e\udd8a MCPBench: A Benchmark for Evaluating MCP Servers"
+    },
+    {
+      "level": 1,
+      "text": "\ud83d\udccb Table of Contents"
+    },
+    {
+      "level": 1,
+      "text": "\ud83d\udd25 News"
+    },
+    {
+      "level": 1,
+      "text": "\ud83d\udee0\ufe0f Installation"
+    },
+    {
+      "level": 1,
+      "text": "\ud83d\ude80 Quick Start"
+    },
+    {
+      "level": 2,
+      "text": "Launch MCP Server (optional for stdio)"
+    },
+    {
+      "level": 2,
+      "text": "Launch Evaluation"
+    },
+    {
+      "level": 1,
+      "text": "Datasets and Experimental Results"
+    },
+    {
+      "level": 1,
+      "text": "\ud83d\udeb0 Cite"
+    },
+    {
+      "level": 2,
+      "text": "About"
+    },
+    {
+      "level": 3,
+      "text": "Topics"
+    },
+    {
+      "level": 3,
+      "text": "Resources"
+    },
+    {
+      "level": 3,
+      "text": "Stars"
+    },
+    {
+      "level": 3,
+      "text": "Watchers"
+    },
+    {
+      "level": 3,
+      "text": "Forks"
+    },
+    {
+      "level": 2,
+      "text": "Contributors"
+    },
+    {
+      "level": 2,
+      "text": "Languages"
+    }
+  ]
+}

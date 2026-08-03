@@ -1,0 +1,60 @@
+{
+  "slug": "effective-context-engineering-for-ai-agents",
+  "url": "https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents",
+  "crawled_at": "2026-08-03T04:33:50.334849+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents",
+  "content_type": "article",
+  "last_modified": "",
+  "fetched_title": "Effective context engineering for AI agents \\ Anthropic",
+  "meta_description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+  "og_title": "Effective context engineering for AI agents",
+  "og_description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+  "og_image": "https://cdn.sanity.io/images/4zrzovbb/website/ea2bf01aa874d7ab776453e97dfeed5d2bf5a116-2400x1260.png",
+  "og_type": "website",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://cdn.sanity.io/images/4zrzovbb/website/ea2bf01aa874d7ab776453e97dfeed5d2bf5a116-2400x1260.png",
+  "language": "en",
+  "canonical_url": "https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents",
+  "word_count": 3186,
+  "reading_time_min": 16,
+  "outline": [
+    {
+      "level": 1,
+      "text": "Effective context engineering for AI agents"
+    },
+    {
+      "level": 2,
+      "text": "Context engineering vs. prompt engineering"
+    },
+    {
+      "level": 2,
+      "text": "Why context engineering is important to building capable agents"
+    },
+    {
+      "level": 2,
+      "text": "The anatomy of effective context"
+    },
+    {
+      "level": 2,
+      "text": "Context retrieval and agentic search"
+    },
+    {
+      "level": 3,
+      "text": "Context engineering for long-horizon tasks"
+    },
+    {
+      "level": 2,
+      "text": "Conclusion"
+    },
+    {
+      "level": 2,
+      "text": "Acknowledgements"
+    },
+    {
+      "level": 2,
+      "text": "Get the developer newsletter"
+    }
+  ]
+}

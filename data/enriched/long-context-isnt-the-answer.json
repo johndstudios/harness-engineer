@@ -1,0 +1,57 @@
+{
+  "slug": "long-context-isnt-the-answer",
+  "url": "https://humanlayer.dev/blog/long-context-isnt-the-answer",
+  "crawled_at": "2026-08-03T04:34:38.628324+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://www.humanlayer.dev/blog/long-context-isnt-the-answer",
+  "content_type": "article",
+  "last_modified": "",
+  "fetched_title": "Long-Context Isn't the Answer | HumanLayer Blog",
+  "meta_description": "We tried Opus with 1M context for coding agents, and now we're switching back. It turns out it's not about the size of the context window - it's about the quality.",
+  "og_title": "Long-Context Isn't the Answer",
+  "og_description": "We tried Opus with 1M context for coding agents, and now we're switching back. It turns out it's not about the size of the context window - it's about the quality.",
+  "og_image": "https://humanlayer.dev/api/long-context-isnt-the-answer/og",
+  "og_type": "article",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://humanlayer.dev/api/long-context-isnt-the-answer/og",
+  "author": "Kyle",
+  "publish_date": "3/23/2026",
+  "language": "en",
+  "word_count": 1235,
+  "reading_time_min": 6,
+  "outline": [
+    {
+      "level": 2,
+      "text": "##How about some context?"
+    },
+    {
+      "level": 2,
+      "text": "##More context, less instruction adherence"
+    },
+    {
+      "level": 2,
+      "text": "##What determines instruction adherence?"
+    },
+    {
+      "level": 2,
+      "text": "##Instruction adherence at long context lengths"
+    },
+    {
+      "level": 2,
+      "text": "##Instruction-following as needle in a haystack"
+    },
+    {
+      "level": 2,
+      "text": "##What Works Instead"
+    },
+    {
+      "level": 2,
+      "text": "##How we're incorporating this at HumanLayer"
+    },
+    {
+      "level": 2,
+      "text": "##TL;DR"
+    }
+  ]
+}

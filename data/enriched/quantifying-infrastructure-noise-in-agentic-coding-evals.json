@@ -1,0 +1,56 @@
+{
+  "slug": "quantifying-infrastructure-noise-in-agentic-coding-evals",
+  "url": "https://www.anthropic.com/engineering/infrastructure-noise",
+  "crawled_at": "2026-08-03T04:35:00.854174+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://www.anthropic.com/engineering/infrastructure-noise",
+  "content_type": "article",
+  "last_modified": "",
+  "fetched_title": "Quantifying infrastructure noise in agentic coding evals \\ Anthropic",
+  "meta_description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+  "og_title": "Quantifying infrastructure noise in agentic coding evals",
+  "og_description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+  "og_image": "https://cdn.sanity.io/images/4zrzovbb/website/16ff27ee039d98cf3391433f6f3df23aa96b1e91-2400x1260.png",
+  "og_type": "website",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://cdn.sanity.io/images/4zrzovbb/website/16ff27ee039d98cf3391433f6f3df23aa96b1e91-2400x1260.png",
+  "language": "en",
+  "canonical_url": "https://www.anthropic.com/engineering/infrastructure-noise",
+  "word_count": 1865,
+  "reading_time_min": 9,
+  "outline": [
+    {
+      "level": 1,
+      "text": "Quantifying infrastructure noise in agentic coding evals"
+    },
+    {
+      "level": 2,
+      "text": "How we got here"
+    },
+    {
+      "level": 2,
+      "text": "How this affects measurement"
+    },
+    {
+      "level": 2,
+      "text": "Other sources of variance"
+    },
+    {
+      "level": 2,
+      "text": "What we recommend"
+    },
+    {
+      "level": 2,
+      "text": "Why we care"
+    },
+    {
+      "level": 3,
+      "text": "Acknowledgements"
+    },
+    {
+      "level": 2,
+      "text": "Get the developer newsletter"
+    }
+  ]
+}

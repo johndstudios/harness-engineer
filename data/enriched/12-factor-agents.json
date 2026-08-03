@@ -1,0 +1,145 @@
+{
+  "slug": "12-factor-agents",
+  "url": "https://www.humanlayer.dev/blog/12-factor-agents",
+  "crawled_at": "2026-08-03T04:32:09.262104+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://www.humanlayer.dev/blog/12-factor-agents",
+  "content_type": "article",
+  "last_modified": "",
+  "fetched_title": "12 Factor Agents | HumanLayer Blog",
+  "meta_description": "The Original **12 Factor Agents** Manifesto. What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
+  "og_title": "12 Factor Agents",
+  "og_description": "The Original **12 Factor Agents** Manifesto. What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
+  "og_image": "https://humanlayer.dev/api/12-factor-agents/og",
+  "og_type": "article",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://humanlayer.dev/api/12-factor-agents/og",
+  "author": "Dex",
+  "publish_date": "2025-04-03",
+  "language": "en",
+  "word_count": 6699,
+  "reading_time_min": 33,
+  "outline": [
+    {
+      "level": 2,
+      "text": "##Introduction"
+    },
+    {
+      "level": 2,
+      "text": "##Table of Contents"
+    },
+    {
+      "level": 2,
+      "text": "##How We Got Here: A Brief History of Software"
+    },
+    {
+      "level": 3,
+      "text": "###You don't have to listen to me"
+    },
+    {
+      "level": 2,
+      "text": "##Agents are software, and a brief history thereof"
+    },
+    {
+      "level": 3,
+      "text": "###60 years ago"
+    },
+    {
+      "level": 3,
+      "text": "###20 years ago"
+    },
+    {
+      "level": 3,
+      "text": "###10-15 years ago"
+    },
+    {
+      "level": 3,
+      "text": "###The promise of agents"
+    },
+    {
+      "level": 3,
+      "text": "###Agents as loops"
+    },
+    {
+      "level": 3,
+      "text": "###The problem with this \"loop until you solve it\" pattern"
+    },
+    {
+      "level": 3,
+      "text": "###Even as models support longer and longer context windows, you'll ALWAYS get better results with a small, focused prompt and context"
+    },
+    {
+      "level": 3,
+      "text": "###What actually works - micro agents"
+    },
+    {
+      "level": 3,
+      "text": "###A real life micro agent"
+    },
+    {
+      "level": 3,
+      "text": "###So what's an agent really?"
+    },
+    {
+      "level": 2,
+      "text": "##Factor 1: Natural Language to Tool Calls"
+    },
+    {
+      "level": 2,
+      "text": "##Factor 2: Own Your Prompts"
+    },
+    {
+      "level": 2,
+      "text": "##Factor 3: Own Your Context Window"
+    },
+    {
+      "level": 3,
+      "text": "###on context engineering"
+    },
+    {
+      "level": 3,
+      "text": "###code example"
+    },
+    {
+      "level": 3,
+      "text": "###Don't take it from me"
+    },
+    {
+      "level": 2,
+      "text": "##Factor 4: Tools Are Just Structured Outputs"
+    },
+    {
+      "level": 2,
+      "text": "##Factor 5: Unify Execution State and Business State"
+    },
+    {
+      "level": 2,
+      "text": "##Factor 6: Launch/Pause/Resume with Simple APIs"
+    },
+    {
+      "level": 2,
+      "text": "##Factor 7: Contact Humans with Tool Calls"
+    },
+    {
+      "level": 2,
+      "text": "##Factor 8: Own Your Control Flow"
+    },
+    {
+      "level": 2,
+      "text": "##Factor 9: Compact Errors into Context Window"
+    },
+    {
+      "level": 2,
+      "text": "##Factor 10: Small, Focused Agents"
+    },
+    {
+      "level": 3,
+      "text": "###What if LLMs get smarter?"
+    },
+    {
+      "level": 2,
+      "text": "##Factor 11: Trigger from Anywhere"
+    }
+  ]
+}

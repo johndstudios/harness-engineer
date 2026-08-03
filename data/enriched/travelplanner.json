@@ -1,0 +1,159 @@
+{
+  "slug": "travelplanner",
+  "url": "https://github.com/OSU-NLP-Group/TravelPlanner",
+  "crawled_at": "2026-08-03T04:35:27.618497+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://github.com/OSU-NLP-Group/TravelPlanner",
+  "content_type": "github",
+  "last_modified": "",
+  "github_stars": 531,
+  "github_forks": 84,
+  "github_open_issues": 2,
+  "github_topics": [
+    "autonomous-agents",
+    "language-agent",
+    "large-language-models",
+    "planning"
+  ],
+  "github_language": "Python",
+  "github_description": "[ICML'24 Spotlight] \"TravelPlanner: A Benchmark for Real-World Planning with Language Agents\"",
+  "github_created": "2024-01-01",
+  "github_updated": "2026-07-24",
+  "github_pushed": "2026-05-24",
+  "github_license": "MIT",
+  "github_homepage": "https://osu-nlp-group.github.io/TravelPlanner/",
+  "fetched_title": "GitHub - OSU-NLP-Group/TravelPlanner: [ICML'24 Spotlight] \"TravelPlanner: A Benchmark for Real-World Planning with Language Agents\" \u00b7 GitHub",
+  "meta_description": "[ICML'24 Spotlight] \"TravelPlanner: A Benchmark for Real-World Planning with Language Agents\" - OSU-NLP-Group/TravelPlanner",
+  "og_title": "GitHub - OSU-NLP-Group/TravelPlanner: [ICML'24 Spotlight] \"TravelPlanner: A Benchmark for Real-World Planning with Language Agents\"",
+  "og_description": "[ICML'24 Spotlight] \"TravelPlanner: A Benchmark for Real-World Planning with Language Agents\" - OSU-NLP-Group/TravelPlanner",
+  "og_image": "https://opengraph.githubassets.com/ebe557c932fe057b0a05f0e2b4493107d8c22243c5836bff3f53548d18436d7b/OSU-NLP-Group/TravelPlanner",
+  "og_type": "object",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://opengraph.githubassets.com/ebe557c932fe057b0a05f0e2b4493107d8c22243c5836bff3f53548d18436d7b/OSU-NLP-Group/TravelPlanner",
+  "language": "en",
+  "word_count": 1150,
+  "reading_time_min": 6,
+  "outline": [
+    {
+      "level": 3,
+      "text": "Uh oh!"
+    },
+    {
+      "level": 2,
+      "text": "Folders and files"
+    },
+    {
+      "level": 2,
+      "text": "Latest commit"
+    },
+    {
+      "level": 2,
+      "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Repository files navigation"
+    },
+    {
+      "level": 1,
+      "text": "TravelPlannerA Benchmark for Real-World Planningwith Language Agents"
+    },
+    {
+      "level": 2,
+      "text": "Updates"
+    },
+    {
+      "level": 1,
+      "text": "TravelPlanner"
+    },
+    {
+      "level": 2,
+      "text": "Setup Environment"
+    },
+    {
+      "level": 2,
+      "text": "Running"
+    },
+    {
+      "level": 3,
+      "text": "Two-stage Mode"
+    },
+    {
+      "level": 3,
+      "text": "Sole-Planning Mode"
+    },
+    {
+      "level": 2,
+      "text": "Postprocess"
+    },
+    {
+      "level": 2,
+      "text": "Evaluation"
+    },
+    {
+      "level": 2,
+      "text": "\u26a0\ufe0fWarnings"
+    },
+    {
+      "level": 2,
+      "text": "Load Datasets"
+    },
+    {
+      "level": 2,
+      "text": "Model Release"
+    },
+    {
+      "level": 2,
+      "text": "Contact"
+    },
+    {
+      "level": 2,
+      "text": "Citation Information"
+    },
+    {
+      "level": 2,
+      "text": "About"
+    },
+    {
+      "level": 3,
+      "text": "Topics"
+    },
+    {
+      "level": 3,
+      "text": "Resources"
+    },
+    {
+      "level": 3,
+      "text": "Stars"
+    },
+    {
+      "level": 3,
+      "text": "Watchers"
+    },
+    {
+      "level": 3,
+      "text": "Forks"
+    },
+    {
+      "level": 2,
+      "text": "Releases"
+    },
+    {
+      "level": 2,
+      "text": "Packages"
+    },
+    {
+      "level": 2,
+      "text": "Used by"
+    },
+    {
+      "level": 2,
+      "text": "Contributors"
+    },
+    {
+      "level": 2,
+      "text": "Languages"
+    }
+  ]
+}

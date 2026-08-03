@@ -1,0 +1,52 @@
+{
+  "slug": "beyond-permission-prompts-making-claude-code-more-secure-and-autonomous",
+  "url": "https://www.anthropic.com/engineering/claude-code-sandboxing",
+  "crawled_at": "2026-08-03T04:32:46.201904+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://www.anthropic.com/engineering/claude-code-sandboxing",
+  "content_type": "article",
+  "last_modified": "",
+  "fetched_title": "Making Claude Code more secure and autonomous with sandboxing \\ Anthropic",
+  "meta_description": "Learn how Claude Code's new sandboxing feature protects developers with filesystem and network isolation, reducing permission prompts and increasing user safety.",
+  "og_title": "Making Claude Code more secure and autonomous with sandboxing",
+  "og_description": "Learn how Claude Code's new sandboxing feature protects developers with filesystem and network isolation, reducing permission prompts and increasing user safety.",
+  "og_image": "https://cdn.sanity.io/images/4zrzovbb/website/5140cdbe58c21cc117e5f90bfe17245893cbce8d-2400x1260.png",
+  "og_type": "website",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://cdn.sanity.io/images/4zrzovbb/website/5140cdbe58c21cc117e5f90bfe17245893cbce8d-2400x1260.png",
+  "language": "en",
+  "canonical_url": "https://www.anthropic.com/engineering/claude-code-sandboxing",
+  "word_count": 1213,
+  "reading_time_min": 6,
+  "outline": [
+    {
+      "level": 1,
+      "text": "Beyond permission prompts: making Claude Code more secure and autonomous"
+    },
+    {
+      "level": 3,
+      "text": "Keeping users secure on Claude Code"
+    },
+    {
+      "level": 2,
+      "text": "Sandboxing: a safer and more autonomous approach"
+    },
+    {
+      "level": 3,
+      "text": "Two new sandboxing features in Claude Code"
+    },
+    {
+      "level": 2,
+      "text": "Getting started"
+    },
+    {
+      "level": 2,
+      "text": "Acknowledgements"
+    },
+    {
+      "level": 2,
+      "text": "Get the developer newsletter"
+    }
+  ]
+}

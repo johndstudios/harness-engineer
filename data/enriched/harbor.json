@@ -1,0 +1,114 @@
+{
+  "slug": "harbor",
+  "url": "https://github.com/harbor-framework/harbor",
+  "crawled_at": "2026-08-03T04:34:13.553462+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://github.com/harbor-framework/harbor",
+  "content_type": "github",
+  "last_modified": "",
+  "github_stars": 3772,
+  "github_forks": 1462,
+  "github_open_issues": 623,
+  "github_topics": [
+    "evals",
+    "rl-environments",
+    "terminal-bench"
+  ],
+  "github_language": "Python",
+  "github_description": "Framework for evaluating and improving agents ",
+  "github_created": "2025-08-04",
+  "github_updated": "2026-08-03",
+  "github_pushed": "2026-08-01",
+  "github_license": "Apache-2.0",
+  "github_homepage": "https://harborframework.com/",
+  "fetched_title": "GitHub - harbor-framework/harbor: Framework for evaluating and improving agents \u00b7 GitHub",
+  "meta_description": "Framework for evaluating and improving agents . Contribute to harbor-framework/harbor development by creating an account on GitHub.",
+  "og_title": "GitHub - harbor-framework/harbor: Framework for evaluating and improving agents",
+  "og_description": "Framework for evaluating and improving agents . Contribute to harbor-framework/harbor development by creating an account on GitHub.",
+  "og_image": "https://opengraph.githubassets.com/a74ed8e11fc9e9c7d3e0d604429298cdf9f3989c2d5a9f5144af0bd284cb93d1/harbor-framework/harbor",
+  "og_type": "object",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://opengraph.githubassets.com/a74ed8e11fc9e9c7d3e0d604429298cdf9f3989c2d5a9f5144af0bd284cb93d1/harbor-framework/harbor",
+  "language": "en",
+  "word_count": 554,
+  "reading_time_min": 3,
+  "outline": [
+    {
+      "level": 3,
+      "text": "Uh oh!"
+    },
+    {
+      "level": 2,
+      "text": "Folders and files"
+    },
+    {
+      "level": 2,
+      "text": "Latest commit"
+    },
+    {
+      "level": 2,
+      "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Repository files navigation"
+    },
+    {
+      "level": 1,
+      "text": "Harbor"
+    },
+    {
+      "level": 2,
+      "text": "Installation"
+    },
+    {
+      "level": 2,
+      "text": "Example: Running Terminal-Bench-2.0"
+    },
+    {
+      "level": 2,
+      "text": "Citation"
+    },
+    {
+      "level": 2,
+      "text": "About"
+    },
+    {
+      "level": 3,
+      "text": "Topics"
+    },
+    {
+      "level": 3,
+      "text": "Resources"
+    },
+    {
+      "level": 3,
+      "text": "Stars"
+    },
+    {
+      "level": 3,
+      "text": "Watchers"
+    },
+    {
+      "level": 3,
+      "text": "Forks"
+    },
+    {
+      "level": 2,
+      "text": "Releases"
+    },
+    {
+      "level": 2,
+      "text": "Packages"
+    },
+    {
+      "level": 2,
+      "text": "Contributors"
+    },
+    {
+      "level": 2,
+      "text": "Languages"
+    }
+  ]
+}

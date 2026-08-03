@@ -1,0 +1,145 @@
+{
+  "slug": "theagentcompany",
+  "url": "https://github.com/TheAgentCompany/TheAgentCompany",
+  "crawled_at": "2026-08-03T04:35:23.316126+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://github.com/TheAgentCompany/TheAgentCompany",
+  "content_type": "github",
+  "last_modified": "",
+  "github_stars": 755,
+  "github_forks": 122,
+  "github_open_issues": 25,
+  "github_topics": [
+    "agent",
+    "ai",
+    "ai-benchmark",
+    "ai-research",
+    "benchmark",
+    "llm"
+  ],
+  "github_language": "Python",
+  "github_description": "An agent benchmark with tasks in a simulated software company.",
+  "github_created": "2024-03-11",
+  "github_updated": "2026-08-02",
+  "github_pushed": "2025-11-17",
+  "github_license": "MIT",
+  "github_homepage": "https://the-agent-company.com",
+  "fetched_title": "GitHub - TheAgentCompany/TheAgentCompany: An agent benchmark with tasks in a simulated software company. \u00b7 GitHub",
+  "meta_description": "An agent benchmark with tasks in a simulated software company. - TheAgentCompany/TheAgentCompany",
+  "og_title": "GitHub - TheAgentCompany/TheAgentCompany: An agent benchmark with tasks in a simulated software company.",
+  "og_description": "An agent benchmark with tasks in a simulated software company. - TheAgentCompany/TheAgentCompany",
+  "og_image": "https://opengraph.githubassets.com/b47649b58bf8812ae69476afa67f69cd2f7820cd111ac250b595e998a445bbcb/TheAgentCompany/TheAgentCompany",
+  "og_type": "object",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://opengraph.githubassets.com/b47649b58bf8812ae69476afa67f69cd2f7820cd111ac250b595e998a445bbcb/TheAgentCompany/TheAgentCompany",
+  "language": "en",
+  "word_count": 1161,
+  "reading_time_min": 6,
+  "outline": [
+    {
+      "level": 3,
+      "text": "Uh oh!"
+    },
+    {
+      "level": 2,
+      "text": "Folders and files"
+    },
+    {
+      "level": 2,
+      "text": "Latest commit"
+    },
+    {
+      "level": 2,
+      "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Repository files navigation"
+    },
+    {
+      "level": 1,
+      "text": "The Agent Company: Benchmarking LLM Agents on Consequential Real World Tasks"
+    },
+    {
+      "level": 2,
+      "text": "Overview"
+    },
+    {
+      "level": 2,
+      "text": "Quick Start"
+    },
+    {
+      "level": 3,
+      "text": "Step 1: Setup the Servers"
+    },
+    {
+      "level": 3,
+      "text": "Step 2: Run the Benchmark"
+    },
+    {
+      "level": 2,
+      "text": "Exciting Features"
+    },
+    {
+      "level": 2,
+      "text": "Cite"
+    },
+    {
+      "level": 2,
+      "text": "Contribution"
+    },
+    {
+      "level": 2,
+      "text": "License"
+    },
+    {
+      "level": 2,
+      "text": "About"
+    },
+    {
+      "level": 3,
+      "text": "Topics"
+    },
+    {
+      "level": 3,
+      "text": "Resources"
+    },
+    {
+      "level": 3,
+      "text": "Code of conduct"
+    },
+    {
+      "level": 3,
+      "text": "Stars"
+    },
+    {
+      "level": 3,
+      "text": "Watchers"
+    },
+    {
+      "level": 3,
+      "text": "Forks"
+    },
+    {
+      "level": 2,
+      "text": "Releases"
+    },
+    {
+      "level": 2,
+      "text": "Packages"
+    },
+    {
+      "level": 2,
+      "text": "Used by"
+    },
+    {
+      "level": 2,
+      "text": "Contributors"
+    },
+    {
+      "level": 2,
+      "text": "Languages"
+    }
+  ]
+}

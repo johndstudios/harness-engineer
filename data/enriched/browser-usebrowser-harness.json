@@ -1,0 +1,141 @@
+{
+  "slug": "browser-usebrowser-harness",
+  "url": "https://github.com/browser-use/browser-harness",
+  "crawled_at": "2026-08-03T04:32:50.352565+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://github.com/browser-use/browser-harness",
+  "content_type": "github",
+  "last_modified": "",
+  "github_stars": 16430,
+  "github_forks": 1554,
+  "github_open_issues": 226,
+  "github_topics": [
+    "ai-agent",
+    "browser-agent",
+    "browser-automation",
+    "browser-use",
+    "browser-use-box",
+    "browser-use-cloud",
+    "cdp",
+    "cloud-browser",
+    "llm",
+    "persistent-browser",
+    "playwright",
+    "telegram-agent",
+    "vps-agent",
+    "web-automation"
+  ],
+  "github_language": "Python",
+  "github_description": "Browser Harness | Self-healing harness that enables LLMs to complete any task.",
+  "github_created": "2026-04-17",
+  "github_updated": "2026-08-03",
+  "github_pushed": "2026-08-02",
+  "github_license": "MIT",
+  "github_homepage": "https://browser-harness.com",
+  "fetched_title": "GitHub - browser-use/browser-harness: Browser Harness | Self-healing harness that enables LLMs to complete any task. \u00b7 GitHub",
+  "meta_description": "Browser Harness | Self-healing harness that enables LLMs to complete any task. - browser-use/browser-harness",
+  "og_title": "GitHub - browser-use/browser-harness: Browser Harness | Self-healing harness that enables LLMs to complete any task.",
+  "og_description": "Browser Harness | Self-healing harness that enables LLMs to complete any task. - browser-use/browser-harness",
+  "og_image": "https://opengraph.githubassets.com/2b19027cb4586c4e1b5716c344b2b60b25fcaa7666e884ff8dd07e5aba9509f3/browser-use/browser-harness",
+  "og_type": "object",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://opengraph.githubassets.com/2b19027cb4586c4e1b5716c344b2b60b25fcaa7666e884ff8dd07e5aba9509f3/browser-use/browser-harness",
+  "language": "en",
+  "word_count": 762,
+  "reading_time_min": 4,
+  "outline": [
+    {
+      "level": 3,
+      "text": "Uh oh!"
+    },
+    {
+      "level": 2,
+      "text": "Folders and files"
+    },
+    {
+      "level": 2,
+      "text": "Latest commit"
+    },
+    {
+      "level": 2,
+      "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Repository files navigation"
+    },
+    {
+      "level": 1,
+      "text": "Browser Harness \u265e"
+    },
+    {
+      "level": 2,
+      "text": "Setup prompt"
+    },
+    {
+      "level": 2,
+      "text": "Free Browser Use Cloud browsers"
+    },
+    {
+      "level": 2,
+      "text": "Architecture (~1k lines across 4 core files)"
+    },
+    {
+      "level": 2,
+      "text": "Development"
+    },
+    {
+      "level": 2,
+      "text": "Contributing"
+    },
+    {
+      "level": 2,
+      "text": "Domain skills"
+    },
+    {
+      "level": 2,
+      "text": "About"
+    },
+    {
+      "level": 3,
+      "text": "Topics"
+    },
+    {
+      "level": 3,
+      "text": "Resources"
+    },
+    {
+      "level": 3,
+      "text": "Stars"
+    },
+    {
+      "level": 3,
+      "text": "Watchers"
+    },
+    {
+      "level": 3,
+      "text": "Forks"
+    },
+    {
+      "level": 2,
+      "text": "Releases"
+    },
+    {
+      "level": 2,
+      "text": "Packages"
+    },
+    {
+      "level": 2,
+      "text": "Used by"
+    },
+    {
+      "level": 2,
+      "text": "Contributors"
+    },
+    {
+      "level": 2,
+      "text": "Languages"
+    }
+  ]
+}

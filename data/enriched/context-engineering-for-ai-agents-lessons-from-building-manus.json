@@ -1,0 +1,92 @@
+{
+  "slug": "context-engineering-for-ai-agents-lessons-from-building-manus",
+  "url": "https://manus.im/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus",
+  "crawled_at": "2026-08-03T04:33:41.133629+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://manus.im/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus",
+  "content_type": "article",
+  "last_modified": "",
+  "fetched_title": "Context Engineering for AI Agents: Lessons from Building Manus",
+  "meta_description": "This post shares the local optima Manus arrived at through our own \"SGD\". If you're building your own AI agent, we hope these principles help you converge faster.",
+  "og_title": "Context Engineering for AI Agents: Lessons from Building Manus",
+  "og_description": "This post shares the local optima Manus arrived at through our own \"SGD\". If you're building your own AI agent, we hope these principles help you converge faster.",
+  "og_image": "https://files.manuscdn.com/assets/dashboard/materials/2025/07/18/eaafe9e6a174b29458c314ccc225dbdd39a7c9d66e60786235165d9aba23f578.webp",
+  "og_type": "website",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://files.manuscdn.com/assets/dashboard/materials/2025/07/18/eaafe9e6a174b29458c314ccc225dbdd39a7c9d66e60786235165d9aba23f578.webp",
+  "language": "en",
+  "canonical_url": "https://manus.im/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus",
+  "word_count": 2325,
+  "reading_time_min": 12,
+  "outline": [
+    {
+      "level": 1,
+      "text": "Context Engineering for AI Agents: Lessons from Building Manus"
+    },
+    {
+      "level": 3,
+      "text": "Design Around the KV-Cache"
+    },
+    {
+      "level": 3,
+      "text": "Mask, Don't Remove"
+    },
+    {
+      "level": 3,
+      "text": "Use the File System as Context"
+    },
+    {
+      "level": 3,
+      "text": "Manipulate Attention Through Recitation"
+    },
+    {
+      "level": 3,
+      "text": "Keep the Wrong Stuff In"
+    },
+    {
+      "level": 3,
+      "text": "Don't Get Few-Shotted"
+    },
+    {
+      "level": 3,
+      "text": "Conclusion"
+    },
+    {
+      "level": 3,
+      "text": "Download desktop & mobile app"
+    },
+    {
+      "level": 2,
+      "text": "Less structure,more intelligence."
+    },
+    {
+      "level": 3,
+      "text": "Product"
+    },
+    {
+      "level": 3,
+      "text": "Resources"
+    },
+    {
+      "level": 3,
+      "text": "Community"
+    },
+    {
+      "level": 3,
+      "text": "Compare"
+    },
+    {
+      "level": 3,
+      "text": "Download"
+    },
+    {
+      "level": 3,
+      "text": "Team"
+    },
+    {
+      "level": 3,
+      "text": "Company"
+    }
+  ]
+}

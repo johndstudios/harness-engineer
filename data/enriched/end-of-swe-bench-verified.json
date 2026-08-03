@@ -1,0 +1,94 @@
+{
+  "slug": "end-of-swe-bench-verified",
+  "url": "https://www.latent.space/p/swe-bench-dead",
+  "crawled_at": "2026-08-03T04:33:51.909026+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://www.latent.space/p/swe-bench-dead",
+  "content_type": "podcast",
+  "last_modified": "",
+  "fetched_title": "\u26a1\ufe0fThe End of SWE-Bench Verified \u2014 Mia Glaese & Olivia Watkins, OpenAI Frontier Evals & Human Data",
+  "meta_description": "It's time to take the next step up in frontier agent evals.",
+  "og_title": "\u26a1\ufe0fThe End of SWE-Bench Verified \u2014 Mia Glaese & Olivia Watkins, OpenAI Frontier Evals & Human Data",
+  "og_description": "It's time to take the next step up in frontier agent evals.",
+  "og_image": "https://substackcdn.com/image/fetch/$s_!Hb8l!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-video.s3.amazonaws.com%2Fvideo_upload%2Fpost%2F188928663%2Ff23b690e-d7c1-4344-b183-9d524d42bb8d%2Ftranscoded-1771872939.png",
+  "og_type": "article",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://substackcdn.com/image/fetch/$s_!9V47!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fswyx.substack.com%2Fapi%2Fv1%2Fpost_preview%2F188928663%2Ftwitter.jpg%3Fversion%3D4",
+  "author": "Latent.Space",
+  "publish_date": "2026-02-23",
+  "language": "en",
+  "canonical_url": "https://www.latent.space/p/swe-bench-dead",
+  "word_count": 6850,
+  "reading_time_min": 34,
+  "outline": [
+    {
+      "level": 2,
+      "text": "\u26a1\ufe0fThe End of SWE-Bench Verified \u2014 Mia Glaese & Olivia Watkins, OpenAI Frontier Evals & Human Data"
+    },
+    {
+      "level": 2,
+      "text": "Contamination"
+    },
+    {
+      "level": 2,
+      "text": "Impossible Tests"
+    },
+    {
+      "level": 2,
+      "text": "What\u2019s Next"
+    },
+    {
+      "level": 2,
+      "text": "Timestamps"
+    },
+    {
+      "level": 1,
+      "text": "Transcript"
+    },
+    {
+      "level": 2,
+      "text": "[00:00:00] Meet the Frontier Evals Team"
+    },
+    {
+      "level": 2,
+      "text": "[00:00:56] Why SWE Bench Stalled"
+    },
+    {
+      "level": 2,
+      "text": "[00:01:47] How Verified Was Built"
+    },
+    {
+      "level": 2,
+      "text": "[00:04:32] Contamination In The Wild"
+    },
+    {
+      "level": 2,
+      "text": "[00:06:16] Unfair Tests And Narrow Specs"
+    },
+    {
+      "level": 2,
+      "text": "[00:08:40] When Benchmarks Saturate"
+    },
+    {
+      "level": 2,
+      "text": "[00:10:28] Switching To SWE Bench Pro"
+    },
+    {
+      "level": 2,
+      "text": "[00:12:31] What Great Coding Evals Measure"
+    },
+    {
+      "level": 2,
+      "text": "[00:18:17] Beyond Tests Dollars And Autonomy"
+    },
+    {
+      "level": 2,
+      "text": "[00:21:49] Preparedness And Future Directions"
+    },
+    {
+      "level": 3,
+      "text": "Ready for more?"
+    }
+  ]
+}

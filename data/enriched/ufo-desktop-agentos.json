@@ -1,0 +1,161 @@
+{
+  "slug": "ufo-desktop-agentos",
+  "url": "https://github.com/microsoft/UFO",
+  "crawled_at": "2026-08-03T04:35:30.146616+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://github.com/microsoft/UFO",
+  "content_type": "github",
+  "last_modified": "",
+  "github_stars": 9383,
+  "github_forks": 1044,
+  "github_open_issues": 77,
+  "github_topics": [
+    "agent",
+    "automation",
+    "copilot",
+    "gui",
+    "llm",
+    "windows"
+  ],
+  "github_language": "Python",
+  "github_description": "UFO\u00b3: Weaving the Digital Agent Galaxy",
+  "github_created": "2024-01-08",
+  "github_updated": "2026-08-03",
+  "github_pushed": "2026-07-08",
+  "github_license": "MIT",
+  "github_homepage": "https://microsoft.github.io/UFO/",
+  "fetched_title": "GitHub - microsoft/UFO: UFO\u00b3: Weaving the Digital Agent Galaxy \u00b7 GitHub",
+  "meta_description": "UFO\u00b3: Weaving the Digital Agent Galaxy. Contribute to microsoft/UFO development by creating an account on GitHub.",
+  "og_title": "GitHub - microsoft/UFO: UFO\u00b3: Weaving the Digital Agent Galaxy",
+  "og_description": "UFO\u00b3: Weaving the Digital Agent Galaxy. Contribute to microsoft/UFO development by creating an account on GitHub.",
+  "og_image": "https://opengraph.githubassets.com/4c5aacf7d27ed1ff99afb60f8984216ee496e85c552503d0b6a8478b5325dba8/microsoft/UFO",
+  "og_type": "object",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://opengraph.githubassets.com/4c5aacf7d27ed1ff99afb60f8984216ee496e85c552503d0b6a8478b5325dba8/microsoft/UFO",
+  "language": "en",
+  "word_count": 2447,
+  "reading_time_min": 12,
+  "outline": [
+    {
+      "level": 3,
+      "text": "Uh oh!"
+    },
+    {
+      "level": 2,
+      "text": "Folders and files"
+    },
+    {
+      "level": 2,
+      "text": "Latest commit"
+    },
+    {
+      "level": 2,
+      "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Repository files navigation"
+    },
+    {
+      "level": 1,
+      "text": "UFO\u00b3: Weaving the Digital Agent Galaxy"
+    },
+    {
+      "level": 2,
+      "text": "\ud83c\udfaf Choose Your Path"
+    },
+    {
+      "level": 3,
+      "text": "UFO\u00b3 Multi-Device Agent Galaxy"
+    },
+    {
+      "level": 3,
+      "text": "UFO\u00b2 Desktop AgentOS"
+    },
+    {
+      "level": 2,
+      "text": "\ud83c\udfac See UFO\u00b3 Galaxy in Action"
+    },
+    {
+      "level": 2,
+      "text": "\ud83c\udf1f What's New in UFO\u00b3?"
+    },
+    {
+      "level": 3,
+      "text": "Evolution Timeline"
+    },
+    {
+      "level": 3,
+      "text": "\ud83d\ude80 UFO\u00b3 =Galaxy(Multi-Device Orchestration) +UFO\u00b2(Device Agent)"
+    },
+    {
+      "level": 3,
+      "text": "\ud83c\udf93 Migration Path"
+    },
+    {
+      "level": 2,
+      "text": "\u2728 Capabilities at a Glance"
+    },
+    {
+      "level": 3,
+      "text": "\ud83c\udf0c Galaxy Framework \u2013 What's Different?"
+    },
+    {
+      "level": 3,
+      "text": "\ud83e\ude9f UFO\u00b2 Desktop AgentOS \u2013 Core Strengths"
+    },
+    {
+      "level": 2,
+      "text": "\ud83d\ude80 Quick Start Guide"
+    },
+    {
+      "level": 3,
+      "text": "\ud83c\udf0c Galaxy Quick Start"
+    },
+    {
+      "level": 3,
+      "text": "\ud83e\ude9f UFO\u00b2 Quick Start"
+    },
+    {
+      "level": 3,
+      "text": "\ud83d\udccb Common Configuration"
+    },
+    {
+      "level": 2,
+      "text": "\ud83d\udcda Documentation Structure"
+    },
+    {
+      "level": 3,
+      "text": "\ud83c\udf0c Galaxy Documentation"
+    },
+    {
+      "level": 3,
+      "text": "\ud83e\ude9f UFO\u00b2 Documentation"
+    },
+    {
+      "level": 2,
+      "text": "\ud83d\udce2 Latest Updates"
+    },
+    {
+      "level": 3,
+      "text": "2025-11 \u2013 UFO\u00b3 Galaxy Framework Released \ud83c\udf0c"
+    },
+    {
+      "level": 3,
+      "text": "2025-04 \u2013 UFO\u00b2 v2.0.0"
+    },
+    {
+      "level": 3,
+      "text": "2024-02 \u2013 Original UFO"
+    },
+    {
+      "level": 2,
+      "text": "\ud83d\udcda Citation"
+    },
+    {
+      "level": 3,
+      "text": "UFO\u00b3 Galaxy Framework (2025)"
+    }
+  ]
+}

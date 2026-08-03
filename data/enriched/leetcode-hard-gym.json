@@ -1,0 +1,138 @@
+{
+  "slug": "leetcode-hard-gym",
+  "url": "https://github.com/GammaTauAI/leetcode-hard-gym",
+  "crawled_at": "2026-08-03T04:34:33.470609+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://github.com/GammaTauAI/leetcode-hard-gym",
+  "content_type": "github",
+  "last_modified": "",
+  "github_stars": 170,
+  "github_forks": 25,
+  "github_open_issues": 4,
+  "github_topics": [],
+  "github_language": "Python",
+  "github_description": "A hard gym for programming",
+  "github_created": "2023-03-28",
+  "github_updated": "2026-07-21",
+  "github_pushed": "2024-07-07",
+  "github_license": "",
+  "github_homepage": "",
+  "fetched_title": "GitHub - GammaTauAI/leetcode-hard-gym: A hard gym for programming \u00b7 GitHub",
+  "meta_description": "A hard gym for programming. Contribute to GammaTauAI/leetcode-hard-gym development by creating an account on GitHub.",
+  "og_title": "GitHub - GammaTauAI/leetcode-hard-gym: A hard gym for programming",
+  "og_description": "A hard gym for programming. Contribute to GammaTauAI/leetcode-hard-gym development by creating an account on GitHub.",
+  "og_image": "https://opengraph.githubassets.com/dfb3704a14bfaba30826ad5affe658f4be573ad308a795da0641561302dfc1f2/GammaTauAI/leetcode-hard-gym",
+  "og_type": "object",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://opengraph.githubassets.com/dfb3704a14bfaba30826ad5affe658f4be573ad308a795da0641561302dfc1f2/GammaTauAI/leetcode-hard-gym",
+  "language": "en",
+  "word_count": 894,
+  "reading_time_min": 4,
+  "outline": [
+    {
+      "level": 3,
+      "text": "Uh oh!"
+    },
+    {
+      "level": 2,
+      "text": "Folders and files"
+    },
+    {
+      "level": 2,
+      "text": "Latest commit"
+    },
+    {
+      "level": 2,
+      "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Repository files navigation"
+    },
+    {
+      "level": 1,
+      "text": "Leetcode-Hard Gym"
+    },
+    {
+      "level": 3,
+      "text": "Leaderboard for Leetcode Hard (Python): Pass@1"
+    },
+    {
+      "level": 3,
+      "text": "Setup:"
+    },
+    {
+      "level": 3,
+      "text": "Example usage:"
+    },
+    {
+      "level": 2,
+      "text": "LeetcodeHardGym Dataset"
+    },
+    {
+      "level": 3,
+      "text": "Usage"
+    },
+    {
+      "level": 3,
+      "text": "Arguments"
+    },
+    {
+      "level": 3,
+      "text": "Environment Variables"
+    },
+    {
+      "level": 3,
+      "text": "Dependencies"
+    },
+    {
+      "level": 3,
+      "text": "Output"
+    },
+    {
+      "level": 3,
+      "text": "Cite"
+    },
+    {
+      "level": 2,
+      "text": "About"
+    },
+    {
+      "level": 3,
+      "text": "Resources"
+    },
+    {
+      "level": 3,
+      "text": "Stars"
+    },
+    {
+      "level": 3,
+      "text": "Watchers"
+    },
+    {
+      "level": 3,
+      "text": "Forks"
+    },
+    {
+      "level": 2,
+      "text": "Releases"
+    },
+    {
+      "level": 2,
+      "text": "Packages"
+    },
+    {
+      "level": 2,
+      "text": "Used by"
+    },
+    {
+      "level": 2,
+      "text": "Contributors"
+    },
+    {
+      "level": 2,
+      "text": "Languages"
+    }
+  ]
+}

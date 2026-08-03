@@ -1,0 +1,37 @@
+{
+  "slug": "smevalsa-small-eval-suite-for-evaluating-models-prompts-and-harnesses",
+  "url": "https://simonwillison.net/2026/Jul/31/smevals/",
+  "crawled_at": "2026-08-03T04:35:09.506120+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://simonwillison.net/2026/Jul/31/smevals/",
+  "content_type": "article",
+  "last_modified": "",
+  "fetched_title": "smevals - a small eval suite for evaluating models, prompts, and harnesses",
+  "meta_description": "",
+  "og_title": "smevals\u2014a small eval suite for evaluating models, prompts, and harnesses",
+  "og_description": "I've been working with Jesse Vincent's Prime Radiant applied AI research lab building out this evals framework to help answer questions about the capabilities of different models. The result is \u2026",
+  "og_image": "https://static.simonwillison.net/static/2026/smevals-report.webp",
+  "og_type": "article",
+  "twitter_card": "summary",
+  "twitter_image": "https://static.simonwillison.net/static/2026/smevals-report.webp",
+  "author": "Simon Willison",
+  "language": "en-gb",
+  "canonical_url": "https://simonwillison.net/2026/Jul/31/smevals/",
+  "word_count": 679,
+  "reading_time_min": 3,
+  "outline": [
+    {
+      "level": 1,
+      "text": "Simon Willison\u2019s Weblog"
+    },
+    {
+      "level": 2,
+      "text": "Recent articles"
+    },
+    {
+      "level": 3,
+      "text": "Monthly briefing"
+    }
+  ]
+}

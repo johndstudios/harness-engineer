@@ -1,0 +1,138 @@
+{
+  "slug": "androidworld",
+  "url": "https://github.com/google-research/android_world",
+  "crawled_at": "2026-08-03T04:32:35.954791+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://github.com/google-research/android_world",
+  "content_type": "github",
+  "last_modified": "",
+  "github_stars": 837,
+  "github_forks": 173,
+  "github_open_issues": 46,
+  "github_topics": [],
+  "github_language": "Python",
+  "github_description": "AndroidWorld is an environment and benchmark for autonomous agents",
+  "github_created": "2024-05-13",
+  "github_updated": "2026-08-02",
+  "github_pushed": "2026-07-16",
+  "github_license": "Apache-2.0",
+  "github_homepage": "",
+  "fetched_title": "GitHub - google-research/android_world: AndroidWorld is an environment and benchmark for autonomous agents \u00b7 GitHub",
+  "meta_description": "AndroidWorld is an environment and benchmark for autonomous agents - google-research/android_world",
+  "og_title": "GitHub - google-research/android_world: AndroidWorld is an environment and benchmark for autonomous agents",
+  "og_description": "AndroidWorld is an environment and benchmark for autonomous agents - google-research/android_world",
+  "og_image": "https://opengraph.githubassets.com/6e301dc6c3ba4f3267a51639d8e078fd45892de798d59a471ec5d2cf79d02267/google-research/android_world",
+  "og_type": "object",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://opengraph.githubassets.com/6e301dc6c3ba4f3267a51639d8e078fd45892de798d59a471ec5d2cf79d02267/google-research/android_world",
+  "language": "en",
+  "word_count": 1392,
+  "reading_time_min": 7,
+  "outline": [
+    {
+      "level": 3,
+      "text": "Uh oh!"
+    },
+    {
+      "level": 2,
+      "text": "Folders and files"
+    },
+    {
+      "level": 2,
+      "text": "Latest commit"
+    },
+    {
+      "level": 2,
+      "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Repository files navigation"
+    },
+    {
+      "level": 1,
+      "text": "AndroidWorld"
+    },
+    {
+      "level": 2,
+      "text": "Installation"
+    },
+    {
+      "level": 2,
+      "text": "Quickstart"
+    },
+    {
+      "level": 2,
+      "text": "Docker Support (Experimental)"
+    },
+    {
+      "level": 3,
+      "text": "Note for Apple Silicon users"
+    },
+    {
+      "level": 2,
+      "text": "Run the benchmark"
+    },
+    {
+      "level": 2,
+      "text": "Running MiniWoB++ tasks"
+    },
+    {
+      "level": 2,
+      "text": "Create your own agent"
+    },
+    {
+      "level": 2,
+      "text": "Adding new tasks"
+    },
+    {
+      "level": 2,
+      "text": "Citation"
+    },
+    {
+      "level": 2,
+      "text": "About"
+    },
+    {
+      "level": 3,
+      "text": "Resources"
+    },
+    {
+      "level": 3,
+      "text": "Contributing"
+    },
+    {
+      "level": 3,
+      "text": "Stars"
+    },
+    {
+      "level": 3,
+      "text": "Watchers"
+    },
+    {
+      "level": 3,
+      "text": "Forks"
+    },
+    {
+      "level": 2,
+      "text": "Releases"
+    },
+    {
+      "level": 2,
+      "text": "Packages"
+    },
+    {
+      "level": 2,
+      "text": "Used by"
+    },
+    {
+      "level": 2,
+      "text": "Contributors"
+    },
+    {
+      "level": 2,
+      "text": "Languages"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "equipping-agents-for-the-real-world-with-agent-skills",
+  "url": "https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills",
+  "crawled_at": "2026-08-03T04:33:52.927591+00:00",
+  "status": "ok",
+  "http_status": 200,
+  "final_url": "https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills",
+  "content_type": "article",
+  "last_modified": "",
+  "fetched_title": "Equipping agents for the real world with Agent Skills \\ Anthropic",
+  "meta_description": "Discover how Anthropic builds AI agents with practical capabilities through modular skills, enabling them to handle complex real-world tasks more effectively and reliably.",
+  "og_title": "Equipping agents for the real world with Agent Skills",
+  "og_description": "Discover how Anthropic builds AI agents with practical capabilities through modular skills, enabling them to handle complex real-world tasks more effectively and reliably.",
+  "og_image": "https://cdn.sanity.io/images/4zrzovbb/website/f10f90c11a484ad8bdf11ffcd9f6e08cfd9358b8-2400x1260.png",
+  "og_type": "website",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://cdn.sanity.io/images/4zrzovbb/website/f10f90c11a484ad8bdf11ffcd9f6e08cfd9358b8-2400x1260.png",
+  "language": "en",
+  "canonical_url": "https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills",
+  "word_count": 1536,
+  "reading_time_min": 8,
+  "outline": [
+    {
+      "level": 1,
+      "text": "Equipping agents for the real world with Agent Skills"
+    },
+    {
+      "level": 2,
+      "text": "The anatomy of a skill"
+    },
+    {
+      "level": 3,
+      "text": "Skills and the context window"
+    },
+    {
+      "level": 3,
+      "text": "Skills and code execution"
+    },
+    {
+      "level": 2,
+      "text": "Developing and evaluating skills"
+    },
+    {
+      "level": 3,
+      "text": "Security considerations when using Skills"
+    },
+    {
+      "level": 2,
+      "text": "The future of Skills"
+    },
+    {
+      "level": 2,
+      "text": "Acknowledgements"
+    },
+    {
+      "level": 2,
+      "text": "Get the developer newsletter"
+    }
+  ]
+}

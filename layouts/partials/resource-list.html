@@ -5,12 +5,22 @@
   {{ range $resources }}
     {{ $cat := index .Params.category 0 | default .Params.category }}
     {{ $src := index .Params.source 0 | default .Params.source }}
+    {{ $slug := .File.ContentBaseName }}
+    {{ $enriched := index $.site.Data.enriched $slug }}
     <li class="resource-card" data-kind="{{ .Params.resource_kind }}" data-category="{{ $cat }}">
       <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
       <div class="meta">
         <span class="badge">{{ .Params.resource_kind }}</span>
         <span>{{ $cat }}</span>
         <span>{{ $src }}</span>
+        {{- with $enriched -}}
+          {{- if .github_stars -}}
+            <span class="stars">⭐ {{ .github_stars }}</span>
+          {{- end -}}
+          {{- with .reading_time_min -}}
+            <span>~{{ . }} min</span>
+          {{- end -}}
+        {{- end -}}
       </div>
       <p class="desc">{{ .Summary | plainify | truncate 180 }}</p>
       <a class="link-out" href="{{ .Params.link }}" target="_blank" rel="noopener noreferrer">{{ .Params.link }} →</a>
