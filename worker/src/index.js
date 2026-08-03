@@ -1,6 +1,6 @@
 import { validateSubmission, todayUTC } from "./validate.js";
 import { fetchMetadata } from "./fetcher.js";
-import { classify, inferSource, classifyKind, classifyCategory, classifyTags, detectSpam, detectCommercial } from "./classify.js";
+import { classify, inferSource, classifyKind, classifyCategory, classifyTags, detectSpam, detectCommercial, isGitHubRepo } from "./classify.js";
 import { appJwt, installationToken } from "./github-auth.js";
 import {
   getDefaultBranchSha,
@@ -10,6 +10,7 @@ import {
   fileExists,
 } from "./github-api.js";
 import { buildResourceFile } from "./resource-file.js";
+import { fetchGithubRepo, buildEnrichmentJson } from "./github-enrich.js";
 
 // ---------------------------------------------------------------------------
 // CORS
@@ -133,6 +134,7 @@ export default {
 
       const slug = slugify(title);
       const filePath = `content/resources/${slug}.md`;
+      const enrichmentPath = `data/enriched/${slug}.json`;
 
       // Duplicate check
       const exists = await fileExists(apiBase, owner, repo, token, filePath, baseBranch);
@@ -167,6 +169,27 @@ export default {
         `Add ${title} (${category})`,
       );
 
+      // Fetch GitHub repo data for enrichment (if it's a GitHub URL)
+      let ghData = null;
+      if (isGitHubRepo(submission.link)) {
+        ghData = await fetchGithubRepo(submission.link, token);
+      }
+
+      // Write enrichment sidecar JSON
+      const enrichmentContent = buildEnrichmentJson(slug, submission.link, fetched, ghData);
+      try {
+        await putFile(
+          apiBase, owner, repo, token,
+          enrichmentPath,
+          enrichmentContent,
+          branchName,
+          `Add enrichment data for ${title}`,
+        );
+      } catch (e) {
+        // Enrichment is best-effort; don't fail the PR if the data/ dir doesn't exist yet.
+        console.error("enrichment write failed", e);
+      }
+
       const prBody = buildPrBody({
         title,
         link: submission.link,
@@ -179,6 +202,7 @@ export default {
         fetched,
         autoCategory,
         commercialFlag,
+        ghData,
       });
 
       const pr = await openPR(
@@ -223,6 +247,10 @@ function buildPrBody(data) {
     ? `\n\n**Fetched metadata:**\n- Title: ${data.fetched.title}\n- Description: ${data.fetched.description.slice(0, 150) || "(none)"}\n- Final URL: ${data.fetched.finalUrl}\n- Content-Type: ${data.fetched.contentType || "unknown"}`
     : "";
 
+  const ghLine = data.ghData
+    ? `\n\n**GitHub:** ⭐ ${data.ghData.stars} stars · 🍴 ${data.ghData.forks} forks · 🔧 ${data.ghData.language || "?"}${data.ghData.license ? " · ⚖ " + data.ghData.license : ""} · Updated: ${data.ghData.pushed || "?"}`
+    : "";
+
   const commercialLine = data.commercialFlag ? `\n\n${data.commercialFlag}` : "";
 
   return [
@@ -236,6 +264,7 @@ function buildPrBody(data) {
     data.description,
     tagsLine,
     fetchedLine,
+    ghLine,
     commercialLine,
     "",
     "### Checklist",

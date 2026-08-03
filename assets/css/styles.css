@@ -215,6 +215,13 @@ pre { padding: .9em 1em; border-radius: 6px; overflow-x: auto; }
 .tag-cloud .tag-count { color: var(--fg-muted); font-size: .82rem; min-width: 2em; }
 .tag-cloud .tag-desc { color: var(--fg); font-size: .9rem; }
 
+/* Link health table */
+.link-health-table { width: 100%; border-collapse: collapse; font-size: .9rem; margin-top: 1rem; }
+.link-health-table th, .link-health-table td { border: 1px solid var(--border); padding: .45em .7em; text-align: left; }
+.link-health-table th { background: var(--bg-soft); }
+.link-health-table tbody tr:nth-child(even) { background: var(--bg-soft); }
+.link-health-table td a { color: var(--accent); }
+
 /* Edit link on resource pages */
 .edit-link { margin-top: .4rem; }
 .edit-link a { font-size: .85rem; color: var(--fg-muted); text-decoration: none; }

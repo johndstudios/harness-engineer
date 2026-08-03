@@ -1,0 +1,50 @@
+{{- $all := where .Site.AllPages "Section" "resources" -}}
+{{- $all = where $all "Kind" "page" -}}
+{{- $resources := slice -}}
+{{- range $all -}}
+  {{- $slug := .File.ContentBaseName -}}
+  {{- $enriched := index $.Site.Data.enriched $slug -}}
+  {{- $cat := index .Params.category 0 | default .Params.category -}}
+  {{- $src := index .Params.source 0 | default .Params.source -}}
+  {{- $entry := dict
+    "slug" $slug
+    "title" .Title
+    "link" .Params.link
+    "page" .RelPermalink
+    "category" $cat
+    "resource_kind" (.Params.resource_kind | default "")
+    "source" $src
+    "added" (.Params.added | default "")
+    "tags" (.Params.tags | default slice)
+    "highlight" (.Params.highlight | default false)
+  -}}
+  {{- with $enriched -}}
+    {{- $entry = merge $entry (dict
+      "enriched" (dict
+        "fetched_title" (.fetched_title | default "")
+        "author" (.author | default "")
+        "publish_date" (.publish_date | default "")
+        "reading_time_min" (.reading_time_min | default 0)
+        "word_count" (.word_count | default 0)
+        "language" (.language | default "")
+        "content_type" (.content_type | default "")
+        "crawled_at" (.crawled_at | default "")
+        "http_status" (.http_status | default 0)
+        "github_stars" (.github_stars | default 0)
+        "github_forks" (.github_forks | default 0)
+        "github_language" (.github_language | default "")
+        "github_license" (.github_license | default "")
+        "github_pushed" (.github_pushed | default "")
+      )
+    ) -}}
+  {{- end -}}
+  {{- $resources = $resources | append $entry -}}
+{{- end -}}
+{{- $output := dict
+  "site" .Site.Title
+  "description" .Site.Params.description
+  "github_repo" .Site.Params.githubRepo
+  "total" (len $resources)
+  "resources" $resources
+-}}
+{{- $output | jsonify (dict "indent" "  ") -}}

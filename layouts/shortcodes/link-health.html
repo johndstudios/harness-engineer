@@ -1,0 +1,52 @@
+{{- $all := where .Site.AllPages "Section" "resources" -}}
+{{- $all = where $all "Kind" "page" -}}
+{{- $broken := slice -}}
+{{- $ok := 0 -}}
+{{- $total := 0 -}}
+{{- range $page := $all -}}
+  {{- $slug := $page.File.ContentBaseName -}}
+  {{- $enriched := index $.Site.Data.enriched $slug -}}
+  {{- with $enriched -}}
+    {{- $total = add $total 1 -}}
+    {{- if and (ne .status "ok") (ne .http_status 200) -}}
+      {{- $broken = $broken | append (dict
+        "title" $page.Title
+        "page" $page.RelPermalink
+        "url" .url
+        "status" .status
+        "http_status" .http_status
+        "error" (.error | default "")
+        "crawled_at" (.crawled_at | default "")
+      ) -}}
+    {{- else -}}
+      {{- $ok = add $ok 1 -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+<p class="resource-meta">{{ $ok }} OK · {{ len $broken }} broken · {{ $total }} total crawled</p>
+
+{{- if $broken -}}
+<table class="link-health-table">
+  <thead>
+    <tr>
+      <th>Resource</th>
+      <th>Status</th>
+      <th>URL</th>
+      <th>Snapshot</th>
+    </tr>
+  </thead>
+  <tbody>
+  {{ range $broken }}
+    <tr>
+      <td><a href="{{ .page }}">{{ .title }}</a></td>
+      <td>{{ if gt .http_status 0 }}{{ .http_status }}{{ else }}{{ .status }}{{ end }}</td>
+      <td><a href="{{ .url }}" target="_blank" rel="noopener noreferrer">{{ .url | truncate 60 }}</a></td>
+      <td><a href="https://web.archive.org/web/*/{{ .url }}" target="_blank" rel="noopener noreferrer">Wayback →</a></td>
+    </tr>
+  {{ end }}
+  </tbody>
+</table>
+{{- else -}}
+<p>All crawled links are healthy. ✅</p>
+{{- end -}}

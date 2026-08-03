@@ -4,6 +4,10 @@
 {{- range $all -}}
   {{- $cat := index .Params.category 0 | default .Params.category -}}
   {{- if eq $cat "benchmarks" -}}
+    {{- $slug := .File.ContentBaseName -}}
+    {{- $enriched := index $.Site.Data.enriched $slug -}}
+    {{- $stars := 0 -}}
+    {{- with $enriched -}}{{- with .github_stars -}}{{- $stars = . -}}{{- end -}}{{- end -}}
     {{- $rows = $rows | append (dict
       "title" .Title
       "link" .Params.link
@@ -13,6 +17,7 @@
       "open_source" (.Params.open_source | default "")
       "leaderboard" (.Params.leaderboard | default "")
       "source" (index .Params.source 0 | default .Params.source)
+      "stars" $stars
     ) -}}
   {{- end -}}
 {{- end -}}
@@ -22,6 +27,7 @@
       <th data-sort="title">Name</th>
       <th data-sort="task_type">Task</th>
       <th data-sort="environment">Environment</th>
+      <th data-sort="stars" data-sort-type="number">Stars</th>
       <th data-sort="open_source">Open source</th>
       <th data-sort="source">Source</th>
       <th>Leaderboard</th>
@@ -33,6 +39,7 @@
       <td data-sort-key="{{ .title }}"><a href="{{ .page }}">{{ .title }}</a></td>
       <td>{{ .task_type }}</td>
       <td>{{ .environment }}</td>
+      <td data-sort-key="{{ .stars }}">{{ if gt .stars 0 }}⭐ {{ .stars }}{{ else }}—{{ end }}</td>
       <td>{{ if eq .open_source "true" }}✓{{ else }}—{{ end }}</td>
       <td>{{ .source }}</td>
       <td>{{ if .leaderboard }}<a href="{{ .leaderboard }}" target="_blank" rel="noopener noreferrer">view →</a>{{ else }}—{{ end }}</td>
@@ -58,6 +65,12 @@
           if (key === "title") {
             av = a.querySelector("td[data-sort-key]").getAttribute("data-sort-key");
             bv = b.querySelector("td[data-sort-key]").getAttribute("data-sort-key");
+          } else if (key === "stars") {
+            // Stars column is index 3; use the data-sort-key for numeric sorting.
+            var aCell = a.cells[3];
+            var bCell = b.cells[3];
+            av = aCell.getAttribute("data-sort-key") || "0";
+            bv = bCell.getAttribute("data-sort-key") || "0";
           } else {
             av = a.cells[th.cellIndex].textContent.trim();
             bv = b.cells[th.cellIndex].textContent.trim();

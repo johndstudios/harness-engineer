@@ -20,13 +20,17 @@ canonifyURLs = true
   tag = "tags"
 
 [outputs]
-  home = ["html", "rss"]
+  home = ["html", "rss", "json"]
   section = ["html", "rss"]
 
 [outputFormats]
   [outputFormats.rss]
     baseName = "index"
     mediatype = "application/rss+xml"
+  [outputFormats.json]
+    baseName = "data"
+    mediatype = "application/json"
+    isPlainText = true
 
 [params]
   description = "A curated directory of resources for harness engineering."
@@ -84,18 +88,22 @@ canonifyURLs = true
     url = "/tags-index/"
     weight = 5
   [[menus.main]]
+    name = "Link health"
+    url = "/link-health/"
+    weight = 6
+  [[menus.main]]
     name = "About"
     url = "/about/"
-    weight = 6
+    weight = 7
   [[menus.main]]
     name = "Contributors"
     url = "/contributors/"
-    weight = 7
+    weight = 8
   [[menus.main]]
     name = "Contribute"
     url = "/contribute/"
-    weight = 8
+    weight = 9
   [[menus.main]]
     name = "Submit"
     url = "/submit/"
-    weight = 9
+    weight = 10
