@@ -203,12 +203,18 @@ def enrich_html(fetch_result: dict) -> dict:
     enrichment["og_title"] = extract_meta(soup, "og:title")
     enrichment["og_description"] = extract_meta(soup, "og:description")
     og_image = extract_meta(soup, "og:image")
+    # Skip GitHub S3 repository images — they're signed URLs that expire in
+    # ~5 minutes, so storing them is pointless.
+    if og_image and "repository-images.githubusercontent.com" in og_image:
+        og_image = ""
     if og_image and not og_image.startswith(("http://", "https://")):
         og_image = urllib.parse.urljoin(fetch_result["final_url"], og_image)
     enrichment["og_image"] = og_image
     enrichment["og_type"] = extract_meta(soup, "og:type")
     enrichment["twitter_card"] = extract_meta(soup, "twitter:card")
     twitter_image = extract_meta(soup, "twitter:image")
+    if twitter_image and "repository-images.githubusercontent.com" in twitter_image:
+        twitter_image = ""
     if twitter_image and not twitter_image.startswith(("http://", "https://")):
         twitter_image = urllib.parse.urljoin(fetch_result["final_url"], twitter_image)
     enrichment["twitter_image"] = twitter_image
