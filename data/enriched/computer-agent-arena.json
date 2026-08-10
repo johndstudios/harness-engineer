@@ -1,11 +1,142 @@
 {
   "slug": "computer-agent-arena",
   "url": "https://github.com/xlang-ai/computer-agent-arena",
-  "crawled_at": "2026-08-03T04:33:09.144592+00:00",
-  "status": "fetch_error",
-  "http_status": 0,
+  "crawled_at": "2026-08-10T09:18:55.463300+00:00",
+  "status": "ok",
+  "http_status": 200,
   "final_url": "https://github.com/xlang-ai/computer-agent-arena",
   "content_type": "github",
   "last_modified": "",
-  "error": "The read operation timed out"
+  "github_stars": 67,
+  "github_forks": 4,
+  "github_open_issues": 2,
+  "github_topics": [],
+  "github_language": "HTML",
+  "github_description": "[ICLR 2026] Computer Agent Arena: Toward Human-Centric Evaluation and Analysis of Computer-Use Agents",
+  "github_created": "2025-04-07",
+  "github_updated": "2026-07-22",
+  "github_pushed": "2026-02-26",
+  "github_license": "",
+  "github_homepage": "https://arena.xlang.ai/",
+  "fetched_title": "GitHub - xlang-ai/computer-agent-arena: [ICLR 2026] Computer Agent Arena: Toward Human-Centric Evaluation and Analysis of Computer-Use Agents \u00b7 GitHub",
+  "meta_description": "[ICLR 2026] Computer Agent Arena: Toward Human-Centric Evaluation and Analysis of Computer-Use Agents - xlang-ai/computer-agent-arena",
+  "og_title": "GitHub - xlang-ai/computer-agent-arena: [ICLR 2026] Computer Agent Arena: Toward Human-Centric Evaluation and Analysis of Computer-Use Agents",
+  "og_description": "[ICLR 2026] Computer Agent Arena: Toward Human-Centric Evaluation and Analysis of Computer-Use Agents - xlang-ai/computer-agent-arena",
+  "og_image": "https://opengraph.githubassets.com/e8c0e112f7e40f246ff5bfc35dcd87b1b989ee03154582bd1f1ce7bd81273282/xlang-ai/computer-agent-arena",
+  "og_type": "object",
+  "twitter_card": "summary_large_image",
+  "twitter_image": "https://opengraph.githubassets.com/e8c0e112f7e40f246ff5bfc35dcd87b1b989ee03154582bd1f1ce7bd81273282/xlang-ai/computer-agent-arena",
+  "language": "en",
+  "word_count": 600,
+  "reading_time_min": 3,
+  "outline": [
+    {
+      "level": 3,
+      "text": "Uh oh!"
+    },
+    {
+      "level": 2,
+      "text": "Folders and files"
+    },
+    {
+      "level": 2,
+      "text": "Latest commit"
+    },
+    {
+      "level": 2,
+      "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Repository files navigation"
+    },
+    {
+      "level": 1,
+      "text": "\u2694\ufe0f Computer Agent Arena"
+    },
+    {
+      "level": 3,
+      "text": "Toward Human-Centric Evaluation and Analysis of Computer-Use Agents"
+    },
+    {
+      "level": 2,
+      "text": "Introduction"
+    },
+    {
+      "level": 2,
+      "text": "Platform Overview"
+    },
+    {
+      "level": 2,
+      "text": "Supported Agents"
+    },
+    {
+      "level": 2,
+      "text": "\ud83d\ude80 Quick Start"
+    },
+    {
+      "level": 3,
+      "text": "Prerequisites"
+    },
+    {
+      "level": 3,
+      "text": "1. Clone"
+    },
+    {
+      "level": 3,
+      "text": "2. Backend"
+    },
+    {
+      "level": 3,
+      "text": "3. Frontend"
+    },
+    {
+      "level": 2,
+      "text": "Adding a New Agent"
+    },
+    {
+      "level": 2,
+      "text": "Repository Structure"
+    },
+    {
+      "level": 2,
+      "text": "License"
+    },
+    {
+      "level": 2,
+      "text": "About"
+    },
+    {
+      "level": 3,
+      "text": "Resources"
+    },
+    {
+      "level": 3,
+      "text": "Stars"
+    },
+    {
+      "level": 3,
+      "text": "Watchers"
+    },
+    {
+      "level": 3,
+      "text": "Forks"
+    },
+    {
+      "level": 2,
+      "text": "Releases"
+    },
+    {
+      "level": 2,
+      "text": "Packages"
+    },
+    {
+      "level": 2,
+      "text": "Contributors"
+    },
+    {
+      "level": 2,
+      "text": "Languages"
+    }
+  ]
 }

@@ -1,15 +1,15 @@
 {
   "slug": "vab",
   "url": "https://github.com/THUDM/VisualAgentBench",
-  "crawled_at": "2026-08-03T04:35:34.645714+00:00",
+  "crawled_at": "2026-08-10T09:20:34.232897+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://github.com/THUDM/VisualAgentBench",
   "content_type": "github",
   "last_modified": "",
   "github_stars": 274,
-  "github_forks": 12,
-  "github_open_issues": 18,
+  "github_forks": 13,
+  "github_open_issues": 17,
   "github_topics": [
     "gpt",
     "llm-agent",

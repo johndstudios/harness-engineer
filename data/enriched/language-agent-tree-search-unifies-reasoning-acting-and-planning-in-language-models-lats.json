@@ -1,7 +1,7 @@
 {
   "slug": "language-agent-tree-search-unifies-reasoning-acting-and-planning-in-language-models-lats",
   "url": "https://arxiv.org/abs/2310.04406",
-  "crawled_at": "2026-08-03T04:34:31.244876+00:00",
+  "crawled_at": "2026-08-10T09:19:37.528586+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://arxiv.org/abs/2310.04406",
@@ -11,7 +11,7 @@
   "meta_description": "Abstract page for arXiv paper 2310.04406: Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models",
   "og_title": "Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models",
   "og_description": "While language models (LMs) have shown potential across a range of decision-making tasks, their reliance on simple acting processes limits their broad deployment as autonomous agents. In this paper, we introduce Language Agent Tree Search (LATS) -- the first general framework that synergizes the capabilities of LMs in reasoning, acting, and planning. By leveraging the in-context learning ability of LMs, we integrate Monte Carlo Tree Search into LATS to enable LMs as agents, along with LM-powered value functions and self-reflections for proficient exploration and enhanced decision-making. A key feature of our approach is the incorporation of an environment for external feedback, which offers a more deliberate and adaptive problem-solving mechanism that surpasses the constraints of existing techniques. Our experimental evaluation across diverse domains, including programming, interactive question-answering (QA), web navigation, and math, validates the effectiveness and generality of LATS in decision-making while maintaining competitive or improved reasoning performance. Notably, LATS achieves state-of-the-art pass@1 accuracy (92.7%) for programming on HumanEval with GPT-4 and demonstrates gradient-free performance (average score of 75.9) comparable to gradient-based fine-tuning for web navigation on WebShop with GPT-3.5. Code can be found at https://github.com/lapisrocks/LanguageAgentTreeSearch",
-  "og_image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+  "og_image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
   "og_type": "website",
   "twitter_card": "summary",
   "twitter_image": "https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png",

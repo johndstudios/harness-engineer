@@ -1,7 +1,7 @@
 {
   "slug": "the-harness-is-all-you-need-mostly",
   "url": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly/",
-  "crawled_at": "2026-08-03T04:35:21.198390+00:00",
+  "crawled_at": "2026-08-10T09:20:21.263878+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly/",
@@ -19,7 +19,7 @@
   "publish_date": "2026-07-27",
   "language": "en-US",
   "canonical_url": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly/",
-  "word_count": 2912,
+  "word_count": 2911,
   "reading_time_min": 15,
   "outline": [
     {
@@ -72,15 +72,15 @@
     },
     {
       "level": 3,
+      "text": "A guide to slash commands in the GitHub Copilot app"
+    },
+    {
+      "level": 3,
+      "text": "How the GitHub legal team used Copilot CLI to streamline their workflows"
+    },
+    {
+      "level": 3,
       "text": "Stacked sessions and pull requests in the GitHub Copilot app"
-    },
-    {
-      "level": 3,
-      "text": "GitHub Copilot app for Beginners: Getting started"
-    },
-    {
-      "level": 3,
-      "text": "Copilot vs. raw API access: What are you actually paying for?"
     },
     {
       "level": 2,

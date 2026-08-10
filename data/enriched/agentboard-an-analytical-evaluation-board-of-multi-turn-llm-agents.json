@@ -1,7 +1,7 @@
 {
   "slug": "agentboard-an-analytical-evaluation-board-of-multi-turn-llm-agents",
   "url": "https://arxiv.org/abs/2401.13178",
-  "crawled_at": "2026-08-03T04:32:18.351661+00:00",
+  "crawled_at": "2026-08-10T09:18:14.542992+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://arxiv.org/abs/2401.13178",
@@ -11,7 +11,7 @@
   "meta_description": "Abstract page for arXiv paper 2401.13178: AgentBoard: An Analytical Evaluation Board of Multi-turn LLM Agents",
   "og_title": "AgentBoard: An Analytical Evaluation Board of Multi-turn LLM Agents",
   "og_description": "Evaluating Large Language Models (LLMs) as general-purpose agents is essential for understanding their capabilities and facilitating their integration into practical applications. However, the evaluation process presents substantial challenges. A primary obstacle is the benchmarking of agent performance across diverse scenarios within a unified framework, especially in maintaining partially-observable environments and ensuring multi-round interactions. Moreover, current evaluation frameworks mostly focus on the final success rate, revealing few insights during the process and failing to provide a deep understanding of the model abilities. To address these challenges, we introduce AgentBoard, a pioneering comprehensive benchmark and accompanied open-source evaluation framework tailored to analytical evaluation of LLM agents. AgentBoard offers a fine-grained progress rate metric that captures incremental advancements as well as a comprehensive evaluation toolkit that features easy assessment of agents for multi-faceted analysis. This not only sheds light on the capabilities and limitations of LLM agents but also propels the interpretability of their performance to the forefront. Ultimately, AgentBoard serves as a step towards demystifying agent behaviors and accelerating the development of stronger LLM agents.",
-  "og_image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+  "og_image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
   "og_type": "website",
   "twitter_card": "summary",
   "twitter_image": "https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png",

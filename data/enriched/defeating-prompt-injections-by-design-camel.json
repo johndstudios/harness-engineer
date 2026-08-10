@@ -1,7 +1,7 @@
 {
   "slug": "defeating-prompt-injections-by-design-camel",
   "url": "https://arxiv.org/abs/2503.18813",
-  "crawled_at": "2026-08-03T04:33:47.530707+00:00",
+  "crawled_at": "2026-08-10T09:19:02.981905+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://arxiv.org/abs/2503.18813",
@@ -11,7 +11,7 @@
   "meta_description": "Abstract page for arXiv paper 2503.18813: Defeating Prompt Injections by Design",
   "og_title": "Defeating Prompt Injections by Design",
   "og_description": "Large Language Models (LLMs) are increasingly deployed in agentic systems that interact with an untrusted environment. However, LLM agents are vulnerable to prompt injection attacks when handling untrusted data. In this paper we propose CaMeL, a robust defense that creates a protective system layer around the LLM, securing it even when underlying models are susceptible to attacks. To operate, CaMeL explicitly extracts the control and data flows from the (trusted) query; therefore, the untrusted data retrieved by the LLM can never impact the program flow. To further improve security, CaMeL uses a notion of a capability to prevent the exfiltration of private data over unauthorized data flows by enforcing security policies when tools are called. We demonstrate effectiveness of CaMeL by solving $77\\%$ of tasks with provable security (compared to $84\\%$ with an undefended system) in AgentDojo. We release CaMeL at https://github.com/google-research/camel-prompt-injection.",
-  "og_image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+  "og_image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
   "og_type": "website",
   "twitter_card": "summary",
   "twitter_image": "https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png",

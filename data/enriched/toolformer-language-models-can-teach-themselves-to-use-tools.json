@@ -1,7 +1,7 @@
 {
   "slug": "toolformer-language-models-can-teach-themselves-to-use-tools",
   "url": "https://arxiv.org/abs/2302.04761",
-  "crawled_at": "2026-08-03T04:35:25.315516+00:00",
+  "crawled_at": "2026-08-10T09:20:24.957030+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://arxiv.org/abs/2302.04761",
@@ -11,7 +11,7 @@
   "meta_description": "Abstract page for arXiv paper 2302.04761: Toolformer: Language Models Can Teach Themselves to Use Tools",
   "og_title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
   "og_description": "Language models (LMs) exhibit remarkable abilities to solve new tasks from just a few examples or textual instructions, especially at scale. They also, paradoxically, struggle with basic functionality, such as arithmetic or factual lookup, where much simpler and smaller models excel. In this paper, we show that LMs can teach themselves to use external tools via simple APIs and achieve the best of both worlds. We introduce Toolformer, a model trained to decide which APIs to call, when to call them, what arguments to pass, and how to best incorporate the results into future token prediction. This is done in a self-supervised way, requiring nothing more than a handful of demonstrations for each API. We incorporate a range of tools, including a calculator, a Q\\&A system, two different search engines, a translation system, and a calendar. Toolformer achieves substantially improved zero-shot performance across a variety of downstream tasks, often competitive with much larger models, without sacrificing its core language modeling abilities.",
-  "og_image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+  "og_image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
   "og_type": "website",
   "twitter_card": "summary",
   "twitter_image": "https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png",

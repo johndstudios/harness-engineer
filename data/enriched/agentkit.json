@@ -1,7 +1,7 @@
 {
   "slug": "agentkit",
   "url": "https://github.com/inngest/agent-kit",
-  "crawled_at": "2026-08-03T04:32:22.869846+00:00",
+  "crawled_at": "2026-08-10T09:18:18.201450+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://github.com/inngest/agent-kit",
@@ -9,7 +9,7 @@
   "last_modified": "",
   "github_stars": 918,
   "github_forks": 139,
-  "github_open_issues": 46,
+  "github_open_issues": 47,
   "github_topics": [
     "agent",
     "ai",
@@ -20,7 +20,7 @@
   "github_language": "TypeScript",
   "github_description": "AgentKit: Build multi-agent networks in TypeScript with deterministic routing and rich tooling via MCP.",
   "github_created": "2024-11-18",
-  "github_updated": "2026-08-01",
+  "github_updated": "2026-08-06",
   "github_pushed": "2026-04-29",
   "github_license": "Apache-2.0",
   "github_homepage": "https://agentkit.inngest.com",
@@ -28,12 +28,12 @@
   "meta_description": "AgentKit: Build multi-agent networks in TypeScript with deterministic routing and rich tooling via MCP. - inngest/agent-kit",
   "og_title": "GitHub - inngest/agent-kit: AgentKit: Build multi-agent networks in TypeScript with deterministic routing and rich tooling via MCP.",
   "og_description": "AgentKit: Build multi-agent networks in TypeScript with deterministic routing and rich tooling via MCP. - inngest/agent-kit",
-  "og_image": "https://opengraph.githubassets.com/ad40232e4605c7a3d2681113788f901f38a86b4bd02c05f3b4739fa09d5a6dc8/inngest/agent-kit",
+  "og_image": "https://opengraph.githubassets.com/bdefaf65d691cfe7a593c430956455c20a24c453afd95ae20fdc3ddd448d0a95/inngest/agent-kit",
   "og_type": "object",
   "twitter_card": "summary_large_image",
-  "twitter_image": "https://opengraph.githubassets.com/ad40232e4605c7a3d2681113788f901f38a86b4bd02c05f3b4739fa09d5a6dc8/inngest/agent-kit",
+  "twitter_image": "https://opengraph.githubassets.com/bdefaf65d691cfe7a593c430956455c20a24c453afd95ae20fdc3ddd448d0a95/inngest/agent-kit",
   "language": "en",
-  "word_count": 3271,
+  "word_count": 3280,
   "reading_time_min": 16,
   "outline": [
     {
@@ -123,6 +123,10 @@
     {
       "level": 2,
       "text": "Contributors"
+    },
+    {
+      "level": 2,
+      "text": "Languages"
     }
   ]
 }
