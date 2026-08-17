@@ -1,12 +1,12 @@
 {
   "slug": "evaluating-deep-agents-our-learnings",
   "url": "https://blog.langchain.com/evaluating-deep-agents-our-learnings/",
-  "crawled_at": "2026-08-10T09:19:09.313985+00:00",
+  "crawled_at": "2026-08-17T08:41:33.193182+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://www.langchain.com/blog/evaluating-deep-agents-our-learnings",
   "content_type": "article",
-  "last_modified": "Sun, 09 Aug 2026 21:44:15 GMT",
+  "last_modified": "Mon, 17 Aug 2026 08:41:33 GMT",
   "fetched_title": "Evaluating Deep Agents: Our Learnings",
   "meta_description": "Learn 5 patterns for evaluating deep agents: bespoke testing, single-step validation, full turns, multi-turn simulations, and environment setup.",
   "og_title": "Evaluating Deep Agents: Our Learnings",
@@ -19,7 +19,7 @@
   "publish_date": "2025-12-03",
   "language": "en",
   "canonical_url": "https://www.langchain.com/blog/evaluating-deep-agents-our-learnings",
-  "word_count": 1806,
+  "word_count": 1804,
   "reading_time_min": 9,
   "outline": [
     {

@@ -1,7 +1,7 @@
 {
   "slug": "claude-api-web-fetch-tool",
   "url": "https://simonwillison.net/2025/Sep/10/claude-web-fetch-tool/",
-  "crawled_at": "2026-08-10T09:18:48.636710+00:00",
+  "crawled_at": "2026-08-17T08:41:12.038413+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://simonwillison.net/2025/Sep/10/claude-web-fetch-tool/",
@@ -18,7 +18,7 @@
   "author": "Simon Willison",
   "language": "en-gb",
   "canonical_url": "https://simonwillison.net/2025/Sep/10/claude-web-fetch-tool/",
-  "word_count": 781,
+  "word_count": 762,
   "reading_time_min": 4,
   "outline": [
     {

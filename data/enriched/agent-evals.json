@@ -1,12 +1,12 @@
 {
   "slug": "agent-evals",
   "url": "https://platform.openai.com/docs/guides/agent-evals",
-  "crawled_at": "2026-08-10T09:18:08.923115+00:00",
+  "crawled_at": "2026-08-17T08:40:29.733969+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://developers.openai.com/api/docs/guides/agent-evals",
   "content_type": "article",
-  "last_modified": "Sat, 08 Aug 2026 02:19:34 GMT",
+  "last_modified": "Sun, 16 Aug 2026 16:38:55 GMT",
   "fetched_title": "Evaluate agent workflows | OpenAI API",
   "meta_description": "Learn how to evaluate agent workflows with traces, graders, datasets, and evaluation runs on the OpenAI platform.",
   "og_title": "Evaluate agent workflows | OpenAI API",
@@ -17,8 +17,8 @@
   "twitter_image": "https://developers.openai.com/og/api/docs/guides/agent-evals.png",
   "language": "en",
   "canonical_url": "https://developers.openai.com/api/docs/guides/agent-evals",
-  "word_count": 1493,
-  "reading_time_min": 7,
+  "word_count": 1518,
+  "reading_time_min": 8,
   "outline": [
     {
       "level": 2,

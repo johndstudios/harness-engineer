@@ -1,7 +1,7 @@
 {
   "slug": "building-effective-agents",
   "url": "https://www.anthropic.com/engineering/building-effective-agents",
-  "crawled_at": "2026-08-10T09:18:44.149246+00:00",
+  "crawled_at": "2026-08-17T08:41:07.338670+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://www.anthropic.com/engineering/building-effective-agents",
@@ -17,7 +17,7 @@
   "twitter_image": "https://cdn.sanity.io/images/4zrzovbb/website/76b5733c669f0dfb9c7aa7fc512a495867cf12e6-2400x1260.png",
   "language": "en",
   "canonical_url": "https://www.anthropic.com/engineering/building-effective-agents",
-  "word_count": 2763,
+  "word_count": 2795,
   "reading_time_min": 14,
   "outline": [
     {

@@ -1,12 +1,12 @@
 {
   "slug": "humans-and-agents-in-software-engineering-loops",
   "url": "https://martinfowler.com/articles/exploring-gen-ai/humans-and-agents.html",
-  "crawled_at": "2026-08-10T09:19:33.260284+00:00",
+  "crawled_at": "2026-08-17T08:41:57.784619+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://martinfowler.com/articles/exploring-gen-ai/humans-and-agents.html",
   "content_type": "article",
-  "last_modified": "Thu, 06 Aug 2026 15:21:09 GMT",
+  "last_modified": "Tue, 11 Aug 2026 11:39:51 GMT",
   "fetched_title": "Humans and Agents in Software Engineering Loops",
   "meta_description": "",
   "og_title": "Humans and Agents in Software Engineering Loops",
@@ -15,7 +15,7 @@
   "og_type": "article",
   "twitter_card": "summary",
   "twitter_image": "",
-  "word_count": 1733,
+  "word_count": 1738,
   "reading_time_min": 9,
   "outline": [
     {

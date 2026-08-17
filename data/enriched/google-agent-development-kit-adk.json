@@ -1,15 +1,15 @@
 {
   "slug": "google-agent-development-kit-adk",
   "url": "https://github.com/google/adk-python",
-  "crawled_at": "2026-08-10T09:19:16.420879+00:00",
+  "crawled_at": "2026-08-17T08:41:40.575461+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://github.com/google/adk-python",
   "content_type": "github",
   "last_modified": "",
-  "github_stars": 21061,
-  "github_forks": 3816,
-  "github_open_issues": 563,
+  "github_stars": 21155,
+  "github_forks": 3847,
+  "github_open_issues": 559,
   "github_topics": [
     "agent",
     "agentic",
@@ -31,8 +31,8 @@
   "github_language": "Python",
   "github_description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
   "github_created": "2025-04-01",
-  "github_updated": "2026-08-10",
-  "github_pushed": "2026-08-09",
+  "github_updated": "2026-08-17",
+  "github_pushed": "2026-08-16",
   "github_license": "Apache-2.0",
   "github_homepage": "https://google.github.io/adk-docs/",
   "fetched_title": "GitHub - google/adk-python: An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. \u00b7 GitHub",
@@ -44,8 +44,8 @@
   "twitter_card": "summary_large_image",
   "twitter_image": "",
   "language": "en",
-  "word_count": 683,
-  "reading_time_min": 3,
+  "word_count": 1127,
+  "reading_time_min": 6,
   "outline": [
     {
       "level": 3,
@@ -80,12 +80,24 @@
       "text": "Important Links:Docs,Samples&ADK Web."
     },
     {
+      "level": 3,
+      "text": "ADK in other languages:ADK Java,ADK Kotlin,ADK Go&ADK Typescript."
+    },
+    {
       "level": 2,
-      "text": "\ud83d\udd25 What's New in 2.0"
+      "text": "\u2728 Key Features"
     },
     {
       "level": 2,
       "text": "\ud83d\ude80 Installation"
+    },
+    {
+      "level": 3,
+      "text": "Stable Release (Recommended)"
+    },
+    {
+      "level": 3,
+      "text": "Development Version"
     },
     {
       "level": 2,
@@ -104,12 +116,32 @@
       "text": "Run Locally"
     },
     {
+      "level": 3,
+      "text": "Development UI"
+    },
+    {
+      "level": 3,
+      "text": "Evaluate Agents"
+    },
+    {
       "level": 2,
       "text": "\ud83d\udcda Documentation"
     },
     {
       "level": 2,
       "text": "\ud83e\udd1d Contributing"
+    },
+    {
+      "level": 2,
+      "text": "Community Repo"
+    },
+    {
+      "level": 2,
+      "text": "Vibe Coding"
+    },
+    {
+      "level": 2,
+      "text": "Community Events"
     },
     {
       "level": 2,
@@ -134,38 +166,6 @@
     {
       "level": 3,
       "text": "Contributing"
-    },
-    {
-      "level": 3,
-      "text": "Security policy"
-    },
-    {
-      "level": 3,
-      "text": "Stars"
-    },
-    {
-      "level": 3,
-      "text": "Watchers"
-    },
-    {
-      "level": 3,
-      "text": "Forks"
-    },
-    {
-      "level": 2,
-      "text": "Releases"
-    },
-    {
-      "level": 2,
-      "text": "Used by"
-    },
-    {
-      "level": 2,
-      "text": "Contributors"
-    },
-    {
-      "level": 2,
-      "text": "Languages"
     }
   ]
 }

@@ -1,12 +1,12 @@
 {
   "slug": "inspect-ai",
   "url": "https://inspect.aisi.org.uk/",
-  "crawled_at": "2026-08-10T09:19:35.170883+00:00",
+  "crawled_at": "2026-08-17T08:41:59.584671+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://inspect.aisi.org.uk/",
   "content_type": "article",
-  "last_modified": "Sun, 09 Aug 2026 15:57:18 GMT",
+  "last_modified": "Sun, 16 Aug 2026 19:19:44 GMT",
   "fetched_title": "Inspect",
   "meta_description": "",
   "og_title": "Inspect",
@@ -16,7 +16,7 @@
   "twitter_card": "summary_large_image",
   "twitter_image": "https://inspect.aisi.org.uk/images/inspect.png",
   "language": "en",
-  "word_count": 1243,
+  "word_count": 1269,
   "reading_time_min": 6,
   "outline": [
     {

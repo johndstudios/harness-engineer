@@ -1,12 +1,12 @@
 {
   "slug": "understanding-spec-driven-development-kiro-spec-kit-and-tessl",
   "url": "https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html",
-  "crawled_at": "2026-08-10T09:20:32.165085+00:00",
+  "crawled_at": "2026-08-17T08:42:57.129081+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html",
   "content_type": "article",
-  "last_modified": "Thu, 06 Aug 2026 15:21:09 GMT",
+  "last_modified": "Tue, 11 Aug 2026 11:39:51 GMT",
   "fetched_title": "Understanding Spec-Driven-Development: Kiro, spec-kit, and Tessl",
   "meta_description": "",
   "og_title": "Understanding Spec-Driven-Development: Kiro, spec-kit, and Tessl",
@@ -15,7 +15,7 @@
   "og_type": "article",
   "twitter_card": "summary",
   "twitter_image": "",
-  "word_count": 3316,
+  "word_count": 3321,
   "reading_time_min": 17,
   "outline": [
     {

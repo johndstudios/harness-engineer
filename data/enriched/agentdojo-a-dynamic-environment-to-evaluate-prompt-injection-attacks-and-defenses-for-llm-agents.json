@@ -1,7 +1,7 @@
 {
   "slug": "agentdojo-a-dynamic-environment-to-evaluate-prompt-injection-attacks-and-defenses-for-llm-agents",
   "url": "https://arxiv.org/abs/2406.13352",
-  "crawled_at": "2026-08-10T09:18:16.385972+00:00",
+  "crawled_at": "2026-08-17T08:40:38.141435+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://arxiv.org/abs/2406.13352",
@@ -17,7 +17,7 @@
   "twitter_image": "https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png",
   "language": "en",
   "canonical_url": "https://arxiv.org/abs/2406.13352",
-  "word_count": 776,
+  "word_count": 767,
   "reading_time_min": 4,
   "outline": [
     {

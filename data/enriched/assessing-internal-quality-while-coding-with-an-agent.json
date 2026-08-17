@@ -1,12 +1,12 @@
 {
   "slug": "assessing-internal-quality-while-coding-with-an-agent",
   "url": "https://martinfowler.com/articles/exploring-gen-ai/ccmenu-quality.html",
-  "crawled_at": "2026-08-10T09:18:32.174774+00:00",
+  "crawled_at": "2026-08-17T08:40:54.566825+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://martinfowler.com/articles/exploring-gen-ai/ccmenu-quality.html",
   "content_type": "article",
-  "last_modified": "Thu, 06 Aug 2026 15:21:09 GMT",
+  "last_modified": "Tue, 11 Aug 2026 11:39:51 GMT",
   "fetched_title": "Assessing internal quality while coding with an agent",
   "meta_description": "",
   "og_title": "Assessing internal quality while coding with an agent",
@@ -15,7 +15,7 @@
   "og_type": "article",
   "twitter_card": "summary",
   "twitter_image": "",
-  "word_count": 2142,
+  "word_count": 2147,
   "reading_time_min": 11,
   "outline": [
     {

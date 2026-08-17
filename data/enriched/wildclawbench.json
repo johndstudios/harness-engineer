@@ -1,15 +1,15 @@
 {
   "slug": "wildclawbench",
   "url": "https://github.com/InternLM/WildClawBench",
-  "crawled_at": "2026-08-10T09:20:39.814523+00:00",
+  "crawled_at": "2026-08-17T08:43:06.909450+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://github.com/InternLM/WildClawBench",
   "content_type": "github",
   "last_modified": "",
-  "github_stars": 503,
-  "github_forks": 56,
-  "github_open_issues": 9,
+  "github_stars": 513,
+  "github_forks": 60,
+  "github_open_issues": 5,
   "github_topics": [
     "agentic-ai",
     "agentic-evaluation",
@@ -20,21 +20,21 @@
   "github_language": "Python",
   "github_description": "An in-the-wild benchmark for AI agents in the OpenClaw Environment.",
   "github_created": "2026-03-23",
-  "github_updated": "2026-08-10",
-  "github_pushed": "2026-08-09",
+  "github_updated": "2026-08-17",
+  "github_pushed": "2026-08-17",
   "github_license": "MIT",
   "github_homepage": "https://internlm.github.io/WildClawBench/",
   "fetched_title": "GitHub - InternLM/WildClawBench: An in-the-wild benchmark for AI agents in the OpenClaw Environment. \u00b7 GitHub",
   "meta_description": "An in-the-wild benchmark for AI agents in the OpenClaw Environment. - InternLM/WildClawBench",
   "og_title": "GitHub - InternLM/WildClawBench: An in-the-wild benchmark for AI agents in the OpenClaw Environment.",
   "og_description": "An in-the-wild benchmark for AI agents in the OpenClaw Environment. - InternLM/WildClawBench",
-  "og_image": "https://opengraph.githubassets.com/fd9ab7482507bd56d28226ee04e993a09e63f80a10136743f66bf52bfb560edd/InternLM/WildClawBench",
+  "og_image": "https://opengraph.githubassets.com/6ffe09b06250b488586024325a5207276f98e4c2f12e41d119dd1a6a74f94dc6/InternLM/WildClawBench",
   "og_type": "object",
   "twitter_card": "summary_large_image",
-  "twitter_image": "https://opengraph.githubassets.com/fd9ab7482507bd56d28226ee04e993a09e63f80a10136743f66bf52bfb560edd/InternLM/WildClawBench",
+  "twitter_image": "https://opengraph.githubassets.com/6ffe09b06250b488586024325a5207276f98e4c2f12e41d119dd1a6a74f94dc6/InternLM/WildClawBench",
   "language": "en",
-  "word_count": 2963,
-  "reading_time_min": 15,
+  "word_count": 3551,
+  "reading_time_min": 18,
   "outline": [
     {
       "level": 3,
@@ -67,6 +67,10 @@
     {
       "level": 3,
       "text": "What Sets Us Apart"
+    },
+    {
+      "level": 2,
+      "text": "The WildClawBench Family"
     },
     {
       "level": 2,
@@ -118,7 +122,15 @@
     },
     {
       "level": 2,
+      "text": "Run with Harbor"
+    },
+    {
+      "level": 2,
       "text": "Check the Results"
+    },
+    {
+      "level": 2,
+      "text": "Agent Trajectories"
     },
     {
       "level": 2,
@@ -143,18 +155,6 @@
     {
       "level": 2,
       "text": "License"
-    },
-    {
-      "level": 2,
-      "text": "Star History"
-    },
-    {
-      "level": 2,
-      "text": "About"
-    },
-    {
-      "level": 3,
-      "text": "Topics"
     }
   ]
 }

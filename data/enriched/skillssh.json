@@ -1,7 +1,7 @@
 {
   "slug": "skillssh",
   "url": "https://skills.sh",
-  "crawled_at": "2026-08-10T09:20:10.041207+00:00",
+  "crawled_at": "2026-08-17T08:42:34.954620+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://www.skills.sh/",
@@ -17,7 +17,7 @@
   "twitter_image": "https://www.skills.sh/og.jpeg",
   "language": "en",
   "canonical_url": "https://www.skills.sh",
-  "word_count": 612,
+  "word_count": 627,
   "reading_time_min": 3,
   "outline": [
     {
@@ -58,19 +58,19 @@
     },
     {
       "level": 3,
-      "text": "agent-browser"
-    },
-    {
-      "level": 3,
       "text": "tdd"
     },
     {
       "level": 3,
-      "text": "vercel-react-best-practices"
+      "text": "agent-browser"
     },
     {
       "level": 3,
       "text": "setup-matt-pocock-skills"
+    },
+    {
+      "level": 3,
+      "text": "vercel-react-best-practices"
     },
     {
       "level": 3,
@@ -82,15 +82,11 @@
     },
     {
       "level": 3,
-      "text": "lark-approval"
-    },
-    {
-      "level": 3,
       "text": "prototype"
     },
     {
       "level": 3,
-      "text": "lark-okr"
+      "text": "lark-doc"
     },
     {
       "level": 3,
@@ -98,19 +94,31 @@
     },
     {
       "level": 3,
-      "text": "microsoft-foundry"
-    },
-    {
-      "level": 3,
       "text": "lark-markdown"
     },
     {
       "level": 3,
-      "text": "azure-ai"
+      "text": "microsoft-foundry"
     },
     {
       "level": 3,
       "text": "lark-vc-agent"
+    },
+    {
+      "level": 3,
+      "text": "azure-kusto"
+    },
+    {
+      "level": 3,
+      "text": "azure-resource-visualizer"
+    },
+    {
+      "level": 3,
+      "text": "azure-messaging"
+    },
+    {
+      "level": 3,
+      "text": "lark-apps"
     },
     {
       "level": 3,
@@ -122,23 +130,15 @@
     },
     {
       "level": 3,
-      "text": "lark-apps"
-    },
-    {
-      "level": 3,
       "text": "azure-compute"
     },
     {
       "level": 3,
-      "text": "azure-cloud-migrate"
-    },
-    {
-      "level": 3,
-      "text": "azure-hosted-copilot-sdk"
-    },
-    {
-      "level": 3,
       "text": "teach"
+    },
+    {
+      "level": 3,
+      "text": "grilling"
     }
   ]
 }

@@ -1,12 +1,12 @@
 {
   "slug": "building-agents-with-the-claude-agent-sdk",
   "url": "https://claude.com/blog/building-agents-with-the-claude-agent-sdk",
-  "crawled_at": "2026-08-10T09:18:42.495444+00:00",
+  "crawled_at": "2026-08-17T08:41:05.797738+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://claude.com/blog/building-agents-with-the-claude-agent-sdk",
   "content_type": "article",
-  "last_modified": "Fri, 07 Aug 2026 22:06:39 GMT",
+  "last_modified": "Fri, 14 Aug 2026 21:50:53 GMT",
   "fetched_title": "Building agents with the Claude Agent SDK | Claude by Anthropic",
   "meta_description": "How to get started with the Claude Agent SDK and best practices for using it.",
   "og_title": "Building agents with the Claude Agent SDK | Claude by Anthropic",
@@ -18,8 +18,8 @@
   "publish_date": "Sep 29, 20",
   "language": "en-US",
   "canonical_url": "https://claude.com/blog/building-agents-with-the-claude-agent-sdk",
-  "word_count": 2541,
-  "reading_time_min": 13,
+  "word_count": 2490,
+  "reading_time_min": 12,
   "outline": [
     {
       "level": 1,
@@ -111,19 +111,19 @@
     },
     {
       "level": 3,
-      "text": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans"
+      "text": "Maximizing the value of your Claude Code sessions"
     },
     {
       "level": 3,
-      "text": "Running auto mode in production"
+      "text": "Product management on the AI exponential"
     },
     {
       "level": 3,
-      "text": "Millennium and Anthropic are building a digital risk analyst with Claude"
+      "text": "The evolution of agentic surfaces: building with Claude Managed Agents"
     },
     {
       "level": 3,
-      "text": "Claude models explained: choosing the best model for your use case"
+      "text": "Using Claude Code: The unreasonable effectiveness of HTML"
     },
     {
       "level": 2,

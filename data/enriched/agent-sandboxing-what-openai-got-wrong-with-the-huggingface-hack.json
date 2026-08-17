@@ -1,7 +1,7 @@
 {
   "slug": "agent-sandboxing-what-openai-got-wrong-with-the-huggingface-hack",
   "url": "https://www.openhands.dev/blog/agent-sandboxing-what-openai-got-wrong-with-the-huggingface-hack",
-  "crawled_at": "2026-08-10T09:18:10.252833+00:00",
+  "crawled_at": "2026-08-17T08:40:31.366448+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://www.openhands.dev/blog/agent-sandboxing-what-openai-got-wrong-with-the-huggingface-hack",
@@ -19,7 +19,7 @@
   "publish_date": "2026-07-22",
   "language": "en",
   "canonical_url": "https://www.openhands.dev/blog/agent-sandboxing-what-openai-got-wrong-with-the-huggingface-hack",
-  "word_count": 1599,
+  "word_count": 1613,
   "reading_time_min": 8,
   "outline": [
     {

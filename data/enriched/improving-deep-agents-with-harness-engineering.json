@@ -1,12 +1,12 @@
 {
   "slug": "improving-deep-agents-with-harness-engineering",
   "url": "https://blog.langchain.com/improving-deep-agents-with-harness-engineering/",
-  "crawled_at": "2026-08-10T09:19:34.468466+00:00",
+  "crawled_at": "2026-08-17T08:41:58.914123+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://www.langchain.com/blog/improving-deep-agents-with-harness-engineering",
   "content_type": "article",
-  "last_modified": "Sun, 09 Aug 2026 21:42:49 GMT",
+  "last_modified": "Mon, 17 Aug 2026 08:41:59 GMT",
   "fetched_title": "Improving Deep Agents with harness engineering",
   "meta_description": "Harness engineering improved LangChain's coding agent from Top 30 to Top 5 on Terminal Bench using self-verification, tracing, and context optimization.",
   "og_title": "Improving Deep Agents with harness engineering",
@@ -19,7 +19,7 @@
   "publish_date": "2026-02-17",
   "language": "en",
   "canonical_url": "https://www.langchain.com/blog/improving-deep-agents-with-harness-engineering",
-  "word_count": 1908,
+  "word_count": 1906,
   "reading_time_min": 10,
   "outline": [
     {

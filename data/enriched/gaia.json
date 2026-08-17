@@ -1,7 +1,7 @@
 {
   "slug": "gaia",
   "url": "https://huggingface.co/datasets/gaia-benchmark/GAIA",
-  "crawled_at": "2026-08-10T09:19:12.993721+00:00",
+  "crawled_at": "2026-08-17T08:41:37.131080+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://huggingface.co/datasets/gaia-benchmark/GAIA",

@@ -1,15 +1,15 @@
 {
   "slug": "citadel",
   "url": "https://github.com/SethGammon/Citadel",
-  "crawled_at": "2026-08-10T09:18:47.231982+00:00",
+  "crawled_at": "2026-08-17T08:41:10.480030+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://github.com/SethGammon/Citadel",
   "content_type": "github",
   "last_modified": "",
-  "github_stars": 845,
-  "github_forks": 80,
-  "github_open_issues": 3,
+  "github_stars": 903,
+  "github_forks": 83,
+  "github_open_issues": 0,
   "github_topics": [
     "agent-orchestration",
     "agent-workflow",
@@ -23,21 +23,21 @@
   "github_language": "JavaScript",
   "github_description": "The operating layer for Claude Code + OpenAI Codex: persistent project memory, intent routing, safety hooks, cost telemetry, and parallel agent fleets.",
   "github_created": "2026-03-20",
-  "github_updated": "2026-08-10",
-  "github_pushed": "2026-08-10",
+  "github_updated": "2026-08-14",
+  "github_pushed": "2026-08-13",
   "github_license": "MIT",
   "github_homepage": "https://sethgammon.github.io/Citadel/",
   "fetched_title": "GitHub - SethGammon/Citadel: The operating layer for Claude Code + OpenAI Codex: persistent project memory, intent routing, safety hooks, cost telemetry, and parallel agent fleets. \u00b7 GitHub",
   "meta_description": "The operating layer for Claude Code + OpenAI Codex: persistent project memory, intent routing, safety hooks, cost telemetry, and parallel agent fleets. - SethGammon/Citadel",
   "og_title": "GitHub - SethGammon/Citadel: The operating layer for Claude Code + OpenAI Codex: persistent project memory, intent routing, safety hooks, cost telemetry, and parallel agent fleets.",
   "og_description": "The operating layer for Claude Code + OpenAI Codex: persistent project memory, intent routing, safety hooks, cost telemetry, and parallel agent fleets. - SethGammon/Citadel",
-  "og_image": "https://opengraph.githubassets.com/c5004b1b2e049636e28cebdf75ffb5190fc4e8d3b048b7f99d934916dadb32a9/SethGammon/Citadel",
+  "og_image": "https://opengraph.githubassets.com/06da70c98a7b19ebb14ee08b9d6a9483d06e06a5dfa7fe997af72880ea5b6ce8/SethGammon/Citadel",
   "og_type": "object",
   "twitter_card": "summary_large_image",
-  "twitter_image": "https://opengraph.githubassets.com/c5004b1b2e049636e28cebdf75ffb5190fc4e8d3b048b7f99d934916dadb32a9/SethGammon/Citadel",
+  "twitter_image": "https://opengraph.githubassets.com/06da70c98a7b19ebb14ee08b9d6a9483d06e06a5dfa7fe997af72880ea5b6ce8/SethGammon/Citadel",
   "language": "en",
-  "word_count": 1666,
-  "reading_time_min": 8,
+  "word_count": 2055,
+  "reading_time_min": 10,
   "outline": [
     {
       "level": 3,
@@ -60,8 +60,24 @@
       "text": "Repository files navigation"
     },
     {
+      "level": 1,
+      "text": "Citadel"
+    },
+    {
       "level": 2,
-      "text": "Quick install"
+      "text": "Install"
+    },
+    {
+      "level": 3,
+      "text": "OpenAI Codex"
+    },
+    {
+      "level": 3,
+      "text": "Claude Code"
+    },
+    {
+      "level": 3,
+      "text": "Prefer to have your agent install it?"
     },
     {
       "level": 2,
@@ -73,31 +89,23 @@
     },
     {
       "level": 2,
-      "text": "Evidence status"
+      "text": "What Citadel can prove"
+    },
+    {
+      "level": 3,
+      "text": "Source-only proof program"
     },
     {
       "level": 2,
-      "text": "One operating loop"
+      "text": "Trust boundary"
     },
     {
       "level": 2,
-      "text": "Portable operations"
-    },
-    {
-      "level": 2,
-      "text": "Trust and scope"
-    },
-    {
-      "level": 2,
-      "text": "Choose your documentation"
+      "text": "Documentation"
     },
     {
       "level": 2,
       "text": "Common questions"
-    },
-    {
-      "level": 2,
-      "text": "Community"
     },
     {
       "level": 2,

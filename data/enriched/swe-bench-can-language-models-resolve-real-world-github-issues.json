@@ -1,7 +1,7 @@
 {
   "slug": "swe-bench-can-language-models-resolve-real-world-github-issues",
   "url": "https://arxiv.org/abs/2310.06770",
-  "crawled_at": "2026-08-10T09:20:13.560966+00:00",
+  "crawled_at": "2026-08-17T08:42:38.673114+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://arxiv.org/abs/2310.06770",
@@ -17,7 +17,7 @@
   "twitter_image": "https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png",
   "language": "en",
   "canonical_url": "https://arxiv.org/abs/2310.06770",
-  "word_count": 732,
+  "word_count": 727,
   "reading_time_min": 4,
   "outline": [
     {
