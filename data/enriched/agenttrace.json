@@ -1,15 +1,15 @@
 {
   "slug": "agenttrace",
   "url": "https://github.com/luoyuctl/agenttrace",
-  "crawled_at": "2026-08-17T08:40:47.754482+00:00",
+  "crawled_at": "2026-08-24T08:45:16.160587+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://github.com/luoyuctl/agenttrace",
   "content_type": "github",
   "last_modified": "",
-  "github_stars": 119,
+  "github_stars": 122,
   "github_forks": 6,
-  "github_open_issues": 8,
+  "github_open_issues": 7,
   "github_topics": [
     "ai-agent-observability",
     "ai-agents",
@@ -30,26 +30,22 @@
   "github_language": "Rust",
   "github_description": "Local-first Rust TUI/CLI for auditing AI coding-agent sessions: cost, tokens, latency, failures, and health\uff5c\u672c\u5730\u4f18\u5148 Rust TUI/CLI\uff0c\u5ba1\u8ba1 AI \u7f16\u7a0b Agent \u4f1a\u8bdd\u7684\u6210\u672c\u3001Token\u3001\u5ef6\u8fdf\u3001\u5931\u8d25\u4e0e\u5065\u5eb7\u5ea6",
   "github_created": "2026-05-01",
-  "github_updated": "2026-08-13",
-  "github_pushed": "2026-08-17",
+  "github_updated": "2026-08-24",
+  "github_pushed": "2026-08-24",
   "github_license": "MIT",
   "github_homepage": "https://github.com/luoyuctl/agenttrace",
   "fetched_title": "GitHub - luoyuctl/agenttrace: Local-first Rust TUI/CLI for auditing AI coding-agent sessions: cost, tokens, latency, failures, and health\uff5c\u672c\u5730\u4f18\u5148 Rust TUI/CLI\uff0c\u5ba1\u8ba1 AI \u7f16\u7a0b Agent \u4f1a\u8bdd\u7684\u6210\u672c\u3001Token\u3001\u5ef6\u8fdf\u3001\u5931\u8d25\u4e0e\u5065\u5eb7\u5ea6 \u00b7 GitHub",
   "meta_description": "Local-first Rust TUI/CLI for auditing AI coding-agent sessions: cost, tokens, latency, failures, and health\uff5c\u672c\u5730\u4f18\u5148 Rust TUI/CLI\uff0c\u5ba1\u8ba1 AI \u7f16\u7a0b Agent \u4f1a\u8bdd\u7684\u6210\u672c\u3001Token\u3001\u5ef6\u8fdf\u3001\u5931\u8d25\u4e0e\u5065\u5eb7\u5ea6 - luoyuctl/agenttrace",
   "og_title": "GitHub - luoyuctl/agenttrace: Local-first Rust TUI/CLI for auditing AI coding-agent sessions: cost, tokens, latency, failures, and health\uff5c\u672c\u5730\u4f18\u5148 Rust TUI/CLI\uff0c\u5ba1\u8ba1 AI \u7f16\u7a0b Agent \u4f1a\u8bdd\u7684\u6210\u672c\u3001Token\u3001\u5ef6\u8fdf\u3001\u5931\u8d25\u4e0e\u5065\u5eb7\u5ea6",
   "og_description": "Local-first Rust TUI/CLI for auditing AI coding-agent sessions: cost, tokens, latency, failures, and health\uff5c\u672c\u5730\u4f18\u5148 Rust TUI/CLI\uff0c\u5ba1\u8ba1 AI \u7f16\u7a0b Agent \u4f1a\u8bdd\u7684\u6210\u672c\u3001Token\u3001\u5ef6\u8fdf\u3001\u5931\u8d25\u4e0e\u5065\u5eb7\u5ea6 - luoyuctl/agenttrace",
-  "og_image": "https://opengraph.githubassets.com/e8d704db86157689f7533d66ec10a22e76714981df3b114c376cd8abe7d42e7c/luoyuctl/agenttrace",
+  "og_image": "https://opengraph.githubassets.com/4d3cac38f123277335c0e445bd138e3ca1677b58aef6113842f9ca0ed9adfda3/luoyuctl/agenttrace",
   "og_type": "object",
   "twitter_card": "summary_large_image",
-  "twitter_image": "https://opengraph.githubassets.com/e8d704db86157689f7533d66ec10a22e76714981df3b114c376cd8abe7d42e7c/luoyuctl/agenttrace",
+  "twitter_image": "https://opengraph.githubassets.com/4d3cac38f123277335c0e445bd138e3ca1677b58aef6113842f9ca0ed9adfda3/luoyuctl/agenttrace",
   "language": "en",
-  "word_count": 1147,
-  "reading_time_min": 6,
+  "word_count": 1087,
+  "reading_time_min": 5,
   "outline": [
-    {
-      "level": 2,
-      "text": "Folders and files"
-    },
     {
       "level": 2,
       "text": "Latest commit"
@@ -57,6 +53,10 @@
     {
       "level": 2,
       "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Folders and files"
     },
     {
       "level": 2,

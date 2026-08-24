@@ -1,13 +1,13 @@
 {
   "slug": "theagentcompany",
   "url": "https://github.com/TheAgentCompany/TheAgentCompany",
-  "crawled_at": "2026-08-17T08:42:49.917217+00:00",
+  "crawled_at": "2026-08-24T08:47:24.918864+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://github.com/TheAgentCompany/TheAgentCompany",
   "content_type": "github",
   "last_modified": "",
-  "github_stars": 765,
+  "github_stars": 769,
   "github_forks": 121,
   "github_open_issues": 25,
   "github_topics": [
@@ -21,7 +21,7 @@
   "github_language": "Python",
   "github_description": "An agent benchmark with tasks in a simulated software company.",
   "github_created": "2024-03-11",
-  "github_updated": "2026-08-16",
+  "github_updated": "2026-08-23",
   "github_pushed": "2025-11-17",
   "github_license": "MIT",
   "github_homepage": "https://the-agent-company.com",
@@ -29,10 +29,10 @@
   "meta_description": "An agent benchmark with tasks in a simulated software company. - TheAgentCompany/TheAgentCompany",
   "og_title": "GitHub - TheAgentCompany/TheAgentCompany: An agent benchmark with tasks in a simulated software company.",
   "og_description": "An agent benchmark with tasks in a simulated software company. - TheAgentCompany/TheAgentCompany",
-  "og_image": "https://opengraph.githubassets.com/8868448eed9918b8e8d8a5734b6817be697143c8b5f88f798def3542dcd12117/TheAgentCompany/TheAgentCompany",
+  "og_image": "https://opengraph.githubassets.com/8eed3a74d5296a9f6e0586d1c42cff5be7dc50cca0914dd6d14eb903ccd690c0/TheAgentCompany/TheAgentCompany",
   "og_type": "object",
   "twitter_card": "summary_large_image",
-  "twitter_image": "https://opengraph.githubassets.com/8868448eed9918b8e8d8a5734b6817be697143c8b5f88f798def3542dcd12117/TheAgentCompany/TheAgentCompany",
+  "twitter_image": "https://opengraph.githubassets.com/8eed3a74d5296a9f6e0586d1c42cff5be7dc50cca0914dd6d14eb903ccd690c0/TheAgentCompany/TheAgentCompany",
   "language": "en",
   "word_count": 1161,
   "reading_time_min": 6,
@@ -43,15 +43,15 @@
     },
     {
       "level": 2,
-      "text": "Folders and files"
-    },
-    {
-      "level": 2,
       "text": "Latest commit"
     },
     {
       "level": 2,
       "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Folders and files"
     },
     {
       "level": 2,

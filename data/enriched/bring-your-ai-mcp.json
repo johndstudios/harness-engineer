@@ -1,7 +1,7 @@
 {
   "slug": "bring-your-ai-mcp",
   "url": "https://github.com/unitedideas/bringyour-mcp",
-  "crawled_at": "2026-08-17T08:41:01.521766+00:00",
+  "crawled_at": "2026-08-24T08:45:31.150779+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://github.com/unitedideas/bringyour-mcp",
@@ -45,15 +45,15 @@
   "outline": [
     {
       "level": 2,
-      "text": "Folders and files"
-    },
-    {
-      "level": 2,
       "text": "Latest commit"
     },
     {
       "level": 2,
       "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Folders and files"
     },
     {
       "level": 2,

@@ -1,7 +1,7 @@
 {
   "slug": "llm-colosseum-leaderboard",
   "url": "https://github.com/OpenGenerativeAI/llm-colosseum",
-  "crawled_at": "2026-08-17T08:42:06.777725+00:00",
+  "crawled_at": "2026-08-24T08:46:40.541037+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://github.com/OpenGenerativeAI/llm-colosseum",
@@ -41,15 +41,15 @@
     },
     {
       "level": 2,
-      "text": "Folders and files"
-    },
-    {
-      "level": 2,
       "text": "Latest commit"
     },
     {
       "level": 2,
       "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Folders and files"
     },
     {
       "level": 2,

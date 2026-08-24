@@ -1,20 +1,20 @@
 {
   "slug": "humanlayerskills",
   "url": "https://github.com/humanlayer/skills",
-  "crawled_at": "2026-08-17T08:41:56.505809+00:00",
+  "crawled_at": "2026-08-24T08:46:29.310764+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://github.com/humanlayer/skills",
   "content_type": "github",
   "last_modified": "",
-  "github_stars": 338,
-  "github_forks": 11,
+  "github_stars": 453,
+  "github_forks": 19,
   "github_open_issues": 4,
   "github_topics": [],
   "github_language": "TypeScript",
   "github_description": null,
   "github_created": "2026-03-18",
-  "github_updated": "2026-08-17",
+  "github_updated": "2026-08-24",
   "github_pushed": "2026-08-13",
   "github_license": "MIT",
   "github_homepage": null,
@@ -22,10 +22,10 @@
   "meta_description": "Contribute to humanlayer/skills development by creating an account on GitHub.",
   "og_title": "GitHub - humanlayer/skills",
   "og_description": "Contribute to humanlayer/skills development by creating an account on GitHub.",
-  "og_image": "https://opengraph.githubassets.com/497d72ceec81a1833486794c43e49806977660af135733eb9c77ea579cb78a79/humanlayer/skills",
+  "og_image": "https://opengraph.githubassets.com/0c7837a2494c8ed755e2de5fb25e25801b30b0c82f60530711bb94862df31b97/humanlayer/skills",
   "og_type": "object",
   "twitter_card": "summary_large_image",
-  "twitter_image": "https://opengraph.githubassets.com/497d72ceec81a1833486794c43e49806977660af135733eb9c77ea579cb78a79/humanlayer/skills",
+  "twitter_image": "https://opengraph.githubassets.com/0c7837a2494c8ed755e2de5fb25e25801b30b0c82f60530711bb94862df31b97/humanlayer/skills",
   "language": "en",
   "word_count": 324,
   "reading_time_min": 2,
@@ -36,15 +36,15 @@
     },
     {
       "level": 2,
-      "text": "Folders and files"
-    },
-    {
-      "level": 2,
       "text": "Latest commit"
     },
     {
       "level": 2,
       "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Folders and files"
     },
     {
       "level": 2,

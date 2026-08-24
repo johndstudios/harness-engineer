@@ -1,7 +1,7 @@
 {
   "slug": "assistantbench",
   "url": "https://github.com/oriyor/AssistantBench",
-  "crawled_at": "2026-08-17T08:40:55.210657+00:00",
+  "crawled_at": "2026-08-24T08:45:24.545010+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://github.com/oriyor/AssistantBench",
@@ -32,15 +32,15 @@
   "outline": [
     {
       "level": 2,
-      "text": "Folders and files"
-    },
-    {
-      "level": 2,
       "text": "Latest commit"
     },
     {
       "level": 2,
       "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Folders and files"
     },
     {
       "level": 2,

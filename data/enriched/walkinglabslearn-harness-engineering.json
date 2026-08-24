@@ -1,21 +1,22 @@
 {
   "slug": "walkinglabslearn-harness-engineering",
   "url": "https://github.com/walkinglabs/learn-harness-engineering",
-  "crawled_at": "2026-08-17T08:43:02.521597+00:00",
+  "crawled_at": "2026-08-24T08:47:37.424135+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://github.com/walkinglabs/learn-harness-engineering",
   "content_type": "github",
   "last_modified": "",
-  "github_stars": 11719,
-  "github_forks": 1255,
-  "github_open_issues": 6,
+  "github_stars": 13952,
+  "github_forks": 1393,
+  "github_open_issues": 8,
   "github_topics": [
     "agent",
     "agentic",
     "agentic-ai",
     "ai",
     "ai-agent",
+    "ai-agents",
     "dsh",
     "dsh-plugin",
     "harness",
@@ -26,29 +27,25 @@
   "github_language": "TypeScript",
   "github_description": "Harness engineering beginner tutorial, from 0 to 1",
   "github_created": "2026-03-29",
-  "github_updated": "2026-08-17",
-  "github_pushed": "2026-08-06",
+  "github_updated": "2026-08-24",
+  "github_pushed": "2026-08-21",
   "github_license": "MIT",
   "github_homepage": "https://walkinglabs.github.io/learn-harness-engineering/",
   "fetched_title": "GitHub - walkinglabs/learn-harness-engineering: Harness engineering beginner tutorial, from 0 to 1 \u00b7 GitHub",
   "meta_description": "Harness engineering beginner tutorial, from 0 to 1 - walkinglabs/learn-harness-engineering",
   "og_title": "GitHub - walkinglabs/learn-harness-engineering: Harness engineering beginner tutorial, from 0 to 1",
   "og_description": "Harness engineering beginner tutorial, from 0 to 1 - walkinglabs/learn-harness-engineering",
-  "og_image": "https://opengraph.githubassets.com/46595adb8bf9d5209ee6a3808b0a42dbed2f9e0847254945c9eeb9a82b39565e/walkinglabs/learn-harness-engineering",
+  "og_image": "https://opengraph.githubassets.com/64382a3b3ec3faa42ee958166139f79799d53fe1408e533413111c377e04638a/walkinglabs/learn-harness-engineering",
   "og_type": "object",
   "twitter_card": "summary_large_image",
-  "twitter_image": "https://opengraph.githubassets.com/46595adb8bf9d5209ee6a3808b0a42dbed2f9e0847254945c9eeb9a82b39565e/walkinglabs/learn-harness-engineering",
+  "twitter_image": "https://opengraph.githubassets.com/64382a3b3ec3faa42ee958166139f79799d53fe1408e533413111c377e04638a/walkinglabs/learn-harness-engineering",
   "language": "en",
-  "word_count": 4025,
-  "reading_time_min": 20,
+  "word_count": 4171,
+  "reading_time_min": 21,
   "outline": [
     {
       "level": 3,
       "text": "Uh oh!"
-    },
-    {
-      "level": 2,
-      "text": "Folders and files"
     },
     {
       "level": 2,
@@ -57,6 +54,10 @@
     {
       "level": 2,
       "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Folders and files"
     },
     {
       "level": 2,

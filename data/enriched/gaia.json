@@ -1,7 +1,7 @@
 {
   "slug": "gaia",
   "url": "https://huggingface.co/datasets/gaia-benchmark/GAIA",
-  "crawled_at": "2026-08-17T08:41:37.131080+00:00",
+  "crawled_at": "2026-08-24T08:46:07.480794+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://huggingface.co/datasets/gaia-benchmark/GAIA",
@@ -16,7 +16,7 @@
   "twitter_card": "summary_large_image",
   "twitter_image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/datasets/gaia-benchmark/GAIA.png",
   "canonical_url": "https://huggingface.co/datasets/gaia-benchmark/GAIA",
-  "word_count": 476,
+  "word_count": 472,
   "reading_time_min": 2,
   "outline": [
     {

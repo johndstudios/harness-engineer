@@ -1,14 +1,14 @@
 {
   "slug": "webarena-verified",
   "url": "https://github.com/ServiceNow/webarena-verified",
-  "crawled_at": "2026-08-17T08:43:04.074342+00:00",
+  "crawled_at": "2026-08-24T08:47:39.047210+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://github.com/ServiceNow/webarena-verified",
   "content_type": "github",
   "last_modified": "",
   "github_stars": 51,
-  "github_forks": 7,
+  "github_forks": 8,
   "github_open_issues": 12,
   "github_topics": [],
   "github_language": "Python",
@@ -36,15 +36,15 @@
     },
     {
       "level": 2,
-      "text": "Folders and files"
-    },
-    {
-      "level": 2,
       "text": "Latest commit"
     },
     {
       "level": 2,
       "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Folders and files"
     },
     {
       "level": 2,

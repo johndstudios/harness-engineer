@@ -1,15 +1,15 @@
 {
   "slug": "browser-usebrowser-harness",
   "url": "https://github.com/browser-use/browser-harness",
-  "crawled_at": "2026-08-17T08:41:03.685494+00:00",
+  "crawled_at": "2026-08-24T08:45:33.309372+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://github.com/browser-use/browser-harness",
   "content_type": "github",
   "last_modified": "",
-  "github_stars": 16730,
-  "github_forks": 1591,
-  "github_open_issues": 260,
+  "github_stars": 17083,
+  "github_forks": 1638,
+  "github_open_issues": 272,
   "github_topics": [
     "ai-agent",
     "browser-agent",
@@ -29,18 +29,18 @@
   "github_language": "Python",
   "github_description": "Browser Harness | Self-healing harness that enables LLMs to complete any task.",
   "github_created": "2026-04-17",
-  "github_updated": "2026-08-17",
-  "github_pushed": "2026-08-16",
+  "github_updated": "2026-08-24",
+  "github_pushed": "2026-08-22",
   "github_license": "MIT",
   "github_homepage": "https://browser-harness.com",
   "fetched_title": "GitHub - browser-use/browser-harness: Browser Harness | Self-healing harness that enables LLMs to complete any task. \u00b7 GitHub",
   "meta_description": "Browser Harness | Self-healing harness that enables LLMs to complete any task. - browser-use/browser-harness",
   "og_title": "GitHub - browser-use/browser-harness: Browser Harness | Self-healing harness that enables LLMs to complete any task.",
   "og_description": "Browser Harness | Self-healing harness that enables LLMs to complete any task. - browser-use/browser-harness",
-  "og_image": "https://opengraph.githubassets.com/094c7cc071004aeea85f70aba646bee24ef11d0e1d1497479087f29462cb309c/browser-use/browser-harness",
+  "og_image": "https://opengraph.githubassets.com/ae0ee14ac48b5980c789f6f7202e1e267afb18ea6f9618e19c6133e9293bb1aa/browser-use/browser-harness",
   "og_type": "object",
   "twitter_card": "summary_large_image",
-  "twitter_image": "https://opengraph.githubassets.com/094c7cc071004aeea85f70aba646bee24ef11d0e1d1497479087f29462cb309c/browser-use/browser-harness",
+  "twitter_image": "https://opengraph.githubassets.com/ae0ee14ac48b5980c789f6f7202e1e267afb18ea6f9618e19c6133e9293bb1aa/browser-use/browser-harness",
   "language": "en",
   "word_count": 495,
   "reading_time_min": 2,
@@ -51,15 +51,15 @@
     },
     {
       "level": 2,
-      "text": "Folders and files"
-    },
-    {
-      "level": 2,
       "text": "Latest commit"
     },
     {
       "level": 2,
       "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Folders and files"
     },
     {
       "level": 2,

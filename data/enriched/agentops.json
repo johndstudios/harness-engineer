@@ -1,15 +1,15 @@
 {
   "slug": "agentops",
   "url": "https://github.com/AgentOps-AI/agentops",
-  "crawled_at": "2026-08-17T08:40:43.118598+00:00",
+  "crawled_at": "2026-08-24T08:45:11.092026+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://github.com/AgentOps-AI/agentops",
   "content_type": "github",
   "last_modified": "",
-  "github_stars": 5778,
-  "github_forks": 613,
-  "github_open_issues": 176,
+  "github_stars": 5795,
+  "github_forks": 614,
+  "github_open_issues": 175,
   "github_topics": [
     "agent",
     "agentops",
@@ -32,7 +32,7 @@
   "github_language": "Python",
   "github_description": "Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks including CrewAI, Agno, OpenAI Agents SDK, Langchain, Autogen, AG2, and CamelAI",
   "github_created": "2023-08-15",
-  "github_updated": "2026-08-15",
+  "github_updated": "2026-08-24",
   "github_pushed": "2026-06-25",
   "github_license": "MIT",
   "github_homepage": "https://agentops.ai",
@@ -40,12 +40,12 @@
   "meta_description": "Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks including CrewAI, Agno, OpenAI Agents SDK, Langchain, Autogen, AG2, and CamelAI - AgentOps-AI/agentops",
   "og_title": "GitHub - AgentOps-AI/agentops: Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks including CrewAI, Agno, OpenAI Agents SDK, Langchain, Autogen, AG2, and CamelAI",
   "og_description": "Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks including CrewAI, Agno, OpenAI Agents SDK, Langchain, Autogen, AG2, and...",
-  "og_image": "https://opengraph.githubassets.com/d372c4cb3a2c61b9d61699e17f5174a92c58df082ee41ec6279f7883f1d77450/AgentOps-AI/agentops",
+  "og_image": "https://opengraph.githubassets.com/1bd9163b4ce6df559b06396b8e3977b2712f155b4499aca99be966f5e696bb74/AgentOps-AI/agentops",
   "og_type": "object",
   "twitter_card": "summary_large_image",
-  "twitter_image": "https://opengraph.githubassets.com/d372c4cb3a2c61b9d61699e17f5174a92c58df082ee41ec6279f7883f1d77450/AgentOps-AI/agentops",
+  "twitter_image": "https://opengraph.githubassets.com/1bd9163b4ce6df559b06396b8e3977b2712f155b4499aca99be966f5e696bb74/AgentOps-AI/agentops",
   "language": "en",
-  "word_count": 2763,
+  "word_count": 2748,
   "reading_time_min": 14,
   "outline": [
     {
@@ -54,15 +54,15 @@
     },
     {
       "level": 2,
-      "text": "Folders and files"
-    },
-    {
-      "level": 2,
       "text": "Latest commit"
     },
     {
       "level": 2,
       "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Folders and files"
     },
     {
       "level": 2,

@@ -1,15 +1,15 @@
 {
   "slug": "autogen",
   "url": "https://github.com/microsoft/autogen",
-  "crawled_at": "2026-08-17T08:40:57.503879+00:00",
+  "crawled_at": "2026-08-24T08:45:27.062188+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://github.com/microsoft/autogen",
   "content_type": "github",
   "last_modified": "",
-  "github_stars": 60461,
-  "github_forks": 9114,
-  "github_open_issues": 998,
+  "github_stars": 60603,
+  "github_forks": 9144,
+  "github_open_issues": 996,
   "github_topics": [
     "agentic",
     "agentic-agi",
@@ -25,7 +25,7 @@
   "github_language": "Python",
   "github_description": "A programming framework for agentic AI",
   "github_created": "2023-08-18",
-  "github_updated": "2026-08-17",
+  "github_updated": "2026-08-24",
   "github_pushed": "2026-04-15",
   "github_license": "CC-BY-4.0",
   "github_homepage": "https://microsoft.github.io/autogen/",
@@ -33,10 +33,10 @@
   "meta_description": "A programming framework for agentic AI. Contribute to microsoft/autogen development by creating an account on GitHub.",
   "og_title": "GitHub - microsoft/autogen: A programming framework for agentic AI",
   "og_description": "A programming framework for agentic AI. Contribute to microsoft/autogen development by creating an account on GitHub.",
-  "og_image": "https://opengraph.githubassets.com/f4421720ac177d41e44e3eb74cea7454fe4757951cb602ba1d5811220e11187f/microsoft/autogen",
+  "og_image": "https://opengraph.githubassets.com/513c1d04febcfff85dc520d270ed1e2dd14cda76379bb8364372af5644234db5/microsoft/autogen",
   "og_type": "object",
   "twitter_card": "summary_large_image",
-  "twitter_image": "https://opengraph.githubassets.com/f4421720ac177d41e44e3eb74cea7454fe4757951cb602ba1d5811220e11187f/microsoft/autogen",
+  "twitter_image": "https://opengraph.githubassets.com/513c1d04febcfff85dc520d270ed1e2dd14cda76379bb8364372af5644234db5/microsoft/autogen",
   "language": "en",
   "word_count": 1587,
   "reading_time_min": 8,
@@ -47,15 +47,15 @@
     },
     {
       "level": 2,
-      "text": "Folders and files"
-    },
-    {
-      "level": 2,
       "text": "Latest commit"
     },
     {
       "level": 2,
       "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Folders and files"
     },
     {
       "level": 2,

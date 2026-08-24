@@ -1,20 +1,20 @@
 {
   "slug": "androidworld",
   "url": "https://github.com/google-research/android_world",
-  "crawled_at": "2026-08-17T08:40:51.070481+00:00",
+  "crawled_at": "2026-08-24T08:45:19.941024+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://github.com/google-research/android_world",
   "content_type": "github",
   "last_modified": "",
-  "github_stars": 848,
+  "github_stars": 855,
   "github_forks": 178,
   "github_open_issues": 47,
   "github_topics": [],
   "github_language": "Python",
   "github_description": "AndroidWorld is an environment and benchmark for autonomous agents",
   "github_created": "2024-05-13",
-  "github_updated": "2026-08-17",
+  "github_updated": "2026-08-23",
   "github_pushed": "2026-07-16",
   "github_license": "Apache-2.0",
   "github_homepage": "",
@@ -22,10 +22,10 @@
   "meta_description": "AndroidWorld is an environment and benchmark for autonomous agents - google-research/android_world",
   "og_title": "GitHub - google-research/android_world: AndroidWorld is an environment and benchmark for autonomous agents",
   "og_description": "AndroidWorld is an environment and benchmark for autonomous agents - google-research/android_world",
-  "og_image": "https://opengraph.githubassets.com/a6155c3495427499f4497d66b1bdf106c49c629e87b6690c0fbd6c3650c2619e/google-research/android_world",
+  "og_image": "https://opengraph.githubassets.com/bc190d072c08c3983e57ef760bf12d659bc2c7c00b9ca9b5563d1524a49573ba/google-research/android_world",
   "og_type": "object",
   "twitter_card": "summary_large_image",
-  "twitter_image": "https://opengraph.githubassets.com/a6155c3495427499f4497d66b1bdf106c49c629e87b6690c0fbd6c3650c2619e/google-research/android_world",
+  "twitter_image": "https://opengraph.githubassets.com/bc190d072c08c3983e57ef760bf12d659bc2c7c00b9ca9b5563d1524a49573ba/google-research/android_world",
   "language": "en",
   "word_count": 1392,
   "reading_time_min": 7,
@@ -36,15 +36,15 @@
     },
     {
       "level": 2,
-      "text": "Folders and files"
-    },
-    {
-      "level": 2,
       "text": "Latest commit"
     },
     {
       "level": 2,
       "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Folders and files"
     },
     {
       "level": 2,

@@ -1,7 +1,7 @@
 {
   "slug": "uni-cli",
   "url": "https://github.com/olo-dot-io/Uni-CLI",
-  "crawled_at": "2026-08-17T08:42:57.847473+00:00",
+  "crawled_at": "2026-08-24T08:47:32.904259+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://github.com/olo-dot-io/Uni-CLI",
@@ -35,18 +35,18 @@
   "github_language": "TypeScript",
   "github_description": "One command for every interface\u2014search, run, and inspect real software across APIs, browsers, desktops, local tools, and MCP.",
   "github_created": "2026-04-04",
-  "github_updated": "2026-08-17",
-  "github_pushed": "2026-08-16",
+  "github_updated": "2026-08-21",
+  "github_pushed": "2026-08-21",
   "github_license": "Apache-2.0",
   "github_homepage": "https://olo-dot-io.github.io/Uni-CLI/",
   "fetched_title": "GitHub - olo-dot-io/Uni-CLI: One command for every interface\u2014search, run, and inspect real software across APIs, browsers, desktops, local tools, and MCP. \u00b7 GitHub",
   "meta_description": "One command for every interface\u2014search, run, and inspect real software across APIs, browsers, desktops, local tools, and MCP. - olo-dot-io/Uni-CLI",
   "og_title": "GitHub - olo-dot-io/Uni-CLI: One command for every interface\u2014search, run, and inspect real software across APIs, browsers, desktops, local tools, and MCP.",
   "og_description": "One command for every interface\u2014search, run, and inspect real software across APIs, browsers, desktops, local tools, and MCP. - olo-dot-io/Uni-CLI",
-  "og_image": "https://opengraph.githubassets.com/616976c17841bbbd89481137f468c0f8da07fc01b70ba41c6c110cb1624ee9d2/olo-dot-io/Uni-CLI",
+  "og_image": "https://opengraph.githubassets.com/616eaecb18508b3021b46b08920b55165e4ca3d908b48f5831f43872e4f6ad3c/olo-dot-io/Uni-CLI",
   "og_type": "object",
   "twitter_card": "summary_large_image",
-  "twitter_image": "https://opengraph.githubassets.com/616976c17841bbbd89481137f468c0f8da07fc01b70ba41c6c110cb1624ee9d2/olo-dot-io/Uni-CLI",
+  "twitter_image": "https://opengraph.githubassets.com/616eaecb18508b3021b46b08920b55165e4ca3d908b48f5831f43872e4f6ad3c/olo-dot-io/Uni-CLI",
   "language": "en",
   "word_count": 1875,
   "reading_time_min": 9,
@@ -57,15 +57,15 @@
     },
     {
       "level": 2,
-      "text": "Folders and files"
-    },
-    {
-      "level": 2,
       "text": "Latest commit"
     },
     {
       "level": 2,
       "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Folders and files"
     },
     {
       "level": 2,

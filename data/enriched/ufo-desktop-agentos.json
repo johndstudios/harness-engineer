@@ -1,15 +1,15 @@
 {
   "slug": "ufo-desktop-agentos",
   "url": "https://github.com/microsoft/UFO",
-  "crawled_at": "2026-08-17T08:42:55.778106+00:00",
+  "crawled_at": "2026-08-24T08:47:30.537155+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://github.com/microsoft/UFO",
   "content_type": "github",
   "last_modified": "",
-  "github_stars": 9496,
-  "github_forks": 1049,
-  "github_open_issues": 77,
+  "github_stars": 9545,
+  "github_forks": 1050,
+  "github_open_issues": 78,
   "github_topics": [
     "agent",
     "automation",
@@ -21,7 +21,7 @@
   "github_language": "Python",
   "github_description": "UFO\u00b3: Weaving the Digital Agent Galaxy",
   "github_created": "2024-01-08",
-  "github_updated": "2026-08-17",
+  "github_updated": "2026-08-24",
   "github_pushed": "2026-08-10",
   "github_license": "MIT",
   "github_homepage": "https://microsoft.github.io/UFO/",
@@ -29,10 +29,10 @@
   "meta_description": "UFO\u00b3: Weaving the Digital Agent Galaxy. Contribute to microsoft/UFO development by creating an account on GitHub.",
   "og_title": "GitHub - microsoft/UFO: UFO\u00b3: Weaving the Digital Agent Galaxy",
   "og_description": "UFO\u00b3: Weaving the Digital Agent Galaxy. Contribute to microsoft/UFO development by creating an account on GitHub.",
-  "og_image": "https://opengraph.githubassets.com/a12bd9ca3cdce59dc1043b60274efa7468c9655320553d430920634cf902f1aa/microsoft/UFO",
+  "og_image": "https://opengraph.githubassets.com/13c1e277912bfabdbd9c30461f4eadba3f1d522e072b2c544817cd3d9149413e/microsoft/UFO",
   "og_type": "object",
   "twitter_card": "summary_large_image",
-  "twitter_image": "https://opengraph.githubassets.com/a12bd9ca3cdce59dc1043b60274efa7468c9655320553d430920634cf902f1aa/microsoft/UFO",
+  "twitter_image": "https://opengraph.githubassets.com/13c1e277912bfabdbd9c30461f4eadba3f1d522e072b2c544817cd3d9149413e/microsoft/UFO",
   "language": "en",
   "word_count": 2459,
   "reading_time_min": 12,
@@ -43,15 +43,15 @@
     },
     {
       "level": 2,
-      "text": "Folders and files"
-    },
-    {
-      "level": 2,
       "text": "Latest commit"
     },
     {
       "level": 2,
       "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Folders and files"
     },
     {
       "level": 2,

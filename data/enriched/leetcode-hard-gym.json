@@ -1,20 +1,20 @@
 {
   "slug": "leetcode-hard-gym",
   "url": "https://github.com/GammaTauAI/leetcode-hard-gym",
-  "crawled_at": "2026-08-17T08:42:04.123485+00:00",
+  "crawled_at": "2026-08-24T08:46:37.231302+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://github.com/GammaTauAI/leetcode-hard-gym",
   "content_type": "github",
   "last_modified": "",
-  "github_stars": 170,
+  "github_stars": 171,
   "github_forks": 25,
   "github_open_issues": 4,
   "github_topics": [],
   "github_language": "Python",
   "github_description": "A hard gym for programming",
   "github_created": "2023-03-28",
-  "github_updated": "2026-07-21",
+  "github_updated": "2026-08-23",
   "github_pushed": "2024-07-07",
   "github_license": "",
   "github_homepage": "",
@@ -22,10 +22,10 @@
   "meta_description": "A hard gym for programming. Contribute to GammaTauAI/leetcode-hard-gym development by creating an account on GitHub.",
   "og_title": "GitHub - GammaTauAI/leetcode-hard-gym: A hard gym for programming",
   "og_description": "A hard gym for programming. Contribute to GammaTauAI/leetcode-hard-gym development by creating an account on GitHub.",
-  "og_image": "https://opengraph.githubassets.com/dfb3704a14bfaba30826ad5affe658f4be573ad308a795da0641561302dfc1f2/GammaTauAI/leetcode-hard-gym",
+  "og_image": "https://opengraph.githubassets.com/77ac69dd9ae373ef6892063443f103108c04d0c9928efef41db3e99dfd1e135a/GammaTauAI/leetcode-hard-gym",
   "og_type": "object",
   "twitter_card": "summary_large_image",
-  "twitter_image": "https://opengraph.githubassets.com/dfb3704a14bfaba30826ad5affe658f4be573ad308a795da0641561302dfc1f2/GammaTauAI/leetcode-hard-gym",
+  "twitter_image": "https://opengraph.githubassets.com/77ac69dd9ae373ef6892063443f103108c04d0c9928efef41db3e99dfd1e135a/GammaTauAI/leetcode-hard-gym",
   "language": "en",
   "word_count": 894,
   "reading_time_min": 4,
@@ -36,15 +36,15 @@
     },
     {
       "level": 2,
-      "text": "Folders and files"
-    },
-    {
-      "level": 2,
       "text": "Latest commit"
     },
     {
       "level": 2,
       "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Folders and files"
     },
     {
       "level": 2,

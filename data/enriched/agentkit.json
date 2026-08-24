@@ -1,15 +1,15 @@
 {
   "slug": "agentkit",
   "url": "https://github.com/inngest/agent-kit",
-  "crawled_at": "2026-08-17T08:40:40.146058+00:00",
+  "crawled_at": "2026-08-24T08:45:07.588885+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://github.com/inngest/agent-kit",
   "content_type": "github",
   "last_modified": "",
-  "github_stars": 920,
-  "github_forks": 141,
-  "github_open_issues": 50,
+  "github_stars": 922,
+  "github_forks": 142,
+  "github_open_issues": 49,
   "github_topics": [
     "agent",
     "ai",
@@ -20,7 +20,7 @@
   "github_language": "TypeScript",
   "github_description": "AgentKit: Build multi-agent networks in TypeScript with deterministic routing and rich tooling via MCP.",
   "github_created": "2024-11-18",
-  "github_updated": "2026-08-15",
+  "github_updated": "2026-08-22",
   "github_pushed": "2026-04-29",
   "github_license": "Apache-2.0",
   "github_homepage": "https://agentkit.inngest.com",
@@ -28,10 +28,10 @@
   "meta_description": "AgentKit: Build multi-agent networks in TypeScript with deterministic routing and rich tooling via MCP. - inngest/agent-kit",
   "og_title": "GitHub - inngest/agent-kit: AgentKit: Build multi-agent networks in TypeScript with deterministic routing and rich tooling via MCP.",
   "og_description": "AgentKit: Build multi-agent networks in TypeScript with deterministic routing and rich tooling via MCP. - inngest/agent-kit",
-  "og_image": "https://opengraph.githubassets.com/6bd30696d5a7685e678c572cfa1da449d64df60acabefc2f3dddfdbd9966a913/inngest/agent-kit",
+  "og_image": "https://opengraph.githubassets.com/519b3840dd409473aec8ab834bd92c6ccb9ccc1d3f609791d3599e5b04067501/inngest/agent-kit",
   "og_type": "object",
   "twitter_card": "summary_large_image",
-  "twitter_image": "https://opengraph.githubassets.com/6bd30696d5a7685e678c572cfa1da449d64df60acabefc2f3dddfdbd9966a913/inngest/agent-kit",
+  "twitter_image": "https://opengraph.githubassets.com/519b3840dd409473aec8ab834bd92c6ccb9ccc1d3f609791d3599e5b04067501/inngest/agent-kit",
   "language": "en",
   "word_count": 3280,
   "reading_time_min": 16,
@@ -42,15 +42,15 @@
     },
     {
       "level": 2,
-      "text": "Folders and files"
-    },
-    {
-      "level": 2,
       "text": "Latest commit"
     },
     {
       "level": 2,
       "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Folders and files"
     },
     {
       "level": 2,

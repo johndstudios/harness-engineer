@@ -1,12 +1,12 @@
 {
   "slug": "building-governed-agents-a-framework-for-cost-control-and-compliance",
   "url": "https://blog.langchain.com/building-governed-agents-a-framework-for-cost-control-and-compliance",
-  "crawled_at": "2026-08-17T08:41:07.964778+00:00",
+  "crawled_at": "2026-08-24T08:45:37.939639+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://www.langchain.com/blog/building-governed-agents-a-framework-for-cost-control-and-compliance",
   "content_type": "article",
-  "last_modified": "Mon, 17 Aug 2026 08:40:22 GMT",
+  "last_modified": "Sat, 22 Aug 2026 00:21:48 GMT",
   "fetched_title": "Building Governed Agents: A Framework for Cost, Control, and Compliance",
   "meta_description": "The gateway is the runtime control plane for enterprise AI, turning policy into enforceable decisions across every model call, tool call, and agent hop.",
   "og_title": "Building Governed Agents: A Framework for Cost, Control, and Compliance",
@@ -17,7 +17,7 @@
   "twitter_image": "https://cdn.prod.website-files.com/65c81e88c254bb0f97633a71/6a5e362ac00e78ef4df1e97d_A%20Framework%20for%20Banner%20-%20Building%20Governed%20Agents%20-%20Cost%2C%20Control%2C%20and%20Compliance.png",
   "language": "en",
   "canonical_url": "https://www.langchain.com/blog/building-governed-agents-a-framework-for-cost-control-and-compliance",
-  "word_count": 3045,
+  "word_count": 3046,
   "reading_time_min": 15,
   "outline": [
     {

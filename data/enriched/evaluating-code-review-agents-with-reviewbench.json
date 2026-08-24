@@ -1,12 +1,12 @@
 {
   "slug": "evaluating-code-review-agents-with-reviewbench",
   "url": "https://blog.langchain.com/evaluating-code-review-agents-with-reviewbench",
-  "crawled_at": "2026-08-17T08:41:32.521839+00:00",
+  "crawled_at": "2026-08-24T08:46:02.871476+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://www.langchain.com/blog/evaluating-code-review-agents-with-reviewbench",
   "content_type": "article",
-  "last_modified": "Mon, 17 Aug 2026 08:41:32 GMT",
+  "last_modified": "Sat, 22 Aug 2026 01:46:39 GMT",
   "fetched_title": "Evaluating code review agents with ReviewBench",
   "meta_description": "Learn how LangChain built ReviewBench, a benchmark for evaluating code review agents against real PR feedback from trusted reviewers.",
   "og_title": "Evaluating code review agents with ReviewBench",
@@ -19,7 +19,7 @@
   "publish_date": "2026-07-31",
   "language": "en",
   "canonical_url": "https://www.langchain.com/blog/evaluating-code-review-agents-with-reviewbench",
-  "word_count": 1320,
+  "word_count": 1325,
   "reading_time_min": 7,
   "outline": [
     {

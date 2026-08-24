@@ -1,20 +1,20 @@
 {
   "slug": "charactereval",
   "url": "https://github.com/morecry/CharacterEval",
-  "crawled_at": "2026-08-17T08:41:09.125955+00:00",
+  "crawled_at": "2026-08-24T08:45:39.178986+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://github.com/morecry/CharacterEval",
   "content_type": "github",
   "last_modified": "",
-  "github_stars": 301,
+  "github_stars": 302,
   "github_forks": 18,
   "github_open_issues": 27,
   "github_topics": [],
   "github_language": "Python",
   "github_description": null,
   "github_created": "2024-01-09",
-  "github_updated": "2026-07-16",
+  "github_updated": "2026-08-21",
   "github_pushed": "2025-05-27",
   "github_license": "MIT",
   "github_homepage": null,
@@ -22,18 +22,14 @@
   "meta_description": "Contribute to morecry/CharacterEval development by creating an account on GitHub.",
   "og_title": "GitHub - morecry/CharacterEval",
   "og_description": "Contribute to morecry/CharacterEval development by creating an account on GitHub.",
-  "og_image": "https://opengraph.githubassets.com/f1a4ed9a02cb221e677e5a8910ae5ffd3a97eee0f48eb2a5ff0b2b17b48be6b9/morecry/CharacterEval",
+  "og_image": "https://opengraph.githubassets.com/00d6a81bea4f708a2962aced26e406464e73acd52515b51038f6fe613953b0f0/morecry/CharacterEval",
   "og_type": "object",
   "twitter_card": "summary_large_image",
-  "twitter_image": "https://opengraph.githubassets.com/f1a4ed9a02cb221e677e5a8910ae5ffd3a97eee0f48eb2a5ff0b2b17b48be6b9/morecry/CharacterEval",
+  "twitter_image": "https://opengraph.githubassets.com/00d6a81bea4f708a2962aced26e406464e73acd52515b51038f6fe613953b0f0/morecry/CharacterEval",
   "language": "en",
   "word_count": 556,
   "reading_time_min": 3,
   "outline": [
-    {
-      "level": 2,
-      "text": "Folders and files"
-    },
     {
       "level": 2,
       "text": "Latest commit"
@@ -41,6 +37,10 @@
     {
       "level": 2,
       "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Folders and files"
     },
     {
       "level": 2,

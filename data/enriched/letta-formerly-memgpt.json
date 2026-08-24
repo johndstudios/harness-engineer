@@ -1,15 +1,15 @@
 {
   "slug": "letta-formerly-memgpt",
   "url": "https://github.com/letta-ai/letta",
-  "crawled_at": "2026-08-17T08:42:05.460069+00:00",
+  "crawled_at": "2026-08-24T08:46:38.935947+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://github.com/letta-ai/letta",
   "content_type": "github",
   "last_modified": "",
-  "github_stars": 24279,
-  "github_forks": 2582,
-  "github_open_issues": 41,
+  "github_stars": 24389,
+  "github_forks": 2593,
+  "github_open_issues": 39,
   "github_topics": [
     "ai",
     "ai-agents",
@@ -19,18 +19,18 @@
   "github_language": null,
   "github_description": "Platform for stateful agents: AI with advanced memory that can learn and self-improve over time.",
   "github_created": "2023-10-11",
-  "github_updated": "2026-08-17",
-  "github_pushed": "2026-08-16",
+  "github_updated": "2026-08-24",
+  "github_pushed": "2026-08-23",
   "github_license": "Apache-2.0",
   "github_homepage": "https://docs.letta.com/",
   "fetched_title": "GitHub - letta-ai/letta: Platform for stateful agents: AI with advanced memory that can learn and self-improve over time. \u00b7 GitHub",
   "meta_description": "Platform for stateful agents: AI with advanced memory that can learn and self-improve over time. - letta-ai/letta",
   "og_title": "GitHub - letta-ai/letta: Platform for stateful agents: AI with advanced memory that can learn and self-improve over time.",
   "og_description": "Platform for stateful agents: AI with advanced memory that can learn and self-improve over time. - letta-ai/letta",
-  "og_image": "https://opengraph.githubassets.com/ee61a30526353924ed029d0845692923c5d67773b61bb70f12632718f1b79319/letta-ai/letta",
+  "og_image": "https://opengraph.githubassets.com/7ec8cdbe129a9ecbeefdc752de456af2d64ee4971679c3defa21ea1ffe0a258e/letta-ai/letta",
   "og_type": "object",
   "twitter_card": "summary_large_image",
-  "twitter_image": "https://opengraph.githubassets.com/ee61a30526353924ed029d0845692923c5d67773b61bb70f12632718f1b79319/letta-ai/letta",
+  "twitter_image": "https://opengraph.githubassets.com/7ec8cdbe129a9ecbeefdc752de456af2d64ee4971679c3defa21ea1ffe0a258e/letta-ai/letta",
   "language": "en",
   "word_count": 423,
   "reading_time_min": 2,
@@ -41,15 +41,15 @@
     },
     {
       "level": 2,
-      "text": "Folders and files"
-    },
-    {
-      "level": 2,
       "text": "Latest commit"
     },
     {
       "level": 2,
       "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Folders and files"
     },
     {
       "level": 2,

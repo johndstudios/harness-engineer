@@ -1,15 +1,15 @@
 {
   "slug": "tau2-bench",
   "url": "https://github.com/sierra-research/tau2-bench",
-  "crawled_at": "2026-08-17T08:42:41.268389+00:00",
+  "crawled_at": "2026-08-24T08:47:17.948116+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://github.com/sierra-research/tau2-bench",
   "content_type": "github",
   "last_modified": "",
-  "github_stars": 1807,
-  "github_forks": 456,
-  "github_open_issues": 170,
+  "github_stars": 1859,
+  "github_forks": 469,
+  "github_open_issues": 176,
   "github_topics": [
     "ai",
     "benchmark",
@@ -20,18 +20,18 @@
   "github_language": "Python",
   "github_description": "\u03c4-Bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains",
   "github_created": "2025-06-09",
-  "github_updated": "2026-08-17",
-  "github_pushed": "2026-08-14",
+  "github_updated": "2026-08-24",
+  "github_pushed": "2026-08-18",
   "github_license": "MIT",
   "github_homepage": "https://www.taubench.com",
   "fetched_title": "GitHub - sierra-research/tau2-bench: \u03c4-Bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains \u00b7 GitHub",
   "meta_description": "\u03c4-Bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains - sierra-research/tau2-bench",
   "og_title": "GitHub - sierra-research/tau2-bench: \u03c4-Bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains",
   "og_description": "\u03c4-Bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains - sierra-research/tau2-bench",
-  "og_image": "https://opengraph.githubassets.com/59f45d6c1ecb9cda62332a9bb1663df72e0d9fd755ee7803455b0deba77f814d/sierra-research/tau2-bench",
+  "og_image": "https://opengraph.githubassets.com/336139f0aab3d28c63bab17e920c898517e13d12178901366cbd9458af0abc0e/sierra-research/tau2-bench",
   "og_type": "object",
   "twitter_card": "summary_large_image",
-  "twitter_image": "https://opengraph.githubassets.com/59f45d6c1ecb9cda62332a9bb1663df72e0d9fd755ee7803455b0deba77f814d/sierra-research/tau2-bench",
+  "twitter_image": "https://opengraph.githubassets.com/336139f0aab3d28c63bab17e920c898517e13d12178901366cbd9458af0abc0e/sierra-research/tau2-bench",
   "language": "en",
   "word_count": 1331,
   "reading_time_min": 7,
@@ -42,15 +42,15 @@
     },
     {
       "level": 2,
-      "text": "Folders and files"
-    },
-    {
-      "level": 2,
       "text": "Latest commit"
     },
     {
       "level": 2,
       "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Folders and files"
     },
     {
       "level": 2,

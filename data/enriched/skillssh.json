@@ -1,7 +1,7 @@
 {
   "slug": "skillssh",
   "url": "https://skills.sh",
-  "crawled_at": "2026-08-17T08:42:34.954620+00:00",
+  "crawled_at": "2026-08-24T08:47:09.844137+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://www.skills.sh/",
@@ -17,7 +17,7 @@
   "twitter_image": "https://www.skills.sh/og.jpeg",
   "language": "en",
   "canonical_url": "https://www.skills.sh",
-  "word_count": 627,
+  "word_count": 643,
   "reading_time_min": 3,
   "outline": [
     {
@@ -94,7 +94,7 @@
     },
     {
       "level": 3,
-      "text": "lark-markdown"
+      "text": "lark-vc-agent"
     },
     {
       "level": 3,
@@ -102,19 +102,7 @@
     },
     {
       "level": 3,
-      "text": "lark-vc-agent"
-    },
-    {
-      "level": 3,
-      "text": "azure-kusto"
-    },
-    {
-      "level": 3,
-      "text": "azure-resource-visualizer"
-    },
-    {
-      "level": 3,
-      "text": "azure-messaging"
+      "text": "grilling"
     },
     {
       "level": 3,
@@ -122,7 +110,7 @@
     },
     {
       "level": 3,
-      "text": "azure-rbac"
+      "text": "teach"
     },
     {
       "level": 3,
@@ -130,15 +118,27 @@
     },
     {
       "level": 3,
+      "text": "azure-rbac"
+    },
+    {
+      "level": 3,
       "text": "azure-compute"
     },
     {
       "level": 3,
-      "text": "teach"
+      "text": "domain-modeling"
     },
     {
       "level": 3,
-      "text": "grilling"
+      "text": "azure-cloud-migrate"
+    },
+    {
+      "level": 3,
+      "text": "codebase-design"
+    },
+    {
+      "level": 3,
+      "text": "diagnosing-bugs"
     }
   ]
 }

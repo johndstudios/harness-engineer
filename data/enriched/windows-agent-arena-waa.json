@@ -1,13 +1,13 @@
 {
   "slug": "windows-agent-arena-waa",
   "url": "https://github.com/microsoft/WindowsAgentArena",
-  "crawled_at": "2026-08-17T08:43:08.294663+00:00",
+  "crawled_at": "2026-08-24T08:47:44.225240+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://github.com/microsoft/WindowsAgentArena",
   "content_type": "github",
   "last_modified": "",
-  "github_stars": 886,
+  "github_stars": 887,
   "github_forks": 101,
   "github_open_issues": 36,
   "github_topics": [
@@ -24,7 +24,7 @@
   "github_language": "Python",
   "github_description": "Windows Agent Arena (WAA) \ud83e\ude9f is a scalable OS platform for testing and benchmarking of multi-modal AI agents.",
   "github_created": "2024-07-29",
-  "github_updated": "2026-08-11",
+  "github_updated": "2026-08-18",
   "github_pushed": "2026-04-13",
   "github_license": "MIT",
   "github_homepage": "https://microsoft.github.io/WindowsAgentArena",
@@ -32,10 +32,10 @@
   "meta_description": "Windows Agent Arena (WAA) \ud83e\ude9f is a scalable OS platform for testing and benchmarking of multi-modal AI agents. - microsoft/WindowsAgentArena",
   "og_title": "GitHub - microsoft/WindowsAgentArena: Windows Agent Arena (WAA) \ud83e\ude9f is a scalable OS platform for testing and benchmarking of multi-modal AI agents.",
   "og_description": "Windows Agent Arena (WAA) \ud83e\ude9f is a scalable OS platform for testing and benchmarking of multi-modal AI agents. - microsoft/WindowsAgentArena",
-  "og_image": "https://opengraph.githubassets.com/92d7de80c605b9fdb7cab760c1dd7e8fec1e1c519a9e798fb8ff1e10514ce679/microsoft/WindowsAgentArena",
+  "og_image": "https://opengraph.githubassets.com/758eef664adb112d97f1083861416b3c6847bcab87e8d6b7276b588d92216248/microsoft/WindowsAgentArena",
   "og_type": "object",
   "twitter_card": "summary_large_image",
-  "twitter_image": "https://opengraph.githubassets.com/92d7de80c605b9fdb7cab760c1dd7e8fec1e1c519a9e798fb8ff1e10514ce679/microsoft/WindowsAgentArena",
+  "twitter_image": "https://opengraph.githubassets.com/758eef664adb112d97f1083861416b3c6847bcab87e8d6b7276b588d92216248/microsoft/WindowsAgentArena",
   "language": "en",
   "word_count": 3071,
   "reading_time_min": 15,
@@ -46,15 +46,15 @@
     },
     {
       "level": 2,
-      "text": "Folders and files"
-    },
-    {
-      "level": 2,
       "text": "Latest commit"
     },
     {
       "level": 2,
       "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Folders and files"
     },
     {
       "level": 2,

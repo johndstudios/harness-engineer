@@ -1,15 +1,15 @@
 {
   "slug": "microsoft-agent-framework-maf",
   "url": "https://github.com/microsoft/agent-framework",
-  "crawled_at": "2026-08-17T08:42:17.114575+00:00",
+  "crawled_at": "2026-08-24T08:46:51.432098+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://github.com/microsoft/agent-framework",
   "content_type": "github",
   "last_modified": "",
-  "github_stars": 12843,
-  "github_forks": 2170,
-  "github_open_issues": 699,
+  "github_stars": 13082,
+  "github_forks": 2217,
+  "github_open_issues": 617,
   "github_topics": [
     "agent-framework",
     "agentic-ai",
@@ -25,20 +25,20 @@
   "github_language": "Python",
   "github_description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.",
   "github_created": "2025-04-28",
-  "github_updated": "2026-08-17",
-  "github_pushed": "2026-08-17",
+  "github_updated": "2026-08-24",
+  "github_pushed": "2026-08-24",
   "github_license": "MIT",
   "github_homepage": "https://aka.ms/agent-framework",
   "fetched_title": "GitHub - microsoft/agent-framework: A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET. \u00b7 GitHub",
   "meta_description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET. - microsoft/agent-framework",
   "og_title": "GitHub - microsoft/agent-framework: A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.",
   "og_description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET. - microsoft/agent-framework",
-  "og_image": "https://opengraph.githubassets.com/1af61e9d024c3e0a91f294c02120315347c1bd4b3e01c6d45eb18cab5501bd04/microsoft/agent-framework",
+  "og_image": "https://opengraph.githubassets.com/2b400153d18ac6c6d1c0802f16b191aba7e09a54aab8db42a990d65204339d3a/microsoft/agent-framework",
   "og_type": "object",
   "twitter_card": "summary_large_image",
-  "twitter_image": "https://opengraph.githubassets.com/1af61e9d024c3e0a91f294c02120315347c1bd4b3e01c6d45eb18cab5501bd04/microsoft/agent-framework",
+  "twitter_image": "https://opengraph.githubassets.com/2b400153d18ac6c6d1c0802f16b191aba7e09a54aab8db42a990d65204339d3a/microsoft/agent-framework",
   "language": "en",
-  "word_count": 1529,
+  "word_count": 1570,
   "reading_time_min": 8,
   "outline": [
     {
@@ -47,15 +47,15 @@
     },
     {
       "level": 2,
-      "text": "Folders and files"
-    },
-    {
-      "level": 2,
       "text": "Latest commit"
     },
     {
       "level": 2,
       "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Folders and files"
     },
     {
       "level": 2,

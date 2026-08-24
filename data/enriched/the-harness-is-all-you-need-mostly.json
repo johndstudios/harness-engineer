@@ -1,7 +1,7 @@
 {
   "slug": "the-harness-is-all-you-need-mostly",
   "url": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly/",
-  "crawled_at": "2026-08-17T08:42:46.631804+00:00",
+  "crawled_at": "2026-08-24T08:47:22.878110+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly/",
@@ -19,7 +19,7 @@
   "publish_date": "2026-07-27",
   "language": "en-US",
   "canonical_url": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly/",
-  "word_count": 2915,
+  "word_count": 2923,
   "reading_time_min": 15,
   "outline": [
     {
@@ -72,15 +72,15 @@
     },
     {
       "level": 3,
+      "text": "GitHub Copilot app for Beginners: Managing your work"
+    },
+    {
+      "level": 3,
+      "text": "How canvases make agentic workflows visible, steerable, and cost-efficient"
+    },
+    {
+      "level": 3,
       "text": "How to bring your software delivery workflow into GitHub with agent apps"
-    },
-    {
-      "level": 3,
-      "text": "Write your first prompt with the GitHub Copilot app"
-    },
-    {
-      "level": 3,
-      "text": "Using the GitHub Copilot SDK for Java"
     },
     {
       "level": 2,

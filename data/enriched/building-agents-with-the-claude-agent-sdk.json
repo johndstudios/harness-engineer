@@ -1,12 +1,12 @@
 {
   "slug": "building-agents-with-the-claude-agent-sdk",
   "url": "https://claude.com/blog/building-agents-with-the-claude-agent-sdk",
-  "crawled_at": "2026-08-17T08:41:05.797738+00:00",
+  "crawled_at": "2026-08-24T08:45:35.415461+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://claude.com/blog/building-agents-with-the-claude-agent-sdk",
   "content_type": "article",
-  "last_modified": "Fri, 14 Aug 2026 21:50:53 GMT",
+  "last_modified": "Sun, 23 Aug 2026 21:19:03 GMT",
   "fetched_title": "Building agents with the Claude Agent SDK | Claude by Anthropic",
   "meta_description": "How to get started with the Claude Agent SDK and best practices for using it.",
   "og_title": "Building agents with the Claude Agent SDK | Claude by Anthropic",
@@ -18,8 +18,8 @@
   "publish_date": "Sep 29, 20",
   "language": "en-US",
   "canonical_url": "https://claude.com/blog/building-agents-with-the-claude-agent-sdk",
-  "word_count": 2490,
-  "reading_time_min": 12,
+  "word_count": 2539,
+  "reading_time_min": 13,
   "outline": [
     {
       "level": 1,
@@ -111,19 +111,19 @@
     },
     {
       "level": 3,
-      "text": "Maximizing the value of your Claude Code sessions"
+      "text": "The AI-Native SDLC playbook"
     },
     {
       "level": 3,
-      "text": "Product management on the AI exponential"
+      "text": "Self-service data analytics in Slack: how Anthropic deploys Claude Tag for ad-hoc questions"
     },
     {
       "level": 3,
-      "text": "The evolution of agentic surfaces: building with Claude Managed Agents"
+      "text": "The new rules of context engineering for Claude 5 generation models"
     },
     {
       "level": 3,
-      "text": "Using Claude Code: The unreasonable effectiveness of HTML"
+      "text": "How monday.com transformed its platform into an agent-first product where humans and agents collaborate"
     },
     {
       "level": 2,
