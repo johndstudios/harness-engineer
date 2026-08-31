@@ -1,75 +1,27 @@
 {
   "slug": "terminal-bench",
   "url": "https://www.tbench.ai/",
-  "crawled_at": "2026-08-24T08:47:19.554474+00:00",
+  "crawled_at": "2026-08-31T15:52:51.042737+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://www.tbench.ai/",
   "content_type": "article",
   "last_modified": "",
-  "fetched_title": "Terminal-Bench",
-  "meta_description": "A benchmark for terminal agents",
-  "og_title": "Terminal-Bench",
-  "og_description": "A benchmark for terminal agents",
-  "og_image": "https://www.tbench.ai/og/ascii-logo-dark-1200x630.png",
+  "fetched_title": "TERMINAL-BENCH",
+  "meta_description": "A benchmark to measure and evolve with the frontier of agent work",
+  "og_title": "TERMINAL-BENCH",
+  "og_description": "A benchmark to measure and evolve with the frontier of agent work",
+  "og_image": "https://www.tbench.ai/terminal-bench-og-1200x630.png",
   "og_type": "website",
   "twitter_card": "summary_large_image",
-  "twitter_image": "https://www.tbench.ai/og/ascii-logo-dark-1200x630.png",
+  "twitter_image": "https://www.tbench.ai/terminal-bench-twitter-1200x630.png",
   "language": "en",
-  "word_count": 887,
-  "reading_time_min": 4,
+  "word_count": 28,
+  "reading_time_min": 1,
   "outline": [
     {
-      "level": 2,
-      "text": "terminal-bench: benchmarks for ai agents in terminal environments"
-    },
-    {
-      "level": 2,
-      "text": "build-linux-kernel-qemu"
-    },
-    {
-      "level": 2,
-      "text": "configure-git-webserver"
-    },
-    {
-      "level": 2,
-      "text": "crack-7z-hash"
-    },
-    {
-      "level": 2,
-      "text": "openssl-selfsigned-cert"
-    },
-    {
-      "level": 2,
-      "text": "reshard-c4-data"
-    },
-    {
-      "level": 2,
-      "text": "train-fasttext"
-    },
-    {
-      "level": 2,
-      "text": "Terminal-Bench 3"
-    },
-    {
-      "level": 2,
-      "text": "Terminal-Bench 2.1"
-    },
-    {
-      "level": 2,
-      "text": "Terminal-Bench 2.0"
-    },
-    {
-      "level": 2,
-      "text": "Terminal-Bench 1.0"
-    },
-    {
-      "level": 2,
-      "text": "Terminal-Bench-Science"
-    },
-    {
-      "level": 2,
-      "text": "Terminal-Bench Challenges"
+      "level": 1,
+      "text": "TERMINAL-BENCH 4.0"
     }
   ]
 }

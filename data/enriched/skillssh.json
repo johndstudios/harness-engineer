@@ -1,7 +1,7 @@
 {
   "slug": "skillssh",
   "url": "https://skills.sh",
-  "crawled_at": "2026-08-24T08:47:09.844137+00:00",
+  "crawled_at": "2026-08-31T15:52:42.726643+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://www.skills.sh/",
@@ -17,7 +17,7 @@
   "twitter_image": "https://www.skills.sh/og.jpeg",
   "language": "en",
   "canonical_url": "https://www.skills.sh",
-  "word_count": 643,
+  "word_count": 659,
   "reading_time_min": 3,
   "outline": [
     {
@@ -46,11 +46,11 @@
     },
     {
       "level": 3,
-      "text": "frontend-design"
+      "text": "grill-with-docs"
     },
     {
       "level": 3,
-      "text": "grill-with-docs"
+      "text": "frontend-design"
     },
     {
       "level": 3,
@@ -74,18 +74,6 @@
     },
     {
       "level": 3,
-      "text": "handoff"
-    },
-    {
-      "level": 3,
-      "text": "triage"
-    },
-    {
-      "level": 3,
-      "text": "prototype"
-    },
-    {
-      "level": 3,
       "text": "lark-doc"
     },
     {
@@ -94,11 +82,7 @@
     },
     {
       "level": 3,
-      "text": "lark-vc-agent"
-    },
-    {
-      "level": 3,
-      "text": "microsoft-foundry"
+      "text": "anti-ui-slop"
     },
     {
       "level": 3,
@@ -106,7 +90,7 @@
     },
     {
       "level": 3,
-      "text": "lark-apps"
+      "text": "lark-vc-agent"
     },
     {
       "level": 3,
@@ -114,23 +98,19 @@
     },
     {
       "level": 3,
-      "text": "remotion-best-practices"
+      "text": "microsoft-foundry"
     },
     {
       "level": 3,
-      "text": "azure-rbac"
+      "text": "lark-apps"
     },
     {
       "level": 3,
-      "text": "azure-compute"
+      "text": "azure-messaging"
     },
     {
       "level": 3,
       "text": "domain-modeling"
-    },
-    {
-      "level": 3,
-      "text": "azure-cloud-migrate"
     },
     {
       "level": 3,
@@ -139,6 +119,26 @@
     {
       "level": 3,
       "text": "diagnosing-bugs"
+    },
+    {
+      "level": 3,
+      "text": "remotion-best-practices"
+    },
+    {
+      "level": 3,
+      "text": "azure-compute"
+    },
+    {
+      "level": 3,
+      "text": "azure-rbac"
+    },
+    {
+      "level": 3,
+      "text": "azure-cloud-migrate"
+    },
+    {
+      "level": 3,
+      "text": "ai-video-generation"
     }
   ]
 }

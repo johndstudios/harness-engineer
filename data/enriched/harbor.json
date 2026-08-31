@@ -1,15 +1,15 @@
 {
   "slug": "harbor",
   "url": "https://github.com/harbor-framework/harbor",
-  "crawled_at": "2026-08-24T08:46:18.084501+00:00",
+  "crawled_at": "2026-08-31T15:51:56.351953+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://github.com/harbor-framework/harbor",
   "content_type": "github",
   "last_modified": "",
-  "github_stars": 4557,
-  "github_forks": 1625,
-  "github_open_issues": 721,
+  "github_stars": 4811,
+  "github_forks": 1690,
+  "github_open_issues": 785,
   "github_topics": [
     "evals",
     "rl-environments",
@@ -18,20 +18,20 @@
   "github_language": "Python",
   "github_description": "Framework for evaluating and improving agents ",
   "github_created": "2025-08-04",
-  "github_updated": "2026-08-24",
-  "github_pushed": "2026-08-24",
+  "github_updated": "2026-08-31",
+  "github_pushed": "2026-08-31",
   "github_license": "Apache-2.0",
   "github_homepage": "https://harborframework.com/",
   "fetched_title": "GitHub - harbor-framework/harbor: Framework for evaluating and improving agents \u00b7 GitHub",
   "meta_description": "Framework for evaluating and improving agents . Contribute to harbor-framework/harbor development by creating an account on GitHub.",
   "og_title": "GitHub - harbor-framework/harbor: Framework for evaluating and improving agents",
   "og_description": "Framework for evaluating and improving agents . Contribute to harbor-framework/harbor development by creating an account on GitHub.",
-  "og_image": "https://opengraph.githubassets.com/3de6ece0e4bd988c1230b4b8ed25899a4cf07d294fcecc646fd05ad9bffbdc57/harbor-framework/harbor",
+  "og_image": "https://opengraph.githubassets.com/55bd5658f950c79de12413f2adc5f3559e5d698e2188ea4ce23819fcefe19333/harbor-framework/harbor",
   "og_type": "object",
   "twitter_card": "summary_large_image",
-  "twitter_image": "https://opengraph.githubassets.com/3de6ece0e4bd988c1230b4b8ed25899a4cf07d294fcecc646fd05ad9bffbdc57/harbor-framework/harbor",
+  "twitter_image": "https://opengraph.githubassets.com/55bd5658f950c79de12413f2adc5f3559e5d698e2188ea4ce23819fcefe19333/harbor-framework/harbor",
   "language": "en",
-  "word_count": 554,
+  "word_count": 559,
   "reading_time_min": 3,
   "outline": [
     {
@@ -81,6 +81,10 @@
     {
       "level": 3,
       "text": "Resources"
+    },
+    {
+      "level": 3,
+      "text": "Contributing"
     },
     {
       "level": 3,

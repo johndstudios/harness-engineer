@@ -1,7 +1,7 @@
 {
   "slug": "defeating-prompt-injections-by-design-camel",
   "url": "https://arxiv.org/abs/2503.18813",
-  "crawled_at": "2026-08-24T08:45:56.663369+00:00",
+  "crawled_at": "2026-08-31T15:51:36.812736+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://arxiv.org/abs/2503.18813",
@@ -17,7 +17,7 @@
   "twitter_image": "https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png",
   "language": "en",
   "canonical_url": "https://arxiv.org/abs/2503.18813",
-  "word_count": 652,
+  "word_count": 656,
   "reading_time_min": 3,
   "outline": [
     {

@@ -1,7 +1,7 @@
 {
   "slug": "design-patterns-for-securing-llm-agents-against-prompt-injections",
   "url": "https://simonwillison.net/2025/Jun/13/prompt-injection-design-patterns/",
-  "crawled_at": "2026-08-24T08:45:57.850936+00:00",
+  "crawled_at": "2026-08-31T15:51:38.115806+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://simonwillison.net/2025/Jun/13/prompt-injection-design-patterns/",
@@ -18,7 +18,7 @@
   "author": "Simon Willison",
   "language": "en-gb",
   "canonical_url": "https://simonwillison.net/2025/Jun/13/prompt-injection-design-patterns/",
-  "word_count": 2048,
+  "word_count": 2032,
   "reading_time_min": 10,
   "outline": [
     {

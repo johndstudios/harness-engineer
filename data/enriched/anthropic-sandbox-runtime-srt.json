@@ -1,33 +1,33 @@
 {
   "slug": "anthropic-sandbox-runtime-srt",
   "url": "https://github.com/anthropic-experimental/sandbox-runtime",
-  "crawled_at": "2026-08-24T08:45:21.517680+00:00",
+  "crawled_at": "2026-08-31T15:51:02.846302+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://github.com/anthropic-experimental/sandbox-runtime",
   "content_type": "github",
   "last_modified": "",
-  "github_stars": 5049,
-  "github_forks": 413,
-  "github_open_issues": 169,
+  "github_stars": 5096,
+  "github_forks": 419,
+  "github_open_issues": 178,
   "github_topics": [],
   "github_language": "TypeScript",
   "github_description": "A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.",
   "github_created": "2025-10-20",
-  "github_updated": "2026-08-24",
-  "github_pushed": "2026-08-22",
+  "github_updated": "2026-08-31",
+  "github_pushed": "2026-08-28",
   "github_license": "Apache-2.0",
   "github_homepage": "",
   "fetched_title": "GitHub - anthropic-experimental/sandbox-runtime: A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container. \u00b7 GitHub",
   "meta_description": "A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container. - anthropic-experimental/sandbox-runtime",
   "og_title": "GitHub - anthropic-experimental/sandbox-runtime: A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.",
   "og_description": "A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container. - anthropic-experimental/sandbox-runtime",
-  "og_image": "https://opengraph.githubassets.com/2a5bb892d98e688315ae89957f5e8d575bfc1b0fee8b2b503797815059174a0c/anthropic-experimental/sandbox-runtime",
+  "og_image": "https://opengraph.githubassets.com/14079ccf6ab144f57933f897aef01984672ff91cbd29cd4205f0ad5aa6b9dfb8/anthropic-experimental/sandbox-runtime",
   "og_type": "object",
   "twitter_card": "summary_large_image",
-  "twitter_image": "https://opengraph.githubassets.com/2a5bb892d98e688315ae89957f5e8d575bfc1b0fee8b2b503797815059174a0c/anthropic-experimental/sandbox-runtime",
+  "twitter_image": "https://opengraph.githubassets.com/14079ccf6ab144f57933f897aef01984672ff91cbd29cd4205f0ad5aa6b9dfb8/anthropic-experimental/sandbox-runtime",
   "language": "en",
-  "word_count": 4319,
+  "word_count": 4393,
   "reading_time_min": 22,
   "outline": [
     {
@@ -145,6 +145,10 @@
     {
       "level": 3,
       "text": "Windows-specific configuration"
+    },
+    {
+      "level": 3,
+      "text": "Known limitations"
     }
   ]
 }

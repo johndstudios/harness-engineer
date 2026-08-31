@@ -1,15 +1,15 @@
 {
   "slug": "browser-usebrowser-harness",
   "url": "https://github.com/browser-use/browser-harness",
-  "crawled_at": "2026-08-24T08:45:33.309372+00:00",
+  "crawled_at": "2026-08-31T15:51:13.499360+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://github.com/browser-use/browser-harness",
   "content_type": "github",
   "last_modified": "",
-  "github_stars": 17083,
-  "github_forks": 1638,
-  "github_open_issues": 272,
+  "github_stars": 17271,
+  "github_forks": 1675,
+  "github_open_issues": 308,
   "github_topics": [
     "ai-agent",
     "browser-agent",
@@ -29,21 +29,21 @@
   "github_language": "Python",
   "github_description": "Browser Harness | Self-healing harness that enables LLMs to complete any task.",
   "github_created": "2026-04-17",
-  "github_updated": "2026-08-24",
-  "github_pushed": "2026-08-22",
+  "github_updated": "2026-08-31",
+  "github_pushed": "2026-08-31",
   "github_license": "MIT",
   "github_homepage": "https://browser-harness.com",
   "fetched_title": "GitHub - browser-use/browser-harness: Browser Harness | Self-healing harness that enables LLMs to complete any task. \u00b7 GitHub",
   "meta_description": "Browser Harness | Self-healing harness that enables LLMs to complete any task. - browser-use/browser-harness",
   "og_title": "GitHub - browser-use/browser-harness: Browser Harness | Self-healing harness that enables LLMs to complete any task.",
   "og_description": "Browser Harness | Self-healing harness that enables LLMs to complete any task. - browser-use/browser-harness",
-  "og_image": "https://opengraph.githubassets.com/ae0ee14ac48b5980c789f6f7202e1e267afb18ea6f9618e19c6133e9293bb1aa/browser-use/browser-harness",
+  "og_image": "https://opengraph.githubassets.com/8cb6cc51e9777e6741e19ff045203e53e95befd7e87e628c7bce0c04fd99cd03/browser-use/browser-harness",
   "og_type": "object",
   "twitter_card": "summary_large_image",
-  "twitter_image": "https://opengraph.githubassets.com/ae0ee14ac48b5980c789f6f7202e1e267afb18ea6f9618e19c6133e9293bb1aa/browser-use/browser-harness",
+  "twitter_image": "https://opengraph.githubassets.com/8cb6cc51e9777e6741e19ff045203e53e95befd7e87e628c7bce0c04fd99cd03/browser-use/browser-harness",
   "language": "en",
-  "word_count": 495,
-  "reading_time_min": 2,
+  "word_count": 536,
+  "reading_time_min": 3,
   "outline": [
     {
       "level": 3,
@@ -84,6 +84,10 @@
     {
       "level": 2,
       "text": "Scale with Browser Use Cloud"
+    },
+    {
+      "level": 2,
+      "text": "MCP server"
     },
     {
       "level": 2,
