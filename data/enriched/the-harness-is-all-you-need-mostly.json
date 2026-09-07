@@ -1,7 +1,7 @@
 {
   "slug": "the-harness-is-all-you-need-mostly",
   "url": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly/",
-  "crawled_at": "2026-08-31T15:52:54.419945+00:00",
+  "crawled_at": "2026-09-07T14:01:32.871719+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly/",
@@ -19,8 +19,8 @@
   "publish_date": "2026-07-27",
   "language": "en-US",
   "canonical_url": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly/",
-  "word_count": 2898,
-  "reading_time_min": 14,
+  "word_count": 2924,
+  "reading_time_min": 15,
   "outline": [
     {
       "level": 2,
@@ -72,15 +72,15 @@
     },
     {
       "level": 3,
-      "text": "GitHub Copilot app for Beginners: Automate Dependabot pull request triage"
+      "text": "Project HydraFusion: Frontier quality via multi-model orchestration"
     },
     {
       "level": 3,
-      "text": "How to evaluate LLMs before production"
+      "text": "GitHub Copilot app for Beginners: Run several agents at once"
     },
     {
       "level": 3,
-      "text": "GitHub Copilot app for Beginners: Managing your work"
+      "text": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing\u2026 oh my!"
     },
     {
       "level": 2,

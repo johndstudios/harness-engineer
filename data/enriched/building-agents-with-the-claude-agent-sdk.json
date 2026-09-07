@@ -1,12 +1,12 @@
 {
   "slug": "building-agents-with-the-claude-agent-sdk",
   "url": "https://claude.com/blog/building-agents-with-the-claude-agent-sdk",
-  "crawled_at": "2026-08-31T15:51:15.256447+00:00",
+  "crawled_at": "2026-09-07T13:59:24.789954+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://claude.com/blog/building-agents-with-the-claude-agent-sdk",
   "content_type": "article",
-  "last_modified": "Sat, 29 Aug 2026 00:02:32 GMT",
+  "last_modified": "Thu, 03 Sep 2026 19:46:51 GMT",
   "fetched_title": "Building agents with the Claude Agent SDK | Claude by Anthropic",
   "meta_description": "How to get started with the Claude Agent SDK and best practices for using it.",
   "og_title": "Building agents with the Claude Agent SDK | Claude by Anthropic",
@@ -18,8 +18,8 @@
   "publish_date": "Sep 29, 20",
   "language": "en-US",
   "canonical_url": "https://claude.com/blog/building-agents-with-the-claude-agent-sdk",
-  "word_count": 2539,
-  "reading_time_min": 13,
+  "word_count": 2464,
+  "reading_time_min": 12,
   "outline": [
     {
       "level": 1,
@@ -111,19 +111,19 @@
     },
     {
       "level": 3,
+      "text": "Building commerce agents with Claude"
+    },
+    {
+      "level": 3,
+      "text": "A guide to the anatomy of effective commerce agents"
+    },
+    {
+      "level": 3,
+      "text": "The Claude Code guide for startups"
+    },
+    {
+      "level": 3,
       "text": "How Warp builds self-improving agents on Claude"
-    },
-    {
-      "level": 3,
-      "text": "The AI-Native SDLC playbook"
-    },
-    {
-      "level": 3,
-      "text": "How an Anthropic field marketer uses Claude Code to send weekly personalized updates to every sales rep"
-    },
-    {
-      "level": 3,
-      "text": "Self-service data analytics in Slack: how Anthropic deploys Claude Tag for ad-hoc questions"
     },
     {
       "level": 2,

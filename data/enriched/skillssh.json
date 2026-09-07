@@ -1,7 +1,7 @@
 {
   "slug": "skillssh",
   "url": "https://skills.sh",
-  "crawled_at": "2026-08-31T15:52:42.726643+00:00",
+  "crawled_at": "2026-09-07T14:01:20.933159+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://www.skills.sh/",
@@ -17,7 +17,7 @@
   "twitter_image": "https://www.skills.sh/og.jpeg",
   "language": "en",
   "canonical_url": "https://www.skills.sh",
-  "word_count": 659,
+  "word_count": 655,
   "reading_time_min": 3,
   "outline": [
     {
@@ -50,11 +50,11 @@
     },
     {
       "level": 3,
-      "text": "frontend-design"
+      "text": "improve-codebase-architecture"
     },
     {
       "level": 3,
-      "text": "improve-codebase-architecture"
+      "text": "frontend-design"
     },
     {
       "level": 3,
@@ -78,15 +78,19 @@
     },
     {
       "level": 3,
+      "text": "grilling"
+    },
+    {
+      "level": 3,
+      "text": "lark-markdown"
+    },
+    {
+      "level": 3,
       "text": "web-design-guidelines"
     },
     {
       "level": 3,
-      "text": "anti-ui-slop"
-    },
-    {
-      "level": 3,
-      "text": "grilling"
+      "text": "teach"
     },
     {
       "level": 3,
@@ -94,7 +98,7 @@
     },
     {
       "level": 3,
-      "text": "teach"
+      "text": "domain-modeling"
     },
     {
       "level": 3,
@@ -106,11 +110,7 @@
     },
     {
       "level": 3,
-      "text": "azure-messaging"
-    },
-    {
-      "level": 3,
-      "text": "domain-modeling"
+      "text": "azure-diagnostics"
     },
     {
       "level": 3,
@@ -118,7 +118,19 @@
     },
     {
       "level": 3,
+      "text": "azure-prepare"
+    },
+    {
+      "level": 3,
       "text": "diagnosing-bugs"
+    },
+    {
+      "level": 3,
+      "text": "azure-messaging"
+    },
+    {
+      "level": 3,
+      "text": "ask-matt"
     },
     {
       "level": 3,
@@ -126,19 +138,7 @@
     },
     {
       "level": 3,
-      "text": "azure-compute"
-    },
-    {
-      "level": 3,
-      "text": "azure-rbac"
-    },
-    {
-      "level": 3,
-      "text": "azure-cloud-migrate"
-    },
-    {
-      "level": 3,
-      "text": "ai-video-generation"
+      "text": "implement"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "slug": "your-agent-needs-a-harness-not-a-framework",
   "url": "https://www.inngest.com/blog/your-agent-needs-a-harness-not-a-framework",
-  "crawled_at": "2026-08-31T15:53:15.628397+00:00",
+  "crawled_at": "2026-09-07T14:02:32.729383+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://www.inngest.com/blog/your-agent-needs-a-harness-not-a-framework",
@@ -17,7 +17,7 @@
   "twitter_image": "https://www.inngest.com/assets/blog/your-agent-needs-a-harness-not-a-framework/featured-image.png",
   "publish_date": "2026-03-03",
   "canonical_url": "https://www.inngest.com/blog/your-agent-needs-a-harness-not-a-framework",
-  "word_count": 2852,
+  "word_count": 2840,
   "reading_time_min": 14,
   "outline": [
     {
@@ -70,15 +70,15 @@
     },
     {
       "level": 3,
+      "text": "Incident report for September 4, 2026 - Network connectivity issues"
+    },
+    {
+      "level": 3,
       "text": "Best job queue alternatives in 2026"
     },
     {
       "level": 3,
       "text": "Have lots of SaaS integrations? You don't need lots of reliability models."
-    },
-    {
-      "level": 3,
-      "text": "Giving Inngest's Queue a Bigger Brain (and a Backup Generator): Our Migration to FoundationDB, Part 1"
     },
     {
       "level": 2,

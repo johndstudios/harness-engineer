@@ -1,7 +1,7 @@
 {
   "slug": "model-context-protocol-has-prompt-injection-security-problems",
   "url": "https://simonwillison.net/2025/Apr/9/mcp-prompt-injection/",
-  "crawled_at": "2026-08-31T15:52:29.484383+00:00",
+  "crawled_at": "2026-09-07T14:01:05.391606+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://simonwillison.net/2025/Apr/9/mcp-prompt-injection/",
@@ -18,7 +18,7 @@
   "author": "Simon Willison",
   "language": "en-gb",
   "canonical_url": "https://simonwillison.net/2025/Apr/9/mcp-prompt-injection/",
-  "word_count": 1786,
+  "word_count": 1802,
   "reading_time_min": 9,
   "outline": [
     {

@@ -1,12 +1,12 @@
 {
   "slug": "anchoring-ai-to-a-reference-application",
   "url": "https://martinfowler.com/articles/exploring-gen-ai/anchoring-to-reference.html",
-  "crawled_at": "2026-08-31T15:51:01.100172+00:00",
+  "crawled_at": "2026-09-07T13:59:07.496300+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://martinfowler.com/articles/exploring-gen-ai/anchoring-to-reference.html",
   "content_type": "article",
-  "last_modified": "Thu, 27 Aug 2026 13:12:53 GMT",
+  "last_modified": "Thu, 03 Sep 2026 20:25:20 GMT",
   "fetched_title": "Anchoring AI to a reference application",
   "meta_description": "",
   "og_title": "Anchoring AI to a reference application",
@@ -15,7 +15,7 @@
   "og_type": "article",
   "twitter_card": "summary",
   "twitter_image": "",
-  "word_count": 746,
+  "word_count": 739,
   "reading_time_min": 4,
   "outline": [
     {
