@@ -1,12 +1,12 @@
 {
   "slug": "testing-agent-skills-systematically-with-evals",
   "url": "https://developers.openai.com/blog/eval-skills/",
-  "crawled_at": "2026-09-07T14:01:29.981241+00:00",
+  "crawled_at": "2026-09-14T14:46:48.985477+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://developers.openai.com/blog/eval-skills",
   "content_type": "article",
-  "last_modified": "Sun, 06 Sep 2026 14:13:51 GMT",
+  "last_modified": "Mon, 14 Sep 2026 12:45:13 GMT",
   "fetched_title": "Testing Agent Skills Systematically with Evals | OpenAI Developers",
   "meta_description": "A practical guide to turning agent skills into something you can test, score, and improve over time.",
   "og_title": "Testing Agent Skills Systematically with Evals | OpenAI Developers",
@@ -17,7 +17,7 @@
   "twitter_image": "https://developers.openai.com/images/blog/eval-skills.png",
   "language": "en",
   "canonical_url": "https://developers.openai.com/blog/eval-skills",
-  "word_count": 4133,
+  "word_count": 4200,
   "reading_time_min": 21,
   "outline": [
     {
@@ -82,6 +82,10 @@
     },
     {
       "level": 3,
+      "text": "Agents API"
+    },
+    {
+      "level": 3,
       "text": "Agents SDK"
     },
     {
@@ -110,19 +114,23 @@
     },
     {
       "level": 3,
-      "text": "Get started"
+      "text": "GPT-Live"
     },
     {
       "level": 3,
-      "text": "Audio"
+      "text": "Realtime API"
     },
     {
       "level": 3,
-      "text": "Connection methods"
+      "text": "Build with voice"
     },
     {
       "level": 3,
-      "text": "Sessions and operations"
+      "text": "Connections"
+    },
+    {
+      "level": 3,
+      "text": "Audio processing"
     },
     {
       "level": 3,
@@ -131,14 +139,6 @@
     {
       "level": 3,
       "text": "Performance and quality"
-    },
-    {
-      "level": 3,
-      "text": "Cost and throughput"
-    },
-    {
-      "level": 3,
-      "text": "Safety and governance"
     }
   ]
 }

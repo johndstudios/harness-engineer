@@ -1,12 +1,12 @@
 {
   "slug": "trace-grading",
   "url": "https://platform.openai.com/docs/guides/trace-grading",
-  "crawled_at": "2026-09-07T14:01:39.193023+00:00",
+  "crawled_at": "2026-09-14T14:47:07.254298+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://developers.openai.com/api/docs/guides/trace-grading",
   "content_type": "article",
-  "last_modified": "Sun, 06 Sep 2026 13:35:30 GMT",
+  "last_modified": "Sun, 13 Sep 2026 22:37:41 GMT",
   "fetched_title": "Trace grading | OpenAI API",
   "meta_description": "Use trace grading to create datasets, configure graders, and track evaluation runs for your models.",
   "og_title": "Trace grading | OpenAI API",
@@ -17,8 +17,8 @@
   "twitter_image": "https://developers.openai.com/og/api/docs/guides/trace-grading.png",
   "language": "en",
   "canonical_url": "https://developers.openai.com/api/docs/guides/trace-grading",
-  "word_count": 1484,
-  "reading_time_min": 7,
+  "word_count": 1551,
+  "reading_time_min": 8,
   "outline": [
     {
       "level": 2,
@@ -82,6 +82,10 @@
     },
     {
       "level": 3,
+      "text": "Agents API"
+    },
+    {
+      "level": 3,
       "text": "Agents SDK"
     },
     {
@@ -110,19 +114,23 @@
     },
     {
       "level": 3,
-      "text": "Get started"
+      "text": "GPT-Live"
     },
     {
       "level": 3,
-      "text": "Audio"
+      "text": "Realtime API"
     },
     {
       "level": 3,
-      "text": "Connection methods"
+      "text": "Build with voice"
     },
     {
       "level": 3,
-      "text": "Sessions and operations"
+      "text": "Connections"
+    },
+    {
+      "level": 3,
+      "text": "Audio processing"
     },
     {
       "level": 3,
@@ -131,14 +139,6 @@
     {
       "level": 3,
       "text": "Performance and quality"
-    },
-    {
-      "level": 3,
-      "text": "Cost and throughput"
-    },
-    {
-      "level": 3,
-      "text": "Safety and governance"
     }
   ]
 }

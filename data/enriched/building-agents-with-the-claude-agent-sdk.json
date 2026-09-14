@@ -1,12 +1,12 @@
 {
   "slug": "building-agents-with-the-claude-agent-sdk",
   "url": "https://claude.com/blog/building-agents-with-the-claude-agent-sdk",
-  "crawled_at": "2026-09-07T13:59:24.789954+00:00",
+  "crawled_at": "2026-09-14T14:44:50.072347+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://claude.com/blog/building-agents-with-the-claude-agent-sdk",
   "content_type": "article",
-  "last_modified": "Thu, 03 Sep 2026 19:46:51 GMT",
+  "last_modified": "Mon, 14 Sep 2026 14:36:13 GMT",
   "fetched_title": "Building agents with the Claude Agent SDK | Claude by Anthropic",
   "meta_description": "How to get started with the Claude Agent SDK and best practices for using it.",
   "og_title": "Building agents with the Claude Agent SDK | Claude by Anthropic",
@@ -18,7 +18,7 @@
   "publish_date": "Sep 29, 20",
   "language": "en-US",
   "canonical_url": "https://claude.com/blog/building-agents-with-the-claude-agent-sdk",
-  "word_count": 2464,
+  "word_count": 2469,
   "reading_time_min": 12,
   "outline": [
     {
@@ -111,6 +111,10 @@
     },
     {
       "level": 3,
+      "text": "Reducing cost and improving performance with Claude Platform"
+    },
+    {
+      "level": 3,
       "text": "Building commerce agents with Claude"
     },
     {
@@ -120,10 +124,6 @@
     {
       "level": 3,
       "text": "The Claude Code guide for startups"
-    },
-    {
-      "level": 3,
-      "text": "How Warp builds self-improving agents on Claude"
     },
     {
       "level": 2,

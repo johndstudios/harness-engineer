@@ -1,14 +1,14 @@
 {
   "slug": "mcpmark",
   "url": "https://github.com/eval-sys/mcpmark",
-  "crawled_at": "2026-09-07T14:00:58.988680+00:00",
+  "crawled_at": "2026-09-14T14:46:15.554131+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://github.com/eval-sys/mcpmark",
   "content_type": "github",
   "last_modified": "",
   "github_stars": 460,
-  "github_forks": 46,
+  "github_forks": 48,
   "github_open_issues": 21,
   "github_topics": [
     "agentic",

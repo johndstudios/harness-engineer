@@ -1,7 +1,7 @@
 {
   "slug": "skillssh",
   "url": "https://skills.sh",
-  "crawled_at": "2026-09-07T14:01:20.933159+00:00",
+  "crawled_at": "2026-09-14T14:46:39.182615+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://www.skills.sh/",
@@ -17,7 +17,7 @@
   "twitter_image": "https://www.skills.sh/og.jpeg",
   "language": "en",
   "canonical_url": "https://www.skills.sh",
-  "word_count": 655,
+  "word_count": 671,
   "reading_time_min": 3,
   "outline": [
     {
@@ -46,19 +46,7 @@
     },
     {
       "level": 3,
-      "text": "grill-with-docs"
-    },
-    {
-      "level": 3,
-      "text": "improve-codebase-architecture"
-    },
-    {
-      "level": 3,
       "text": "frontend-design"
-    },
-    {
-      "level": 3,
-      "text": "tdd"
     },
     {
       "level": 3,
@@ -74,19 +62,11 @@
     },
     {
       "level": 3,
-      "text": "lark-doc"
-    },
-    {
-      "level": 3,
       "text": "grilling"
     },
     {
       "level": 3,
-      "text": "lark-markdown"
-    },
-    {
-      "level": 3,
-      "text": "web-design-guidelines"
+      "text": "lark-doc"
     },
     {
       "level": 3,
@@ -98,19 +78,11 @@
     },
     {
       "level": 3,
+      "text": "web-design-guidelines"
+    },
+    {
+      "level": 3,
       "text": "domain-modeling"
-    },
-    {
-      "level": 3,
-      "text": "microsoft-foundry"
-    },
-    {
-      "level": 3,
-      "text": "lark-apps"
-    },
-    {
-      "level": 3,
-      "text": "azure-diagnostics"
     },
     {
       "level": 3,
@@ -118,7 +90,7 @@
     },
     {
       "level": 3,
-      "text": "azure-prepare"
+      "text": "lark-apps"
     },
     {
       "level": 3,
@@ -126,7 +98,7 @@
     },
     {
       "level": 3,
-      "text": "azure-messaging"
+      "text": "microsoft-foundry"
     },
     {
       "level": 3,
@@ -134,11 +106,39 @@
     },
     {
       "level": 3,
+      "text": "implement"
+    },
+    {
+      "level": 3,
+      "text": "code-review"
+    },
+    {
+      "level": 3,
+      "text": "hyperframes-cli"
+    },
+    {
+      "level": 3,
       "text": "remotion-best-practices"
     },
     {
       "level": 3,
-      "text": "implement"
+      "text": "hyperframes"
+    },
+    {
+      "level": 3,
+      "text": "azure-compute"
+    },
+    {
+      "level": 3,
+      "text": "azure-cloud-migrate"
+    },
+    {
+      "level": 3,
+      "text": "caveman"
+    },
+    {
+      "level": 3,
+      "text": "wayfinder"
     }
   ]
 }
