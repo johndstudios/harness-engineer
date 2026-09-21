@@ -1,13 +1,13 @@
 {
   "slug": "travelplanner",
   "url": "https://github.com/OSU-NLP-Group/TravelPlanner",
-  "crawled_at": "2026-09-14T14:47:08.119665+00:00",
+  "crawled_at": "2026-09-21T14:54:50.188319+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://github.com/OSU-NLP-Group/TravelPlanner",
   "content_type": "github",
   "last_modified": "",
-  "github_stars": 546,
+  "github_stars": 549,
   "github_forks": 87,
   "github_open_issues": 2,
   "github_topics": [
@@ -19,7 +19,7 @@
   "github_language": "Python",
   "github_description": "[ICML'24 Spotlight] \"TravelPlanner: A Benchmark for Real-World Planning with Language Agents\"",
   "github_created": "2024-01-01",
-  "github_updated": "2026-09-10",
+  "github_updated": "2026-09-20",
   "github_pushed": "2026-05-24",
   "github_license": "MIT",
   "github_homepage": "https://osu-nlp-group.github.io/TravelPlanner/",
@@ -27,18 +27,14 @@
   "meta_description": "[ICML'24 Spotlight] \"TravelPlanner: A Benchmark for Real-World Planning with Language Agents\" - OSU-NLP-Group/TravelPlanner",
   "og_title": "GitHub - OSU-NLP-Group/TravelPlanner: [ICML'24 Spotlight] \"TravelPlanner: A Benchmark for Real-World Planning with Language Agents\"",
   "og_description": "[ICML'24 Spotlight] \"TravelPlanner: A Benchmark for Real-World Planning with Language Agents\" - OSU-NLP-Group/TravelPlanner",
-  "og_image": "https://opengraph.githubassets.com/11fdf4fc5e5914d7bf4c49b7917b47a38f965d6423aed78957302d9c1d5d7d66/OSU-NLP-Group/TravelPlanner",
+  "og_image": "https://opengraph.githubassets.com/9b9b5319188699b8b2a6f9ff17e83f1e9701510743a4e56a0ad458c873a4f0b3/OSU-NLP-Group/TravelPlanner",
   "og_type": "object",
   "twitter_card": "summary_large_image",
-  "twitter_image": "https://opengraph.githubassets.com/11fdf4fc5e5914d7bf4c49b7917b47a38f965d6423aed78957302d9c1d5d7d66/OSU-NLP-Group/TravelPlanner",
+  "twitter_image": "https://opengraph.githubassets.com/9b9b5319188699b8b2a6f9ff17e83f1e9701510743a4e56a0ad458c873a4f0b3/OSU-NLP-Group/TravelPlanner",
   "language": "en",
-  "word_count": 1150,
+  "word_count": 1137,
   "reading_time_min": 6,
   "outline": [
-    {
-      "level": 3,
-      "text": "Uh oh!"
-    },
     {
       "level": 2,
       "text": "Latest commit"

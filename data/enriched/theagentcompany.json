@@ -1,14 +1,14 @@
 {
   "slug": "theagentcompany",
   "url": "https://github.com/TheAgentCompany/TheAgentCompany",
-  "crawled_at": "2026-09-14T14:46:55.739820+00:00",
+  "crawled_at": "2026-09-21T14:54:46.283271+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://github.com/TheAgentCompany/TheAgentCompany",
   "content_type": "github",
   "last_modified": "",
-  "github_stars": 780,
-  "github_forks": 124,
+  "github_stars": 782,
+  "github_forks": 125,
   "github_open_issues": 25,
   "github_topics": [
     "agent",
@@ -21,7 +21,7 @@
   "github_language": "Python",
   "github_description": "An agent benchmark with tasks in a simulated software company.",
   "github_created": "2024-03-11",
-  "github_updated": "2026-09-14",
+  "github_updated": "2026-09-21",
   "github_pushed": "2025-11-17",
   "github_license": "MIT",
   "github_homepage": "https://the-agent-company.com",
@@ -29,18 +29,14 @@
   "meta_description": "An agent benchmark with tasks in a simulated software company. - TheAgentCompany/TheAgentCompany",
   "og_title": "GitHub - TheAgentCompany/TheAgentCompany: An agent benchmark with tasks in a simulated software company.",
   "og_description": "An agent benchmark with tasks in a simulated software company. - TheAgentCompany/TheAgentCompany",
-  "og_image": "https://opengraph.githubassets.com/1239d063ff36abb5aab924b054ec59c1518499cc25a6072eaf1aca499a724f25/TheAgentCompany/TheAgentCompany",
+  "og_image": "https://opengraph.githubassets.com/ed2632bad395ba290d40217490efb6aab8e2ad7d4c3a815260697832c47d28d3/TheAgentCompany/TheAgentCompany",
   "og_type": "object",
   "twitter_card": "summary_large_image",
-  "twitter_image": "https://opengraph.githubassets.com/1239d063ff36abb5aab924b054ec59c1518499cc25a6072eaf1aca499a724f25/TheAgentCompany/TheAgentCompany",
+  "twitter_image": "https://opengraph.githubassets.com/ed2632bad395ba290d40217490efb6aab8e2ad7d4c3a815260697832c47d28d3/TheAgentCompany/TheAgentCompany",
   "language": "en",
-  "word_count": 1161,
+  "word_count": 1148,
   "reading_time_min": 6,
   "outline": [
-    {
-      "level": 3,
-      "text": "Uh oh!"
-    },
     {
       "level": 2,
       "text": "Latest commit"

@@ -1,20 +1,20 @@
 {
   "slug": "agentboard",
   "url": "https://github.com/HKUST-NLP/AgentBoard",
-  "crawled_at": "2026-09-14T14:44:16.690833+00:00",
+  "crawled_at": "2026-09-21T14:51:03.297509+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://github.com/HKUST-NLP/AgentBoard",
   "content_type": "github",
   "last_modified": "",
-  "github_stars": 445,
+  "github_stars": 447,
   "github_forks": 44,
   "github_open_issues": 17,
   "github_topics": [],
   "github_language": "SAS",
   "github_description": "An Analytical Evaluation Board of Multi-turn LLM Agents [NeurIPS 2024 Oral]",
   "github_created": "2024-01-08",
-  "github_updated": "2026-09-11",
+  "github_updated": "2026-09-17",
   "github_pushed": "2024-05-20",
   "github_license": "",
   "github_homepage": "",
@@ -22,18 +22,14 @@
   "meta_description": "An Analytical Evaluation Board of Multi-turn LLM Agents [NeurIPS 2024 Oral] - hkust-nlp/AgentBoard",
   "og_title": "GitHub - hkust-nlp/AgentBoard: An Analytical Evaluation Board of Multi-turn LLM Agents [NeurIPS 2024 Oral]",
   "og_description": "An Analytical Evaluation Board of Multi-turn LLM Agents [NeurIPS 2024 Oral] - hkust-nlp/AgentBoard",
-  "og_image": "https://opengraph.githubassets.com/92d1c5b27aa5ed0fae2ee9432969d9b877ecabf376b5db36050cd0acdf782f2b/hkust-nlp/AgentBoard",
+  "og_image": "https://opengraph.githubassets.com/0cd1aeff2bb681ec0b91e3092dbb161557890634fdc72739b458330d0b11e84e/hkust-nlp/AgentBoard",
   "og_type": "object",
   "twitter_card": "summary_large_image",
-  "twitter_image": "https://opengraph.githubassets.com/92d1c5b27aa5ed0fae2ee9432969d9b877ecabf376b5db36050cd0acdf782f2b/hkust-nlp/AgentBoard",
+  "twitter_image": "https://opengraph.githubassets.com/0cd1aeff2bb681ec0b91e3092dbb161557890634fdc72739b458330d0b11e84e/hkust-nlp/AgentBoard",
   "language": "en",
-  "word_count": 2362,
+  "word_count": 2349,
   "reading_time_min": 12,
   "outline": [
-    {
-      "level": 3,
-      "text": "Uh oh!"
-    },
     {
       "level": 2,
       "text": "Latest commit"
@@ -149,6 +145,10 @@
     {
       "level": 3,
       "text": "Watchers"
+    },
+    {
+      "level": 3,
+      "text": "Forks"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "slug": "your-agent-needs-a-harness-not-a-framework",
   "url": "https://www.inngest.com/blog/your-agent-needs-a-harness-not-a-framework",
-  "crawled_at": "2026-09-14T14:48:09.894787+00:00",
+  "crawled_at": "2026-09-21T14:55:12.938839+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://www.inngest.com/blog/your-agent-needs-a-harness-not-a-framework",
@@ -17,7 +17,7 @@
   "twitter_image": "https://www.inngest.com/assets/blog/your-agent-needs-a-harness-not-a-framework/featured-image.png",
   "publish_date": "2026-03-03",
   "canonical_url": "https://www.inngest.com/blog/your-agent-needs-a-harness-not-a-framework",
-  "word_count": 2845,
+  "word_count": 2848,
   "reading_time_min": 14,
   "outline": [
     {
@@ -70,15 +70,15 @@
     },
     {
       "level": 3,
+      "text": "Incident report for September 18, 2026 - When Deletion Cascades Exhausted Our Database Connections"
+    },
+    {
+      "level": 3,
       "text": "How we keep a noisy neighbor from starving your jobs: fairness in a multi-tenant queue"
     },
     {
       "level": 3,
       "text": "How Inngest rolls out infrastructure changes"
-    },
-    {
-      "level": 3,
-      "text": "Best job queue alternatives in 2026"
     },
     {
       "level": 2,

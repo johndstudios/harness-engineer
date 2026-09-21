@@ -1,15 +1,15 @@
 {
   "slug": "autogen",
   "url": "https://github.com/microsoft/autogen",
-  "crawled_at": "2026-09-14T14:44:40.561093+00:00",
+  "crawled_at": "2026-09-21T14:51:56.913652+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://github.com/microsoft/autogen",
   "content_type": "github",
   "last_modified": "",
-  "github_stars": 60979,
-  "github_forks": 9206,
-  "github_open_issues": 1066,
+  "github_stars": 61094,
+  "github_forks": 9240,
+  "github_open_issues": 1089,
   "github_topics": [
     "agentic",
     "agentic-agi",
@@ -25,7 +25,7 @@
   "github_language": "Python",
   "github_description": "A programming framework for agentic AI",
   "github_created": "2023-08-18",
-  "github_updated": "2026-09-14",
+  "github_updated": "2026-09-21",
   "github_pushed": "2026-04-15",
   "github_license": "CC-BY-4.0",
   "github_homepage": "https://microsoft.github.io/autogen/",
@@ -33,18 +33,14 @@
   "meta_description": "A programming framework for agentic AI. Contribute to microsoft/autogen development by creating an account on GitHub.",
   "og_title": "GitHub - microsoft/autogen: A programming framework for agentic AI",
   "og_description": "A programming framework for agentic AI. Contribute to microsoft/autogen development by creating an account on GitHub.",
-  "og_image": "https://opengraph.githubassets.com/c687454477afcdcce3ebfb8f5327692d54a813c6ad8e51b8fe7d62a93f319655/microsoft/autogen",
+  "og_image": "https://opengraph.githubassets.com/e9a2be5994a62f4a81204e3920461f6c1b67631c60f81d8a0470a3f7fc958b75/microsoft/autogen",
   "og_type": "object",
   "twitter_card": "summary_large_image",
-  "twitter_image": "https://opengraph.githubassets.com/c687454477afcdcce3ebfb8f5327692d54a813c6ad8e51b8fe7d62a93f319655/microsoft/autogen",
+  "twitter_image": "https://opengraph.githubassets.com/e9a2be5994a62f4a81204e3920461f6c1b67631c60f81d8a0470a3f7fc958b75/microsoft/autogen",
   "language": "en",
-  "word_count": 1587,
+  "word_count": 1574,
   "reading_time_min": 8,
   "outline": [
-    {
-      "level": 3,
-      "text": "Uh oh!"
-    },
     {
       "level": 2,
       "text": "Latest commit"

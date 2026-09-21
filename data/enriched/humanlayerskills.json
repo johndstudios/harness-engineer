@@ -1,39 +1,35 @@
 {
   "slug": "humanlayerskills",
   "url": "https://github.com/humanlayer/skills",
-  "crawled_at": "2026-09-14T14:45:54.179151+00:00",
+  "crawled_at": "2026-09-21T14:53:10.283677+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://github.com/humanlayer/skills",
   "content_type": "github",
   "last_modified": "",
-  "github_stars": 4051,
-  "github_forks": 124,
-  "github_open_issues": 8,
+  "github_stars": 4402,
+  "github_forks": 139,
+  "github_open_issues": 7,
   "github_topics": [],
   "github_language": "TypeScript",
   "github_description": null,
   "github_created": "2026-03-18",
-  "github_updated": "2026-09-14",
-  "github_pushed": "2026-08-13",
+  "github_updated": "2026-09-21",
+  "github_pushed": "2026-09-17",
   "github_license": "MIT",
   "github_homepage": null,
   "fetched_title": "GitHub - humanlayer/skills \u00b7 GitHub",
   "meta_description": "Contribute to humanlayer/skills development by creating an account on GitHub.",
   "og_title": "GitHub - humanlayer/skills",
   "og_description": "Contribute to humanlayer/skills development by creating an account on GitHub.",
-  "og_image": "https://opengraph.githubassets.com/142d0f3deea486bd72cb37cd5acab01ea0e5b2a5e50f6a90fc01563b78e905d1/humanlayer/skills",
+  "og_image": "https://opengraph.githubassets.com/42ac5c5fc573f7293369d7679fa227d9f451dbb199d256fc026d3b69a7014ef0/humanlayer/skills",
   "og_type": "object",
   "twitter_card": "summary_large_image",
-  "twitter_image": "https://opengraph.githubassets.com/142d0f3deea486bd72cb37cd5acab01ea0e5b2a5e50f6a90fc01563b78e905d1/humanlayer/skills",
+  "twitter_image": "https://opengraph.githubassets.com/42ac5c5fc573f7293369d7679fa227d9f451dbb199d256fc026d3b69a7014ef0/humanlayer/skills",
   "language": "en",
-  "word_count": 324,
+  "word_count": 338,
   "reading_time_min": 2,
   "outline": [
-    {
-      "level": 3,
-      "text": "Uh oh!"
-    },
     {
       "level": 2,
       "text": "Latest commit"
@@ -64,6 +60,14 @@
     },
     {
       "level": 3,
+      "text": "show-me"
+    },
+    {
+      "level": 3,
+      "text": "visual-pr"
+    },
+    {
+      "level": 3,
       "text": "improve-claude-md"
     },
     {
@@ -77,10 +81,6 @@
     {
       "level": 3,
       "text": "design-control-loop"
-    },
-    {
-      "level": 3,
-      "text": "show-me"
     },
     {
       "level": 2,

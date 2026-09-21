@@ -1,13 +1,13 @@
 {
   "slug": "mcpmark",
   "url": "https://github.com/eval-sys/mcpmark",
-  "crawled_at": "2026-09-14T14:46:15.554131+00:00",
+  "crawled_at": "2026-09-21T14:53:55.331851+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://github.com/eval-sys/mcpmark",
   "content_type": "github",
   "last_modified": "",
-  "github_stars": 460,
+  "github_stars": 462,
   "github_forks": 48,
   "github_open_issues": 21,
   "github_topics": [
@@ -22,7 +22,7 @@
   "github_language": "Python",
   "github_description": "MCPMark is a comprehensive, stress-testing MCP benchmark designed to evaluate model and agent capabilities in real-world MCP use.",
   "github_created": "2025-07-01",
-  "github_updated": "2026-09-07",
+  "github_updated": "2026-09-21",
   "github_pushed": "2026-06-12",
   "github_license": "Apache-2.0",
   "github_homepage": "https://mcpmark.ai",
@@ -35,13 +35,9 @@
   "twitter_card": "summary_large_image",
   "twitter_image": "",
   "language": "en",
-  "word_count": 1769,
+  "word_count": 1756,
   "reading_time_min": 9,
   "outline": [
-    {
-      "level": 3,
-      "text": "Uh oh!"
-    },
     {
       "level": 2,
       "text": "Latest commit"
@@ -157,6 +153,10 @@
     {
       "level": 3,
       "text": "Forks"
+    },
+    {
+      "level": 2,
+      "text": "Releases"
     }
   ]
 }

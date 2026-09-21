@@ -1,7 +1,7 @@
 {
   "slug": "claude-code-best-practices-for-agentic-coding",
   "url": "https://code.claude.com/docs",
-  "crawled_at": "2026-09-14T14:45:01.388806+00:00",
+  "crawled_at": "2026-09-21T14:52:17.936704+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://code.claude.com/docs",
@@ -17,7 +17,7 @@
   "twitter_image": "https://claude-code.mintlify.app/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DGetting%2Bstarted%26title%3DOverview%26description%3DClaude%2BCode%2Bis%2Ban%2Bagentic%2Bcoding%2Btool%2Bthat%2Breads%2Byour%2Bcodebase%252C%2Bedits%2Bfiles%252C%2Bruns%2Bcommands%252C%2Band%2Bintegrates%2Bwith%2Byour%2Bdevelopment%2Btools.%2BAvailable%2Bin%2Byour%2Btermin%26theme%3D03628e99c753a03aec319053&w=1200&q=100",
   "language": "en",
   "canonical_url": "https://code.claude.com/docs/en/overview",
-  "word_count": 1793,
+  "word_count": 1829,
   "reading_time_min": 9,
   "outline": [
     {

@@ -1,13 +1,13 @@
 {
   "slug": "vab",
   "url": "https://github.com/THUDM/VisualAgentBench",
-  "crawled_at": "2026-09-14T14:47:34.704870+00:00",
+  "crawled_at": "2026-09-21T14:54:57.449491+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://github.com/THUDM/VisualAgentBench",
   "content_type": "github",
   "last_modified": "",
-  "github_stars": 277,
+  "github_stars": 278,
   "github_forks": 14,
   "github_open_issues": 17,
   "github_topics": [
@@ -26,18 +26,14 @@
   "meta_description": "Towards Large Multimodal Models as Visual Foundation Agents - THUDM/VisualAgentBench",
   "og_title": "GitHub - THUDM/VisualAgentBench: Towards Large Multimodal Models as Visual Foundation Agents",
   "og_description": "Towards Large Multimodal Models as Visual Foundation Agents - THUDM/VisualAgentBench",
-  "og_image": "https://opengraph.githubassets.com/a81ceeacc586148b351e484827b9d9d75390cc66d437037c97d47fbfe2fb60d1/THUDM/VisualAgentBench",
+  "og_image": "https://opengraph.githubassets.com/703f37889725e2da5ba1c7b9a61716210452096188a844df7ce08f6520151865/THUDM/VisualAgentBench",
   "og_type": "object",
   "twitter_card": "summary_large_image",
-  "twitter_image": "https://opengraph.githubassets.com/a81ceeacc586148b351e484827b9d9d75390cc66d437037c97d47fbfe2fb60d1/THUDM/VisualAgentBench",
+  "twitter_image": "https://opengraph.githubassets.com/703f37889725e2da5ba1c7b9a61716210452096188a844df7ce08f6520151865/THUDM/VisualAgentBench",
   "language": "en",
-  "word_count": 969,
+  "word_count": 956,
   "reading_time_min": 5,
   "outline": [
-    {
-      "level": 3,
-      "text": "Uh oh!"
-    },
     {
       "level": 2,
       "text": "Latest commit"

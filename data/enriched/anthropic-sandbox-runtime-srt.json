@@ -1,39 +1,35 @@
 {
   "slug": "anthropic-sandbox-runtime-srt",
   "url": "https://github.com/anthropic-experimental/sandbox-runtime",
-  "crawled_at": "2026-09-14T14:44:34.588957+00:00",
+  "crawled_at": "2026-09-21T14:51:50.503226+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://github.com/anthropics/sandbox-runtime",
   "content_type": "github",
   "last_modified": "",
-  "github_stars": 5225,
-  "github_forks": 441,
-  "github_open_issues": 209,
+  "github_stars": 5294,
+  "github_forks": 452,
+  "github_open_issues": 220,
   "github_topics": [],
   "github_language": "TypeScript",
   "github_description": "A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.",
   "github_created": "2025-10-20",
-  "github_updated": "2026-09-14",
-  "github_pushed": "2026-09-10",
+  "github_updated": "2026-09-21",
+  "github_pushed": "2026-09-21",
   "github_license": "Apache-2.0",
   "github_homepage": "",
   "fetched_title": "GitHub - anthropics/sandbox-runtime: A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container. \u00b7 GitHub",
   "meta_description": "A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container. - anthropics/sandbox-runtime",
   "og_title": "GitHub - anthropics/sandbox-runtime: A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.",
   "og_description": "A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container. - anthropics/sandbox-runtime",
-  "og_image": "https://opengraph.githubassets.com/5977260bc17deb3e7f3688d27708b5a0e1280c42d41cf10d25eabe6f154e1424/anthropics/sandbox-runtime",
+  "og_image": "https://opengraph.githubassets.com/3a56a53df2e37715f89fffd14b40395820e6440f7098095977127e45f607b600/anthropics/sandbox-runtime",
   "og_type": "object",
   "twitter_card": "summary_large_image",
-  "twitter_image": "https://opengraph.githubassets.com/5977260bc17deb3e7f3688d27708b5a0e1280c42d41cf10d25eabe6f154e1424/anthropics/sandbox-runtime",
+  "twitter_image": "https://opengraph.githubassets.com/3a56a53df2e37715f89fffd14b40395820e6440f7098095977127e45f607b600/anthropics/sandbox-runtime",
   "language": "en",
-  "word_count": 4144,
-  "reading_time_min": 21,
+  "word_count": 2885,
+  "reading_time_min": 14,
   "outline": [
-    {
-      "level": 3,
-      "text": "Uh oh!"
-    },
     {
       "level": 2,
       "text": "Latest commit"
@@ -109,26 +105,6 @@
     {
       "level": 3,
       "text": "Configuration Options"
-    },
-    {
-      "level": 3,
-      "text": "Common Configuration Recipes"
-    },
-    {
-      "level": 3,
-      "text": "Common Issues and Tips"
-    },
-    {
-      "level": 2,
-      "text": "Platform Support"
-    },
-    {
-      "level": 3,
-      "text": "Platform-Specific Dependencies"
-    },
-    {
-      "level": 2,
-      "text": "Windows (alpha)"
     }
   ]
 }

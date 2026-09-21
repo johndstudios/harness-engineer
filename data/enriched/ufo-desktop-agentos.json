@@ -1,15 +1,15 @@
 {
   "slug": "ufo-desktop-agentos",
   "url": "https://github.com/microsoft/UFO",
-  "crawled_at": "2026-09-14T14:47:15.432005+00:00",
+  "crawled_at": "2026-09-21T14:54:52.624824+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://github.com/microsoft/UFO",
   "content_type": "github",
   "last_modified": "",
-  "github_stars": 9725,
-  "github_forks": 1053,
-  "github_open_issues": 83,
+  "github_stars": 9791,
+  "github_forks": 1058,
+  "github_open_issues": 84,
   "github_topics": [
     "agent",
     "automation",
@@ -21,26 +21,22 @@
   "github_language": "Python",
   "github_description": "UFO\u00b3: Weaving the Digital Agent Galaxy",
   "github_created": "2024-01-08",
-  "github_updated": "2026-09-14",
-  "github_pushed": "2026-09-14",
+  "github_updated": "2026-09-21",
+  "github_pushed": "2026-09-15",
   "github_license": "MIT",
   "github_homepage": "https://microsoft.github.io/UFO/",
   "fetched_title": "GitHub - microsoft/UFO: UFO\u00b3: Weaving the Digital Agent Galaxy \u00b7 GitHub",
   "meta_description": "UFO\u00b3: Weaving the Digital Agent Galaxy. Contribute to microsoft/UFO development by creating an account on GitHub.",
   "og_title": "GitHub - microsoft/UFO: UFO\u00b3: Weaving the Digital Agent Galaxy",
   "og_description": "UFO\u00b3: Weaving the Digital Agent Galaxy. Contribute to microsoft/UFO development by creating an account on GitHub.",
-  "og_image": "https://opengraph.githubassets.com/6cd23527ae80b060ec010a53cad917db13861bcbbdb7ad4391c4fafc413fee1a/microsoft/UFO",
+  "og_image": "https://opengraph.githubassets.com/b7cf303f42ed9d3ee84b95af422bab95bfc60eb3e62ff52d9c495263db6f83b6/microsoft/UFO",
   "og_type": "object",
   "twitter_card": "summary_large_image",
-  "twitter_image": "https://opengraph.githubassets.com/6cd23527ae80b060ec010a53cad917db13861bcbbdb7ad4391c4fafc413fee1a/microsoft/UFO",
+  "twitter_image": "https://opengraph.githubassets.com/b7cf303f42ed9d3ee84b95af422bab95bfc60eb3e62ff52d9c495263db6f83b6/microsoft/UFO",
   "language": "en",
-  "word_count": 2453,
+  "word_count": 2440,
   "reading_time_min": 12,
   "outline": [
-    {
-      "level": 3,
-      "text": "Uh oh!"
-    },
     {
       "level": 2,
       "text": "Latest commit"
@@ -156,6 +152,10 @@
     {
       "level": 3,
       "text": "UFO\u00b3 Galaxy Framework (2025)"
+    },
+    {
+      "level": 3,
+      "text": "UFO\u00b2 Desktop AgentOS (2025)"
     }
   ]
 }

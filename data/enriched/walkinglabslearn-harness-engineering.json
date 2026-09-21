@@ -1,15 +1,15 @@
 {
   "slug": "walkinglabslearn-harness-engineering",
   "url": "https://github.com/walkinglabs/learn-harness-engineering",
-  "crawled_at": "2026-09-14T14:47:42.476796+00:00",
+  "crawled_at": "2026-09-21T14:55:00.439028+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://github.com/walkinglabs/learn-harness-engineering",
   "content_type": "github",
   "last_modified": "",
-  "github_stars": 15206,
-  "github_forks": 1519,
-  "github_open_issues": 16,
+  "github_stars": 15622,
+  "github_forks": 1571,
+  "github_open_issues": 17,
   "github_topics": [
     "agent",
     "agentic",
@@ -27,7 +27,7 @@
   "github_language": "TypeScript",
   "github_description": "Harness engineering beginner tutorial, from 0 to 1",
   "github_created": "2026-03-29",
-  "github_updated": "2026-09-14",
+  "github_updated": "2026-09-21",
   "github_pushed": "2026-08-26",
   "github_license": "MIT",
   "github_homepage": "https://walkinglabs.github.io/learn-harness-engineering/",
@@ -35,18 +35,14 @@
   "meta_description": "Harness engineering beginner tutorial, from 0 to 1 - walkinglabs/learn-harness-engineering",
   "og_title": "GitHub - walkinglabs/learn-harness-engineering: Harness engineering beginner tutorial, from 0 to 1",
   "og_description": "Harness engineering beginner tutorial, from 0 to 1 - walkinglabs/learn-harness-engineering",
-  "og_image": "https://opengraph.githubassets.com/d2e87e1214b18347484438e7e01e006bae94ed592d6399d5acdd11591a38c7cf/walkinglabs/learn-harness-engineering",
+  "og_image": "https://opengraph.githubassets.com/1e245a5c7862c34748ac87113c1ac85dd474679055422dc3097dd4153ab43422/walkinglabs/learn-harness-engineering",
   "og_type": "object",
   "twitter_card": "summary_large_image",
-  "twitter_image": "https://opengraph.githubassets.com/d2e87e1214b18347484438e7e01e006bae94ed592d6399d5acdd11591a38c7cf/walkinglabs/learn-harness-engineering",
+  "twitter_image": "https://opengraph.githubassets.com/1e245a5c7862c34748ac87113c1ac85dd474679055422dc3097dd4153ab43422/walkinglabs/learn-harness-engineering",
   "language": "en",
-  "word_count": 4171,
+  "word_count": 4158,
   "reading_time_min": 21,
   "outline": [
-    {
-      "level": 3,
-      "text": "Uh oh!"
-    },
     {
       "level": 2,
       "text": "Latest commit"
@@ -162,6 +158,10 @@
     {
       "level": 2,
       "text": "Prerequisites"
+    },
+    {
+      "level": 2,
+      "text": "Core References"
     }
   ]
 }

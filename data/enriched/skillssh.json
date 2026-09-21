@@ -1,7 +1,7 @@
 {
   "slug": "skillssh",
   "url": "https://skills.sh",
-  "crawled_at": "2026-09-14T14:46:39.182615+00:00",
+  "crawled_at": "2026-09-21T14:54:30.033340+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://www.skills.sh/",
@@ -17,7 +17,7 @@
   "twitter_image": "https://www.skills.sh/og.jpeg",
   "language": "en",
   "canonical_url": "https://www.skills.sh",
-  "word_count": 671,
+  "word_count": 655,
   "reading_time_min": 3,
   "outline": [
     {
@@ -62,15 +62,19 @@
     },
     {
       "level": 3,
-      "text": "grilling"
-    },
-    {
-      "level": 3,
       "text": "lark-doc"
     },
     {
       "level": 3,
       "text": "teach"
+    },
+    {
+      "level": 3,
+      "text": "lark-markdown"
+    },
+    {
+      "level": 3,
+      "text": "domain-modeling"
     },
     {
       "level": 3,
@@ -82,15 +86,7 @@
     },
     {
       "level": 3,
-      "text": "domain-modeling"
-    },
-    {
-      "level": 3,
       "text": "codebase-design"
-    },
-    {
-      "level": 3,
-      "text": "lark-apps"
     },
     {
       "level": 3,
@@ -98,27 +94,11 @@
     },
     {
       "level": 3,
-      "text": "microsoft-foundry"
-    },
-    {
-      "level": 3,
-      "text": "ask-matt"
-    },
-    {
-      "level": 3,
-      "text": "implement"
-    },
-    {
-      "level": 3,
-      "text": "code-review"
-    },
-    {
-      "level": 3,
       "text": "hyperframes-cli"
     },
     {
       "level": 3,
-      "text": "remotion-best-practices"
+      "text": "lark-apps"
     },
     {
       "level": 3,
@@ -126,19 +106,39 @@
     },
     {
       "level": 3,
-      "text": "azure-compute"
+      "text": "microsoft-foundry"
     },
     {
       "level": 3,
-      "text": "azure-cloud-migrate"
+      "text": "video-edit"
     },
     {
       "level": 3,
-      "text": "caveman"
+      "text": "azure-diagnostics"
     },
     {
       "level": 3,
-      "text": "wayfinder"
+      "text": "azure-prepare"
+    },
+    {
+      "level": 3,
+      "text": "ask-matt"
+    },
+    {
+      "level": 3,
+      "text": "azure-ai"
+    },
+    {
+      "level": 3,
+      "text": "azure-deploy"
+    },
+    {
+      "level": 3,
+      "text": "azure-validate"
+    },
+    {
+      "level": 3,
+      "text": "implement"
     }
   ]
 }

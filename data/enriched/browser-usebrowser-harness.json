@@ -1,15 +1,15 @@
 {
   "slug": "browser-usebrowser-harness",
   "url": "https://github.com/browser-use/browser-harness",
-  "crawled_at": "2026-09-14T14:44:47.766787+00:00",
+  "crawled_at": "2026-09-21T14:52:04.908741+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://github.com/browser-use/browser-harness",
   "content_type": "github",
   "last_modified": "",
-  "github_stars": 17531,
-  "github_forks": 1715,
-  "github_open_issues": 341,
+  "github_stars": 17940,
+  "github_forks": 1753,
+  "github_open_issues": 372,
   "github_topics": [
     "ai-agent",
     "browser-agent",
@@ -29,7 +29,7 @@
   "github_language": "Python",
   "github_description": "Browser Harness | Self-healing harness that enables LLMs to complete any task.",
   "github_created": "2026-04-17",
-  "github_updated": "2026-09-14",
+  "github_updated": "2026-09-21",
   "github_pushed": "2026-09-12",
   "github_license": "MIT",
   "github_homepage": "https://browser-harness.com",
@@ -37,18 +37,14 @@
   "meta_description": "Browser Harness | Self-healing harness that enables LLMs to complete any task. - browser-use/browser-harness",
   "og_title": "GitHub - browser-use/browser-harness: Browser Harness | Self-healing harness that enables LLMs to complete any task.",
   "og_description": "Browser Harness | Self-healing harness that enables LLMs to complete any task. - browser-use/browser-harness",
-  "og_image": "https://opengraph.githubassets.com/3ea52de4e5bb2a75e5ef5d7b7b48c13e796d02a5195affc2c17d08ecb59e8e99/browser-use/browser-harness",
+  "og_image": "https://opengraph.githubassets.com/b6d216480b7962ff5bc675bfedc385e09af1d69d2f0790e03cd32463b719987a/browser-use/browser-harness",
   "og_type": "object",
   "twitter_card": "summary_large_image",
-  "twitter_image": "https://opengraph.githubassets.com/3ea52de4e5bb2a75e5ef5d7b7b48c13e796d02a5195affc2c17d08ecb59e8e99/browser-use/browser-harness",
+  "twitter_image": "https://opengraph.githubassets.com/b6d216480b7962ff5bc675bfedc385e09af1d69d2f0790e03cd32463b719987a/browser-use/browser-harness",
   "language": "en",
-  "word_count": 532,
+  "word_count": 519,
   "reading_time_min": 3,
   "outline": [
-    {
-      "level": 3,
-      "text": "Uh oh!"
-    },
     {
       "level": 2,
       "text": "Latest commit"

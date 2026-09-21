@@ -1,14 +1,14 @@
 {
   "slug": "uni-cli",
   "url": "https://github.com/olo-dot-io/Uni-CLI",
-  "crawled_at": "2026-09-14T14:47:26.279819+00:00",
+  "crawled_at": "2026-09-21T14:54:55.356574+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://github.com/olo-dot-io/Uni-CLI",
   "content_type": "github",
   "last_modified": "",
-  "github_stars": 271,
-  "github_forks": 2,
+  "github_stars": 270,
+  "github_forks": 3,
   "github_open_issues": 2,
   "github_topics": [
     "agent-infrastructure",
@@ -35,26 +35,22 @@
   "github_language": "TypeScript",
   "github_description": "One command for every interface\u2014search, run, and inspect real software across APIs, browsers, desktops, local tools, and MCP.",
   "github_created": "2026-04-04",
-  "github_updated": "2026-09-09",
-  "github_pushed": "2026-09-13",
+  "github_updated": "2026-09-20",
+  "github_pushed": "2026-09-20",
   "github_license": "Apache-2.0",
   "github_homepage": "https://olo-dot-io.github.io/Uni-CLI/",
   "fetched_title": "GitHub - olo-dot-io/Uni-CLI: One command for every interface\u2014search, run, and inspect real software across APIs, browsers, desktops, local tools, and MCP. \u00b7 GitHub",
   "meta_description": "One command for every interface\u2014search, run, and inspect real software across APIs, browsers, desktops, local tools, and MCP. - olo-dot-io/Uni-CLI",
   "og_title": "GitHub - olo-dot-io/Uni-CLI: One command for every interface\u2014search, run, and inspect real software across APIs, browsers, desktops, local tools, and MCP.",
   "og_description": "One command for every interface\u2014search, run, and inspect real software across APIs, browsers, desktops, local tools, and MCP. - olo-dot-io/Uni-CLI",
-  "og_image": "https://opengraph.githubassets.com/2e327ed94c42fb8e61a7fe963d5263e7d944c5a30b52bc362a6f9827554932e6/olo-dot-io/Uni-CLI",
+  "og_image": "https://opengraph.githubassets.com/b44131ee81adf1e71e813fc135469670a9cc517d6ecd1284d7d98a70f1721a96/olo-dot-io/Uni-CLI",
   "og_type": "object",
   "twitter_card": "summary_large_image",
-  "twitter_image": "https://opengraph.githubassets.com/2e327ed94c42fb8e61a7fe963d5263e7d944c5a30b52bc362a6f9827554932e6/olo-dot-io/Uni-CLI",
+  "twitter_image": "https://opengraph.githubassets.com/b44131ee81adf1e71e813fc135469670a9cc517d6ecd1284d7d98a70f1721a96/olo-dot-io/Uni-CLI",
   "language": "en",
-  "word_count": 1875,
+  "word_count": 1862,
   "reading_time_min": 9,
   "outline": [
-    {
-      "level": 3,
-      "text": "Uh oh!"
-    },
     {
       "level": 2,
       "text": "Latest commit"
@@ -170,6 +166,10 @@
     {
       "level": 2,
       "text": "Contributors"
+    },
+    {
+      "level": 2,
+      "text": "Languages"
     }
   ]
 }

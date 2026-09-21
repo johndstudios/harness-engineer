@@ -1,14 +1,14 @@
 {
   "slug": "agentbench",
   "url": "https://github.com/THUDM/AgentBench",
-  "crawled_at": "2026-09-14T14:44:14.633800+00:00",
+  "crawled_at": "2026-09-21T14:50:57.031326+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://github.com/THUDM/AgentBench",
   "content_type": "github",
   "last_modified": "",
-  "github_stars": 3732,
-  "github_forks": 279,
+  "github_stars": 3742,
+  "github_forks": 280,
   "github_open_issues": 77,
   "github_topics": [
     "chatgpt",
@@ -19,7 +19,7 @@
   "github_language": "Python",
   "github_description": "A Comprehensive Benchmark to Evaluate LLMs as Agents (ICLR'24)",
   "github_created": "2023-07-28",
-  "github_updated": "2026-09-14",
+  "github_updated": "2026-09-19",
   "github_pushed": "2026-02-08",
   "github_license": "Apache-2.0",
   "github_homepage": "",
@@ -27,18 +27,14 @@
   "meta_description": "A Comprehensive Benchmark to Evaluate LLMs as Agents (ICLR'24) - THUDM/AgentBench",
   "og_title": "GitHub - THUDM/AgentBench: A Comprehensive Benchmark to Evaluate LLMs as Agents (ICLR'24)",
   "og_description": "A Comprehensive Benchmark to Evaluate LLMs as Agents (ICLR'24) - THUDM/AgentBench",
-  "og_image": "https://opengraph.githubassets.com/ba40ba72e28f0b03ad6bd8db2dad2e4d72463bcd9b4726b2c76600908a5fc504/THUDM/AgentBench",
+  "og_image": "https://opengraph.githubassets.com/31aead9831fbd21bd784a0bcdf4bc5dbcb7eb31c5ab51c856ab47605db05dcf8/THUDM/AgentBench",
   "og_type": "object",
   "twitter_card": "summary_large_image",
-  "twitter_image": "https://opengraph.githubassets.com/ba40ba72e28f0b03ad6bd8db2dad2e4d72463bcd9b4726b2c76600908a5fc504/THUDM/AgentBench",
+  "twitter_image": "https://opengraph.githubassets.com/31aead9831fbd21bd784a0bcdf4bc5dbcb7eb31c5ab51c856ab47605db05dcf8/THUDM/AgentBench",
   "language": "en",
-  "word_count": 1498,
+  "word_count": 1485,
   "reading_time_min": 7,
   "outline": [
-    {
-      "level": 3,
-      "text": "Uh oh!"
-    },
     {
       "level": 2,
       "text": "Latest commit"
@@ -154,6 +150,10 @@
     {
       "level": 3,
       "text": "Forks"
+    },
+    {
+      "level": 2,
+      "text": "Releases"
     }
   ]
 }

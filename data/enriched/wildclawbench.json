@@ -1,13 +1,13 @@
 {
   "slug": "wildclawbench",
   "url": "https://github.com/InternLM/WildClawBench",
-  "crawled_at": "2026-09-14T14:47:49.697712+00:00",
+  "crawled_at": "2026-09-21T14:55:05.563681+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://github.com/InternLM/WildClawBench",
   "content_type": "github",
   "last_modified": "",
-  "github_stars": 521,
+  "github_stars": 523,
   "github_forks": 64,
   "github_open_issues": 5,
   "github_topics": [
@@ -20,26 +20,22 @@
   "github_language": "Python",
   "github_description": "An in-the-wild benchmark for AI agents in the production harness.",
   "github_created": "2026-03-23",
-  "github_updated": "2026-09-12",
-  "github_pushed": "2026-08-17",
+  "github_updated": "2026-09-18",
+  "github_pushed": "2026-09-18",
   "github_license": "MIT",
   "github_homepage": "https://internlm.github.io/WildClawBench/",
   "fetched_title": "GitHub - InternLM/WildClawBench: An in-the-wild benchmark for AI agents in the production harness. \u00b7 GitHub",
   "meta_description": "An in-the-wild benchmark for AI agents in the production harness. - InternLM/WildClawBench",
   "og_title": "GitHub - InternLM/WildClawBench: An in-the-wild benchmark for AI agents in the production harness.",
   "og_description": "An in-the-wild benchmark for AI agents in the production harness. - InternLM/WildClawBench",
-  "og_image": "https://opengraph.githubassets.com/cd266d0de67e5c8a0f286fa8f508f9dd4304439ff8b837e20680af624df823d9/InternLM/WildClawBench",
+  "og_image": "https://opengraph.githubassets.com/c194ed26edcebdd1f919a711f6780abf60cd2a5c29ab742aa27b889fc8c949d4/InternLM/WildClawBench",
   "og_type": "object",
   "twitter_card": "summary_large_image",
-  "twitter_image": "https://opengraph.githubassets.com/cd266d0de67e5c8a0f286fa8f508f9dd4304439ff8b837e20680af624df823d9/InternLM/WildClawBench",
+  "twitter_image": "https://opengraph.githubassets.com/c194ed26edcebdd1f919a711f6780abf60cd2a5c29ab742aa27b889fc8c949d4/InternLM/WildClawBench",
   "language": "en",
-  "word_count": 3551,
+  "word_count": 3555,
   "reading_time_min": 18,
   "outline": [
-    {
-      "level": 3,
-      "text": "Uh oh!"
-    },
     {
       "level": 2,
       "text": "Latest commit"
@@ -155,6 +151,10 @@
     {
       "level": 2,
       "text": "License"
+    },
+    {
+      "level": 2,
+      "text": "Star History"
     }
   ]
 }

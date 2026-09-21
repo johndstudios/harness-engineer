@@ -1,7 +1,7 @@
 {
   "slug": "gta",
   "url": "https://github.com/open-compass/GTA",
-  "crawled_at": "2026-09-14T14:45:38.767973+00:00",
+  "crawled_at": "2026-09-21T14:52:53.900754+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://github.com/open-compass/GTA",
@@ -30,13 +30,9 @@
   "twitter_card": "summary_large_image",
   "twitter_image": "https://opengraph.githubassets.com/f63acb3de957ffdf82f60c34267ab3be7174f9e34e614577047ab53ba7fef352/open-compass/GTA",
   "language": "en",
-  "word_count": 1480,
+  "word_count": 1467,
   "reading_time_min": 7,
   "outline": [
-    {
-      "level": 3,
-      "text": "Uh oh!"
-    },
     {
       "level": 2,
       "text": "Latest commit"
@@ -152,6 +148,10 @@
     {
       "level": 2,
       "text": "Packages"
+    },
+    {
+      "level": 2,
+      "text": "Contributors"
     }
   ]
 }

@@ -1,20 +1,20 @@
 {
   "slug": "sec-bench",
   "url": "https://github.com/SEC-bench/SEC-bench",
-  "crawled_at": "2026-09-14T14:46:36.929041+00:00",
+  "crawled_at": "2026-09-21T14:54:27.540141+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://github.com/SEC-bench/SEC-bench",
   "content_type": "github",
   "last_modified": "",
-  "github_stars": 96,
+  "github_stars": 97,
   "github_forks": 12,
   "github_open_issues": 3,
   "github_topics": [],
   "github_language": "Python",
   "github_description": "Automated Benchmarking of LLM Agents on Real-World Software Security Tasks [NeurIPS 2025]",
   "github_created": "2025-06-05",
-  "github_updated": "2026-09-07",
+  "github_updated": "2026-09-14",
   "github_pushed": "2026-01-27",
   "github_license": "MIT",
   "github_homepage": "https://sec-bench.github.io",
@@ -22,18 +22,14 @@
   "meta_description": "Automated Benchmarking of LLM Agents on Real-World Software Security Tasks [NeurIPS 2025] - SEC-bench/SEC-bench",
   "og_title": "GitHub - SEC-bench/SEC-bench: Automated Benchmarking of LLM Agents on Real-World Software Security Tasks [NeurIPS 2025]",
   "og_description": "Automated Benchmarking of LLM Agents on Real-World Software Security Tasks [NeurIPS 2025] - SEC-bench/SEC-bench",
-  "og_image": "https://opengraph.githubassets.com/40343d24387397c359587fa84caea76af23c60a7cf1fcc4f90be2867b73b538a/SEC-bench/SEC-bench",
+  "og_image": "https://opengraph.githubassets.com/e146ea5615baa2cb0e602f58fe9bc6373a30b54b98047009ee6a738c0bde0101/SEC-bench/SEC-bench",
   "og_type": "object",
   "twitter_card": "summary_large_image",
-  "twitter_image": "https://opengraph.githubassets.com/40343d24387397c359587fa84caea76af23c60a7cf1fcc4f90be2867b73b538a/SEC-bench/SEC-bench",
+  "twitter_image": "https://opengraph.githubassets.com/e146ea5615baa2cb0e602f58fe9bc6373a30b54b98047009ee6a738c0bde0101/SEC-bench/SEC-bench",
   "language": "en",
-  "word_count": 1319,
+  "word_count": 1306,
   "reading_time_min": 7,
   "outline": [
-    {
-      "level": 3,
-      "text": "Uh oh!"
-    },
     {
       "level": 2,
       "text": "Latest commit"
@@ -149,6 +145,10 @@
     {
       "level": 2,
       "text": "Releases"
+    },
+    {
+      "level": 2,
+      "text": "Packages"
     }
   ]
 }

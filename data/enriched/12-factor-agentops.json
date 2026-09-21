@@ -1,16 +1,16 @@
 {
   "slug": "12-factor-agentops",
   "url": "https://www.12factoragentops.com/",
-  "crawled_at": "2026-09-14T14:44:05.868108+00:00",
+  "crawled_at": "2026-09-21T14:50:45.772310+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://www.12factoragentops.com/",
   "content_type": "article",
-  "last_modified": "Thu, 10 Sep 2026 01:58:27 GMT",
+  "last_modified": "Wed, 16 Sep 2026 15:12:53 GMT",
   "fetched_title": "12-Factor AgentOps | Independent Verification for Agent-Built Software",
-  "meta_description": "Twelve operating rules for agent-built software: fixed intent, one bounded build, fresh validation, and a content-addressed verdict.",
+  "meta_description": "34 optional skills for Claude Code and Codex: investigate code, write useful tests, and independently review changes.",
   "og_title": "12-Factor AgentOps | Independent Verification for Agent-Built Software",
-  "og_description": "Twelve operating rules for agent-built software: fixed intent, one bounded build, fresh validation, and a content-addressed verdict.",
+  "og_description": "34 optional skills for Claude Code and Codex: investigate code, write useful tests, and independently review changes.",
   "og_image": "https://www.12factoragentops.com/og-image.png",
   "og_type": "website",
   "twitter_card": "summary_large_image",
@@ -18,12 +18,16 @@
   "author": "Bo Fuller",
   "language": "en",
   "canonical_url": "https://www.12factoragentops.com",
-  "word_count": 518,
+  "word_count": 600,
   "reading_time_min": 3,
   "outline": [
     {
       "level": 1,
       "text": "Don't run productionon vibes."
+    },
+    {
+      "level": 2,
+      "text": "//start with the work in front of you"
     },
     {
       "level": 2,

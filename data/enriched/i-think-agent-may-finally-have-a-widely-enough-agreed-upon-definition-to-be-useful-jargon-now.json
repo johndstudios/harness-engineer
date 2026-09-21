@@ -1,7 +1,7 @@
 {
   "slug": "i-think-agent-may-finally-have-a-widely-enough-agreed-upon-definition-to-be-useful-jargon-now",
   "url": "https://simonwillison.net/2025/Sep/18/agents/",
-  "crawled_at": "2026-09-14T14:45:56.277841+00:00",
+  "crawled_at": "2026-09-21T14:53:12.657128+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://simonwillison.net/2025/Sep/18/agents/",
@@ -18,8 +18,8 @@
   "author": "Simon Willison",
   "language": "en-gb",
   "canonical_url": "https://simonwillison.net/2025/Sep/18/agents/",
-  "word_count": 1298,
-  "reading_time_min": 6,
+  "word_count": 1310,
+  "reading_time_min": 7,
   "outline": [
     {
       "level": 1,

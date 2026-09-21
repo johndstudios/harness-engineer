@@ -1,12 +1,12 @@
 {
   "slug": "building-agents-with-the-claude-agent-sdk",
   "url": "https://claude.com/blog/building-agents-with-the-claude-agent-sdk",
-  "crawled_at": "2026-09-14T14:44:50.072347+00:00",
+  "crawled_at": "2026-09-21T14:52:07.483353+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://claude.com/blog/building-agents-with-the-claude-agent-sdk",
   "content_type": "article",
-  "last_modified": "Mon, 14 Sep 2026 14:36:13 GMT",
+  "last_modified": "Fri, 18 Sep 2026 22:12:14 GMT",
   "fetched_title": "Building agents with the Claude Agent SDK | Claude by Anthropic",
   "meta_description": "How to get started with the Claude Agent SDK and best practices for using it.",
   "og_title": "Building agents with the Claude Agent SDK | Claude by Anthropic",
@@ -18,7 +18,7 @@
   "publish_date": "Sep 29, 20",
   "language": "en-US",
   "canonical_url": "https://claude.com/blog/building-agents-with-the-claude-agent-sdk",
-  "word_count": 2469,
+  "word_count": 2495,
   "reading_time_min": 12,
   "outline": [
     {
@@ -111,19 +111,19 @@
     },
     {
       "level": 3,
+      "text": "Projects redesigned: from folder to conversation"
+    },
+    {
+      "level": 3,
+      "text": "Agentic coding is straining CI. Here\u2019s how we scaled test impact analysis at Anthropic"
+    },
+    {
+      "level": 3,
       "text": "Reducing cost and improving performance with Claude Platform"
     },
     {
       "level": 3,
       "text": "Building commerce agents with Claude"
-    },
-    {
-      "level": 3,
-      "text": "A guide to the anatomy of effective commerce agents"
-    },
-    {
-      "level": 3,
-      "text": "The Claude Code guide for startups"
     },
     {
       "level": 2,

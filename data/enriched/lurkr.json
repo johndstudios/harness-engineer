@@ -1,7 +1,7 @@
 {
   "slug": "lurkr",
   "url": "https://github.com/agentveil-protocol/lurkr",
-  "crawled_at": "2026-09-14T14:46:09.358254+00:00",
+  "crawled_at": "2026-09-21T14:53:31.177399+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://github.com/agentveil-protocol/lurkr",
@@ -38,13 +38,9 @@
   "twitter_card": "summary_large_image",
   "twitter_image": "https://opengraph.githubassets.com/38823b9a8348795fa49807b0dc4629c53951e6c62b8dc9f34373d996de2d5172/agentveil-protocol/lurkr",
   "language": "en",
-  "word_count": 2660,
+  "word_count": 2647,
   "reading_time_min": 13,
   "outline": [
-    {
-      "level": 3,
-      "text": "Uh oh!"
-    },
     {
       "level": 2,
       "text": "Latest commit"
@@ -160,6 +156,10 @@
     {
       "level": 2,
       "text": "About"
+    },
+    {
+      "level": 3,
+      "text": "Topics"
     }
   ]
 }
