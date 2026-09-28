@@ -1,12 +1,12 @@
 {
   "slug": "building-agents-with-the-claude-agent-sdk",
   "url": "https://claude.com/blog/building-agents-with-the-claude-agent-sdk",
-  "crawled_at": "2026-09-21T14:52:07.483353+00:00",
+  "crawled_at": "2026-09-28T16:27:56.863145+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://claude.com/blog/building-agents-with-the-claude-agent-sdk",
   "content_type": "article",
-  "last_modified": "Fri, 18 Sep 2026 22:12:14 GMT",
+  "last_modified": "Mon, 28 Sep 2026 16:12:12 GMT",
   "fetched_title": "Building agents with the Claude Agent SDK | Claude by Anthropic",
   "meta_description": "How to get started with the Claude Agent SDK and best practices for using it.",
   "og_title": "Building agents with the Claude Agent SDK | Claude by Anthropic",
@@ -18,8 +18,8 @@
   "publish_date": "Sep 29, 20",
   "language": "en-US",
   "canonical_url": "https://claude.com/blog/building-agents-with-the-claude-agent-sdk",
-  "word_count": 2495,
-  "reading_time_min": 12,
+  "word_count": 2515,
+  "reading_time_min": 13,
   "outline": [
     {
       "level": 1,
@@ -111,19 +111,19 @@
     },
     {
       "level": 3,
-      "text": "Projects redesigned: from folder to conversation"
+      "text": "The AI-native SDLC playbook"
     },
     {
       "level": 3,
-      "text": "Agentic coding is straining CI. Here\u2019s how we scaled test impact analysis at Anthropic"
+      "text": "Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind."
+    },
+    {
+      "level": 3,
+      "text": "How to prepare for AI-driven code modernization projects"
     },
     {
       "level": 3,
       "text": "Reducing cost and improving performance with Claude Platform"
-    },
-    {
-      "level": 3,
-      "text": "Building commerce agents with Claude"
     },
     {
       "level": 2,

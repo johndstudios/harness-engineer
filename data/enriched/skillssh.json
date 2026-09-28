@@ -1,7 +1,7 @@
 {
   "slug": "skillssh",
   "url": "https://skills.sh",
-  "crawled_at": "2026-09-21T14:54:30.033340+00:00",
+  "crawled_at": "2026-09-28T16:29:34.224784+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://www.skills.sh/",
@@ -17,7 +17,7 @@
   "twitter_image": "https://www.skills.sh/og.jpeg",
   "language": "en",
   "canonical_url": "https://www.skills.sh",
-  "word_count": 655,
+  "word_count": 659,
   "reading_time_min": 3,
   "outline": [
     {
@@ -46,11 +46,11 @@
     },
     {
       "level": 3,
-      "text": "frontend-design"
+      "text": "agent-browser"
     },
     {
       "level": 3,
-      "text": "agent-browser"
+      "text": "frontend-design"
     },
     {
       "level": 3,
@@ -70,11 +70,55 @@
     },
     {
       "level": 3,
+      "text": "domain-modeling"
+    },
+    {
+      "level": 3,
+      "text": "video-edit"
+    },
+    {
+      "level": 3,
+      "text": "lark-okr"
+    },
+    {
+      "level": 3,
+      "text": "ai-music"
+    },
+    {
+      "level": 3,
+      "text": "ai-video-generation"
+    },
+    {
+      "level": 3,
+      "text": "image-to-video"
+    },
+    {
+      "level": 3,
+      "text": "hyperframes-cli"
+    },
+    {
+      "level": 3,
+      "text": "ai-image-generation"
+    },
+    {
+      "level": 3,
       "text": "lark-markdown"
     },
     {
       "level": 3,
-      "text": "domain-modeling"
+      "text": "codebase-design"
+    },
+    {
+      "level": 3,
+      "text": "reddit-automation"
+    },
+    {
+      "level": 3,
+      "text": "hyperframes"
+    },
+    {
+      "level": 3,
+      "text": "diagnosing-bugs"
     },
     {
       "level": 3,
@@ -86,55 +130,11 @@
     },
     {
       "level": 3,
-      "text": "codebase-design"
-    },
-    {
-      "level": 3,
-      "text": "diagnosing-bugs"
-    },
-    {
-      "level": 3,
-      "text": "hyperframes-cli"
-    },
-    {
-      "level": 3,
       "text": "lark-apps"
     },
     {
       "level": 3,
-      "text": "hyperframes"
-    },
-    {
-      "level": 3,
-      "text": "microsoft-foundry"
-    },
-    {
-      "level": 3,
-      "text": "video-edit"
-    },
-    {
-      "level": 3,
-      "text": "azure-diagnostics"
-    },
-    {
-      "level": 3,
-      "text": "azure-prepare"
-    },
-    {
-      "level": 3,
-      "text": "ask-matt"
-    },
-    {
-      "level": 3,
-      "text": "azure-ai"
-    },
-    {
-      "level": 3,
-      "text": "azure-deploy"
-    },
-    {
-      "level": 3,
-      "text": "azure-validate"
+      "text": "code-review"
     },
     {
       "level": 3,

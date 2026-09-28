@@ -1,7 +1,7 @@
 {
   "slug": "uni-cli",
   "url": "https://github.com/olo-dot-io/Uni-CLI",
-  "crawled_at": "2026-09-21T14:54:55.356574+00:00",
+  "crawled_at": "2026-09-28T16:29:58.102098+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://github.com/olo-dot-io/Uni-CLI",
@@ -9,7 +9,7 @@
   "last_modified": "",
   "github_stars": 270,
   "github_forks": 3,
-  "github_open_issues": 2,
+  "github_open_issues": 3,
   "github_topics": [
     "agent-infrastructure",
     "ai-agents",
@@ -36,7 +36,7 @@
   "github_description": "One command for every interface\u2014search, run, and inspect real software across APIs, browsers, desktops, local tools, and MCP.",
   "github_created": "2026-04-04",
   "github_updated": "2026-09-20",
-  "github_pushed": "2026-09-20",
+  "github_pushed": "2026-09-22",
   "github_license": "Apache-2.0",
   "github_homepage": "https://olo-dot-io.github.io/Uni-CLI/",
   "fetched_title": "GitHub - olo-dot-io/Uni-CLI: One command for every interface\u2014search, run, and inspect real software across APIs, browsers, desktops, local tools, and MCP. \u00b7 GitHub",

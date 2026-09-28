@@ -1,33 +1,29 @@
 {
   "slug": "12-factor-agentops",
   "url": "https://www.12factoragentops.com/",
-  "crawled_at": "2026-09-21T14:50:45.772310+00:00",
+  "crawled_at": "2026-09-28T16:27:16.364409+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://www.12factoragentops.com/",
   "content_type": "article",
-  "last_modified": "Wed, 16 Sep 2026 15:12:53 GMT",
-  "fetched_title": "12-Factor AgentOps | Independent Verification for Agent-Built Software",
-  "meta_description": "34 optional skills for Claude Code and Codex: investigate code, write useful tests, and independently review changes.",
-  "og_title": "12-Factor AgentOps | Independent Verification for Agent-Built Software",
-  "og_description": "34 optional skills for Claude Code and Codex: investigate code, write useful tests, and independently review changes.",
+  "last_modified": "Sat, 26 Sep 2026 21:13:14 GMT",
+  "fetched_title": "12-Factor AgentOps | Operating rules for coding agents",
+  "meta_description": "Twelve operating rules for running coding agents whose work you can trust. The agent that wrote a change never accepts it; a fresh reviewer checks the result.",
+  "og_title": "12-Factor AgentOps | Operating rules for coding agents",
+  "og_description": "Twelve operating rules for running coding agents whose work you can trust. The agent that wrote a change never accepts it; a fresh reviewer checks the result.",
   "og_image": "https://www.12factoragentops.com/og-image.png",
   "og_type": "website",
   "twitter_card": "summary_large_image",
   "twitter_image": "https://www.12factoragentops.com/og-image.png",
-  "author": "Bo Fuller",
+  "author": "Boden Fuller",
   "language": "en",
   "canonical_url": "https://www.12factoragentops.com",
-  "word_count": 600,
-  "reading_time_min": 3,
+  "word_count": 875,
+  "reading_time_min": 4,
   "outline": [
     {
       "level": 1,
       "text": "Don't run productionon vibes."
-    },
-    {
-      "level": 2,
-      "text": "//start with the work in front of you"
     },
     {
       "level": 2,
@@ -39,7 +35,15 @@
     },
     {
       "level": 2,
-      "text": "//the boundary"
+      "text": "//the route to done"
+    },
+    {
+      "level": 2,
+      "text": "//the reference implementation"
+    },
+    {
+      "level": 2,
+      "text": "//start where the work is"
     }
   ]
 }

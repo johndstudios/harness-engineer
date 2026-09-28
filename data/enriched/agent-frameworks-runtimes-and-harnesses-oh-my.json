@@ -1,12 +1,12 @@
 {
   "slug": "agent-frameworks-runtimes-and-harnesses-oh-my",
   "url": "https://blog.langchain.com/agent-frameworks-runtimes-and-harnesses-oh-my/",
-  "crawled_at": "2026-09-21T14:50:49.959912+00:00",
+  "crawled_at": "2026-09-28T16:27:20.477498+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://www.langchain.com/blog/agent-frameworks-runtimes-and-harnesses-oh-my",
   "content_type": "article",
-  "last_modified": "Mon, 21 Sep 2026 06:19:39 GMT",
+  "last_modified": "Mon, 28 Sep 2026 16:27:20 GMT",
   "fetched_title": "Agent Frameworks, Runtimes, and Harnesses- oh my!",
   "meta_description": "Explore agent frameworks, runtimes, and harnesses. When to use LangChain, LangGraph, and DeepAgents for building AI agents.",
   "og_title": "Agent Frameworks, Runtimes, and Harnesses- oh my!",
@@ -19,7 +19,7 @@
   "publish_date": "2025-10-25",
   "language": "en",
   "canonical_url": "https://www.langchain.com/blog/agent-frameworks-runtimes-and-harnesses-oh-my",
-  "word_count": 831,
+  "word_count": 832,
   "reading_time_min": 4,
   "outline": [
     {

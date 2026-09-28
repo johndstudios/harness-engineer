@@ -1,15 +1,15 @@
 {
   "slug": "github-spec-kit",
   "url": "https://github.com/github/spec-kit",
-  "crawled_at": "2026-09-21T14:52:48.729920+00:00",
+  "crawled_at": "2026-09-28T16:28:33.264914+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://github.com/github/spec-kit",
   "content_type": "github",
   "last_modified": "",
-  "github_stars": 138169,
-  "github_forks": 12381,
-  "github_open_issues": 307,
+  "github_stars": 139245,
+  "github_forks": 12472,
+  "github_open_issues": 273,
   "github_topics": [
     "ai",
     "copilot",
@@ -20,22 +20,22 @@
     "spec-driven"
   ],
   "github_language": "Python",
-  "github_description": "\ud83d\udcab Toolkit to help you get started with Spec-Driven Development",
+  "github_description": "\ud83d\udcab Toolkit to help you get started with SDD or any other process!",
   "github_created": "2025-08-21",
-  "github_updated": "2026-09-21",
-  "github_pushed": "2026-09-21",
+  "github_updated": "2026-09-28",
+  "github_pushed": "2026-09-28",
   "github_license": "MIT",
   "github_homepage": "https://github.github.com/spec-kit/",
-  "fetched_title": "GitHub - github/spec-kit: \ud83d\udcab Toolkit to help you get started with Spec-Driven Development \u00b7 GitHub",
-  "meta_description": "\ud83d\udcab Toolkit to help you get started with Spec-Driven Development - github/spec-kit",
-  "og_title": "GitHub - github/spec-kit: \ud83d\udcab Toolkit to help you get started with Spec-Driven Development",
-  "og_description": "\ud83d\udcab Toolkit to help you get started with Spec-Driven Development - github/spec-kit",
-  "og_image": "https://opengraph.githubassets.com/db38f48cc01a586cf0a1604767522c95300a24800f3b472f458d48ab9b9d8bf1/github/spec-kit",
+  "fetched_title": "GitHub - github/spec-kit: \ud83d\udcab Toolkit to help you get started with SDD or any other process! \u00b7 GitHub",
+  "meta_description": "\ud83d\udcab Toolkit to help you get started with SDD or any other process! - github/spec-kit",
+  "og_title": "GitHub - github/spec-kit: \ud83d\udcab Toolkit to help you get started with SDD or any other process!",
+  "og_description": "\ud83d\udcab Toolkit to help you get started with SDD or any other process! - github/spec-kit",
+  "og_image": "https://opengraph.githubassets.com/a4ee26b07c015f2594a89818979bc354412cac869041304d18c255f25305f494/github/spec-kit",
   "og_type": "object",
   "twitter_card": "summary_large_image",
-  "twitter_image": "https://opengraph.githubassets.com/db38f48cc01a586cf0a1604767522c95300a24800f3b472f458d48ab9b9d8bf1/github/spec-kit",
+  "twitter_image": "https://opengraph.githubassets.com/a4ee26b07c015f2594a89818979bc354412cac869041304d18c255f25305f494/github/spec-kit",
   "language": "en",
-  "word_count": 986,
+  "word_count": 1006,
   "reading_time_min": 5,
   "outline": [
     {
@@ -89,6 +89,10 @@
     {
       "level": 2,
       "text": "Documentation"
+    },
+    {
+      "level": 2,
+      "text": "Star history"
     },
     {
       "level": 2,
