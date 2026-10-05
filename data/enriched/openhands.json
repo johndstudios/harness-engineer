@@ -1,15 +1,15 @@
 {
   "slug": "openhands",
   "url": "https://github.com/All-Hands-AI/OpenHands",
-  "crawled_at": "2026-09-28T16:29:22.435298+00:00",
+  "crawled_at": "2026-10-05T16:50:28.740927+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://github.com/OpenHands/OpenHands",
   "content_type": "github",
   "last_modified": "",
-  "github_stars": 89388,
-  "github_forks": 11784,
-  "github_open_issues": 865,
+  "github_stars": 90030,
+  "github_forks": 11904,
+  "github_open_issues": 945,
   "github_topics": [
     "agent",
     "artificial-intelligence",
@@ -24,21 +24,21 @@
   "github_language": "TypeScript",
   "github_description": "\ud83d\ude4c OpenHands: AI-Driven Development",
   "github_created": "2024-03-13",
-  "github_updated": "2026-09-28",
-  "github_pushed": "2026-09-28",
+  "github_updated": "2026-10-05",
+  "github_pushed": "2026-10-05",
   "github_license": "MIT",
   "github_homepage": "https://openhands.dev",
   "fetched_title": "GitHub - OpenHands/OpenHands: \ud83d\ude4c OpenHands: AI-Driven Development \u00b7 GitHub",
   "meta_description": "\ud83d\ude4c OpenHands: AI-Driven Development. Contribute to OpenHands/OpenHands development by creating an account on GitHub.",
   "og_title": "GitHub - OpenHands/OpenHands: \ud83d\ude4c OpenHands: AI-Driven Development",
   "og_description": "\ud83d\ude4c OpenHands: AI-Driven Development. Contribute to OpenHands/OpenHands development by creating an account on GitHub.",
-  "og_image": "https://opengraph.githubassets.com/3790a43e34500a1bbcacebd695b9108604897390642dea102d4c30f50b05768c/OpenHands/OpenHands",
+  "og_image": "https://opengraph.githubassets.com/74267ca0ef417287c8e7a90f1ad1d01990d414cfb871234457fbff5aec31e8fd/OpenHands/OpenHands",
   "og_type": "object",
   "twitter_card": "summary_large_image",
-  "twitter_image": "https://opengraph.githubassets.com/3790a43e34500a1bbcacebd695b9108604897390642dea102d4c30f50b05768c/OpenHands/OpenHands",
+  "twitter_image": "https://opengraph.githubassets.com/74267ca0ef417287c8e7a90f1ad1d01990d414cfb871234457fbff5aec31e8fd/OpenHands/OpenHands",
   "language": "en",
-  "word_count": 1160,
-  "reading_time_min": 6,
+  "word_count": 1466,
+  "reading_time_min": 7,
   "outline": [
     {
       "level": 2,
@@ -74,7 +74,11 @@
     },
     {
       "level": 3,
-      "text": "Option 3: From Source"
+      "text": "Option 3: With Multiple Docker Sandboxes"
+    },
+    {
+      "level": 3,
+      "text": "Option 4: From Source"
     },
     {
       "level": 1,

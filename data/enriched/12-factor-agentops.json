@@ -1,16 +1,16 @@
 {
   "slug": "12-factor-agentops",
   "url": "https://www.12factoragentops.com/",
-  "crawled_at": "2026-09-28T16:27:16.364409+00:00",
+  "crawled_at": "2026-10-05T16:48:03.940220+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://www.12factoragentops.com/",
   "content_type": "article",
-  "last_modified": "Sat, 26 Sep 2026 21:13:14 GMT",
-  "fetched_title": "12-Factor AgentOps | Operating rules for coding agents",
-  "meta_description": "Twelve operating rules for running coding agents whose work you can trust. The agent that wrote a change never accepts it; a fresh reviewer checks the result.",
-  "og_title": "12-Factor AgentOps | Operating rules for coding agents",
-  "og_description": "Twelve operating rules for running coding agents whose work you can trust. The agent that wrote a change never accepts it; a fresh reviewer checks the result.",
+  "last_modified": "Mon, 05 Oct 2026 16:48:04 GMT",
+  "fetched_title": "12-Factor AgentOps | DevOps discipline for all agentic work",
+  "meta_description": "Twelve operating rules for research, reports, operations and software: clear intent, bounded execution, checked outputs and memory that informs the next task.",
+  "og_title": "12-Factor AgentOps | DevOps discipline for all agentic work",
+  "og_description": "Twelve operating rules for research, reports, operations and software: clear intent, bounded execution, checked outputs and memory that informs the next task.",
   "og_image": "https://www.12factoragentops.com/og-image.png",
   "og_type": "website",
   "twitter_card": "summary_large_image",
@@ -18,32 +18,64 @@
   "author": "Boden Fuller",
   "language": "en",
   "canonical_url": "https://www.12factoragentops.com",
-  "word_count": 875,
+  "word_count": 811,
   "reading_time_min": 4,
   "outline": [
     {
       "level": 1,
-      "text": "Don't run productionon vibes."
+      "text": "DevOps discipline for all agentic work."
     },
     {
       "level": 2,
-      "text": "//the 12 factors"
+      "text": "\u201cDone\u201d fails in three ways."
+    },
+    {
+      "level": 3,
+      "text": "Judgment"
+    },
+    {
+      "level": 3,
+      "text": "Durable Context"
+    },
+    {
+      "level": 3,
+      "text": "Loop Closure"
     },
     {
       "level": 2,
-      "text": "//the three gaps they address"
+      "text": "What the studies measured."
     },
     {
       "level": 2,
-      "text": "//the route to done"
+      "text": "Four tiers. One loop."
     },
     {
       "level": 2,
-      "text": "//the reference implementation"
+      "text": "The context that wrote a change can\u2019t issue its own PASS."
+    },
+    {
+      "level": 3,
+      "text": "Accepted intent"
+    },
+    {
+      "level": 3,
+      "text": "Implementation and checks"
+    },
+    {
+      "level": 3,
+      "text": "One fresh read"
+    },
+    {
+      "level": 3,
+      "text": "Finish"
     },
     {
       "level": 2,
-      "text": "//start where the work is"
+      "text": "Pick the row that matches your task."
+    },
+    {
+      "level": 2,
+      "text": "AgentOps puts the factors on paved paths."
     }
   ]
 }

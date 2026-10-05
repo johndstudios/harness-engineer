@@ -1,14 +1,14 @@
 {
   "slug": "gta",
   "url": "https://github.com/open-compass/GTA",
-  "crawled_at": "2026-09-28T16:28:37.519951+00:00",
+  "crawled_at": "2026-10-05T16:49:41.464018+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://github.com/open-compass/GTA",
   "content_type": "github",
   "last_modified": "",
   "github_stars": 152,
-  "github_forks": 10,
+  "github_forks": 12,
   "github_open_issues": 1,
   "github_topics": [
     "llm-agent",

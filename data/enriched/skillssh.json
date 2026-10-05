@@ -1,7 +1,7 @@
 {
   "slug": "skillssh",
   "url": "https://skills.sh",
-  "crawled_at": "2026-09-28T16:29:34.224784+00:00",
+  "crawled_at": "2026-10-05T16:50:42.112166+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://www.skills.sh/",
@@ -17,7 +17,7 @@
   "twitter_image": "https://www.skills.sh/og.jpeg",
   "language": "en",
   "canonical_url": "https://www.skills.sh",
-  "word_count": 659,
+  "word_count": 671,
   "reading_time_min": 3,
   "outline": [
     {
@@ -46,7 +46,19 @@
     },
     {
       "level": 3,
+      "text": "grill-with-docs"
+    },
+    {
+      "level": 3,
+      "text": "improve-codebase-architecture"
+    },
+    {
+      "level": 3,
       "text": "agent-browser"
+    },
+    {
+      "level": 3,
+      "text": "tdd"
     },
     {
       "level": 3,
@@ -58,55 +70,7 @@
     },
     {
       "level": 3,
-      "text": "vercel-react-best-practices"
-    },
-    {
-      "level": 3,
-      "text": "lark-doc"
-    },
-    {
-      "level": 3,
-      "text": "teach"
-    },
-    {
-      "level": 3,
-      "text": "domain-modeling"
-    },
-    {
-      "level": 3,
-      "text": "video-edit"
-    },
-    {
-      "level": 3,
-      "text": "lark-okr"
-    },
-    {
-      "level": 3,
-      "text": "ai-music"
-    },
-    {
-      "level": 3,
-      "text": "ai-video-generation"
-    },
-    {
-      "level": 3,
-      "text": "image-to-video"
-    },
-    {
-      "level": 3,
       "text": "hyperframes-cli"
-    },
-    {
-      "level": 3,
-      "text": "ai-image-generation"
-    },
-    {
-      "level": 3,
-      "text": "lark-markdown"
-    },
-    {
-      "level": 3,
-      "text": "codebase-design"
     },
     {
       "level": 3,
@@ -118,11 +82,35 @@
     },
     {
       "level": 3,
+      "text": "vercel-react-best-practices"
+    },
+    {
+      "level": 3,
+      "text": "domain-modeling"
+    },
+    {
+      "level": 3,
+      "text": "teach"
+    },
+    {
+      "level": 3,
+      "text": "lark-doc"
+    },
+    {
+      "level": 3,
+      "text": "codebase-design"
+    },
+    {
+      "level": 3,
+      "text": "lark-okr"
+    },
+    {
+      "level": 3,
       "text": "diagnosing-bugs"
     },
     {
       "level": 3,
-      "text": "lark-vc-agent"
+      "text": "lark-markdown"
     },
     {
       "level": 3,
@@ -130,7 +118,15 @@
     },
     {
       "level": 3,
-      "text": "lark-apps"
+      "text": "hyperframes-registry"
+    },
+    {
+      "level": 3,
+      "text": "lark-vc-agent"
+    },
+    {
+      "level": 3,
+      "text": "media-use"
     },
     {
       "level": 3,
@@ -138,7 +134,11 @@
     },
     {
       "level": 3,
-      "text": "implement"
+      "text": "ai-video-generation"
+    },
+    {
+      "level": 3,
+      "text": "hyperframes-core"
     }
   ]
 }
