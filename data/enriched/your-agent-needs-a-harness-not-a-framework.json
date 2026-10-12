@@ -1,7 +1,7 @@
 {
   "slug": "your-agent-needs-a-harness-not-a-framework",
   "url": "https://www.inngest.com/blog/your-agent-needs-a-harness-not-a-framework",
-  "crawled_at": "2026-10-05T16:51:23.351393+00:00",
+  "crawled_at": "2026-10-12T17:27:24.871425+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://www.inngest.com/blog/your-agent-needs-a-harness-not-a-framework",
@@ -70,15 +70,15 @@
     },
     {
       "level": 3,
+      "text": "Sandboxes are a durability problem"
+    },
+    {
+      "level": 3,
+      "text": "NEW: Bursty Concurrency\u2014Coverage for Spikes"
+    },
+    {
+      "level": 3,
       "text": "What dead f*cking last taught me about durable execution"
-    },
-    {
-      "level": 3,
-      "text": "All your workflows are about to be long running. Build for it."
-    },
-    {
-      "level": 3,
-      "text": "Incident report for September 18, 2026 - When Deletion Cascades Exhausted Our Database Connections"
     },
     {
       "level": 2,

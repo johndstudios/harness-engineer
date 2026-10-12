@@ -1,16 +1,16 @@
 {
   "slug": "learning-to-verify-ai-generated-code",
   "url": "https://openhands.dev/blog/20260305-learning-to-verify-ai-generated-code",
-  "crawled_at": "2026-10-05T16:50:04.367617+00:00",
+  "crawled_at": "2026-10-12T17:25:31.682880+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://www.openhands.dev/blog/20260305-learning-to-verify-ai-generated-code",
   "content_type": "article",
   "last_modified": "",
   "fetched_title": "Learning to Verify AI-Generated Code | Mar 05, 2026",
-  "meta_description": "LLMs made generating code cheap. The real bottleneck is verification: checking that a change is correct, follows repo conventions, and is something your team can trust, review, and merge. This post introduces the first layer of our verification stack.",
+  "meta_description": "LLMs made generating code cheap. The real bottleneck is verification: checking that a change is correct, follows repo conventions, and is something your team\u2026",
   "og_title": "Learning to Verify AI-Generated Code",
-  "og_description": "LLMs made generating code cheap. The real bottleneck is verification: checking that a change is correct, follows repo conventions, and is something your team can trust, review, and merge. This post introduces the first layer of our verification stack.",
+  "og_description": "LLMs made generating code cheap. The real bottleneck is verification: checking that a change is correct, follows repo conventions, and is something your team\u2026",
   "og_image": "https://www.openhands.dev/assets/notion-blog/20260305-learning-to-verify-ai-generated-code/og.png",
   "og_type": "article",
   "twitter_card": "summary_large_image",
@@ -19,7 +19,7 @@
   "publish_date": "2026-03-05",
   "language": "en",
   "canonical_url": "https://www.openhands.dev/blog/20260305-learning-to-verify-ai-generated-code",
-  "word_count": 1115,
+  "word_count": 1111,
   "reading_time_min": 6,
   "outline": [
     {

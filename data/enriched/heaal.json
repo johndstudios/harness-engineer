@@ -1,7 +1,7 @@
 {
   "slug": "heaal",
   "url": "https://github.com/hyun06000/AIL",
-  "crawled_at": "2026-10-05T16:49:51.927415+00:00",
+  "crawled_at": "2026-10-12T17:25:12.743201+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://github.com/hyun06000/AIL",
@@ -27,7 +27,7 @@
   "twitter_card": "summary_large_image",
   "twitter_image": "https://opengraph.githubassets.com/4aefadf2c83f01b4bf82f88083cdfe06f448313a373c86d83efc676ee45ddd7c/hyun06000/AIL",
   "language": "en",
-  "word_count": 626,
+  "word_count": 608,
   "reading_time_min": 3,
   "outline": [
     {

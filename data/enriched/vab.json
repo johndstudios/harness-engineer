@@ -1,7 +1,7 @@
 {
   "slug": "vab",
   "url": "https://github.com/THUDM/VisualAgentBench",
-  "crawled_at": "2026-10-05T16:51:09.553310+00:00",
+  "crawled_at": "2026-10-12T17:26:55.063219+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://github.com/THUDM/VisualAgentBench",
@@ -31,7 +31,7 @@
   "twitter_card": "summary_large_image",
   "twitter_image": "https://opengraph.githubassets.com/703f37889725e2da5ba1c7b9a61716210452096188a844df7ce08f6520151865/THUDM/VisualAgentBench",
   "language": "en",
-  "word_count": 956,
+  "word_count": 938,
   "reading_time_min": 5,
   "outline": [
     {

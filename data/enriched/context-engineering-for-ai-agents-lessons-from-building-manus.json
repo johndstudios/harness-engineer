@@ -1,7 +1,7 @@
 {
   "slug": "context-engineering-for-ai-agents-lessons-from-building-manus",
   "url": "https://manus.im/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus",
-  "crawled_at": "2026-10-05T16:49:16.868457+00:00",
+  "crawled_at": "2026-10-12T17:24:35.312859+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://manus.im/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus",
@@ -17,7 +17,7 @@
   "twitter_image": "https://files.manuscdn.com/assets/dashboard/materials/2025/07/18/eaafe9e6a174b29458c314ccc225dbdd39a7c9d66e60786235165d9aba23f578.webp",
   "language": "en",
   "canonical_url": "https://manus.im/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus",
-  "word_count": 2322,
+  "word_count": 2323,
   "reading_time_min": 12,
   "outline": [
     {
@@ -82,7 +82,7 @@
     },
     {
       "level": 3,
-      "text": "Team"
+      "text": "Business"
     },
     {
       "level": 3,

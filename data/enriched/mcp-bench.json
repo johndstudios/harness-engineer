@@ -1,7 +1,7 @@
 {
   "slug": "mcp-bench",
   "url": "https://github.com/modelscope/MCPBench",
-  "crawled_at": "2026-10-05T16:50:15.712986+00:00",
+  "crawled_at": "2026-10-12T17:25:53.127270+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://github.com/modelscope/MCPBench",
@@ -33,7 +33,7 @@
   "twitter_card": "summary_large_image",
   "twitter_image": "https://opengraph.githubassets.com/48ceba21d605f3e7933a3f906dc479178d9cf74e9b13151a90128d0667dbdeba/modelscope/MCPBench",
   "language": "en",
-  "word_count": 876,
+  "word_count": 858,
   "reading_time_min": 4,
   "outline": [
     {

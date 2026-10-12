@@ -1,16 +1,16 @@
 {
   "slug": "how-to-evaluate-agent-skills-and-why-you-should",
   "url": "https://openhands.dev/blog/evaluating-agent-skills",
-  "crawled_at": "2026-10-05T16:49:53.635317+00:00",
+  "crawled_at": "2026-10-12T17:25:15.944195+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://www.openhands.dev/blog/evaluating-agent-skills",
   "content_type": "article",
   "last_modified": "",
   "fetched_title": "How to Evaluate Agent Skills (And Why You Should) | Mar 18, 2026",
-  "meta_description": "Skills can make coding agents dramatically better, slightly more reliable, or actively worse. This post shows how to evaluate agent skills with deterministic tasks, verifiers, and no-skill baselines so you can measure what actually helps.",
+  "meta_description": "Skills can make coding agents dramatically better, slightly more reliable, or actively worse. This post shows how to evaluate agent skills with deterministic\u2026",
   "og_title": "How to Evaluate Agent Skills (And Why You Should)",
-  "og_description": "Skills can make coding agents dramatically better, slightly more reliable, or actively worse. This post shows how to evaluate agent skills with deterministic tasks, verifiers, and no-skill baselines so you can measure what actually helps.",
+  "og_description": "Skills can make coding agents dramatically better, slightly more reliable, or actively worse. This post shows how to evaluate agent skills with deterministic\u2026",
   "og_image": "https://www.openhands.dev/assets/notion-blog/evaluating-agent-skills/og.png",
   "og_type": "article",
   "twitter_card": "summary_large_image",
@@ -19,7 +19,7 @@
   "publish_date": "2026-03-18",
   "language": "en",
   "canonical_url": "https://www.openhands.dev/blog/evaluating-agent-skills",
-  "word_count": 1444,
+  "word_count": 1440,
   "reading_time_min": 7,
   "outline": [
     {

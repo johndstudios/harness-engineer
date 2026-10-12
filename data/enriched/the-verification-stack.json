@@ -1,16 +1,16 @@
 {
   "slug": "the-verification-stack",
   "url": "https://www.openhands.dev/blog/20260506-the-verification-stack",
-  "crawled_at": "2026-10-05T16:50:57.764596+00:00",
+  "crawled_at": "2026-10-12T17:26:38.606592+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://www.openhands.dev/blog/20260506-the-verification-stack",
   "content_type": "article",
   "last_modified": "",
   "fetched_title": "The Verification Stack | Jun 22, 2026",
-  "meta_description": "Agents made generating code cheap. The real bottleneck is now verification: checking that a change is correct, follows repo conventions, and is something your team can trust, review, and merge. This post introduces the full verification stack \u2014 a layered set of automated verifiers that catch different mistakes at different stages, so coding agents fail fast and humans only spend time on changes worth merging.",
+  "meta_description": "Agents made generating code cheap. The real bottleneck is now verification: checking that a change is correct, follows repo conventions, and is something your\u2026",
   "og_title": "The Verification Stack",
-  "og_description": "Agents made generating code cheap. The real bottleneck is now verification: checking that a change is correct, follows repo conventions, and is something your team can trust, review, and merge. This post introduces the full verification stack \u2014 a layered set of automated verifiers that catch different mistakes at different stages, so coding agents fail fast and humans only spend time on changes worth merging.",
+  "og_description": "Agents made generating code cheap. The real bottleneck is now verification: checking that a change is correct, follows repo conventions, and is something your\u2026",
   "og_image": "https://www.openhands.dev/assets/notion-blog/20260506-the-verification-stack/cover.png",
   "og_type": "article",
   "twitter_card": "summary_large_image",
@@ -19,7 +19,7 @@
   "publish_date": "2026-06-22",
   "language": "en",
   "canonical_url": "https://www.openhands.dev/blog/20260506-the-verification-stack",
-  "word_count": 1928,
+  "word_count": 1924,
   "reading_time_min": 10,
   "outline": [
     {

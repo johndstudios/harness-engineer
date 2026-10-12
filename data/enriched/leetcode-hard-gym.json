@@ -1,7 +1,7 @@
 {
   "slug": "leetcode-hard-gym",
   "url": "https://github.com/GammaTauAI/leetcode-hard-gym",
-  "crawled_at": "2026-10-05T16:50:05.571236+00:00",
+  "crawled_at": "2026-10-12T17:25:32.457157+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://github.com/GammaTauAI/leetcode-hard-gym",
@@ -27,7 +27,7 @@
   "twitter_card": "summary_large_image",
   "twitter_image": "https://opengraph.githubassets.com/9eb230d082976e6152b7c66372a64fa1c7140a33887d8a181648480aaa67e2a5/GammaTauAI/leetcode-hard-gym",
   "language": "en",
-  "word_count": 881,
+  "word_count": 863,
   "reading_time_min": 4,
   "outline": [
     {
