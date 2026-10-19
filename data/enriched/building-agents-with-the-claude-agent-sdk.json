@@ -1,7 +1,7 @@
 {
   "slug": "building-agents-with-the-claude-agent-sdk",
   "url": "https://claude.com/blog/building-agents-with-the-claude-agent-sdk",
-  "crawled_at": "2026-10-12T17:24:18.325755+00:00",
+  "crawled_at": "2026-10-19T15:17:50.528897+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://claude.com/resources/articles/building-agents-with-the-claude-agent-sdk",
@@ -18,7 +18,7 @@
   "publish_date": "2025-09-29",
   "language": "en",
   "canonical_url": "https://claude.com/resources/articles/building-agents-with-the-claude-agent-sdk",
-  "word_count": 2326,
+  "word_count": 2346,
   "reading_time_min": 12,
   "outline": [
     {
@@ -103,19 +103,19 @@
     },
     {
       "level": 3,
+      "text": "Redesigning source control at Anthropic"
+    },
+    {
+      "level": 3,
+      "text": "How an Anthropic BDR in Japan runs his day with Claude Managed Agents"
+    },
+    {
+      "level": 3,
+      "text": "How the Claude Code team does code review"
+    },
+    {
+      "level": 3,
       "text": "Building effective agent automations"
-    },
-    {
-      "level": 3,
-      "text": "Automating eval design and hillclimbing with Claude"
-    },
-    {
-      "level": 3,
-      "text": "Claude Code in the cloud: a field guide to cloud sessions"
-    },
-    {
-      "level": 3,
-      "text": "How Cresta turned CX expertise into an agent builder on the Claude Agent SDK"
     },
     {
       "level": 2,

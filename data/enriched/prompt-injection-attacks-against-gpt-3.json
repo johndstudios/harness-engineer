@@ -1,7 +1,7 @@
 {
   "slug": "prompt-injection-attacks-against-gpt-3",
   "url": "https://simonwillison.net/2022/Sep/12/prompt-injection/",
-  "crawled_at": "2026-10-12T17:26:12.706991+00:00",
+  "crawled_at": "2026-10-19T15:19:15.427384+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://simonwillison.net/2022/Sep/12/prompt-injection/",
@@ -18,7 +18,7 @@
   "author": "Simon Willison",
   "language": "en-gb",
   "canonical_url": "https://simonwillison.net/2022/Sep/12/prompt-injection/",
-  "word_count": 1635,
+  "word_count": 1652,
   "reading_time_min": 8,
   "outline": [
     {

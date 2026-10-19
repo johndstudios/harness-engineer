@@ -1,7 +1,7 @@
 {
   "slug": "smevalsa-small-eval-suite-for-evaluating-models-prompts-and-harnesses",
   "url": "https://simonwillison.net/2026/Jul/31/smevals/",
-  "crawled_at": "2026-10-12T17:26:22.019730+00:00",
+  "crawled_at": "2026-10-19T15:19:23.528085+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://simonwillison.net/2026/Jul/31/smevals/",
@@ -18,7 +18,7 @@
   "author": "Simon Willison",
   "language": "en-gb",
   "canonical_url": "https://simonwillison.net/2026/Jul/31/smevals/",
-  "word_count": 673,
+  "word_count": 690,
   "reading_time_min": 3,
   "outline": [
     {

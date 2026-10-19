@@ -1,12 +1,12 @@
 {
   "slug": "testing-agent-skills-systematically-with-evals",
   "url": "https://developers.openai.com/blog/eval-skills/",
-  "crawled_at": "2026-10-12T17:26:34.070465+00:00",
+  "crawled_at": "2026-10-19T15:19:31.695808+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://developers.openai.com/blog/eval-skills",
   "content_type": "article",
-  "last_modified": "Mon, 12 Oct 2026 17:14:29 GMT",
+  "last_modified": "Mon, 19 Oct 2026 15:19:31 GMT",
   "fetched_title": "Testing Agent Skills Systematically with Evals | OpenAI Developers",
   "meta_description": "A practical guide to turning agent skills into something you can test, score, and improve over time.",
   "og_title": "Testing Agent Skills Systematically with Evals | OpenAI Developers",
@@ -17,7 +17,7 @@
   "twitter_image": "https://developers.openai.com/images/blog/eval-skills.png",
   "language": "en",
   "canonical_url": "https://developers.openai.com/blog/eval-skills",
-  "word_count": 4340,
+  "word_count": 4368,
   "reading_time_min": 22,
   "outline": [
     {

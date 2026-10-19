@@ -1,14 +1,14 @@
 {
   "slug": "llm-colosseum-leaderboard",
   "url": "https://github.com/OpenGenerativeAI/llm-colosseum",
-  "crawled_at": "2026-10-12T17:25:46.193144+00:00",
+  "crawled_at": "2026-10-19T15:18:54.348090+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://github.com/OpenGenerativeAI/llm-colosseum",
   "content_type": "github",
   "last_modified": "",
   "github_stars": 1483,
-  "github_forks": 182,
+  "github_forks": 181,
   "github_open_issues": 16,
   "github_topics": [
     "benchmark",

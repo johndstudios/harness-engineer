@@ -1,12 +1,12 @@
 {
   "slug": "context-engineering-for-coding-agents",
   "url": "https://martinfowler.com/articles/exploring-gen-ai/context-engineering-coding-agents.html",
-  "crawled_at": "2026-10-12T17:24:37.415423+00:00",
+  "crawled_at": "2026-10-19T15:18:08.087904+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://martinfowler.com/articles/exploring-gen-ai/context-engineering-coding-agents.html",
   "content_type": "article",
-  "last_modified": "Sun, 11 Oct 2026 22:05:50 GMT",
+  "last_modified": "Mon, 19 Oct 2026 15:12:38 GMT",
   "fetched_title": "Context Engineering for Coding Agents",
   "meta_description": "",
   "og_title": "Context Engineering for Coding Agents",
@@ -15,7 +15,7 @@
   "og_type": "article",
   "twitter_card": "summary",
   "twitter_image": "",
-  "word_count": 2073,
+  "word_count": 2075,
   "reading_time_min": 10,
   "outline": [
     {

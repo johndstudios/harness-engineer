@@ -1,7 +1,7 @@
 {
   "slug": "bring-your-ai-mcp",
   "url": "https://github.com/unitedideas/bringyour-mcp",
-  "crawled_at": "2026-10-12T17:24:11.537965+00:00",
+  "crawled_at": "2026-10-19T15:17:46.222341+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://github.com/unitedideas/bringyour-mcp",
@@ -24,23 +24,23 @@
     "mcp-commerce",
     "mcp-server"
   ],
-  "github_language": null,
+  "github_language": "Python",
   "github_description": "Public metadata for the Bring Your AI no-data remote MCP endpoint",
   "github_created": "2026-04-27",
-  "github_updated": "2026-07-06",
-  "github_pushed": "2026-05-25",
+  "github_updated": "2026-10-14",
+  "github_pushed": "2026-10-14",
   "github_license": "NOASSERTION",
   "github_homepage": "https://bringyour.ai",
   "fetched_title": "GitHub - unitedideas/bringyour-mcp: Public metadata for the Bring Your AI no-data remote MCP endpoint \u00b7 GitHub",
   "meta_description": "Public metadata for the Bring Your AI no-data remote MCP endpoint - unitedideas/bringyour-mcp",
   "og_title": "GitHub - unitedideas/bringyour-mcp: Public metadata for the Bring Your AI no-data remote MCP endpoint",
   "og_description": "Public metadata for the Bring Your AI no-data remote MCP endpoint - unitedideas/bringyour-mcp",
-  "og_image": "https://opengraph.githubassets.com/81212cd9c38ff5720052b426fca65c228b2b43e8481a814501aa0490d9dbbffd/unitedideas/bringyour-mcp",
+  "og_image": "https://opengraph.githubassets.com/f15d862ac3ed88d418e56bf2c11e77f7f7eb539846336b0636340b04e75cadbe/unitedideas/bringyour-mcp",
   "og_type": "object",
   "twitter_card": "summary_large_image",
-  "twitter_image": "https://opengraph.githubassets.com/81212cd9c38ff5720052b426fca65c228b2b43e8481a814501aa0490d9dbbffd/unitedideas/bringyour-mcp",
+  "twitter_image": "https://opengraph.githubassets.com/f15d862ac3ed88d418e56bf2c11e77f7f7eb539846336b0636340b04e75cadbe/unitedideas/bringyour-mcp",
   "language": "en",
-  "word_count": 806,
+  "word_count": 819,
   "reading_time_min": 4,
   "outline": [
     {
@@ -101,6 +101,10 @@
     },
     {
       "level": 3,
+      "text": "Security policy"
+    },
+    {
+      "level": 3,
       "text": "Stars"
     },
     {
@@ -122,6 +126,10 @@
     {
       "level": 2,
       "text": "Contributors"
+    },
+    {
+      "level": 2,
+      "text": "Languages"
     }
   ]
 }

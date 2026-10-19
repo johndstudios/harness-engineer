@@ -1,15 +1,15 @@
 {
   "slug": "github-spec-kit",
   "url": "https://github.com/github/spec-kit",
-  "crawled_at": "2026-10-12T17:24:54.038562+00:00",
+  "crawled_at": "2026-10-19T15:18:24.947447+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://github.com/github/spec-kit",
   "content_type": "github",
   "last_modified": "",
-  "github_stars": 140953,
-  "github_forks": 12619,
-  "github_open_issues": 171,
+  "github_stars": 141917,
+  "github_forks": 12694,
+  "github_open_issues": 174,
   "github_topics": [
     "ai",
     "copilot",
@@ -22,21 +22,21 @@
   "github_language": "Python",
   "github_description": "\ud83d\udcab Toolkit to help you get started with SDD or any other process!",
   "github_created": "2025-08-21",
-  "github_updated": "2026-10-12",
-  "github_pushed": "2026-10-12",
+  "github_updated": "2026-10-19",
+  "github_pushed": "2026-10-19",
   "github_license": "MIT",
   "github_homepage": "https://github.github.com/spec-kit/",
   "fetched_title": "GitHub - github/spec-kit: \ud83d\udcab Toolkit to help you get started with SDD or any other process! \u00b7 GitHub",
   "meta_description": "\ud83d\udcab Toolkit to help you get started with SDD or any other process! - github/spec-kit",
   "og_title": "GitHub - github/spec-kit: \ud83d\udcab Toolkit to help you get started with SDD or any other process!",
   "og_description": "\ud83d\udcab Toolkit to help you get started with SDD or any other process! - github/spec-kit",
-  "og_image": "https://opengraph.githubassets.com/35fe9b739a0e997089ad8ea27ef6d68e07f43d857d583281513af7f3094abf12/github/spec-kit",
+  "og_image": "https://opengraph.githubassets.com/e667c2dd4630a8030d8dbf742e951c0899f346d295d6ce659fcd16eaf7722f69/github/spec-kit",
   "og_type": "object",
   "twitter_card": "summary_large_image",
-  "twitter_image": "https://opengraph.githubassets.com/35fe9b739a0e997089ad8ea27ef6d68e07f43d857d583281513af7f3094abf12/github/spec-kit",
+  "twitter_image": "https://opengraph.githubassets.com/e667c2dd4630a8030d8dbf742e951c0899f346d295d6ce659fcd16eaf7722f69/github/spec-kit",
   "language": "en",
-  "word_count": 988,
-  "reading_time_min": 5,
+  "word_count": 1216,
+  "reading_time_min": 6,
   "outline": [
     {
       "level": 2,
@@ -65,6 +65,10 @@
     {
       "level": 2,
       "text": "Choose your process"
+    },
+    {
+      "level": 2,
+      "text": "Capabilities"
     },
     {
       "level": 2,

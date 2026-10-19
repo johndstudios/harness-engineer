@@ -1,14 +1,14 @@
 {
   "slug": "harness-evolver",
   "url": "https://github.com/raphaelchristi/harness-evolver",
-  "crawled_at": "2026-10-12T17:25:08.004561+00:00",
+  "crawled_at": "2026-10-19T15:18:37.638370+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://github.com/raphaelchristi/harness-evolver",
   "content_type": "github",
   "last_modified": "",
   "github_stars": 56,
-  "github_forks": 6,
+  "github_forks": 5,
   "github_open_issues": 4,
   "github_topics": [
     "agent-evolution",

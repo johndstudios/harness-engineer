@@ -1,15 +1,15 @@
 {
   "slug": "browser-usebrowser-harness",
   "url": "https://github.com/browser-use/browser-harness",
-  "crawled_at": "2026-10-12T17:24:15.566394+00:00",
+  "crawled_at": "2026-10-19T15:17:48.515515+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://github.com/browser-use/browser-harness",
   "content_type": "github",
   "last_modified": "",
-  "github_stars": 18400,
-  "github_forks": 1804,
-  "github_open_issues": 408,
+  "github_stars": 18499,
+  "github_forks": 1943,
+  "github_open_issues": 413,
   "github_topics": [
     "ai-agent",
     "browser-agent",
@@ -18,32 +18,38 @@
     "browser-use-box",
     "browser-use-cloud",
     "cdp",
+    "chrome",
+    "chrome-devtools-protocol",
+    "claude-code",
     "cloud-browser",
+    "codex",
+    "cursor",
     "llm",
+    "mcp",
     "persistent-browser",
-    "playwright",
+    "real-browser",
     "telegram-agent",
     "vps-agent",
     "web-automation"
   ],
   "github_language": "Python",
-  "github_description": "Browser Harness | Self-healing harness that enables LLMs to complete any task.",
+  "github_description": "Let Claude Code, Codex or Cursor use your real Chrome, logged in as you. One prompt to set up. Open source, MIT.",
   "github_created": "2026-04-17",
-  "github_updated": "2026-10-12",
-  "github_pushed": "2026-10-12",
+  "github_updated": "2026-10-19",
+  "github_pushed": "2026-10-17",
   "github_license": "MIT",
   "github_homepage": "https://browser-harness.com",
-  "fetched_title": "GitHub - browser-use/browser-harness: Browser Harness | Self-healing harness that enables LLMs to complete any task. \u00b7 GitHub",
-  "meta_description": "Browser Harness | Self-healing harness that enables LLMs to complete any task. - browser-use/browser-harness",
-  "og_title": "GitHub - browser-use/browser-harness: Browser Harness | Self-healing harness that enables LLMs to complete any task.",
-  "og_description": "Browser Harness | Self-healing harness that enables LLMs to complete any task. - browser-use/browser-harness",
-  "og_image": "https://opengraph.githubassets.com/c6a0b96f2b86281e3d9afb4d77c2c59e8987a66f9fcd8c63ff775eeb7d7c86cc/browser-use/browser-harness",
+  "fetched_title": "GitHub - browser-use/browser-harness: Let Claude Code, Codex or Cursor use your real Chrome, logged in as you. One prompt to set up. Open source, MIT. \u00b7 GitHub",
+  "meta_description": "Let Claude Code, Codex or Cursor use your real Chrome, logged in as you. One prompt to set up. Open source, MIT. - browser-use/browser-harness",
+  "og_title": "GitHub - browser-use/browser-harness: Let Claude Code, Codex or Cursor use your real Chrome, logged in as you. One prompt to set up. Open source, MIT.",
+  "og_description": "Let Claude Code, Codex or Cursor use your real Chrome, logged in as you. One prompt to set up. Open source, MIT. - browser-use/browser-harness",
+  "og_image": "https://opengraph.githubassets.com/843935adb0695012a39dc5f18ed34e1addcf1a94077dcb473a4e43ea00e5372f/browser-use/browser-harness",
   "og_type": "object",
   "twitter_card": "summary_large_image",
-  "twitter_image": "https://opengraph.githubassets.com/c6a0b96f2b86281e3d9afb4d77c2c59e8987a66f9fcd8c63ff775eeb7d7c86cc/browser-use/browser-harness",
+  "twitter_image": "https://opengraph.githubassets.com/843935adb0695012a39dc5f18ed34e1addcf1a94077dcb473a4e43ea00e5372f/browser-use/browser-harness",
   "language": "en",
-  "word_count": 501,
-  "reading_time_min": 3,
+  "word_count": 1431,
+  "reading_time_min": 7,
   "outline": [
     {
       "level": 2,
@@ -79,11 +85,23 @@
     },
     {
       "level": 2,
+      "text": "Compared with other browser tools"
+    },
+    {
+      "level": 3,
+      "text": "When to use something else"
+    },
+    {
+      "level": 2,
       "text": "Scale with Browser Use Cloud"
     },
     {
       "level": 2,
       "text": "MCP server"
+    },
+    {
+      "level": 3,
+      "text": "Cursor"
     },
     {
       "level": 2,
