@@ -1,58 +1,54 @@
 {
   "slug": "how-we-built-our-multi-agent-research-system",
   "url": "https://www.anthropic.com/engineering/multi-agent-research-system",
-  "crawled_at": "2026-10-19T15:18:42.266288+00:00",
+  "crawled_at": "2026-10-26T14:52:43.118739+00:00",
   "status": "ok",
   "http_status": 200,
-  "final_url": "https://www.anthropic.com/engineering/multi-agent-research-system",
+  "final_url": "https://www.anthropic.com/research/multi-agent-research-system",
   "content_type": "article",
   "last_modified": "",
   "fetched_title": "How we built our multi-agent research system \\ Anthropic",
   "meta_description": "On the the engineering challenges and lessons learned from building Claude's Research system",
   "og_title": "How we built our multi-agent research system",
   "og_description": "On the the engineering challenges and lessons learned from building Claude's Research system",
-  "og_image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/5cf046fff69b847bfa78c12723dd466b285c0218-2400x1260.png",
+  "og_image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
   "og_type": "article",
   "twitter_card": "summary_large_image",
-  "twitter_image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/5cf046fff69b847bfa78c12723dd466b285c0218-2400x1260.png",
+  "twitter_image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
   "author": "Anthropic",
   "publish_date": "2025-06-13",
   "language": "en",
-  "canonical_url": "https://www.anthropic.com/engineering/multi-agent-research-system",
-  "word_count": 3844,
+  "canonical_url": "https://www.anthropic.com/research/multi-agent-research-system",
+  "word_count": 3783,
   "reading_time_min": 19,
   "outline": [
     {
-      "level": 1,
-      "text": "How we built our multi-agent research system"
+      "level": 3,
+      "text": "Chapter01:Benefits of a multi-agent system"
     },
     {
-      "level": 3,
+      "level": 2,
       "text": "Benefits of a multi-agent system"
     },
     {
-      "level": 3,
+      "level": 2,
       "text": "Architecture overview for Research"
     },
     {
-      "level": 3,
+      "level": 2,
       "text": "Prompt engineering and evaluations for research agents"
     },
     {
-      "level": 3,
+      "level": 2,
       "text": "Effective evaluation of agents"
     },
     {
-      "level": 3,
+      "level": 2,
       "text": "Production reliability and engineering challenges"
     },
     {
-      "level": 3,
+      "level": 2,
       "text": "Conclusion"
-    },
-    {
-      "level": 3,
-      "text": "Acknowlegements"
     },
     {
       "level": 2,
@@ -64,7 +60,15 @@
     },
     {
       "level": 2,
-      "text": "Get the developer newsletter"
+      "text": "Authors & acknowledgements"
+    },
+    {
+      "level": 3,
+      "text": "Contributors"
+    },
+    {
+      "level": 3,
+      "text": "Acknowledgements"
     }
   ]
 }

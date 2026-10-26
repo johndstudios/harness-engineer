@@ -1,30 +1,34 @@
 {
   "slug": "equipping-agents-for-the-real-world-with-agent-skills",
   "url": "https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills",
-  "crawled_at": "2026-10-19T15:18:17.353180+00:00",
+  "crawled_at": "2026-10-26T14:52:18.043768+00:00",
   "status": "ok",
   "http_status": 200,
-  "final_url": "https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills",
+  "final_url": "https://www.anthropic.com/research/equipping-agents-for-the-real-world-with-agent-skills",
   "content_type": "article",
   "last_modified": "",
-  "fetched_title": "Equipping agents for the real world with Agent Skills \\ Anthropic",
-  "meta_description": "Discover how Anthropic builds AI agents with practical capabilities through modular skills, enabling them to handle complex real-world tasks more effectively and reliably.",
-  "og_title": "Equipping agents for the real world with Agent Skills",
-  "og_description": "Discover how Anthropic builds AI agents with practical capabilities through modular skills, enabling them to handle complex real-world tasks more effectively and reliably.",
-  "og_image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/f10f90c11a484ad8bdf11ffcd9f6e08cfd9358b8-2400x1260.png",
+  "fetched_title": "Equipping agents with Agent Skills \\ Anthropic",
+  "meta_description": "Introducing Agent Skills: organized folders of instructions, scripts, and resources that give Claude the procedural knowledge real work requires.",
+  "og_title": "Equipping agents with Agent Skills",
+  "og_description": "Introducing Agent Skills: organized folders of instructions, scripts, and resources that give Claude the procedural knowledge real work requires.",
+  "og_image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/3bb264e9a7676b131ede691cea5a409468aa36db-1200x630.jpg",
   "og_type": "article",
   "twitter_card": "summary_large_image",
-  "twitter_image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/f10f90c11a484ad8bdf11ffcd9f6e08cfd9358b8-2400x1260.png",
+  "twitter_image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/3bb264e9a7676b131ede691cea5a409468aa36db-1200x630.jpg",
   "author": "Anthropic",
   "publish_date": "2025-10-16",
   "language": "en",
-  "canonical_url": "https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills",
-  "word_count": 1536,
-  "reading_time_min": 8,
+  "canonical_url": "https://www.anthropic.com/research/equipping-agents-for-the-real-world-with-agent-skills",
+  "word_count": 1471,
+  "reading_time_min": 7,
   "outline": [
     {
-      "level": 1,
-      "text": "Equipping agents for the real world with Agent Skills"
+      "level": 3,
+      "text": "Chapter01:The anatomy of a skill"
+    },
+    {
+      "level": 3,
+      "text": "Update"
     },
     {
       "level": 2,
@@ -52,11 +56,11 @@
     },
     {
       "level": 2,
-      "text": "Acknowledgements"
+      "text": "Authors & acknowledgements"
     },
     {
-      "level": 2,
-      "text": "Get the developer newsletter"
+      "level": 3,
+      "text": "Acknowledgements"
     }
   ]
 }

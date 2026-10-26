@@ -1,30 +1,30 @@
 {
   "slug": "effective-context-engineering-for-ai-agents",
   "url": "https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents",
-  "crawled_at": "2026-10-19T15:18:15.346762+00:00",
+  "crawled_at": "2026-10-26T14:52:15.697692+00:00",
   "status": "ok",
   "http_status": 200,
-  "final_url": "https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents",
+  "final_url": "https://www.anthropic.com/research/effective-context-engineering-for-ai-agents",
   "content_type": "article",
   "last_modified": "",
   "fetched_title": "Effective context engineering for AI agents \\ Anthropic",
-  "meta_description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+  "meta_description": "In this post, we explore strategies for effectively curating and managing their context.",
   "og_title": "Effective context engineering for AI agents",
-  "og_description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
-  "og_image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/ea2bf01aa874d7ab776453e97dfeed5d2bf5a116-2400x1260.png",
+  "og_description": "In this post, we explore strategies for effectively curating and managing their context.",
+  "og_image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/b9fc1169b2d18b6e06aa99d4bbb1ce9d27af8c7a-1200x630.jpg",
   "og_type": "article",
   "twitter_card": "summary_large_image",
-  "twitter_image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/ea2bf01aa874d7ab776453e97dfeed5d2bf5a116-2400x1260.png",
+  "twitter_image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/b9fc1169b2d18b6e06aa99d4bbb1ce9d27af8c7a-1200x630.jpg",
   "author": "Anthropic",
   "publish_date": "2025-09-29",
   "language": "en",
-  "canonical_url": "https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents",
-  "word_count": 3186,
+  "canonical_url": "https://www.anthropic.com/research/effective-context-engineering-for-ai-agents",
+  "word_count": 3126,
   "reading_time_min": 16,
   "outline": [
     {
-      "level": 1,
-      "text": "Effective context engineering for AI agents"
+      "level": 3,
+      "text": "Chapter01:Context engineering vs. prompt engineering"
     },
     {
       "level": 2,
@@ -52,11 +52,11 @@
     },
     {
       "level": 2,
-      "text": "Acknowledgements"
+      "text": "Authors & acknowledgements"
     },
     {
-      "level": 2,
-      "text": "Get the developer newsletter"
+      "level": 3,
+      "text": "Acknowledgements"
     }
   ]
 }

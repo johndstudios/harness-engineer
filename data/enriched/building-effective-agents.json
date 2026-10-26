@@ -1,30 +1,30 @@
 {
   "slug": "building-effective-agents",
   "url": "https://www.anthropic.com/engineering/building-effective-agents",
-  "crawled_at": "2026-10-19T15:17:52.827425+00:00",
+  "crawled_at": "2026-10-26T14:51:54.267207+00:00",
   "status": "ok",
   "http_status": 200,
-  "final_url": "https://www.anthropic.com/engineering/building-effective-agents",
+  "final_url": "https://www.anthropic.com/research/building-effective-agents",
   "content_type": "article",
   "last_modified": "",
-  "fetched_title": "Building Effective AI Agents \\ Anthropic",
-  "meta_description": "Discover how Anthropic approaches the development of reliable AI agents. Learn about our research on agent capabilities, safety considerations, and technical framework for building trustworthy AI.",
-  "og_title": "Building Effective AI Agents",
-  "og_description": "Discover how Anthropic approaches the development of reliable AI agents. Learn about our research on agent capabilities, safety considerations, and technical framework for building trustworthy AI.",
-  "og_image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/76b5733c669f0dfb9c7aa7fc512a495867cf12e6-2400x1260.png",
+  "fetched_title": "Building effective AI agents \\ Anthropic",
+  "meta_description": "Practical guidance from Anthropic on building reliable AI agents, from simple composable patterns to fully autonomous systems.",
+  "og_title": "Building effective AI agents",
+  "og_description": "Practical guidance from Anthropic on building reliable AI agents, from simple composable patterns to fully autonomous systems.",
+  "og_image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/d356638d9823fd692c42b2477fcac214ed3b236f-1200x630.jpg",
   "og_type": "article",
   "twitter_card": "summary_large_image",
-  "twitter_image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/76b5733c669f0dfb9c7aa7fc512a495867cf12e6-2400x1260.png",
+  "twitter_image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/d356638d9823fd692c42b2477fcac214ed3b236f-1200x630.jpg",
   "author": "Anthropic",
   "publish_date": "2024-12-19",
   "language": "en",
-  "canonical_url": "https://www.anthropic.com/engineering/building-effective-agents",
-  "word_count": 2795,
+  "canonical_url": "https://www.anthropic.com/research/building-effective-agents",
+  "word_count": 2738,
   "reading_time_min": 14,
   "outline": [
     {
-      "level": 1,
-      "text": "Building effective agents"
+      "level": 3,
+      "text": "Chapter01:What are agents?"
     },
     {
       "level": 2,
@@ -79,10 +79,6 @@
       "text": "Summary"
     },
     {
-      "level": 3,
-      "text": "Acknowledgements"
-    },
-    {
       "level": 2,
       "text": "Appendix 1: Agents in practice"
     },
@@ -100,7 +96,11 @@
     },
     {
       "level": 2,
-      "text": "Get the developer newsletter"
+      "text": "Authors & acknowledgements"
+    },
+    {
+      "level": 3,
+      "text": "Acknowledgements"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "slug": "building-agents-with-the-claude-agent-sdk",
   "url": "https://claude.com/blog/building-agents-with-the-claude-agent-sdk",
-  "crawled_at": "2026-10-19T15:17:50.528897+00:00",
+  "crawled_at": "2026-10-26T14:51:52.362040+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://claude.com/resources/articles/building-agents-with-the-claude-agent-sdk",
@@ -18,7 +18,7 @@
   "publish_date": "2025-09-29",
   "language": "en",
   "canonical_url": "https://claude.com/resources/articles/building-agents-with-the-claude-agent-sdk",
-  "word_count": 2346,
+  "word_count": 2357,
   "reading_time_min": 12,
   "outline": [
     {
@@ -103,6 +103,10 @@
     },
     {
       "level": 3,
+      "text": "Building agents: When to fold subagents into your main agent loop"
+    },
+    {
+      "level": 3,
       "text": "Redesigning source control at Anthropic"
     },
     {
@@ -112,10 +116,6 @@
     {
       "level": 3,
       "text": "How the Claude Code team does code review"
-    },
-    {
-      "level": 3,
-      "text": "Building effective agent automations"
     },
     {
       "level": 2,

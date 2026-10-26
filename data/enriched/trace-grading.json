@@ -1,12 +1,12 @@
 {
   "slug": "trace-grading",
   "url": "https://platform.openai.com/docs/guides/trace-grading",
-  "crawled_at": "2026-10-19T15:19:39.737496+00:00",
+  "crawled_at": "2026-10-26T14:53:38.361974+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://developers.openai.com/api/docs/guides/trace-grading",
   "content_type": "article",
-  "last_modified": "Mon, 19 Oct 2026 15:19:39 GMT",
+  "last_modified": "Mon, 26 Oct 2026 07:49:00 GMT",
   "fetched_title": "Trace grading | OpenAI API",
   "meta_description": "Use trace grading to create datasets, configure graders, and track evaluation runs for your models.",
   "og_title": "Trace grading | OpenAI API",
@@ -17,7 +17,7 @@
   "twitter_image": "https://developers.openai.com/og/api/docs/guides/trace-grading.png",
   "language": "en",
   "canonical_url": "https://developers.openai.com/api/docs/guides/trace-grading",
-  "word_count": 1719,
+  "word_count": 1730,
   "reading_time_min": 9,
   "outline": [
     {

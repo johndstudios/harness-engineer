@@ -1,7 +1,7 @@
 {
   "slug": "gaia",
   "url": "https://huggingface.co/datasets/gaia-benchmark/GAIA",
-  "crawled_at": "2026-10-19T15:18:22.963832+00:00",
+  "crawled_at": "2026-10-26T14:52:24.261045+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://huggingface.co/datasets/gaia-benchmark/GAIA",
@@ -21,7 +21,7 @@
   "outline": [
     {
       "level": 2,
-      "text": "You need to agree to share your contact information to access this dataset"
+      "text": "You need to agree to share your Hugging Face information to access this dataset"
     },
     {
       "level": 1,

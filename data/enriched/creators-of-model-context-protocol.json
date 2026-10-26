@@ -1,29 +1,27 @@
 {
   "slug": "creators-of-model-context-protocol",
   "url": "https://www.latent.space/p/mcp",
-  "crawled_at": "2026-10-19T15:18:09.713165+00:00",
+  "crawled_at": "2026-10-26T14:52:10.434563+00:00",
   "status": "ok",
   "http_status": 200,
-  "final_url": "https://www.latent.space/p/mcp",
+  "final_url": "https://latent.space/p/mcp/",
   "content_type": "podcast",
   "last_modified": "",
-  "fetched_title": "The Creators of Model Context Protocol - Latent.Space",
+  "fetched_title": "The Creators of Model Context Protocol \u2014 Latent Space",
   "meta_description": "MCP's coauthors on the origin, challenges and future of the protocol.",
-  "og_title": "The Creators of Model Context Protocol",
+  "og_title": "The Creators of Model Context Protocol \u2014 Latent Space",
   "og_description": "MCP's coauthors on the origin, challenges and future of the protocol.",
-  "og_image": "https://substackcdn.com/image/fetch/$s_!BRdM!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-video.s3.amazonaws.com%2Fvideo_upload%2Fpost%2F160464452%2F40d1b81a-19e2-4dd2-b325-eefa774e19d5%2Ftranscoded-1743703060.png",
+  "og_image": "https://latent.space/og/card/post/mcp/fffbba3b4f3f3d1aadd1535ec5fa719db2b77e29c1eff24202e57eec5505d8ae.png",
   "og_type": "article",
   "twitter_card": "summary_large_image",
-  "twitter_image": "https://substackcdn.com/image/fetch/$s_!s8WX!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fswyx.substack.com%2Fapi%2Fv1%2Fpost_preview%2F160464452%2Ftwitter.jpg%3Fversion%3D4",
-  "author": "Latent.Space",
-  "publish_date": "2025-04-03",
+  "twitter_image": "https://latent.space/og/card/post/mcp/fffbba3b4f3f3d1aadd1535ec5fa719db2b77e29c1eff24202e57eec5505d8ae.png",
   "language": "en",
-  "canonical_url": "https://www.latent.space/p/mcp",
-  "word_count": 17024,
-  "reading_time_min": 85,
+  "canonical_url": "https://latent.space/p/mcp/",
+  "word_count": 17674,
+  "reading_time_min": 88,
   "outline": [
     {
-      "level": 2,
+      "level": 1,
       "text": "The Creators of Model Context Protocol"
     },
     {
@@ -43,8 +41,104 @@
       "text": "Transcript"
     },
     {
+      "level": 2,
+      "text": "Stay a little ahead of the curve."
+    },
+    {
+      "level": 2,
+      "text": "Go a little deeper"
+    },
+    {
       "level": 3,
-      "text": "Ready for more?"
+      "text": "David Soria Parra"
+    },
+    {
+      "level": 3,
+      "text": "Jared Palmer"
+    },
+    {
+      "level": 3,
+      "text": "Linux Foundation"
+    },
+    {
+      "level": 3,
+      "text": "MCP"
+    },
+    {
+      "level": 3,
+      "text": "MCP: From Copy-Paste Friction to Composable AI Applications"
+    },
+    {
+      "level": 2,
+      "text": "Keep exploring"
+    },
+    {
+      "level": 2,
+      "text": "Join Latent Space."
+    },
+    {
+      "level": 3,
+      "text": "OpenAI\u2019s road to AGI"
+    },
+    {
+      "level": 3,
+      "text": "Claude Code\u2019s next era"
+    },
+    {
+      "level": 3,
+      "text": "Why this time is different"
+    },
+    {
+      "level": 3,
+      "text": "Can AI help cure all disease?"
+    },
+    {
+      "level": 3,
+      "text": "Foundation models for physics"
+    },
+    {
+      "level": 3,
+      "text": "The AI scientist"
+    },
+    {
+      "level": 3,
+      "text": "Apps arrive inside Claude"
+    },
+    {
+      "level": 3,
+      "text": "Sam Altman\u2019s AI Combinator"
+    },
+    {
+      "level": 3,
+      "text": "Kimi K2.5 raises the open-model bar"
+    },
+    {
+      "level": 3,
+      "text": "OpenAI\u2019s road to AGI"
+    },
+    {
+      "level": 3,
+      "text": "Claude Code\u2019s next era"
+    },
+    {
+      "level": 3,
+      "text": "Why this time is different"
+    },
+    {
+      "level": 3,
+      "text": "Can AI help cure all disease?"
+    },
+    {
+      "level": 3,
+      "text": "Foundation models for physics"
+    },
+    {
+      "level": 3,
+      "text": "The AI scientist"
+    },
+    {
+      "level": 3,
+      "text": "Apps arrive inside Claude"
     }
   ]
 }

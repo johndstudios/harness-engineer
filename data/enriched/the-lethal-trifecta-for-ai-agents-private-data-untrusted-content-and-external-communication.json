@@ -1,7 +1,7 @@
 {
   "slug": "the-lethal-trifecta-for-ai-agents-private-data-untrusted-content-and-external-communication",
   "url": "https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/",
-  "crawled_at": "2026-10-19T15:19:35.470981+00:00",
+  "crawled_at": "2026-10-26T14:53:34.484055+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/",
@@ -18,7 +18,7 @@
   "author": "Simon Willison",
   "language": "en-gb",
   "canonical_url": "https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/",
-  "word_count": 1640,
+  "word_count": 1618,
   "reading_time_min": 8,
   "outline": [
     {

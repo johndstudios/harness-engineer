@@ -1,15 +1,15 @@
 {
   "slug": "tau2-bench",
   "url": "https://github.com/sierra-research/tau2-bench",
-  "crawled_at": "2026-10-19T15:19:29.754791+00:00",
+  "crawled_at": "2026-10-26T14:53:28.130538+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://github.com/sierra-research/tau2-bench",
   "content_type": "github",
   "last_modified": "",
-  "github_stars": 2262,
-  "github_forks": 585,
-  "github_open_issues": 274,
+  "github_stars": 2325,
+  "github_forks": 609,
+  "github_open_issues": 302,
   "github_topics": [
     "ai",
     "benchmark",
@@ -20,21 +20,21 @@
   "github_language": "Python",
   "github_description": "\u03c4-Bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains",
   "github_created": "2025-06-09",
-  "github_updated": "2026-10-19",
-  "github_pushed": "2026-10-16",
+  "github_updated": "2026-10-26",
+  "github_pushed": "2026-10-24",
   "github_license": "MIT",
   "github_homepage": "https://www.taubench.com",
   "fetched_title": "GitHub - sierra-research/tau2-bench: \u03c4-Bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains \u00b7 GitHub",
   "meta_description": "\u03c4-Bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains - sierra-research/tau2-bench",
   "og_title": "GitHub - sierra-research/tau2-bench: \u03c4-Bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains",
   "og_description": "\u03c4-Bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains - sierra-research/tau2-bench",
-  "og_image": "https://opengraph.githubassets.com/a3dee1d2c5a22b0c986a877f6745d96000075f211a264c33ea3a537163a814d9/sierra-research/tau2-bench",
+  "og_image": "https://opengraph.githubassets.com/faf17db0fd515a086c8bda36f1990cb246d8ef3032c6d3285dc3b0daae77f5a0/sierra-research/tau2-bench",
   "og_type": "object",
   "twitter_card": "summary_large_image",
-  "twitter_image": "https://opengraph.githubassets.com/a3dee1d2c5a22b0c986a877f6745d96000075f211a264c33ea3a537163a814d9/sierra-research/tau2-bench",
+  "twitter_image": "https://opengraph.githubassets.com/faf17db0fd515a086c8bda36f1990cb246d8ef3032c6d3285dc3b0daae77f5a0/sierra-research/tau2-bench",
   "language": "en",
-  "word_count": 1300,
-  "reading_time_min": 6,
+  "word_count": 1883,
+  "reading_time_min": 9,
   "outline": [
     {
       "level": 2,
@@ -57,12 +57,24 @@
       "text": "$\\tau$-Bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains"
     },
     {
-      "level": 3,
-      "text": "\ud83d\ude80 \u03c4\u00b3-bench is here!"
+      "level": 2,
+      "text": "\u03c4-bench 2.0"
     },
     {
-      "level": 2,
-      "text": "What's New in$\\tau^3$-bench"
+      "level": 3,
+      "text": "The benchmarks"
+    },
+    {
+      "level": 3,
+      "text": "Quickstart"
+    },
+    {
+      "level": 3,
+      "text": "Comparing with v1.0.1"
+    },
+    {
+      "level": 3,
+      "text": "Previous release: \u03c4\u00b3-bench (v1.0)"
     },
     {
       "level": 2,
@@ -70,7 +82,7 @@
     },
     {
       "level": 2,
-      "text": "Quick Start"
+      "text": "Installation and a first custom run"
     },
     {
       "level": 3,
@@ -95,6 +107,10 @@
     {
       "level": 3,
       "text": "Core Concepts"
+    },
+    {
+      "level": 3,
+      "text": "Languages and judges"
     },
     {
       "level": 3,
@@ -134,27 +150,11 @@
     },
     {
       "level": 3,
-      "text": "Core$\\tau$-Bench"
+      "text": "Multilingual Voice Benchmark (\u03c4-i18n)"
     },
     {
       "level": 3,
-      "text": "Task Fixes"
-    },
-    {
-      "level": 2,
-      "text": "About"
-    },
-    {
-      "level": 3,
-      "text": "Topics"
-    },
-    {
-      "level": 3,
-      "text": "Resources"
-    },
-    {
-      "level": 3,
-      "text": "Contributing"
+      "text": "Entity Capture Benchmark (\u03c4-Entity,intake)"
     }
   ]
 }

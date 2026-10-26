@@ -1,30 +1,30 @@
 {
   "slug": "scaling-managed-agents-decoupling-the-brain-from-the-hands",
   "url": "https://www.anthropic.com/engineering/managed-agents",
-  "crawled_at": "2026-10-19T15:19:20.129029+00:00",
+  "crawled_at": "2026-10-26T14:53:19.419316+00:00",
   "status": "ok",
   "http_status": 200,
-  "final_url": "https://www.anthropic.com/engineering/managed-agents",
+  "final_url": "https://www.anthropic.com/research/managed-agents",
   "content_type": "article",
   "last_modified": "",
-  "fetched_title": "Scaling Managed Agents: Decoupling the brain from the hands \\ Anthropic",
-  "meta_description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
-  "og_title": "Scaling Managed Agents: Decoupling the brain from the hands",
-  "og_description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
-  "og_image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/c4c716fb31cdbd336b628549cdac0f14e10d0099-2000x1050.heif",
+  "fetched_title": "Scaling Managed Agents with stable interfaces \\ Anthropic",
+  "meta_description": "Harnesses encode assumptions that go stale as models improve. See how Managed Agents is built around interfaces that stay stable as harnesses change.",
+  "og_title": "Scaling Managed Agents with stable interfaces",
+  "og_description": "Harnesses encode assumptions that go stale as models improve. See how Managed Agents is built around interfaces that stay stable as harnesses change.",
+  "og_image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/86cfa8b6bce7da100cfd4bd36a9b6cafc04bc243-1200x630.jpg",
   "og_type": "article",
   "twitter_card": "summary_large_image",
-  "twitter_image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/c4c716fb31cdbd336b628549cdac0f14e10d0099-2000x1050.heif",
+  "twitter_image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/86cfa8b6bce7da100cfd4bd36a9b6cafc04bc243-1200x630.jpg",
   "author": "Anthropic",
   "publish_date": "2026-04-08",
   "language": "en",
-  "canonical_url": "https://www.anthropic.com/engineering/managed-agents",
-  "word_count": 2154,
-  "reading_time_min": 11,
+  "canonical_url": "https://www.anthropic.com/research/managed-agents",
+  "word_count": 2087,
+  "reading_time_min": 10,
   "outline": [
     {
-      "level": 1,
-      "text": "Scaling Managed Agents: Decoupling the brain from the hands"
+      "level": 3,
+      "text": "Chapter01:Don\u2019t adopt a pet"
     },
     {
       "level": 2,
@@ -48,11 +48,11 @@
     },
     {
       "level": 2,
-      "text": "Acknowledgements"
+      "text": "Authors & acknowledgements"
     },
     {
-      "level": 2,
-      "text": "Get the developer newsletter"
+      "level": 3,
+      "text": "Acknowledgements"
     }
   ]
 }

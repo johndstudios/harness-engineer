@@ -1,30 +1,30 @@
 {
   "slug": "an-update-on-recent-claude-code-quality-reports",
   "url": "https://www.anthropic.com/engineering/april-23-postmortem",
-  "crawled_at": "2026-10-19T15:17:33.427863+00:00",
+  "crawled_at": "2026-10-26T14:51:35.967770+00:00",
   "status": "ok",
   "http_status": 200,
-  "final_url": "https://www.anthropic.com/engineering/april-23-postmortem",
+  "final_url": "https://www.anthropic.com/research/april-23-postmortem",
   "content_type": "article",
   "last_modified": "",
-  "fetched_title": "An update on recent Claude Code quality reports \\ Anthropic",
-  "meta_description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
-  "og_title": "An update on recent Claude Code quality reports",
-  "og_description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
-  "og_image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/3f522820d47355885631ebda60e5d1f3e5c0fbc2-2000x1050.heif",
+  "fetched_title": "An update on Claude Code quality reports \\ Anthropic",
+  "meta_description": "We traced recent reports of Claude Code quality issues to three separate changes. Here's what happened, what we fixed, and what we're changing.",
+  "og_title": "An update on Claude Code quality reports",
+  "og_description": "We traced recent reports of Claude Code quality issues to three separate changes. Here's what happened, what we fixed, and what we're changing.",
+  "og_image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/4b7513d7d681db3cfe18b23e4e5c9fed73b23901-1200x630.jpg",
   "og_type": "article",
   "twitter_card": "summary_large_image",
-  "twitter_image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/3f522820d47355885631ebda60e5d1f3e5c0fbc2-2000x1050.heif",
+  "twitter_image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/4b7513d7d681db3cfe18b23e4e5c9fed73b23901-1200x630.jpg",
   "author": "Anthropic",
   "publish_date": "2026-04-23",
   "language": "en",
-  "canonical_url": "https://www.anthropic.com/engineering/april-23-postmortem",
-  "word_count": 1776,
+  "canonical_url": "https://www.anthropic.com/research/april-23-postmortem",
+  "word_count": 1719,
   "reading_time_min": 9,
   "outline": [
     {
-      "level": 1,
-      "text": "An update on recent Claude Code quality reports"
+      "level": 3,
+      "text": "Chapter01:A change to Claude Code's default reasoning effort"
     },
     {
       "level": 2,
@@ -41,10 +41,6 @@
     {
       "level": 2,
       "text": "Going forward"
-    },
-    {
-      "level": 2,
-      "text": "Get the developer newsletter"
     }
   ]
 }

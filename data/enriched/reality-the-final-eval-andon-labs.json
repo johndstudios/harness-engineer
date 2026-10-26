@@ -1,29 +1,27 @@
 {
   "slug": "reality-the-final-eval-andon-labs",
   "url": "https://www.latent.space/p/andon",
-  "crawled_at": "2026-10-19T15:19:17.870487+00:00",
+  "crawled_at": "2026-10-26T14:53:16.736429+00:00",
   "status": "ok",
   "http_status": 200,
-  "final_url": "https://www.latent.space/p/andon",
+  "final_url": "https://latent.space/p/andon/",
   "content_type": "podcast",
   "last_modified": "",
-  "fetched_title": "Reality: The Final Eval \u2014 Lukas Petersson and Axel Backlund of Andon Labs",
+  "fetched_title": "Reality: The Final Eval \u2014 Lukas Petersson and Axel Backlund of Andon Labs \u2014 Latent Space",
   "meta_description": "We talk with the VendingBench authors on evaling Claudes from Haiku to Mythos, and how they build leading, and lasting, frontier evals from scratch.",
-  "og_title": "Reality: The Final Eval \u2014 Lukas Petersson and Axel Backlund of Andon Labs",
+  "og_title": "Reality: The Final Eval \u2014 Lukas Petersson and Axel Backlund of Andon Labs \u2014 Latent Space",
   "og_description": "We talk with the VendingBench authors on evaling Claudes from Haiku to Mythos, and how they build leading, and lasting, frontier evals from scratch.",
-  "og_image": "https://substackcdn.com/image/fetch/$s_!7756!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-video.s3.amazonaws.com%2Fvideo_upload%2Fpost%2F200614482%2F1621f1b3-afdf-4e73-96ad-7e9344965086%2Ftranscoded-1780580537.png",
+  "og_image": "https://latent.space/og/card/post/andon/23d5cdb38fc88c951ab1cda43b3cfedb9755558bfe3c5b068f9347c63eff69f5.png",
   "og_type": "article",
   "twitter_card": "summary_large_image",
-  "twitter_image": "https://substackcdn.com/image/fetch/$s_!aKO5!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fswyx.substack.com%2Fapi%2Fv1%2Fpost_preview%2F200614482%2Ftwitter.jpg%3Fversion%3D4",
-  "author": "Latent.Space",
-  "publish_date": "2026-06-04",
+  "twitter_image": "https://latent.space/og/card/post/andon/23d5cdb38fc88c951ab1cda43b3cfedb9755558bfe3c5b068f9347c63eff69f5.png",
   "language": "en",
-  "canonical_url": "https://www.latent.space/p/andon",
-  "word_count": 17447,
+  "canonical_url": "https://latent.space/p/andon/",
+  "word_count": 17442,
   "reading_time_min": 87,
   "outline": [
     {
-      "level": 2,
+      "level": 1,
       "text": "Reality: The Final Eval \u2014 Lukas Petersson and Axel Backlund of Andon Labs"
     },
     {
@@ -119,8 +117,28 @@
       "text": "Hiring, Collaborations, and What Comes Next"
     },
     {
+      "level": 2,
+      "text": "Stay a little ahead of the curve."
+    },
+    {
+      "level": 2,
+      "text": "Go a little deeper"
+    },
+    {
       "level": 3,
-      "text": "Ready for more?"
+      "text": "Andon Labs"
+    },
+    {
+      "level": 3,
+      "text": "Axel Backlund"
+    },
+    {
+      "level": 3,
+      "text": "Lukas Petersson"
+    },
+    {
+      "level": 3,
+      "text": "Reality: The Final Eval"
     }
   ]
 }

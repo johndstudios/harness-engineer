@@ -1,7 +1,7 @@
 {
   "slug": "swe-bench-can-language-models-resolve-real-world-github-issues",
   "url": "https://arxiv.org/abs/2310.06770",
-  "crawled_at": "2026-10-19T15:19:26.045364+00:00",
+  "crawled_at": "2026-10-26T14:53:25.542459+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://arxiv.org/abs/2310.06770",
@@ -17,7 +17,7 @@
   "twitter_image": "https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png",
   "language": "en",
   "canonical_url": "https://arxiv.org/abs/2310.06770",
-  "word_count": 727,
+  "word_count": 730,
   "reading_time_min": 4,
   "outline": [
     {
@@ -35,6 +35,10 @@
     {
       "level": 2,
       "text": "Access Paper:"
+    },
+    {
+      "level": 3,
+      "text": "Additional Features"
     },
     {
       "level": 3,

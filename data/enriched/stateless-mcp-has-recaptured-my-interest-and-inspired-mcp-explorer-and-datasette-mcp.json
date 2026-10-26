@@ -1,7 +1,7 @@
 {
   "slug": "stateless-mcp-has-recaptured-my-interest-and-inspired-mcp-explorer-and-datasette-mcp",
   "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/",
-  "crawled_at": "2026-10-19T15:19:24.064595+00:00",
+  "crawled_at": "2026-10-26T14:53:23.656881+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/",
@@ -18,8 +18,8 @@
   "author": "Simon Willison",
   "language": "en-gb",
   "canonical_url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/",
-  "word_count": 1509,
-  "reading_time_min": 8,
+  "word_count": 1487,
+  "reading_time_min": 7,
   "outline": [
     {
       "level": 1,

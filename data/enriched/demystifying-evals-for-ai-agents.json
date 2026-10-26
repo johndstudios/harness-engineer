@@ -1,30 +1,30 @@
 {
   "slug": "demystifying-evals-for-ai-agents",
   "url": "https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents",
-  "crawled_at": "2026-10-19T15:18:12.848579+00:00",
+  "crawled_at": "2026-10-26T14:52:13.667233+00:00",
   "status": "ok",
   "http_status": 200,
-  "final_url": "https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents",
+  "final_url": "https://www.anthropic.com/research/demystifying-evals-for-ai-agents",
   "content_type": "article",
   "last_modified": "",
   "fetched_title": "Demystifying evals for AI agents \\ Anthropic",
-  "meta_description": "Demystifying evals for AI agents",
+  "meta_description": "Guidance on designing more rigorous, useful evals for AI agents across a range of architectures and real-world deployment use cases.",
   "og_title": "Demystifying evals for AI agents",
-  "og_description": "Demystifying evals for AI agents",
-  "og_image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/412be842c5c6bae6b4bcd515c191b0aa5015e05f-2400x1260.png",
+  "og_description": "Guidance on designing more rigorous, useful evals for AI agents across a range of architectures and real-world deployment use cases.",
+  "og_image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/13efc09c19016603c729249fc790975e4dab9608-1200x630.jpg",
   "og_type": "article",
   "twitter_card": "summary_large_image",
-  "twitter_image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/412be842c5c6bae6b4bcd515c191b0aa5015e05f-2400x1260.png",
+  "twitter_image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/13efc09c19016603c729249fc790975e4dab9608-1200x630.jpg",
   "author": "Anthropic",
   "publish_date": "2026-01-09",
   "language": "en",
-  "canonical_url": "https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents",
-  "word_count": 6052,
+  "canonical_url": "https://www.anthropic.com/research/demystifying-evals-for-ai-agents",
+  "word_count": 5986,
   "reading_time_min": 30,
   "outline": [
     {
-      "level": 1,
-      "text": "Demystifying evals for AI agents"
+      "level": 3,
+      "text": "Chapter01:Introduction"
     },
     {
       "level": 2,
@@ -45,6 +45,18 @@
     {
       "level": 3,
       "text": "Types of graders for agents"
+    },
+    {
+      "level": 2,
+      "text": "Code-based graders"
+    },
+    {
+      "level": 2,
+      "text": "Model-based graders"
+    },
+    {
+      "level": 2,
+      "text": "Human graders"
     },
     {
       "level": 3,
@@ -92,11 +104,11 @@
     },
     {
       "level": 2,
-      "text": "Conclusion"
+      "text": "An overview of approaches for understanding AI agent performance"
     },
     {
-      "level": 3,
-      "text": "Acknowledgements"
+      "level": 2,
+      "text": "Conclusion"
     },
     {
       "level": 2,
@@ -104,7 +116,11 @@
     },
     {
       "level": 2,
-      "text": "Get the developer newsletter"
+      "text": "Authors & acknowledgements"
+    },
+    {
+      "level": 3,
+      "text": "Acknowledgements"
     }
   ]
 }

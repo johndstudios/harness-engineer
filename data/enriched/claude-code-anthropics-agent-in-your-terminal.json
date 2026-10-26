@@ -1,34 +1,28 @@
 {
   "slug": "claude-code-anthropics-agent-in-your-terminal",
   "url": "https://www.latent.space/p/claude-code",
-  "crawled_at": "2026-10-19T15:17:58.268901+00:00",
+  "crawled_at": "2026-10-26T14:51:59.390721+00:00",
   "status": "ok",
   "http_status": 200,
-  "final_url": "https://www.latent.space/p/claude-code",
+  "final_url": "https://latent.space/p/claude-code/",
   "content_type": "podcast",
-  "last_modified": "",
-  "fetched_title": "Claude Code: Anthropic's Agent in Your Terminal",
+  "last_modified": "Mon, 26 Oct 2026 14:36:03 GMT",
+  "fetched_title": "Claude Code: Anthropic's Agent in Your Terminal \u2014 Latent Space",
   "meta_description": "Cat Wu and Boris Cherny from the Claude Code team stop by to tell all!",
-  "og_title": "Claude Code: Anthropic's Agent in Your Terminal",
+  "og_title": "Claude Code: Anthropic's Agent in Your Terminal \u2014 Latent Space",
   "og_description": "Cat Wu and Boris Cherny from the Claude Code team stop by to tell all!",
-  "og_image": "https://substackcdn.com/image/fetch/$s_!1mZ7!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcd59d811-4ab8-4e38-aa46-f1d84ab1650b_1920x1080.jpeg",
+  "og_image": "https://latent.space/og/card/post/claude-code/9f54a20bffe2d4e97543cf8d70b0bb0fab41d1ff3c73523ab7201b8ca088f9ab.png",
   "og_type": "article",
   "twitter_card": "summary_large_image",
-  "twitter_image": "https://substackcdn.com/image/fetch/$s_!l6Db!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fswyx.substack.com%2Fapi%2Fv1%2Fpost_preview%2F163091105%2Ftwitter.jpg%3Fversion%3D4",
-  "author": "Latent.Space",
-  "publish_date": "2025-05-07",
+  "twitter_image": "https://latent.space/og/card/post/claude-code/9f54a20bffe2d4e97543cf8d70b0bb0fab41d1ff3c73523ab7201b8ca088f9ab.png",
   "language": "en",
-  "canonical_url": "https://www.latent.space/p/claude-code",
-  "word_count": 16594,
-  "reading_time_min": 83,
+  "canonical_url": "https://latent.space/p/claude-code/",
+  "word_count": 17395,
+  "reading_time_min": 87,
   "outline": [
     {
       "level": 1,
       "text": "Claude Code: Anthropic's Agent in Your Terminal"
-    },
-    {
-      "level": 3,
-      "text": "Cat Wu and Boris Cherny from the Claude Code team stop by to tell all!"
     },
     {
       "level": 3,
@@ -119,8 +113,32 @@
       "text": "Why Anthropic Excels at Developer Tools"
     },
     {
+      "level": 2,
+      "text": "Stay a little ahead of the curve."
+    },
+    {
+      "level": 2,
+      "text": "Keep exploring"
+    },
+    {
+      "level": 2,
+      "text": "Join Latent Space."
+    },
+    {
       "level": 3,
-      "text": "Ready for more?"
+      "text": "OpenAI\u2019s road to AGI"
+    },
+    {
+      "level": 3,
+      "text": "Claude Code\u2019s next era"
+    },
+    {
+      "level": 3,
+      "text": "Why this time is different"
+    },
+    {
+      "level": 3,
+      "text": "Can AI help cure all disease?"
     }
   ]
 }

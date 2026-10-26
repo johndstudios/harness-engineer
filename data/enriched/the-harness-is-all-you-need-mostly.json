@@ -1,7 +1,7 @@
 {
   "slug": "the-harness-is-all-you-need-mostly",
   "url": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly/",
-  "crawled_at": "2026-10-19T15:19:34.172265+00:00",
+  "crawled_at": "2026-10-26T14:53:33.083436+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly/",
@@ -19,7 +19,7 @@
   "publish_date": "2026-07-27",
   "language": "en-US",
   "canonical_url": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly/",
-  "word_count": 2916,
+  "word_count": 2918,
   "reading_time_min": 15,
   "outline": [
     {
@@ -72,15 +72,15 @@
     },
     {
       "level": 3,
+      "text": "How 3 Java Champions are using GitHub Copilot for increased productivity"
+    },
+    {
+      "level": 3,
+      "text": "How to continue a GitHub Copilot app session in VS Code"
+    },
+    {
+      "level": 3,
       "text": "GitHub\u2019s model for secret detection: Finding more secrets with less noise"
-    },
-    {
-      "level": 3,
-      "text": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase"
-    },
-    {
-      "level": 3,
-      "text": "Secret protection must scale with software"
     },
     {
       "level": 2,

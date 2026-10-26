@@ -1,30 +1,30 @@
 {
   "slug": "quantifying-infrastructure-noise-in-agentic-coding-evals",
   "url": "https://www.anthropic.com/engineering/infrastructure-noise",
-  "crawled_at": "2026-10-19T15:19:15.972568+00:00",
+  "crawled_at": "2026-10-26T14:53:14.933933+00:00",
   "status": "ok",
   "http_status": 200,
-  "final_url": "https://www.anthropic.com/engineering/infrastructure-noise",
+  "final_url": "https://www.anthropic.com/research/infrastructure-noise",
   "content_type": "article",
   "last_modified": "",
-  "fetched_title": "Quantifying infrastructure noise in agentic coding evals \\ Anthropic",
-  "meta_description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
-  "og_title": "Quantifying infrastructure noise in agentic coding evals",
-  "og_description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
-  "og_image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/16ff27ee039d98cf3391433f6f3df23aa96b1e91-2400x1260.png",
+  "fetched_title": "Infrastructure noise in agentic coding evals \\ Anthropic",
+  "meta_description": "Agentic coding benchmarks are treated as precise measures of model capability, but infrastructure configuration alone can meaningfully shift scores.",
+  "og_title": "Infrastructure noise in agentic coding evals",
+  "og_description": "Agentic coding benchmarks are treated as precise measures of model capability, but infrastructure configuration alone can meaningfully shift scores.",
+  "og_image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/fc64f7c27d0ec3d7d579fd1b0245bb6f28946d7e-1200x630.jpg",
   "og_type": "article",
   "twitter_card": "summary_large_image",
-  "twitter_image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/16ff27ee039d98cf3391433f6f3df23aa96b1e91-2400x1260.png",
+  "twitter_image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/fc64f7c27d0ec3d7d579fd1b0245bb6f28946d7e-1200x630.jpg",
   "author": "Anthropic",
   "publish_date": "2026-02-05",
   "language": "en",
-  "canonical_url": "https://www.anthropic.com/engineering/infrastructure-noise",
-  "word_count": 1865,
+  "canonical_url": "https://www.anthropic.com/research/infrastructure-noise",
+  "word_count": 1809,
   "reading_time_min": 9,
   "outline": [
     {
-      "level": 1,
-      "text": "Quantifying infrastructure noise in agentic coding evals"
+      "level": 3,
+      "text": "Chapter01:How we got here"
     },
     {
       "level": 2,
@@ -47,12 +47,12 @@
       "text": "Why we care"
     },
     {
-      "level": 3,
-      "text": "Acknowledgements"
+      "level": 2,
+      "text": "Authors & acknowledgements"
     },
     {
-      "level": 2,
-      "text": "Get the developer newsletter"
+      "level": 3,
+      "text": "Acknowledgements"
     }
   ]
 }

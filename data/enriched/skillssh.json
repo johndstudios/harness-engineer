@@ -1,7 +1,7 @@
 {
   "slug": "skillssh",
   "url": "https://skills.sh",
-  "crawled_at": "2026-10-19T15:19:22.845918+00:00",
+  "crawled_at": "2026-10-26T14:53:22.050313+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://www.skills.sh/",
@@ -17,7 +17,7 @@
   "twitter_image": "https://www.skills.sh/og.jpeg",
   "language": "en",
   "canonical_url": "https://www.skills.sh",
-  "word_count": 651,
+  "word_count": 667,
   "reading_time_min": 3,
   "outline": [
     {
@@ -46,7 +46,7 @@
     },
     {
       "level": 3,
-      "text": "grill-with-docs"
+      "text": "hyperframes-cli"
     },
     {
       "level": 3,
@@ -54,11 +54,15 @@
     },
     {
       "level": 3,
-      "text": "improve-codebase-architecture"
+      "text": "grill-with-docs"
     },
     {
       "level": 3,
-      "text": "hyperframes-cli"
+      "text": "hyperframes"
+    },
+    {
+      "level": 3,
+      "text": "improve-codebase-architecture"
     },
     {
       "level": 3,
@@ -66,7 +70,11 @@
     },
     {
       "level": 3,
-      "text": "hyperframes"
+      "text": "media-use"
+    },
+    {
+      "level": 3,
+      "text": "reddit-automation"
     },
     {
       "level": 3,
@@ -78,15 +86,19 @@
     },
     {
       "level": 3,
+      "text": "design-mobile-apps"
+    },
+    {
+      "level": 3,
       "text": "frontend-design"
     },
     {
       "level": 3,
-      "text": "reddit-automation"
+      "text": "hyperframes-registry"
     },
     {
       "level": 3,
-      "text": "media-use"
+      "text": "hyperframes-animation"
     },
     {
       "level": 3,
@@ -98,19 +110,7 @@
     },
     {
       "level": 3,
-      "text": "hyperframes-animation"
-    },
-    {
-      "level": 3,
       "text": "grilling"
-    },
-    {
-      "level": 3,
-      "text": "hyperframes-registry"
-    },
-    {
-      "level": 3,
-      "text": "design-mobile-apps"
     },
     {
       "level": 3,
@@ -126,15 +126,15 @@
     },
     {
       "level": 3,
+      "text": "ai-video-generation"
+    },
+    {
+      "level": 3,
       "text": "teach"
     },
     {
       "level": 3,
       "text": "codebase-design"
-    },
-    {
-      "level": 3,
-      "text": "vercel-react-best-practices"
     },
     {
       "level": 3,

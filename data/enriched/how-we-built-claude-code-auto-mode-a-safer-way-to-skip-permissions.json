@@ -1,30 +1,30 @@
 {
   "slug": "how-we-built-claude-code-auto-mode-a-safer-way-to-skip-permissions",
   "url": "https://www.anthropic.com/engineering/claude-code-auto-mode",
-  "crawled_at": "2026-10-19T15:18:41.613803+00:00",
+  "crawled_at": "2026-10-26T14:52:42.112930+00:00",
   "status": "ok",
   "http_status": 200,
-  "final_url": "https://www.anthropic.com/engineering/claude-code-auto-mode",
+  "final_url": "https://www.anthropic.com/research/claude-code-auto-mode",
   "content_type": "article",
   "last_modified": "",
-  "fetched_title": "How we built Claude Code auto mode: a safer way to skip permissions \\ Anthropic",
-  "meta_description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
-  "og_title": "How we built Claude Code auto mode: a safer way to skip permissions",
-  "og_description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
-  "og_image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/5140cdbe58c21cc117e5f90bfe17245893cbce8d-2400x1260.png",
+  "fetched_title": "How we built Claude Code auto mode \\ Anthropic",
+  "meta_description": "Claude Code users approve 93% of permission prompts. See how auto mode uses classifiers to cut approval fatigue while keeping developers safe.",
+  "og_title": "How we built Claude Code auto mode",
+  "og_description": "Claude Code users approve 93% of permission prompts. See how auto mode uses classifiers to cut approval fatigue while keeping developers safe.",
+  "og_image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/761fe6cd7859d573956e58c13400e1c8ed2325b2-1200x630.jpg",
   "og_type": "article",
   "twitter_card": "summary_large_image",
-  "twitter_image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/5140cdbe58c21cc117e5f90bfe17245893cbce8d-2400x1260.png",
+  "twitter_image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/761fe6cd7859d573956e58c13400e1c8ed2325b2-1200x630.jpg",
   "author": "Anthropic",
   "publish_date": "2026-03-25",
   "language": "en",
-  "canonical_url": "https://www.anthropic.com/engineering/claude-code-auto-mode",
-  "word_count": 3639,
+  "canonical_url": "https://www.anthropic.com/research/claude-code-auto-mode",
+  "word_count": 3551,
   "reading_time_min": 18,
   "outline": [
     {
-      "level": 1,
-      "text": "How we built Claude Code auto mode: a safer way to skip permissions"
+      "level": 3,
+      "text": "Chapter01:How it works"
     },
     {
       "level": 2,
@@ -83,12 +83,12 @@
       "text": "What's next"
     },
     {
-      "level": 3,
-      "text": "Acknowledgements"
+      "level": 2,
+      "text": "Authors & acknowledgements"
     },
     {
-      "level": 2,
-      "text": "Get the developer newsletter"
+      "level": 3,
+      "text": "Acknowledgements"
     }
   ]
 }

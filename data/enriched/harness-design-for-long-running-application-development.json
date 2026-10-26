@@ -1,30 +1,30 @@
 {
   "slug": "harness-design-for-long-running-application-development",
   "url": "https://www.anthropic.com/engineering/harness-design-long-running-apps",
-  "crawled_at": "2026-10-19T15:18:34.453660+00:00",
+  "crawled_at": "2026-10-26T14:52:35.105849+00:00",
   "status": "ok",
   "http_status": 200,
-  "final_url": "https://www.anthropic.com/engineering/harness-design-long-running-apps",
+  "final_url": "https://www.anthropic.com/research/harness-design-long-running-apps",
   "content_type": "article",
   "last_modified": "",
-  "fetched_title": "Harness design for long-running application development \\ Anthropic",
+  "fetched_title": "Harness design for long-running apps \\ Anthropic",
   "meta_description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
-  "og_title": "Harness design for long-running application development",
+  "og_title": "Harness design for long-running apps",
   "og_description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
-  "og_image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/84a488382e0428a5eebade574af047e5d3b610ab-2400x1260.png",
+  "og_image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/e706fcd87f7408d4771cc3f50b09a7e491ea5641-1200x630.jpg",
   "og_type": "article",
   "twitter_card": "summary_large_image",
-  "twitter_image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/84a488382e0428a5eebade574af047e5d3b610ab-2400x1260.png",
+  "twitter_image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/e706fcd87f7408d4771cc3f50b09a7e491ea5641-1200x630.jpg",
   "author": "Anthropic",
   "publish_date": "2026-03-24",
   "language": "en",
-  "canonical_url": "https://www.anthropic.com/engineering/harness-design-long-running-apps",
-  "word_count": 5322,
-  "reading_time_min": 27,
+  "canonical_url": "https://www.anthropic.com/research/harness-design-long-running-apps",
+  "word_count": 5261,
+  "reading_time_min": 26,
   "outline": [
     {
-      "level": 1,
-      "text": "Harness design for long-running application development"
+      "level": 3,
+      "text": "Chapter01:Why naive implementations fall short"
     },
     {
       "level": 2,
@@ -64,15 +64,15 @@
     },
     {
       "level": 2,
-      "text": "Acknowledgements"
-    },
-    {
-      "level": 2,
       "text": "Appendix"
     },
     {
       "level": 2,
-      "text": "Get the developer newsletter"
+      "text": "Authors & acknowledgements"
+    },
+    {
+      "level": 3,
+      "text": "Acknowledgements"
     }
   ]
 }

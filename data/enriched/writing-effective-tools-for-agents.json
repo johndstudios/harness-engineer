@@ -1,30 +1,30 @@
 {
   "slug": "writing-effective-tools-for-agents",
   "url": "https://www.anthropic.com/engineering/writing-tools-for-agents",
-  "crawled_at": "2026-10-19T15:19:57.723117+00:00",
+  "crawled_at": "2026-10-26T14:53:55.298163+00:00",
   "status": "ok",
   "http_status": 200,
-  "final_url": "https://www.anthropic.com/engineering/writing-tools-for-agents",
+  "final_url": "https://www.anthropic.com/research/writing-tools-for-agents",
   "content_type": "article",
   "last_modified": "",
-  "fetched_title": "Writing effective tools for AI agents\u2014using AI agents \\ Anthropic",
-  "meta_description": "Writing effective tools for AI agents\u2014using AI agents",
-  "og_title": "Writing effective tools for AI agents\u2014using AI agents",
-  "og_description": "Writing effective tools for AI agents\u2014using AI agents",
-  "og_image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/91df4759f1037fb6073de772278cb71e6e4ee37d-2400x1260.png",
+  "fetched_title": "Writing effective tools for AI agents \\ Anthropic",
+  "meta_description": "Our most effective techniques for writing, evaluating, and refining tools for AI agents, including how to use Claude Code to improve them.",
+  "og_title": "Writing effective tools for AI agents",
+  "og_description": "Our most effective techniques for writing, evaluating, and refining tools for AI agents, including how to use Claude Code to improve them.",
+  "og_image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
   "og_type": "article",
   "twitter_card": "summary_large_image",
-  "twitter_image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/91df4759f1037fb6073de772278cb71e6e4ee37d-2400x1260.png",
+  "twitter_image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
   "author": "Anthropic",
   "publish_date": "2025-09-11",
   "language": "en",
-  "canonical_url": "https://www.anthropic.com/engineering/writing-tools-for-agents",
-  "word_count": 3347,
-  "reading_time_min": 17,
+  "canonical_url": "https://www.anthropic.com/research/writing-tools-for-agents",
+  "word_count": 3267,
+  "reading_time_min": 16,
   "outline": [
     {
-      "level": 1,
-      "text": "Writing effective tools for agents \u2014 with agents"
+      "level": 3,
+      "text": "Chapter01:What is a tool?"
     },
     {
       "level": 2,
@@ -76,15 +76,11 @@
     },
     {
       "level": 2,
-      "text": "Acknowledgements"
+      "text": "Authors & acknowledgements"
     },
     {
       "level": 3,
-      "text": "Looking to learn more?"
-    },
-    {
-      "level": 2,
-      "text": "Get the developer newsletter"
+      "text": "Acknowledgements"
     }
   ]
 }

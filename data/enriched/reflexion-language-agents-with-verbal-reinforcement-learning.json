@@ -1,7 +1,7 @@
 {
   "slug": "reflexion-language-agents-with-verbal-reinforcement-learning",
   "url": "https://arxiv.org/abs/2303.11366",
-  "crawled_at": "2026-10-19T15:19:19.603962+00:00",
+  "crawled_at": "2026-10-26T14:53:18.872020+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://arxiv.org/abs/2303.11366",
@@ -17,7 +17,7 @@
   "twitter_image": "https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png",
   "language": "en",
   "canonical_url": "https://arxiv.org/abs/2303.11366",
-  "word_count": 710,
+  "word_count": 713,
   "reading_time_min": 4,
   "outline": [
     {
@@ -35,6 +35,10 @@
     {
       "level": 2,
       "text": "Access Paper:"
+    },
+    {
+      "level": 3,
+      "text": "Additional Features"
     },
     {
       "level": 3,

@@ -1,7 +1,7 @@
 {
   "slug": "agentbench-evaluating-llms-as-agents",
   "url": "https://arxiv.org/abs/2308.03688",
-  "crawled_at": "2026-10-19T15:17:11.686372+00:00",
+  "crawled_at": "2026-10-26T14:51:21.130825+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://arxiv.org/abs/2308.03688",
@@ -17,7 +17,7 @@
   "twitter_image": "https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png",
   "language": "en",
   "canonical_url": "https://arxiv.org/abs/2308.03688",
-  "word_count": 726,
+  "word_count": 729,
   "reading_time_min": 4,
   "outline": [
     {
@@ -35,6 +35,10 @@
     {
       "level": 2,
       "text": "Access Paper:"
+    },
+    {
+      "level": 3,
+      "text": "Additional Features"
     },
     {
       "level": 3,

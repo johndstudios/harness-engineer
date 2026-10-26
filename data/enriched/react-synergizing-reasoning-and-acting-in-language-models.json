@@ -1,7 +1,7 @@
 {
   "slug": "react-synergizing-reasoning-and-acting-in-language-models",
   "url": "https://arxiv.org/abs/2210.03629",
-  "crawled_at": "2026-10-19T15:19:17.341962+00:00",
+  "crawled_at": "2026-10-26T14:53:16.192902+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://arxiv.org/abs/2210.03629",
@@ -17,7 +17,7 @@
   "twitter_image": "https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png",
   "language": "en",
   "canonical_url": "https://arxiv.org/abs/2210.03629",
-  "word_count": 767,
+  "word_count": 770,
   "reading_time_min": 4,
   "outline": [
     {
@@ -35,6 +35,10 @@
     {
       "level": 2,
       "text": "Access Paper:"
+    },
+    {
+      "level": 3,
+      "text": "Additional Features"
     },
     {
       "level": 3,
