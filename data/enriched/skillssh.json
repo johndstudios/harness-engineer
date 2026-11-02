@@ -1,7 +1,7 @@
 {
   "slug": "skillssh",
   "url": "https://skills.sh",
-  "crawled_at": "2026-10-26T14:53:22.050313+00:00",
+  "crawled_at": "2026-11-02T17:50:57.387474+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://www.skills.sh/",
@@ -50,6 +50,10 @@
     },
     {
       "level": 3,
+      "text": "hyperframes"
+    },
+    {
+      "level": 3,
       "text": "agent-browser"
     },
     {
@@ -58,7 +62,7 @@
     },
     {
       "level": 3,
-      "text": "hyperframes"
+      "text": "media-use"
     },
     {
       "level": 3,
@@ -66,15 +70,19 @@
     },
     {
       "level": 3,
+      "text": "reddit-automation"
+    },
+    {
+      "level": 3,
       "text": "tdd"
     },
     {
       "level": 3,
-      "text": "media-use"
+      "text": "design-mobile-apps"
     },
     {
       "level": 3,
-      "text": "reddit-automation"
+      "text": "hyperframes-registry"
     },
     {
       "level": 3,
@@ -86,19 +94,11 @@
     },
     {
       "level": 3,
-      "text": "design-mobile-apps"
-    },
-    {
-      "level": 3,
       "text": "frontend-design"
     },
     {
       "level": 3,
-      "text": "hyperframes-registry"
-    },
-    {
-      "level": 3,
-      "text": "hyperframes-animation"
+      "text": "grilling"
     },
     {
       "level": 3,
@@ -110,7 +110,11 @@
     },
     {
       "level": 3,
-      "text": "grilling"
+      "text": "hyperframes-animation"
+    },
+    {
+      "level": 3,
+      "text": "ai-video-generation"
     },
     {
       "level": 3,
@@ -118,15 +122,15 @@
     },
     {
       "level": 3,
-      "text": "hyperframes-creative"
-    },
-    {
-      "level": 3,
       "text": "domain-modeling"
     },
     {
       "level": 3,
-      "text": "ai-video-generation"
+      "text": "ui-taste"
+    },
+    {
+      "level": 3,
+      "text": "hyperframes-creative"
     },
     {
       "level": 3,
@@ -135,10 +139,6 @@
     {
       "level": 3,
       "text": "codebase-design"
-    },
-    {
-      "level": 3,
-      "text": "diagnosing-bugs"
     }
   ]
 }

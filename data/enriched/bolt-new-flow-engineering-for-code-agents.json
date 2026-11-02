@@ -1,7 +1,7 @@
 {
   "slug": "bolt-new-flow-engineering-for-code-agents",
   "url": "https://www.latent.space/p/bolt",
-  "crawled_at": "2026-10-26T14:51:46.938078+00:00",
+  "crawled_at": "2026-11-02T17:49:22.105164+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://latent.space/p/bolt/",
@@ -11,13 +11,13 @@
   "meta_description": "The Stackblitz and Qodo CEOs dish on building production coding agents, from going viral as the hottest new consumer/low-code agent, to the gnarliest enterprise deployments for code/test agents.",
   "og_title": "Bolt.new, Flow Engineering for Code Agents, and >$8m ARR in 2 months as a Claude Wrapper \u2014 Latent Space",
   "og_description": "The Stackblitz and Qodo CEOs dish on building production coding agents, from going viral as the hottest new consumer/low-code agent, to the gnarliest enterprise deployments for code/test agents.",
-  "og_image": "https://latent.space/og/card/post/bolt/cec038c725c14cdf115cffc44c74f060af9219a90025e1e8fd61718417c6434e.png",
+  "og_image": "https://i.ytimg.com/vi/swQLziqWgus/maxresdefault.jpg",
   "og_type": "article",
   "twitter_card": "summary_large_image",
-  "twitter_image": "https://latent.space/og/card/post/bolt/cec038c725c14cdf115cffc44c74f060af9219a90025e1e8fd61718417c6434e.png",
+  "twitter_image": "https://i.ytimg.com/vi/swQLziqWgus/maxresdefault.jpg",
   "language": "en",
   "canonical_url": "https://latent.space/p/bolt/",
-  "word_count": 22508,
+  "word_count": 22534,
   "reading_time_min": 113,
   "outline": [
     {

@@ -1,12 +1,12 @@
 {
   "slug": "evaluation-best-practices",
   "url": "https://platform.openai.com/docs/guides/evaluation-best-practices",
-  "crawled_at": "2026-10-26T14:52:20.811636+00:00",
+  "crawled_at": "2026-11-02T17:49:58.263487+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://developers.openai.com/api/docs/guides/evaluation-best-practices",
   "content_type": "article",
-  "last_modified": "Mon, 26 Oct 2026 13:32:21 GMT",
+  "last_modified": "Mon, 02 Nov 2026 16:19:22 GMT",
   "fetched_title": "Evaluation best practices | OpenAI API",
   "meta_description": "Learn best practices for designing evals to test and improve model performance in production.",
   "og_title": "Evaluation best practices | OpenAI API",
@@ -17,7 +17,7 @@
   "twitter_image": "https://developers.openai.com/og/api/docs/guides/evaluation-best-practices.png",
   "language": "en",
   "canonical_url": "https://developers.openai.com/api/docs/guides/evaluation-best-practices",
-  "word_count": 4543,
+  "word_count": 4550,
   "reading_time_min": 23,
   "outline": [
     {
