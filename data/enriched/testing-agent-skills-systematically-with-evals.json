@@ -1,12 +1,12 @@
 {
   "slug": "testing-agent-skills-systematically-with-evals",
   "url": "https://developers.openai.com/blog/eval-skills/",
-  "crawled_at": "2026-11-02T17:51:05.440798+00:00",
+  "crawled_at": "2026-11-09T18:22:56.727563+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://developers.openai.com/blog/eval-skills",
   "content_type": "article",
-  "last_modified": "Mon, 02 Nov 2026 17:01:26 GMT",
+  "last_modified": "Mon, 09 Nov 2026 18:03:15 GMT",
   "fetched_title": "Testing Agent Skills Systematically with Evals | OpenAI Developers",
   "meta_description": "A practical guide to turning agent skills into something you can test, score, and improve over time.",
   "og_title": "Testing Agent Skills Systematically with Evals | OpenAI Developers",
@@ -17,8 +17,8 @@
   "twitter_image": "https://developers.openai.com/images/blog/eval-skills.png",
   "language": "en",
   "canonical_url": "https://developers.openai.com/blog/eval-skills",
-  "word_count": 4454,
-  "reading_time_min": 22,
+  "word_count": 4509,
+  "reading_time_min": 23,
   "outline": [
     {
       "level": 2,
@@ -43,6 +43,10 @@
     {
       "level": 3,
       "text": "SDKs and CLI"
+    },
+    {
+      "level": 3,
+      "text": "Cloud providers"
     },
     {
       "level": 3,
@@ -135,10 +139,6 @@
     {
       "level": 3,
       "text": "Go live"
-    },
-    {
-      "level": 3,
-      "text": "Performance and quality"
     }
   ]
 }

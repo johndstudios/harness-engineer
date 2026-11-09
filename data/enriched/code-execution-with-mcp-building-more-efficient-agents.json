@@ -1,7 +1,7 @@
 {
   "slug": "code-execution-with-mcp-building-more-efficient-agents",
   "url": "https://www.anthropic.com/engineering/code-execution-with-mcp",
-  "crawled_at": "2026-11-02T17:49:40.941045+00:00",
+  "crawled_at": "2026-11-09T18:21:19.185069+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://www.anthropic.com/research/code-execution-with-mcp",
@@ -19,12 +19,12 @@
   "publish_date": "2025-11-04",
   "language": "en",
   "canonical_url": "https://www.anthropic.com/research/code-execution-with-mcp",
-  "word_count": 1962,
+  "word_count": 1960,
   "reading_time_min": 10,
   "outline": [
     {
       "level": 3,
-      "text": "Chapter01:Excessive token consumption from tools makes agents less efficient"
+      "text": "01Excessive token consumption from tools makes agents less efficient"
     },
     {
       "level": 2,

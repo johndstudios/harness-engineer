@@ -1,7 +1,7 @@
 {
   "slug": "equipping-agents-for-the-real-world-with-agent-skills",
   "url": "https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills",
-  "crawled_at": "2026-11-02T17:49:55.451672+00:00",
+  "crawled_at": "2026-11-09T18:21:34.005360+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://www.anthropic.com/research/equipping-agents-for-the-real-world-with-agent-skills",
@@ -19,12 +19,12 @@
   "publish_date": "2025-10-16",
   "language": "en",
   "canonical_url": "https://www.anthropic.com/research/equipping-agents-for-the-real-world-with-agent-skills",
-  "word_count": 1471,
+  "word_count": 1469,
   "reading_time_min": 7,
   "outline": [
     {
       "level": 3,
-      "text": "Chapter01:The anatomy of a skill"
+      "text": "01The anatomy of a skill"
     },
     {
       "level": 3,

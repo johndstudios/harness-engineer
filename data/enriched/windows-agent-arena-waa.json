@@ -1,15 +1,15 @@
 {
   "slug": "windows-agent-arena-waa",
   "url": "https://github.com/microsoft/WindowsAgentArena",
-  "crawled_at": "2026-11-02T17:51:26.887335+00:00",
+  "crawled_at": "2026-11-09T18:23:21.245621+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://github.com/microsoft/WindowsAgentArena",
   "content_type": "github",
   "last_modified": "",
   "github_stars": 915,
-  "github_forks": 106,
-  "github_open_issues": 40,
+  "github_forks": 108,
+  "github_open_issues": 42,
   "github_topics": [
     "agentic",
     "ai",

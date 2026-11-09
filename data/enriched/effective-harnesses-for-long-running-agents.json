@@ -1,7 +1,7 @@
 {
   "slug": "effective-harnesses-for-long-running-agents",
   "url": "https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents",
-  "crawled_at": "2026-11-02T17:49:53.886759+00:00",
+  "crawled_at": "2026-11-09T18:21:32.348703+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://www.anthropic.com/research/effective-harnesses-for-long-running-agents",
@@ -19,12 +19,12 @@
   "publish_date": "2025-11-26",
   "language": "en",
   "canonical_url": "https://www.anthropic.com/research/effective-harnesses-for-long-running-agents",
-  "word_count": 2128,
+  "word_count": 2126,
   "reading_time_min": 11,
   "outline": [
     {
       "level": 3,
-      "text": "Chapter01:The long-running agent problem"
+      "text": "01The long-running agent problem"
     },
     {
       "level": 2,

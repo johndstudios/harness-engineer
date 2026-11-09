@@ -1,7 +1,7 @@
 {
   "slug": "how-we-built-our-multi-agent-research-system",
   "url": "https://www.anthropic.com/engineering/multi-agent-research-system",
-  "crawled_at": "2026-11-02T17:50:20.074183+00:00",
+  "crawled_at": "2026-11-09T18:22:00.856044+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://www.anthropic.com/research/multi-agent-research-system",
@@ -19,12 +19,12 @@
   "publish_date": "2025-06-13",
   "language": "en",
   "canonical_url": "https://www.anthropic.com/research/multi-agent-research-system",
-  "word_count": 3783,
+  "word_count": 3781,
   "reading_time_min": 19,
   "outline": [
     {
       "level": 3,
-      "text": "Chapter01:Benefits of a multi-agent system"
+      "text": "01Benefits of a multi-agent system"
     },
     {
       "level": 2,

@@ -1,7 +1,7 @@
 {
   "slug": "effective-context-engineering-for-ai-agents",
   "url": "https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents",
-  "crawled_at": "2026-11-02T17:49:53.179078+00:00",
+  "crawled_at": "2026-11-09T18:21:31.574104+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://www.anthropic.com/research/effective-context-engineering-for-ai-agents",
@@ -19,12 +19,12 @@
   "publish_date": "2025-09-29",
   "language": "en",
   "canonical_url": "https://www.anthropic.com/research/effective-context-engineering-for-ai-agents",
-  "word_count": 3126,
+  "word_count": 3124,
   "reading_time_min": 16,
   "outline": [
     {
       "level": 3,
-      "text": "Chapter01:Context engineering vs. prompt engineering"
+      "text": "01Context engineering vs. prompt engineering"
     },
     {
       "level": 2,

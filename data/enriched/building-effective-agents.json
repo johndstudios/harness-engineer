@@ -1,7 +1,7 @@
 {
   "slug": "building-effective-agents",
   "url": "https://www.anthropic.com/engineering/building-effective-agents",
-  "crawled_at": "2026-11-02T17:49:30.212767+00:00",
+  "crawled_at": "2026-11-09T18:21:07.755672+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://www.anthropic.com/research/building-effective-agents",
@@ -19,12 +19,12 @@
   "publish_date": "2024-12-19",
   "language": "en",
   "canonical_url": "https://www.anthropic.com/research/building-effective-agents",
-  "word_count": 2738,
+  "word_count": 2736,
   "reading_time_min": 14,
   "outline": [
     {
       "level": 3,
-      "text": "Chapter01:What are agents?"
+      "text": "01What are agents?"
     },
     {
       "level": 2,

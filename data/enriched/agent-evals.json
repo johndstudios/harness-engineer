@@ -1,12 +1,12 @@
 {
   "slug": "agent-evals",
   "url": "https://platform.openai.com/docs/guides/agent-evals",
-  "crawled_at": "2026-11-02T17:48:53.265020+00:00",
+  "crawled_at": "2026-11-09T18:20:25.738217+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://developers.openai.com/api/docs/guides/agent-evals",
   "content_type": "article",
-  "last_modified": "Mon, 02 Nov 2026 17:48:30 GMT",
+  "last_modified": "Mon, 09 Nov 2026 18:09:29 GMT",
   "fetched_title": "Evaluate agent workflows | OpenAI API",
   "meta_description": "Learn how to evaluate agent workflows with traces, graders, datasets, and evaluation runs on the OpenAI platform.",
   "og_title": "Evaluate agent workflows | OpenAI API",
@@ -17,7 +17,7 @@
   "twitter_image": "https://developers.openai.com/og/api/docs/guides/agent-evals.png",
   "language": "en",
   "canonical_url": "https://developers.openai.com/api/docs/guides/agent-evals",
-  "word_count": 1815,
+  "word_count": 1828,
   "reading_time_min": 9,
   "outline": [
     {
@@ -43,6 +43,10 @@
     {
       "level": 3,
       "text": "SDKs and CLI"
+    },
+    {
+      "level": 3,
+      "text": "Cloud providers"
     },
     {
       "level": 3,
@@ -135,10 +139,6 @@
     {
       "level": 3,
       "text": "Go live"
-    },
-    {
-      "level": 3,
-      "text": "Performance and quality"
     }
   ]
 }

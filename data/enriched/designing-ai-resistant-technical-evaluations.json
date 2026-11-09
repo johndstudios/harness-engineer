@@ -1,7 +1,7 @@
 {
   "slug": "designing-ai-resistant-technical-evaluations",
   "url": "https://www.anthropic.com/engineering/AI-resistant-technical-evaluations",
-  "crawled_at": "2026-11-02T17:49:52.387354+00:00",
+  "crawled_at": "2026-11-09T18:21:30.782489+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://www.anthropic.com/research/AI-resistant-technical-evaluations",
@@ -19,12 +19,12 @@
   "publish_date": "2026-01-21",
   "language": "en",
   "canonical_url": "https://www.anthropic.com/research/AI-resistant-technical-evaluations",
-  "word_count": 2693,
+  "word_count": 2691,
   "reading_time_min": 13,
   "outline": [
     {
       "level": 3,
-      "text": "Chapter01:The origin of the take-home"
+      "text": "01The origin of the take-home"
     },
     {
       "level": 2,

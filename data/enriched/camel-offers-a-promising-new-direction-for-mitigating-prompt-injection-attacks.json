@@ -1,7 +1,7 @@
 {
   "slug": "camel-offers-a-promising-new-direction-for-mitigating-prompt-injection-attacks",
   "url": "https://simonwillison.net/2025/Apr/11/camel/",
-  "crawled_at": "2026-11-02T17:49:31.620248+00:00",
+  "crawled_at": "2026-11-09T18:21:09.331130+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://simonwillison.net/2025/Apr/11/camel/",
@@ -18,7 +18,7 @@
   "author": "Simon Willison",
   "language": "en-gb",
   "canonical_url": "https://simonwillison.net/2025/Apr/11/camel/",
-  "word_count": 2262,
+  "word_count": 2239,
   "reading_time_min": 11,
   "outline": [
     {

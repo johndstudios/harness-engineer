@@ -1,11 +1,11 @@
 {
   "slug": "clawbench",
   "url": "https://clawbench.net",
-  "crawled_at": "2026-11-02T17:49:38.772708+00:00",
+  "crawled_at": "2026-11-09T18:21:16.644204+00:00",
   "status": "fetch_error",
   "http_status": 0,
   "final_url": "https://clawbench.net",
   "content_type": "web",
   "last_modified": "",
-  "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1032)>"
+  "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1035)>"
 }

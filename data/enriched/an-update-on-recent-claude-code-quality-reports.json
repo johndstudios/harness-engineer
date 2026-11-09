@@ -1,7 +1,7 @@
 {
   "slug": "an-update-on-recent-claude-code-quality-reports",
   "url": "https://www.anthropic.com/engineering/april-23-postmortem",
-  "crawled_at": "2026-11-02T17:49:10.965658+00:00",
+  "crawled_at": "2026-11-09T18:20:46.530345+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://www.anthropic.com/research/april-23-postmortem",
@@ -19,12 +19,12 @@
   "publish_date": "2026-04-23",
   "language": "en",
   "canonical_url": "https://www.anthropic.com/research/april-23-postmortem",
-  "word_count": 1719,
+  "word_count": 1717,
   "reading_time_min": 9,
   "outline": [
     {
       "level": 3,
-      "text": "Chapter01:A change to Claude Code's default reasoning effort"
+      "text": "01A change to Claude Code's default reasoning effort"
     },
     {
       "level": 2,
