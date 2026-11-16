@@ -1,7 +1,7 @@
 {
   "slug": "skillssh",
   "url": "https://skills.sh",
-  "crawled_at": "2026-11-09T18:22:47.568727+00:00",
+  "crawled_at": "2026-11-16T17:59:18.293797+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://www.skills.sh/",
@@ -17,7 +17,7 @@
   "twitter_image": "https://www.skills.sh/og.jpeg",
   "language": "en",
   "canonical_url": "https://www.skills.sh",
-  "word_count": 691,
+  "word_count": 695,
   "reading_time_min": 3,
   "outline": [
     {
@@ -42,11 +42,11 @@
     },
     {
       "level": 3,
-      "text": "grill-me"
+      "text": "hyperframes-cli"
     },
     {
       "level": 3,
-      "text": "hyperframes-cli"
+      "text": "grill-me"
     },
     {
       "level": 3,
@@ -70,27 +70,11 @@
     },
     {
       "level": 3,
-      "text": "grill-with-docs"
-    },
-    {
-      "level": 3,
-      "text": "improve-codebase-architecture"
-    },
-    {
-      "level": 3,
       "text": "hyperframes-registry"
     },
     {
       "level": 3,
-      "text": "tdd"
-    },
-    {
-      "level": 3,
-      "text": "setup-matt-pocock-skills"
-    },
-    {
-      "level": 3,
-      "text": "handoff"
+      "text": "grill-with-docs"
     },
     {
       "level": 3,
@@ -114,11 +98,11 @@
     },
     {
       "level": 3,
-      "text": "hyperframes-animation"
+      "text": "ai-video-generation"
     },
     {
       "level": 3,
-      "text": "ai-video-generation"
+      "text": "hyperframes-animation"
     },
     {
       "level": 3,
@@ -126,11 +110,7 @@
     },
     {
       "level": 3,
-      "text": "codebase-design"
-    },
-    {
-      "level": 3,
-      "text": "teach"
+      "text": "ai-image-generation"
     },
     {
       "level": 3,
@@ -139,6 +119,26 @@
     {
       "level": 3,
       "text": "hyperframes-creative"
+    },
+    {
+      "level": 3,
+      "text": "lark-doc"
+    },
+    {
+      "level": 3,
+      "text": "vercel-react-best-practices"
+    },
+    {
+      "level": 3,
+      "text": "code-review"
+    },
+    {
+      "level": 3,
+      "text": "lark-okr"
+    },
+    {
+      "level": 3,
+      "text": "lark-markdown"
     }
   ]
 }

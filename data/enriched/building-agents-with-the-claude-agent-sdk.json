@@ -1,7 +1,7 @@
 {
   "slug": "building-agents-with-the-claude-agent-sdk",
   "url": "https://claude.com/blog/building-agents-with-the-claude-agent-sdk",
-  "crawled_at": "2026-11-09T18:21:05.276326+00:00",
+  "crawled_at": "2026-11-16T17:57:39.091642+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://claude.com/resources/articles/building-agents-with-the-claude-agent-sdk",
@@ -18,8 +18,8 @@
   "publish_date": "2025-09-29",
   "language": "en",
   "canonical_url": "https://claude.com/resources/articles/building-agents-with-the-claude-agent-sdk",
-  "word_count": 2338,
-  "reading_time_min": 12,
+  "word_count": 2290,
+  "reading_time_min": 11,
   "outline": [
     {
       "level": 2,
@@ -103,19 +103,19 @@
     },
     {
       "level": 3,
-      "text": "Manage costs and demonstrate ROI for Claude Code on Google Cloud"
+      "text": "Building always-on agents"
     },
     {
       "level": 3,
-      "text": "Building agents: When to fold subagents into your main agent loop"
+      "text": "The Claude Tag guide for startups"
     },
     {
       "level": 3,
-      "text": "Redesigning source control at Anthropic"
+      "text": "How Curative is building a national provider network with agents on Claude"
     },
     {
       "level": 3,
-      "text": "How an Anthropic BDR in Japan runs his day with Claude Managed Agents"
+      "text": "Safely scaling multi-agent teams with Claude Fable 5.2"
     },
     {
       "level": 2,

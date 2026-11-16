@@ -1,7 +1,7 @@
 {
   "slug": "olas-predict-benchmark",
   "url": "https://github.com/valory-xyz/olas-predict-benchmark",
-  "crawled_at": "2026-11-09T18:22:32.680227+00:00",
+  "crawled_at": "2026-11-16T17:59:02.709482+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://github.com/valory-xyz/olas-predict-benchmark",
@@ -27,7 +27,7 @@
   "twitter_card": "summary_large_image",
   "twitter_image": "https://opengraph.githubassets.com/5a841c85d1ed4816c08ce23df27f62214eff923bac2876a403de052ce856bd4e/valory-xyz/olas-predict-benchmark",
   "language": "en",
-  "word_count": 626,
+  "word_count": 624,
   "reading_time_min": 3,
   "outline": [
     {
@@ -109,10 +109,6 @@
     {
       "level": 2,
       "text": "Packages"
-    },
-    {
-      "level": 2,
-      "text": "Used by"
     },
     {
       "level": 2,

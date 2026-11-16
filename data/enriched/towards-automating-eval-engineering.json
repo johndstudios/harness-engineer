@@ -1,12 +1,12 @@
 {
   "slug": "towards-automating-eval-engineering",
   "url": "https://blog.langchain.com/towards-automating-eval-engineering",
-  "crawled_at": "2026-11-09T18:23:05.026926+00:00",
+  "crawled_at": "2026-11-16T17:59:35.791776+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://www.langchain.com/blog/towards-automating-eval-engineering",
   "content_type": "article",
-  "last_modified": "Mon, 09 Nov 2026 18:23:05 GMT",
+  "last_modified": "Mon, 16 Nov 2026 17:59:36 GMT",
   "fetched_title": "Eval Engineering Skill: Build Evals From Repo Context and Traces",
   "meta_description": "LangChain's Eval Engineering Skill inspects your agent's repo and traces, proposes evals through user interviews, and outputs runnable Harbor tasks.",
   "og_title": "Eval Engineering Skill: Build Evals From Repo Context and Traces",
@@ -19,7 +19,7 @@
   "publish_date": "2026-07-22",
   "language": "en",
   "canonical_url": "https://www.langchain.com/blog/towards-automating-eval-engineering",
-  "word_count": 1115,
+  "word_count": 1116,
   "reading_time_min": 6,
   "outline": [
     {

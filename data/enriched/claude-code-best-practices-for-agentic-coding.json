@@ -1,23 +1,23 @@
 {
   "slug": "claude-code-best-practices-for-agentic-coding",
   "url": "https://code.claude.com/docs",
-  "crawled_at": "2026-11-09T18:21:15.165732+00:00",
+  "crawled_at": "2026-11-16T17:57:48.722982+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://code.claude.com/docs/en/overview",
   "content_type": "article",
-  "last_modified": "Mon, 09 Nov 2026 17:51:44 GMT",
+  "last_modified": "Mon, 16 Nov 2026 16:17:36 GMT",
   "fetched_title": "Overview - Claude Code Docs",
   "meta_description": "Claude Code is an agentic coding tool that reads your codebase, edits files, runs commands, and integrates with your development tools. Available in your terminal, IDE, desktop app, and browser.",
   "og_title": "Overview - Claude Code Docs",
   "og_description": "Claude Code is an agentic coding tool that reads your codebase, edits files, runs commands, and integrates with your development tools. Available in your terminal, IDE, desktop app, and browser.",
-  "og_image": "https://claude-code.mintlify.site/docs/_mintlify/api/og/v2?division=Getting+started&title=Overview&description=Claude+Code+is+an+agentic+coding+tool+that+reads+your+codebase%2C+edits+files%2C+runs+commands%2C+and+integrates+with+your+development+tools.+Available+in+your+termin&theme=8d9812df31da293aba4e8103&signature=cd48661c819838a7b3cf407ae2a1c37f89e6e34833443538a75f097a9386c016",
+  "og_image": "https://claude-code.mintlify.site/docs/_mintlify/api/og/v2?division=Getting+started&title=Overview&description=Claude+Code+is+an+agentic+coding+tool+that+reads+your+codebase%2C+edits+files%2C+runs+commands%2C+and+integrates+with+your+development+tools.+Available+in+your+termin&theme=e2d30309a4005a9870b526a1&signature=9fc1f5490837ef57d6afa7ac8a2d34d3eab43a058bd46143c97c569c1e79c305",
   "og_type": "website",
   "twitter_card": "summary_large_image",
-  "twitter_image": "https://claude-code.mintlify.site/docs/_mintlify/api/og/v2?division=Getting+started&title=Overview&description=Claude+Code+is+an+agentic+coding+tool+that+reads+your+codebase%2C+edits+files%2C+runs+commands%2C+and+integrates+with+your+development+tools.+Available+in+your+termin&theme=8d9812df31da293aba4e8103&signature=cd48661c819838a7b3cf407ae2a1c37f89e6e34833443538a75f097a9386c016",
+  "twitter_image": "https://claude-code.mintlify.site/docs/_mintlify/api/og/v2?division=Getting+started&title=Overview&description=Claude+Code+is+an+agentic+coding+tool+that+reads+your+codebase%2C+edits+files%2C+runs+commands%2C+and+integrates+with+your+development+tools.+Available+in+your+termin&theme=e2d30309a4005a9870b526a1&signature=9fc1f5490837ef57d6afa7ac8a2d34d3eab43a058bd46143c97c569c1e79c305",
   "language": "en",
   "canonical_url": "https://code.claude.com/docs/en/overview",
-  "word_count": 1936,
+  "word_count": 1932,
   "reading_time_min": 10,
   "outline": [
     {
@@ -26,19 +26,19 @@
     },
     {
       "level": 2,
-      "text": "\u200bGet started"
+      "text": "Get started"
     },
     {
       "level": 2,
-      "text": "\u200bWhat you can do"
+      "text": "What you can do"
     },
     {
       "level": 2,
-      "text": "\u200bUse Claude Code everywhere"
+      "text": "Use Claude Code everywhere"
     },
     {
       "level": 2,
-      "text": "\u200bNext steps"
+      "text": "Next steps"
     }
   ]
 }

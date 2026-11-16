@@ -1,15 +1,15 @@
 {
   "slug": "wildclawbench",
   "url": "https://github.com/InternLM/WildClawBench",
-  "crawled_at": "2026-11-09T18:23:19.657736+00:00",
+  "crawled_at": "2026-11-16T17:59:50.855228+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://github.com/InternLM/WildClawBench",
   "content_type": "github",
   "last_modified": "",
-  "github_stars": 534,
+  "github_stars": 535,
   "github_forks": 66,
-  "github_open_issues": 5,
+  "github_open_issues": 0,
   "github_topics": [
     "agentic-ai",
     "agentic-evaluation",
@@ -20,21 +20,21 @@
   "github_language": "Python",
   "github_description": "An in-the-wild benchmark for AI agents in the production harness.",
   "github_created": "2026-03-23",
-  "github_updated": "2026-11-05",
-  "github_pushed": "2026-11-05",
+  "github_updated": "2026-11-09",
+  "github_pushed": "2026-11-16",
   "github_license": "MIT",
   "github_homepage": "https://internlm.github.io/WildClawBench/",
   "fetched_title": "GitHub - InternLM/WildClawBench: An in-the-wild benchmark for AI agents in the production harness. \u00b7 GitHub",
   "meta_description": "An in-the-wild benchmark for AI agents in the production harness. - InternLM/WildClawBench",
   "og_title": "GitHub - InternLM/WildClawBench: An in-the-wild benchmark for AI agents in the production harness.",
   "og_description": "An in-the-wild benchmark for AI agents in the production harness. - InternLM/WildClawBench",
-  "og_image": "https://opengraph.githubassets.com/718c8b0efa19a2740bb8054d2a78fb1c65346f2ac9e86fed9a49e87fc4ed548a/InternLM/WildClawBench",
+  "og_image": "https://opengraph.githubassets.com/c8e5a3a84d2c41248cfef59fd65d10ad217545e6902440260a11f6f22fcfad53/InternLM/WildClawBench",
   "og_type": "object",
   "twitter_card": "summary_large_image",
-  "twitter_image": "https://opengraph.githubassets.com/718c8b0efa19a2740bb8054d2a78fb1c65346f2ac9e86fed9a49e87fc4ed548a/InternLM/WildClawBench",
+  "twitter_image": "https://opengraph.githubassets.com/c8e5a3a84d2c41248cfef59fd65d10ad217545e6902440260a11f6f22fcfad53/InternLM/WildClawBench",
   "language": "en",
-  "word_count": 3537,
-  "reading_time_min": 18,
+  "word_count": 3786,
+  "reading_time_min": 19,
   "outline": [
     {
       "level": 2,
@@ -130,6 +130,10 @@
     },
     {
       "level": 2,
+      "text": "Collect Trajectories with Roller"
+    },
+    {
+      "level": 2,
       "text": "Personal OpenClaw Evaluation"
     },
     {
@@ -151,10 +155,6 @@
     {
       "level": 2,
       "text": "License"
-    },
-    {
-      "level": 2,
-      "text": "Star History"
     }
   ]
 }
