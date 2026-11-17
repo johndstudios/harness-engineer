@@ -117,8 +117,15 @@ jobs:
           if gh pr view "$ARCHIVE_BRANCH" --json state --jq .state 2>/dev/null | grep -q OPEN; then
             gh pr edit "$ARCHIVE_BRANCH" --body "$body"
           else
-            gh pr create --base main --head "$ARCHIVE_BRANCH" \
-              --title "Archive resources with dead links" --body "$body" --label auto-archive --label freshness
+            # Fails if the org disallows Actions opening PRs; the branch is
+            # still pushed, so leave a one-click link instead of failing.
+            if ! gh pr create --base main --head "$ARCHIVE_BRANCH" \
+                --title "Archive resources with dead links" --body "$body" --label auto-archive --label freshness; then
+              compare="${{ github.server_url }}/${{ github.repository }}/compare/main...$ARCHIVE_BRANCH?expand=1"
+              echo "::warning::Could not open the auto-archive PR (Actions may not be allowed to create PRs). Open it here: $compare"
+              echo "### Auto-archive branch ready" >> "$GITHUB_STEP_SUMMARY"
+              echo "Actions could not open the PR. [Open it manually]($compare)." >> "$GITHUB_STEP_SUMMARY"
+            fi
           fi
           # PRs opened with GITHUB_TOKEN don't trigger CI; dispatch it so the
           # required checks run against the branch head.
