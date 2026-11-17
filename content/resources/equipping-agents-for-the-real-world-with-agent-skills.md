@@ -1,6 +1,6 @@
 ---
 title: Equipping agents for the real world with Agent Skills
-link: https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills
+link: https://www.anthropic.com/research/equipping-agents-for-the-real-world-with-agent-skills
 category: [context]
 resource_kind: article
 source: ["anthropic"]

@@ -1,6 +1,6 @@
 ---
 title: Designing AI-resistant technical evaluations
-link: https://www.anthropic.com/engineering/AI-resistant-technical-evaluations
+link: https://www.anthropic.com/research/AI-resistant-technical-evaluations
 category: [evals]
 resource_kind: article
 source: ["anthropic"]

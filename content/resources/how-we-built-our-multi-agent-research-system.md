@@ -1,6 +1,6 @@
 ---
 title: How we built our multi-agent research system
-link: https://www.anthropic.com/engineering/multi-agent-research-system
+link: https://www.anthropic.com/research/multi-agent-research-system
 category: [runtimes]
 resource_kind: tool
 source: [anthropic]

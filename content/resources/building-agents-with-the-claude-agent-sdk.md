@@ -1,6 +1,6 @@
 ---
 title: Building agents with the Claude Agent SDK
-link: https://claude.com/blog/building-agents-with-the-claude-agent-sdk
+link: https://claude.com/resources/articles/building-agents-with-the-claude-agent-sdk
 category: [runtimes]
 resource_kind: tool
 source: [anthropic]

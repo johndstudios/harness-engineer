@@ -1,6 +1,6 @@
 ---
 title: Building effective agents
-link: https://www.anthropic.com/engineering/building-effective-agents
+link: https://www.anthropic.com/research/building-effective-agents
 category: [foundations]
 resource_kind: article
 source: [anthropic]

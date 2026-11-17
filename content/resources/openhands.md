@@ -1,6 +1,6 @@
 ---
 title: OpenHands
-link: https://github.com/All-Hands-AI/OpenHands
+link: https://github.com/OpenHands/OpenHands
 category: [runtimes]
 resource_kind: tool
 source: ["All-Hands-AI"]

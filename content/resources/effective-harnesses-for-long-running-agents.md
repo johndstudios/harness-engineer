@@ -1,6 +1,6 @@
 ---
 title: Effective harnesses for long-running agents
-link: https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents
+link: https://www.anthropic.com/research/effective-harnesses-for-long-running-agents
 category: [foundations]
 resource_kind: article
 source: [anthropic]

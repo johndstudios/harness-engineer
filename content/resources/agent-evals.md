@@ -1,6 +1,6 @@
 ---
 title: Agent evals
-link: https://platform.openai.com/docs/guides/agent-evals
+link: https://developers.openai.com/api/docs/guides/agent-evals
 category: [evals]
 resource_kind: article
 source: [openai]

@@ -1,6 +1,6 @@
 ---
 title: "How we built Claude Code auto mode: a safer way to skip permissions"
-link: https://www.anthropic.com/engineering/claude-code-auto-mode
+link: https://www.anthropic.com/research/claude-code-auto-mode
 category: [constraints]
 resource_kind: article
 source: ["anthropic"]

@@ -1,6 +1,6 @@
 ---
 title: "Reconstructing how OpenAI agents attacked Hugging Face"
-link: https://practicalai.fm/366
+link: https://practicalai.show/366
 category: [constraints]
 resource_kind: podcast
 source: ["practical-ai"]

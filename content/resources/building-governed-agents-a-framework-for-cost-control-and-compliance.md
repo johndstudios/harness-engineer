@@ -1,6 +1,6 @@
 ---
 title: "Building Governed Agents: A Framework for Cost, Control, and Compliance"
-link: https://blog.langchain.com/building-governed-agents-a-framework-for-cost-control-and-compliance
+link: https://www.langchain.com/blog/building-governed-agents-a-framework-for-cost-control-and-compliance
 category: [constraints]
 resource_kind: article
 source: ["langchain"]

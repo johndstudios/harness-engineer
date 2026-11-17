@@ -1,6 +1,6 @@
 ---
 title: "Code execution with MCP: building more efficient agents"
-link: https://www.anthropic.com/engineering/code-execution-with-mcp
+link: https://www.anthropic.com/research/code-execution-with-mcp
 category: [constraints]
 resource_kind: article
 source: [anthropic]

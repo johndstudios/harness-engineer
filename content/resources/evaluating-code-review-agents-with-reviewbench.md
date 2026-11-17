@@ -1,6 +1,6 @@
 ---
 title: Evaluating code review agents with ReviewBench
-link: https://blog.langchain.com/evaluating-code-review-agents-with-reviewbench
+link: https://www.langchain.com/blog/evaluating-code-review-agents-with-reviewbench
 category: [evals]
 resource_kind: article
 source: ["langchain"]
