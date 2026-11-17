@@ -7,6 +7,10 @@ using the same format as the upstream awesome-harness-engineering list:
 
     - [Title](url) - Description.
 
+Resources with `lifecycle: superseded` or `lifecycle: archived` are left out
+(they live on the site's /archive/ page); `lifecycle: stale` entries stay but
+are marked as possibly outdated.
+
 Usage: scripts/generate_readme.py <resources_dir> <out_readme>
 """
 from __future__ import annotations
@@ -78,7 +82,8 @@ def main(argv: list[str]) -> int:
         print(f"not a dir: {resources_dir}", file=sys.stderr)
         return 2
 
-    resources = load_resources(resources_dir)
+    resources = [r for r in load_resources(resources_dir)
+                 if r.get("lifecycle", "active") not in ("superseded", "archived")]
     by_category: dict[str, list[dict]] = {slug: [] for slug, _ in CATEGORY_ORDER}
     for r in resources:
         cat = r.get("category", "")
@@ -113,6 +118,8 @@ def main(argv: list[str]) -> int:
             title = r["title"]
             url = r["link"]
             desc = r["_body"].splitlines()[0] if r["_body"] else ""
+            if r.get("lifecycle") == "stale":
+                desc = (desc + " _(may be outdated)_").strip()
             if desc:
                 lines.append(f"- [{title}]({url}) - {desc}")
             else:
@@ -130,6 +137,8 @@ def main(argv: list[str]) -> int:
     lines.append("If two links say the same thing, prefer the more primary, practical, and implementation-oriented one.")
     lines.append("")
     lines.append("See [CONTRIBUTING.md](./CONTRIBUTING.md) for contribution guidelines and the preferred entry format. New entries can be added via pull request or, on the live site, via a submission form that opens a PR for you.")
+    lines.append("")
+    lines.append("Entries expire as the field moves on: superseded or dead resources are retired to the [archive](https://harness-engineer.dev/archive/) rather than deleted. If you know of newer work that replaces an entry, [open an issue](https://github.com/johndstudios/harness-engineer/issues/new/choose) or a PR marking it superseded.")
     lines.append("")
     lines.append("## License")
     lines.append("")

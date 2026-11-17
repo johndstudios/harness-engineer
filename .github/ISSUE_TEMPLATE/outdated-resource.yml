@@ -1,0 +1,33 @@
+name: Report an outdated, superseded or broken resource
+description: Flag an entry that has aged out, been replaced by newer work, or no longer loads.
+title: "Freshness: "
+labels: [freshness]
+body:
+  - type: input
+    id: resource
+    attributes:
+      label: Resource
+      description: The entry's slug (from its /r/<slug>/ URL) or its link.
+    validations:
+      required: true
+  - type: dropdown
+    id: problem
+    attributes:
+      label: What's wrong
+      options:
+        - Superseded — newer work replaces it
+        - Outdated — still useful context, but the field has moved on
+        - Moved — the content lives at a new URL
+        - Dead — the page or project is gone
+    validations:
+      required: true
+  - type: input
+    id: replacement
+    attributes:
+      label: Replacement or new URL
+      description: For superseded or moved entries. If the replacement isn't listed yet, it may need adding too.
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: Anything that helps a reviewer decide, e.g. what changed.

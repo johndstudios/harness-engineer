@@ -1,4 +1,4 @@
-name: Weekly crawl
+name: Weekly crawl & freshness audit
 
 on:
   schedule:
@@ -8,6 +8,16 @@ on:
 
 permissions:
   contents: write
+  issues: write
+  pull-requests: write
+  actions: write
+
+concurrency:
+  group: crawl
+  cancel-in-progress: false
+
+env:
+  ARCHIVE_BRANCH: bot/auto-archive
 
 jobs:
   crawl:
@@ -23,14 +33,102 @@ jobs:
         run: python3 scripts/crawl_resources.py --delay 0.5
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Commit enrichment data
+        id: commit
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/enriched/
           if git diff --cached --quiet; then
             echo "No changes to commit"
+            echo "changed=false" >> "$GITHUB_OUTPUT"
           else
             git commit -m "Weekly crawl: refresh enrichment data"
             git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
           fi
+
+      # Pushes made with GITHUB_TOKEN don't trigger other workflows, so the
+      # site would never pick up fresh enrichment data without this.
+      - name: Redeploy site
+        if: steps.commit.outputs.changed == 'true'
+        run: gh workflow run deploy.yml --ref main
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Audit freshness
+        run: |
+          python3 scripts/audit_freshness.py \
+            --repo-url "${{ github.server_url }}/${{ github.repository }}" \
+            --report "$RUNNER_TEMP/freshness.md" \
+            --json "$RUNNER_TEMP/freshness.json"
+
+      - name: Update freshness issue
+        uses: actions/github-script@v7
+        env:
+          REPORT: ${{ runner.temp }}/freshness.md
+        with:
+          script: |
+            const fs = require("fs");
+            const body = fs.readFileSync(process.env.REPORT, "utf8");
+            const { owner, repo } = context.repo;
+            const marker = "<!-- freshness-report -->";
+            const label = "freshness";
+            const issues = await github.paginate(github.rest.issues.listForRepo, {
+              owner, repo, state: "open", labels: label, per_page: 100,
+            });
+            const existing = issues.find((i) => (i.body || "").includes(marker));
+            const title = "Freshness report: resources needing review";
+            if (existing) {
+              await github.rest.issues.update({ owner, repo, issue_number: existing.number, title, body });
+              core.info(`Updated #${existing.number}`);
+            } else {
+              const { data } = await github.rest.issues.create({ owner, repo, title, body, labels: [label] });
+              core.info(`Created #${data.number}`);
+            }
+
+      # Dead links (hard failures for 4+ weekly crawls) are proposed for
+      # archiving in a single rolling PR. A human merges or closes it.
+      - name: Propose archiving dead links
+        run: |
+          python3 scripts/audit_freshness.py --apply-archive --report /dev/null
+          if git diff --quiet -- content/resources; then
+            echo "Nothing to archive."
+            exit 0
+          fi
+          python3 scripts/generate_readme.py content/resources README.md
+          archived=$(git diff --name-only -- content/resources | xargs -n1 basename | sed 's/\.md$//' | sort)
+
+          git switch -C "$ARCHIVE_BRANCH"
+          git add content/resources README.md
+          git commit -m "Archive resources with dead links" -m "$archived"
+          git push --force origin "$ARCHIVE_BRANCH"
+
+          body=$(printf '%s\n' \
+            "These resources have failed hard (404/410/DNS/TLS) for 4+ consecutive weekly crawls." \
+            "Merging marks them \`lifecycle: archived\`: they leave the listings and README, and the site links to a Wayback snapshot." \
+            "" \
+            "If a page only moved, push a commit to this branch fixing \`link\` and dropping the \`lifecycle\` lines instead." \
+            "" \
+            "$(printf -- '- `%s`\n' $archived)" \
+            "" \
+            "_Opened by the weekly crawl. This branch is rewritten each week until merged or closed._")
+          if gh pr view "$ARCHIVE_BRANCH" --json state --jq .state 2>/dev/null | grep -q OPEN; then
+            gh pr edit "$ARCHIVE_BRANCH" --body "$body"
+          else
+            # Fails if the org disallows Actions opening PRs; the branch is
+            # still pushed, so leave a one-click link instead of failing.
+            if ! gh pr create --base main --head "$ARCHIVE_BRANCH" \
+                --title "Archive resources with dead links" --body "$body" --label auto-archive --label freshness; then
+              compare="${{ github.server_url }}/${{ github.repository }}/compare/main...$ARCHIVE_BRANCH?expand=1"
+              echo "::warning::Could not open the auto-archive PR (Actions may not be allowed to create PRs). Open it here: $compare"
+              echo "### Auto-archive branch ready" >> "$GITHUB_STEP_SUMMARY"
+              echo "Actions could not open the PR. [Open it manually]($compare)." >> "$GITHUB_STEP_SUMMARY"
+            fi
+          fi
+          # PRs opened with GITHUB_TOKEN don't trigger CI; dispatch it so the
+          # required checks run against the branch head.
+          gh workflow run ci.yml --ref "$ARCHIVE_BRANCH"
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}

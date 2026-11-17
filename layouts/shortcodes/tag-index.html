@@ -1,6 +1,5 @@
 {{- $vocab := .Site.Data.tags -}}
-{{- $pages := where .Site.AllPages "Section" "resources" -}}
-{{- $pages = where $pages "Kind" "page" -}}
+{{- $pages := partialCached "funcs/live-resources.html" site "live" -}}
 <ul class="tag-cloud">
 {{ range $slug, $desc := $vocab }}
   {{ $count := 0 }}

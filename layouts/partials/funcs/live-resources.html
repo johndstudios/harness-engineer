@@ -1,0 +1,3 @@
+{{- /* All non-expired resource pages. Call via partialCached with site. */ -}}
+{{- $all := where (where site.AllPages "Section" "resources") "Kind" "page" -}}
+{{- return (partial "funcs/filter-live.html" $all) -}}

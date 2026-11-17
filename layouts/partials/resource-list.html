@@ -11,6 +11,7 @@
       <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
       <div class="meta">
         <span class="badge">{{ .Params.resource_kind }}</span>
+        {{- if eq .Params.lifecycle "stale" }}<span class="badge badge-stale" title="{{ .Params.lifecycle_note | default "May be outdated" }}">may be outdated</span>{{ end }}
         <span>{{ $cat }}</span>
         <span>{{ $src }}</span>
         {{- with $enriched -}}

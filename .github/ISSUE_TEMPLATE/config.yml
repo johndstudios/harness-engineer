@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Submit a resource with the web form
+    url: https://johndstudios.github.io/harness-engineer/submit/
+    about: Paste a URL and the site opens a pull request for you.

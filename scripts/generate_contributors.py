@@ -36,7 +36,9 @@ def git(*args: str) -> str:
 def file_authors(path: str) -> list[str]:
     # %an = author name, one line per commit touching the file.
     out = git("log", "--follow", "--format=%an", "--", path)
-    return [line for line in out.splitlines() if line]
+    # Skip automation (crawl, auto-archive, regeneration) so the leaderboard
+    # only credits people.
+    return [line for line in out.splitlines() if line and not line.endswith("[bot]")]
 
 
 def main() -> int:

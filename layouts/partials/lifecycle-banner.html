@@ -1,0 +1,16 @@
+{{- /* Banner for stale / superseded / archived resources. Context: resource page. */ -}}
+{{- $lifecycle := .Params.lifecycle | default "active" -}}
+{{- if ne $lifecycle "active" -}}
+<div class="lifecycle-banner" role="note" data-pagefind-ignore>
+  {{- if eq $lifecycle "superseded" -}}
+    {{- $next := site.GetPage (printf "/resources/%s" .Params.superseded_by) -}}
+    <strong>Superseded.</strong>
+    {{ with $next }}Newer work replaces this: <a href="{{ .RelPermalink }}">{{ .Title }}</a>.{{ else }}A newer resource replaces this one.{{ end }}
+  {{- else if eq $lifecycle "archived" -}}
+    <strong>Archived.</strong> This resource is no longer maintained or no longer reachable. Links point to a Wayback Machine snapshot.
+  {{- else if eq $lifecycle "stale" -}}
+    <strong>May be outdated.</strong> The field has moved since this was published; read it for context, but check newer resources in the same category.
+  {{- end -}}
+  {{- with .Params.lifecycle_note }}<span class="lifecycle-note">{{ . }}</span>{{ end }}
+</div>
+{{- end -}}

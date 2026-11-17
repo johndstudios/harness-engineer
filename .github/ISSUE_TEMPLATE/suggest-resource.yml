@@ -1,0 +1,44 @@
+name: Suggest a resource
+description: Propose an article, tool, benchmark or course for the directory.
+title: "Suggest: "
+labels: [new-resource]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Prefer opening a PR (see [CONTRIBUTING.md](https://github.com/johndstudios/harness-engineer/blob/main/CONTRIBUTING.md)) or using the submission form on the site. Use this issue if neither works for you.
+  - type: input
+    id: url
+    attributes:
+      label: URL
+      placeholder: https://
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - courses
+        - foundations
+        - context
+        - constraints
+        - specs
+        - evals
+        - benchmarks
+        - runtimes
+        - not sure
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why it matters for harness engineering
+      description: One or two sentences on the concrete harness-level guidance it offers.
+    validations:
+      required: true
+  - type: input
+    id: supersedes
+    attributes:
+      label: Does it replace an existing entry?
+      description: If this is newer work covering the same ground, name the entry it supersedes (slug or URL).

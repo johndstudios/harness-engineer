@@ -11,6 +11,11 @@ For each content/resources/*.md file, fetches the URL and extracts:
   - GitHub stars, forks, topics, last push (for GitHub URLs)
   - last-modified header
   - HTTP status + crawl timestamp
+  - failure history across runs (consecutive_failures, first_failed_at,
+    last_ok_at) so the freshness audit can tell a flaky fetch from a dead link
+
+On a failed fetch, metadata from the last successful crawl is kept so the site
+doesn't lose its enrichment because of one bad week.
 
 Writes sidecar JSON files to data/enriched/<slug>.json.
 
@@ -158,6 +163,7 @@ def enrich_github(url: str) -> dict:
         "github_pushed": data.get("pushed_at", "")[:10] if data.get("pushed_at") else "",
         "github_license": (data.get("license") or {}).get("spdx_id", "") if data.get("license") else "",
         "github_homepage": data.get("homepage", ""),
+        "github_archived": bool(data.get("archived", False)),
     }
 
 
@@ -320,6 +326,37 @@ def crawl_one(slug: str, link: str) -> dict:
     return enrichment
 
 
+HISTORY_FIELDS = ("consecutive_failures", "first_failed_at", "last_ok_at")
+# Per-run fields that must not leak from a previous crawl into a new one.
+RUN_FIELDS = ("crawled_at", "status", "http_status", "final_url", "error", "last_modified")
+
+
+def load_previous(out_path: Path) -> dict:
+    try:
+        return json.loads(out_path.read_text(encoding="utf-8"))
+    except (OSError, ValueError):
+        return {}
+
+
+def merge_history(current: dict, previous: dict) -> dict:
+    """Carry failure history forward and keep last-good metadata on failure."""
+    now = current["crawled_at"]
+    if current.get("status") == "ok":
+        current["consecutive_failures"] = 0
+        current["first_failed_at"] = None
+        current["last_ok_at"] = now
+        return current
+    # Failed: start from the last known metadata, overlay this run's result.
+    merged = {k: v for k, v in previous.items() if k not in RUN_FIELDS and k not in HISTORY_FIELDS}
+    merged.update(current)
+    merged["consecutive_failures"] = int(previous.get("consecutive_failures") or 0) + 1
+    merged["first_failed_at"] = previous.get("first_failed_at") or now
+    merged["last_ok_at"] = previous.get("last_ok_at") or (
+        previous.get("crawled_at") if previous.get("status") == "ok" else None
+    )
+    return merged
+
+
 def main(argv: list[str]) -> int:
     parser = argparse.ArgumentParser(description="Crawl resource URLs for enrichment.")
     parser.add_argument("--dry-run", action="store_true", help="Don't write files, just print")
@@ -356,7 +393,8 @@ def main(argv: list[str]) -> int:
     errors = 0
     for i, (slug, link) in enumerate(resources, 1):
         print(f"[{i}/{len(resources)}] {slug} — {link[:70]}", end="")
-        enrichment = crawl_one(slug, link)
+        out_path = OUTPUT_DIR / f"{slug}.json"
+        enrichment = merge_history(crawl_one(slug, link), load_previous(out_path))
         if enrichment.get("status") == "ok":
             success += 1
             print(" OK")
@@ -365,7 +403,6 @@ def main(argv: list[str]) -> int:
             print(f" {enrichment.get('status', 'error')}")
 
         if not args.dry_run:
-            out_path = OUTPUT_DIR / f"{slug}.json"
             out_path.write_text(json.dumps(enrichment, indent=2), encoding="utf-8")
 
         if i < len(resources):

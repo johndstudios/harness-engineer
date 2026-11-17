@@ -1,7 +1,7 @@
 {{ define "main" }}
   <section class="section-list">
     <h1>Tag: {{ .Title }}</h1>
-    <p class="resource-meta">{{ len .Pages }} resources tagged with this term.</p>
-    {{ partial "resource-list.html" (dict "resources" .Pages.ByDate.Reverse "site" .Site) }}
+    <p class="resource-meta">{{ len (partial "funcs/filter-live.html" .Pages) }} resources tagged with this term.</p>
+    {{ partial "resource-list.html" (dict "resources" (partial "funcs/filter-live.html" .Pages.ByDate.Reverse) "site" .Site) }}
   </section>
 {{ end }}

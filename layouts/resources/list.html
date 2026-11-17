@@ -1,7 +1,7 @@
 {{ define "main" }}
   <section class="section-list">
     <h1>Resources</h1>
-    <p class="resource-meta">All harness engineering resources. Filter by kind or category, or <a href="/search/">search by keyword</a>.</p>
+    <p class="resource-meta">All harness engineering resources. Filter by kind or category, or <a href="/search/">search by keyword</a>. Retired entries are in the <a href="/archive/">archive</a>.</p>
 
     <div class="facet-bar" id="facet-bar">
       <fieldset class="facet-group">
@@ -22,7 +22,7 @@
     </div>
 
     <p class="no-results" id="no-results">No resources match the selected filters.</p>
-    {{ partial "resource-list.html" (dict "resources" .Pages.ByDate.Reverse "site" .Site) }}
+    {{ partial "resource-list.html" (dict "resources" (partial "funcs/filter-live.html" .Pages.ByDate.Reverse) "site" .Site) }}
   </section>
 {{ end }}
 

@@ -152,7 +152,25 @@ npm run typecheck
 npm test
 ```
 
-## 7. Security notes
+## 7. Repository settings for contributions
+
+These live in GitHub, not in the repo, so they're listed here to make them reproducible.
+
+- **Ruleset on `main`** (Settings → Rules): require a pull request, require the
+  status checks `Lint resource front matter`, `Check links (changed resources)`
+  and `Build site`, and block force pushes and deletion. The README and
+  built-site link sweeps are report-only: link rot in existing entries is
+  handled by the freshness audit, not by failing unrelated PRs. Bypass list: repository
+  admins (for your own direct fixes) and the **GitHub Actions** app, because the
+  crawl and deploy workflows push generated data straight to `main`.
+- **Actions → General → Workflow permissions**: enable "Allow GitHub Actions to
+  create and approve pull requests" so the crawl can open the auto-archive PR.
+- **General → Pull Requests**: allow squash merging, and turn on "Automatically
+  delete head branches".
+- **Labels** used by automation and templates: `freshness`, `auto-archive`,
+  `new-resource`, `needs-info`, `stale`, `pinned`.
+
+## 8. Security notes
 
 - The Worker uses a **shared bearer token** (`FORM_SECRET`) as a cheap rate
   limit. It's not real auth — anyone can read the token from the deployed JS.

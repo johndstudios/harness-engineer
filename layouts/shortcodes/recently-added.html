@@ -1,6 +1,5 @@
 {{- $limit := .Params.limit | default 6 -}}
-{{- $pages := where .Site.AllPages "Section" "resources" -}}
-{{- $pages = where $pages "Kind" "page" -}}
+{{- $pages := partialCached "funcs/live-resources.html" site "live" -}}
 <ul class="resource-list">
 {{ range first $limit (sort $pages "Date" "desc") }}
   {{ $cat := index .Params.category 0 | default .Params.category }}

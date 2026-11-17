@@ -17,6 +17,26 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+      # Contributors (and the submission Worker) only add resource files; keep
+      # the generated README and category stubs in step after every merge.
+      - name: Regenerate README and category stubs
+        run: |
+          python3 scripts/generate_readme.py content/resources README.md
+          python3 scripts/generate_categories.py content/resources content
+          git add README.md content/categories
+          if git diff --cached --quiet; then
+            echo "Generated files already up to date."
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git commit -m "Regenerate README and category stubs"
+            git push
+          fi
       - uses: peaceiris/actions-hugo@v3
         with:
           hugo-version: "0.164.0"
@@ -25,9 +45,6 @@ jobs:
         with:
           node-version: "22"
       - run: npm ci
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.13"
       - name: Generate contributor data
         run: python3 scripts/generate_contributors.py
 

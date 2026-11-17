@@ -17,6 +17,9 @@
     "added" (.Params.added | default "")
     "tags" (.Params.tags | default slice)
     "highlight" (.Params.highlight | default false)
+    "lifecycle" (.Params.lifecycle | default "active")
+    "superseded_by" (.Params.superseded_by | default "")
+    "reviewed" (.Params.reviewed | default "")
   -}}
   {{- with $enriched -}}
     {{- $entry = merge $entry (dict

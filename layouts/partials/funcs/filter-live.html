@@ -1,0 +1,12 @@
+{{- /*
+  Return the given resource pages minus expired ones
+  (lifecycle: superseded | archived). Stale resources stay listed.
+  Usage: {{ $live := partial "funcs/filter-live.html" $pages }}
+*/ -}}
+{{- $out := slice -}}
+{{- range . -}}
+  {{- if not (in (slice "superseded" "archived") (.Params.lifecycle | default "active")) -}}
+    {{- $out = $out | append . -}}
+  {{- end -}}
+{{- end -}}
+{{- return $out -}}

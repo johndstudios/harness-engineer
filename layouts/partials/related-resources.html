@@ -4,8 +4,7 @@
 {{- if not (reflect.IsSlice $myTags) -}}
   {{- $myTags = slice $myTags -}}
 {{- end -}}
-{{- $all := where .Site.AllPages "Section" "resources" -}}
-{{- $all = where $all "Kind" "page" -}}
+{{- $all := partialCached "funcs/live-resources.html" site "live" -}}
 {{- $candidates := slice -}}
 {{- range $all -}}
   {{- if eq .RelPermalink $current.RelPermalink -}}{{- continue -}}{{- end -}}
