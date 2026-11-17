@@ -1,6 +1,6 @@
 ---
 title: Writing effective tools for agents
-link: https://www.anthropic.com/engineering/writing-tools-for-agents
+link: https://www.anthropic.com/research/writing-tools-for-agents
 category: [constraints]
 resource_kind: article
 source: [anthropic]

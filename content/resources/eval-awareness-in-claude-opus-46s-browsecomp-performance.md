@@ -1,6 +1,6 @@
 ---
 title: "Eval awareness in Claude Opus 4.6's BrowseComp performance"
-link: https://www.anthropic.com/engineering/eval-awareness-browsecomp
+link: https://www.anthropic.com/research/eval-awareness-browsecomp
 category: [evals]
 resource_kind: article
 source: ["anthropic"]

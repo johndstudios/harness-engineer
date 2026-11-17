@@ -1,6 +1,6 @@
 ---
 title: Harness Engineering
-link: https://martinfowler.com/articles/exploring-gen-ai/harness-engineering.html
+link: https://martinfowler.com/articles/harness-engineering.html
 category: [foundations]
 resource_kind: article
 source: [thoughtworks]

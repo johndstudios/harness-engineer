@@ -1,6 +1,6 @@
 ---
 title: How we contain Claude across products
-link: https://www.anthropic.com/engineering/how-we-contain-claude
+link: https://www.anthropic.com/research/how-we-contain-claude
 category: [constraints]
 resource_kind: article
 source: ["anthropic"]

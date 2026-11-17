@@ -1,6 +1,6 @@
 ---
 title: An update on recent Claude Code quality reports
-link: https://www.anthropic.com/engineering/april-23-postmortem
+link: https://www.anthropic.com/research/april-23-postmortem
 category: [evals]
 resource_kind: article
 source: ["anthropic"]

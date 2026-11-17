@@ -1,6 +1,6 @@
 ---
 title: Quantifying infrastructure noise in agentic coding evals
-link: https://www.anthropic.com/engineering/infrastructure-noise
+link: https://www.anthropic.com/research/infrastructure-noise
 category: [evals]
 resource_kind: article
 source: [anthropic]

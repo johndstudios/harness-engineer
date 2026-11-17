@@ -1,6 +1,6 @@
 ---
 title: IssueBench - How We Evaluate Engine
-link: https://blog.langchain.com/issuebench-how-we-evaluate-engine
+link: https://www.langchain.com/blog/issuebench-how-we-evaluate-engine
 category: [evals]
 resource_kind: article
 source: ["langchain"]

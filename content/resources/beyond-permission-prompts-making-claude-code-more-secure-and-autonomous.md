@@ -1,6 +1,6 @@
 ---
 title: "Beyond permission prompts: making Claude Code more secure and autonomous"
-link: https://www.anthropic.com/engineering/claude-code-sandboxing
+link: https://www.anthropic.com/research/claude-code-sandboxing
 category: [constraints]
 resource_kind: article
 source: [anthropic]

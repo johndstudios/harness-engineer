@@ -1,6 +1,6 @@
 ---
 title: "Evaluating Deep Agents: Our Learnings"
-link: https://blog.langchain.com/evaluating-deep-agents-our-learnings/
+link: https://www.langchain.com/blog/evaluating-deep-agents-our-learnings
 category: [evals]
 resource_kind: article
 source: [langchain]

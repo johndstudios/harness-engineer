@@ -1,6 +1,6 @@
 ---
 title: Demystifying Evals for AI Agents
-link: https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents
+link: https://www.anthropic.com/research/demystifying-evals-for-ai-agents
 category: [evals]
 resource_kind: article
 source: [anthropic]

@@ -1,6 +1,6 @@
 ---
 title: Towards Automating Eval Engineering
-link: https://blog.langchain.com/towards-automating-eval-engineering
+link: https://www.langchain.com/blog/towards-automating-eval-engineering
 category: [evals]
 resource_kind: article
 source: ["langchain"]

@@ -1,6 +1,6 @@
 ---
 title: "Agent Frameworks, Runtimes, and Harnesses, Oh My!"
-link: https://blog.langchain.com/agent-frameworks-runtimes-and-harnesses-oh-my/
+link: https://www.langchain.com/blog/agent-frameworks-runtimes-and-harnesses-oh-my
 category: [runtimes]
 resource_kind: tool
 source: [langchain]

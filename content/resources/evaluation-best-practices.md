@@ -1,6 +1,6 @@
 ---
 title: Evaluation best practices
-link: https://platform.openai.com/docs/guides/evaluation-best-practices
+link: https://developers.openai.com/api/docs/guides/evaluation-best-practices
 category: [evals]
 resource_kind: article
 source: [openai]

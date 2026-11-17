@@ -1,6 +1,6 @@
 ---
 title: Trace grading
-link: https://platform.openai.com/docs/guides/trace-grading
+link: https://developers.openai.com/api/docs/guides/trace-grading
 category: [evals]
 resource_kind: article
 source: [openai]

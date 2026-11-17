@@ -1,6 +1,6 @@
 ---
 title: Improving Deep Agents with harness engineering
-link: https://blog.langchain.com/improving-deep-agents-with-harness-engineering/
+link: https://www.langchain.com/blog/improving-deep-agents-with-harness-engineering
 category: [evals]
 resource_kind: article
 source: [langchain]

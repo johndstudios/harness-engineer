@@ -1,6 +1,6 @@
 ---
 title: Anthropic Sandbox Runtime (srt)
-link: https://github.com/anthropic-experimental/sandbox-runtime
+link: https://github.com/anthropics/sandbox-runtime
 category: [constraints]
 resource_kind: tool
 source: ["anthropic-experimental"]

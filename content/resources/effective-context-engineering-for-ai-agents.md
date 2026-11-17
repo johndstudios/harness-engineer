@@ -1,6 +1,6 @@
 ---
 title: Effective context engineering for AI agents
-link: https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents
+link: https://www.anthropic.com/research/effective-context-engineering-for-ai-agents
 category: [context]
 resource_kind: article
 source: [anthropic]

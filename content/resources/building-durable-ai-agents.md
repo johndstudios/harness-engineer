@@ -1,6 +1,6 @@
 ---
 title: "Building Durable AI Agents"
-link: https://practicalai.fm/363
+link: https://practicalai.show/363
 category: [runtimes]
 resource_kind: podcast
 source: ["practical-ai"]

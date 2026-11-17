@@ -1,6 +1,6 @@
 ---
 title: The Anatomy of an Agent Harness
-link: https://blog.langchain.com/the-anatomy-of-an-agent-harness/
+link: https://www.langchain.com/blog/the-anatomy-of-an-agent-harness
 category: [foundations]
 resource_kind: article
 source: [langchain]
