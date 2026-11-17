@@ -157,8 +157,10 @@ npm test
 These live in GitHub, not in the repo, so they're listed here to make them reproducible.
 
 - **Ruleset on `main`** (Settings → Rules): require a pull request, require the
-  status checks `Lint resource front matter`, `Check links (README)` and
-  `Build site`, and block force pushes and deletion. Bypass list: repository
+  status checks `Lint resource front matter`, `Check links (changed resources)`
+  and `Build site`, and block force pushes and deletion. The README and
+  built-site link sweeps are report-only: link rot in existing entries is
+  handled by the freshness audit, not by failing unrelated PRs. Bypass list: repository
   admins (for your own direct fixes) and the **GitHub Actions** app, because the
   crawl and deploy workflows push generated data straight to `main`.
 - **Actions → General → Workflow permissions**: enable "Allow GitHub Actions to

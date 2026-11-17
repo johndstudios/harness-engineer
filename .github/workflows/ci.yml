@@ -26,9 +26,45 @@ jobs:
       - name: Freshness summary
         run: python3 scripts/audit_freshness.py --report /dev/null
 
+  # Blocking: links a PR adds or changes must work. Rot in existing entries
+  # is not the contributor's problem; the weekly freshness audit handles it.
   link-check:
-    name: Check links (README)
+    name: Check links (changed resources)
     runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Collect links from changed resource files
+        id: changed
+        run: |
+          base="${{ github.event.pull_request.base.sha }}"
+          if [ -z "$base" ]; then base=$(git rev-parse HEAD~1 2>/dev/null || git rev-parse HEAD); fi
+          git diff --name-only --diff-filter=AM "$base"...HEAD -- 'content/resources/*.md' > changed.txt || true
+          : > links.txt
+          while read -r f; do
+            [ -f "$f" ] || continue
+            # Archived entries are expected to be dead.
+            grep -q '^lifecycle: archived' "$f" && continue
+            sed -n 's/^link: *//p' "$f" | tr -d '"' >> links.txt
+          done < changed.txt
+          echo "Changed resources: $(wc -l < changed.txt), links to check: $(wc -l < links.txt)"
+          cat links.txt
+          echo "count=$(wc -l < links.txt | tr -d ' ')" >> "$GITHUB_OUTPUT"
+      - name: Check links
+        if: steps.changed.outputs.count != '0'
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: --no-progress --verbose links.txt
+          fail: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  # Report-only sweep of the README and docs; failures show up as warnings.
+  link-check-readme:
+    name: Check links (README, report only)
+    runs-on: ubuntu-latest
+    continue-on-error: true
     steps:
       - uses: actions/checkout@v4
       - name: Check links
@@ -36,19 +72,20 @@ jobs:
         with:
           args: >-
             --no-progress
-            --verbose
             --exclude '^https://openai\.com/index/harness-engineering/?$'
             --exclude '^https://www\.preprints\.org/manuscript/202603\.1756/?$'
             --exclude '^https://harness-engineer\.dev'
+            --exclude '^https://johndstudios\.github\.io'
             README.md
             CONTRIBUTING.md
-          fail: true
+          fail: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
   link-check-site:
-    name: Check links (built site)
+    name: Check links (built site, report only)
     runs-on: ubuntu-latest
+    continue-on-error: true
     needs: build
     steps:
       - uses: actions/checkout@v4
@@ -72,7 +109,7 @@ jobs:
             --exclude '\.(png|jpg|jpeg|gif|svg|webp|ico|css|js)$'
             --exclude 'pagefind/'
             'public/**/*.html'
-          fail: true
+          fail: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -112,7 +149,12 @@ jobs:
   preview:
     name: Preview deploy
     runs-on: ubuntu-latest
-    if: github.event_name == 'pull_request'
+    if: github.event_name == 'pull_request' && github.event.pull_request.head.repo.full_name == github.repository
+    # Pushes the preview to gh-pages. Fork PRs get a read-only token, so they
+    # skip the preview rather than fail.
+    permissions:
+      contents: write
+      pull-requests: write
     steps:
       - uses: actions/checkout@v4
       - uses: peaceiris/actions-hugo@v3
