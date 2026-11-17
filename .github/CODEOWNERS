@@ -1,0 +1,7 @@
+# Maintainers are requested for review on every PR.
+*                       @hybridindie
+
+# Automation, build and the submission Worker need a maintainer's eyes.
+/.github/               @hybridindie
+/worker/                @hybridindie
+/scripts/               @hybridindie

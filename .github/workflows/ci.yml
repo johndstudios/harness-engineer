@@ -4,6 +4,9 @@ on:
   push:
     branches: [main]
   pull_request:
+  # Dispatched by the crawl workflow for its auto-archive PR, because PRs
+  # opened with GITHUB_TOKEN don't trigger pull_request runs.
+  workflow_dispatch:
 
 permissions:
   contents: read
@@ -20,6 +23,8 @@ jobs:
           python-version: "3.13"
       - name: Validate resource files
         run: python3 scripts/lint_resources.py content/resources
+      - name: Freshness summary
+        run: python3 scripts/audit_freshness.py --report /dev/null
 
   link-check:
     name: Check links (README)

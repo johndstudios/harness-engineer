@@ -1,6 +1,5 @@
 {{- $category := .Get "category" -}}
-{{- $all := where .Site.AllPages "Section" "resources" -}}
-{{- $all = where $all "Kind" "page" -}}
+{{- $all := partialCached "funcs/live-resources.html" site "live" -}}
 {{- $filtered := slice -}}
 {{- $highlights := slice -}}
 {{- range $all -}}

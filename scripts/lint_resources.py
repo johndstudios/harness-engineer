@@ -9,6 +9,9 @@ Checks every *.md file (except _index.md) for:
 - added is a valid YYYY-MM-DD date
 - no duplicate titles or links across resources
 - tags are drawn from the controlled vocabulary in data/tags.yml (if present)
+- lifecycle (optional) is one of active|stale|superseded|archived
+- superseded_by is set iff lifecycle is superseded, and names another resource slug
+- reviewed (optional) is a valid YYYY-MM-DD date
 
 Exits non-zero on any violation.
 
@@ -27,6 +30,7 @@ ALLOWED_CATEGORIES = {
 }
 ALLOWED_KINDS = {"article", "tool", "benchmark", "course", "spec", "podcast", "video", "paper"}
 REQUIRED_FIELDS = ("title", "link", "category", "resource_kind", "source", "added")
+ALLOWED_LIFECYCLE = {"active", "stale", "superseded", "archived"}
 
 FRONT_MATTER_RE = re.compile(r"^---\n(.*?)\n---\n(.*)$", re.S)
 DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
@@ -89,6 +93,7 @@ def main(argv: list[str]) -> int:
     seen_titles: dict[str, str] = {}
     seen_links: dict[str, str] = {}
     vocab = load_tag_vocabulary(resources_dir)
+    slugs = {p.stem for p in resources_dir.glob("*.md") if not p.name.startswith("_")}
 
     for path in sorted(resources_dir.glob("*.md")):
         if path.name.startswith("_"):
@@ -116,6 +121,22 @@ def main(argv: list[str]) -> int:
             for tag in parse_tags(text):
                 if tag not in vocab:
                     errors.append(f"{rel}: tag '{tag}' not in controlled vocabulary (data/tags.yml)")
+        lifecycle = fm.get("lifecycle", "active")
+        if lifecycle not in ALLOWED_LIFECYCLE:
+            errors.append(f"{rel}: invalid lifecycle '{lifecycle}' (allowed: {', '.join(sorted(ALLOWED_LIFECYCLE))})")
+        superseded_by = fm.get("superseded_by", "")
+        if lifecycle == "superseded" and not superseded_by:
+            errors.append(f"{rel}: lifecycle 'superseded' requires superseded_by: <resource slug>")
+        if superseded_by:
+            if lifecycle != "superseded":
+                errors.append(f"{rel}: superseded_by is set but lifecycle is '{lifecycle}' (expected 'superseded')")
+            if superseded_by == path.stem:
+                errors.append(f"{rel}: superseded_by cannot point at itself")
+            elif superseded_by not in slugs:
+                errors.append(f"{rel}: superseded_by '{superseded_by}' is not a resource slug in {resources_dir}")
+        reviewed = fm.get("reviewed", "")
+        if reviewed and not DATE_RE.match(reviewed):
+            errors.append(f"{rel}: reviewed must be YYYY-MM-DD, got '{reviewed}'")
         title = fm.get("title", "")
         if title:
             if title.lower() in seen_titles:

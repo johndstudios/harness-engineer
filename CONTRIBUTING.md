@@ -39,7 +39,8 @@ category: [foundations]
 resource_kind: article
 source: [anthropic]
 added: 2026-08-02
-tags: [context, long-running, handoff]
+date: 2026-08-02
+tags: ["context-engineering"]
 ---
 Short description focused on why this matters for harness engineering.
 ```
@@ -50,14 +51,44 @@ Short description focused on why this matters for harness engineering.
 - `link` — the canonical URL of the resource (string)
 - `category` — one of: `courses`, `foundations`, `context`, `constraints`,
   `specs`, `evals`, `benchmarks`, `runtimes` (single-item list)
-- `resource_kind` — one of: `article`, `tool`, `benchmark`, `course`, `spec`
+- `resource_kind` — one of: `article`, `tool`, `benchmark`, `course`, `spec`,
+  `podcast`, `video`, `paper`
 - `source` — short author/origin slug, e.g. `anthropic`, `openai`, `langchain`
   (single-item list)
 - `added` — date the resource was added, `YYYY-MM-DD`
+- `date` — same value as `added` (Hugo uses it for ordering and RSS)
 
 ### Optional fields
 
-- `tags` — list of lower-case tags describing the resource's topics
+- `tags` — list of tags from the controlled vocabulary in `data/tags.yml`
+- `highlight: true` — curated "start here" entry for its category
+- `lifecycle`, `superseded_by`, `reviewed`, `lifecycle_note` — see below
+
+## Keeping the directory fresh
+
+Harness engineering moves fast, so entries expire instead of piling up. Nothing is deleted: an entry's `lifecycle` field moves it through these states.
+
+| `lifecycle` | Meaning | Where it shows |
+|---|---|---|
+| `active` (default, omit the field) | Current and recommended | Listings, README |
+| `stale` | Still useful context, but the field has moved on | Listings with a *may be outdated* badge |
+| `superseded` | Newer work replaces it; requires `superseded_by: <slug>` | [Archive](https://johndstudios.github.io/harness-engineer/archive/), page links to the replacement |
+| `archived` | Dead link or abandoned project | [Archive](https://johndstudios.github.io/harness-engineer/archive/), links go to a Wayback snapshot |
+
+Two optional fields support this:
+
+- `reviewed: YYYY-MM-DD` — last time someone confirmed the entry still holds up. Resets the review clock.
+- `lifecycle_note: "..."` — one line on why the state changed.
+
+**When you add something newer** that covers the same ground as an existing entry, mark the old one in the same PR:
+
+```yaml
+lifecycle: superseded
+superseded_by: your-new-resource-slug
+lifecycle_note: "Covered more completely by the 2027 follow-up."
+```
+
+**Automation:** a weekly crawl checks every link and keeps a history of failures. A [freshness report issue](https://github.com/johndstudios/harness-engineer/issues?q=label%3Afreshness) lists dead or unreachable links, archived or inactive GitHub repos, URLs that now redirect, and entries past their review window (6 months for runtimes and benchmarks, 9 for evals, 12 otherwise). Links that fail hard for four weeks in a row get a bot PR marking them `archived`, and a maintainer merges or fixes it. Spotted something the bot can't, like newer work replacing an entry? [Open a freshness issue](https://github.com/johndstudios/harness-engineer/issues/new?template=outdated-resource.yml) or send a PR.
 
 ## Placement
 
@@ -73,10 +104,9 @@ Short description focused on why this matters for harness engineering.
 - Confirm the description is accurate and not promotional.
 - Check for duplicates in `content/resources/`.
 - Keep the diff focused.
-- Run the build locally to verify the site still builds:
-  ```bash
-  hugo --gc --minify
-  ```
+- Run the linter: `npm run lint`.
+- Optionally build the site locally: `hugo --gc --minify`.
+- No need to regenerate `README.md`; that happens automatically after merge.
 
 ## Pull requests
 

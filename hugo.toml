@@ -92,6 +92,10 @@ canonifyURLs = true
     url = "/link-health/"
     weight = 6
   [[menus.main]]
+    name = "Archive"
+    url = "/archive/"
+    weight = 7
+  [[menus.main]]
     name = "About"
     url = "/about/"
     weight = 7

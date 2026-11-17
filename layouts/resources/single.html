@@ -1,13 +1,19 @@
 {{ define "main" }}
   {{- $slug := .File.ContentBaseName -}}
   {{- $enriched := index .Site.Data.enriched $slug -}}
-  <article class="single resource-single">
+  {{- $lifecycle := .Params.lifecycle | default "active" -}}
+  {{- /* Archived links are usually dead: send readers to a Wayback snapshot. */ -}}
+  {{- $href := .Params.link -}}
+  {{- if eq $lifecycle "archived" -}}{{- $href = printf "https://web.archive.org/web/%s" .Params.link -}}{{- end -}}
+  <article class="single resource-single lifecycle-{{ $lifecycle }}">
     <h1>{{ .Title }}</h1>
+    {{ partial "lifecycle-banner.html" . }}
     <p class="resource-meta">
-      <a href="{{ .Params.link }}">{{ .Params.link }}</a>
+      <a href="{{ $href }}">{{ .Params.link }}</a>
       · {{ .Params.resource_kind }}
       · {{ index .Params.source 0 | default .Params.source }}
       · added {{ .Params.added }}
+      {{- with .Params.reviewed }} · reviewed {{ . }}{{ end }}
       {{- with .Site.Data.resource_authors -}}
         {{- with index . $slug -}}
           · by {{ delimit . ", " }}
@@ -57,7 +63,7 @@
 
     {{ .Content }}
 
-    <p><a class="link-out" href="{{ .Params.link }}" target="_blank" rel="noopener noreferrer">Open resource →</a></p>
+    <p><a class="link-out" href="{{ $href }}" target="_blank" rel="noopener noreferrer">{{ if eq $lifecycle "archived" }}Open archived snapshot →{{ else }}Open resource →{{ end }}</a></p>
     <p class="edit-link">
       <a href="{{ .Site.Params.githubRepo }}/edit/main/content/resources/{{ .File.ContentBaseName }}.md" target="_blank" rel="noopener noreferrer">Edit this resource on GitHub →</a>
     </p>

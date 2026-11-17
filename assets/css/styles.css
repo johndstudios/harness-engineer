@@ -1,4 +1,6 @@
 :root {
+  --warn: #8a5a00;
+  --warn-soft: #fff6e0;
   --fg: #1b1f23;
   --fg-muted: #5c6670;
   --bg: #ffffff;
@@ -14,6 +16,8 @@
 @media (prefers-color-scheme: dark) {
   :root {
     --fg: #e6e8ec;
+    --warn: #f0c060;
+    --warn-soft: #3a3220;
     --fg-muted: #9aa3b0;
     --bg: #1a1b1f;
     --bg-soft: #232529;
@@ -260,3 +264,17 @@ pre { padding: .9em 1em; border-radius: 6px; overflow-x: auto; }
   .site-search input { width: 100%; min-width: 0; }
   h1 { font-size: 1.6rem; }
 }
+/* Lifecycle: stale / superseded / archived resources */
+.lifecycle-banner {
+  border: 1px solid var(--border);
+  border-left: 4px solid var(--warn);
+  background: var(--warn-soft);
+  border-radius: 6px;
+  padding: .6rem .9rem;
+  margin: 0 0 1rem;
+  font-size: .92rem;
+}
+.lifecycle-banner strong { color: var(--warn); }
+.lifecycle-banner .lifecycle-note { display: block; margin-top: .25rem; color: var(--fg-muted); font-size: .85rem; }
+.resource-card .meta .badge-stale { background: var(--warn-soft); color: var(--warn); }
+.archive-list .archive-why { font-size: .85rem; color: var(--fg-muted); }

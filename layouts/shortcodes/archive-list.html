@@ -1,0 +1,34 @@
+{{- $all := where (where .Site.AllPages "Section" "resources") "Kind" "page" -}}
+{{- $superseded := where $all "Params.lifecycle" "superseded" -}}
+{{- $archived := where $all "Params.lifecycle" "archived" -}}
+
+<h2 id="superseded">Superseded ({{ len $superseded }})</h2>
+{{- if $superseded }}
+<ul class="resource-list archive-list">
+  {{ range sort $superseded "Title" }}
+    {{- $sb := .Params.superseded_by -}}
+    {{- $next := site.GetPage (printf "/resources/%s" $sb) -}}
+    <li class="resource-card">
+      <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+      <p class="archive-why">Replaced by {{ with $next }}<a href="{{ .RelPermalink }}">{{ .Title }}</a>{{ else }}<code>{{ $sb }}</code>{{ end }}{{ with .Params.lifecycle_note }} · {{ . }}{{ end }}</p>
+    </li>
+  {{ end }}
+</ul>
+{{- else }}
+<p>Nothing has been superseded yet.</p>
+{{- end }}
+
+<h2 id="archived">Archived ({{ len $archived }})</h2>
+{{- if $archived }}
+<ul class="resource-list archive-list">
+  {{ range sort $archived "Title" }}
+    <li class="resource-card">
+      <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+      <p class="archive-why">{{ .Params.lifecycle_note | default "No longer maintained or reachable." }}
+        · <a href="https://web.archive.org/web/{{ .Params.link }}" target="_blank" rel="noopener noreferrer">Wayback snapshot →</a></p>
+    </li>
+  {{ end }}
+</ul>
+{{- else }}
+<p>Nothing has been archived yet.</p>
+{{- end }}

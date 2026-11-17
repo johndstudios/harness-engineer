@@ -227,6 +227,8 @@ If two links say the same thing, prefer the more primary, practical, and impleme
 
 See [CONTRIBUTING.md](./CONTRIBUTING.md) for contribution guidelines and the preferred entry format. New entries can be added via pull request or, on the live site, via a submission form that opens a PR for you.
 
+Entries expire as the field moves on: superseded or dead resources are retired to the [archive](https://harness-engineer.dev/archive/) rather than deleted. If you know of newer work that replaces an entry, [open an issue](https://github.com/johndstudios/harness-engineer/issues/new/choose) or a PR marking it superseded.
+
 ## License
 
 [CC BY-SA 4.0](./LICENSE)

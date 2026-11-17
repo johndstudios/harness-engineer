@@ -4,6 +4,8 @@
 {{- $ok := 0 -}}
 {{- $total := 0 -}}
 {{- range $page := $all -}}
+  {{- /* Archived resources are expected to be dead; they live on /archive/. */ -}}
+  {{- if eq ($page.Params.lifecycle | default "active") "archived" -}}{{- continue -}}{{- end -}}
   {{- $slug := $page.File.ContentBaseName -}}
   {{- $enriched := index $.Site.Data.enriched $slug -}}
   {{- with $enriched -}}

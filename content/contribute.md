@@ -57,6 +57,7 @@ come from the [controlled vocabulary](https://github.com/johndstudios/harness-en
 ### Optional fields
 
 - `highlight: true` — flag the resource as a curated "start here" entry for its category.
+- `lifecycle`, `superseded_by`, `reviewed`, `lifecycle_note` — see [Keeping the directory fresh](#keeping-the-directory-fresh).
 - For benchmarks only: `task_type`, `environment`, `open_source`, `leaderboard` — these power the [comparison table](/benchmarks/).
 
 Then open a pull request. CI will run link-check and front-matter lint and post a preview deploy URL to the PR comment so reviewers can see how the entry renders before merging.
@@ -66,9 +67,31 @@ Then open a pull request. CI will run link-check and front-matter lint and post 
 - **Form** — easiest, no Git or Hugo knowledge needed. Good for adding one resource at a time.
 - **Manual PR** — better when you're adding multiple resources at once, editing existing entries, or changing the site itself.
 
-### 2. Submission form (low barrier)
+## Keeping the directory fresh
 
-Coming in phase 2: a form on this page that opens a PR for you. No Git knowledge needed.
+Harness engineering moves fast, so entries expire instead of piling up. Nothing is deleted: an entry's `lifecycle` field moves it through these states.
+
+| `lifecycle` | Meaning | Where it shows |
+|---|---|---|
+| `active` (default, omit the field) | Current and recommended | Listings, README |
+| `stale` | Still useful context, but the field has moved on | Listings with a *may be outdated* badge |
+| `superseded` | Newer work replaces it; requires `superseded_by: <slug>` | [Archive](/archive/), page links to the replacement |
+| `archived` | Dead link or abandoned project | [Archive](/archive/), links go to a Wayback snapshot |
+
+Two optional fields support this:
+
+- `reviewed: YYYY-MM-DD` — last time someone confirmed the entry still holds up. Resets the review clock.
+- `lifecycle_note: "..."` — one line on why the state changed.
+
+**When you add something newer** that covers the same ground as an existing entry, mark the old one in the same PR:
+
+```yaml
+lifecycle: superseded
+superseded_by: your-new-resource-slug
+lifecycle_note: "Covered more completely by the 2027 follow-up."
+```
+
+**Automation:** a weekly crawl checks every link and keeps a history of failures. A [freshness report issue](https://github.com/johndstudios/harness-engineer/issues?q=label%3Afreshness) lists dead or unreachable links, archived or inactive GitHub repos, URLs that now redirect, and entries past their review window (6 months for runtimes and benchmarks, 9 for evals, 12 otherwise). Links that fail hard for four weeks in a row get a bot PR marking them `archived`, and a maintainer merges or fixes it. Spotted something the bot can't, like newer work replacing an entry? [Open a freshness issue](https://github.com/johndstudios/harness-engineer/issues/new?template=outdated-resource.yml) or send a PR.
 
 ## Before opening a PR
 

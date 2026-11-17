@@ -1,0 +1,41 @@
+name: Stale PRs and issues
+
+# Closes contribution PRs and "needs info" issues that have gone quiet.
+# This is about review hygiene, not resource freshness — see crawl.yml.
+on:
+  schedule:
+    - cron: "30 7 * * *"
+  workflow_dispatch:
+
+permissions:
+  issues: write
+  pull-requests: write
+
+jobs:
+  stale:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/stale@v9
+        with:
+          # Pull requests: nudge after 30 days of silence, close 14 days later.
+          days-before-pr-stale: 30
+          days-before-pr-close: 14
+          stale-pr-label: stale
+          stale-pr-message: >
+            This PR has had no activity for 30 days. It will close in 14 days
+            unless it's updated. If you're still working on it, push a commit
+            or leave a comment.
+          close-pr-message: >
+            Closing for inactivity. Feel free to reopen or open a new PR
+            whenever you pick this back up — thanks for contributing!
+          exempt-pr-labels: pinned,auto-archive
+          exempt-draft-pr: true
+          # Issues: only ones waiting on the reporter.
+          days-before-issue-stale: 21
+          days-before-issue-close: 14
+          only-issue-labels: needs-info
+          stale-issue-label: stale
+          stale-issue-message: >
+            We need a bit more information to act on this. It will close in
+            14 days without a reply.
+          exempt-issue-labels: pinned,freshness
