@@ -1,7 +1,7 @@
 {
   "slug": "your-agent-needs-a-harness-not-a-framework",
   "url": "https://www.inngest.com/blog/your-agent-needs-a-harness-not-a-framework",
-  "crawled_at": "2026-11-16T17:59:57.249553+00:00",
+  "crawled_at": "2026-11-23T19:53:56.824360+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://www.inngest.com/blog/your-agent-needs-a-harness-not-a-framework",
@@ -18,7 +18,7 @@
   "publish_date": "2026-03-03",
   "language": "en",
   "canonical_url": "https://www.inngest.com/blog/your-agent-needs-a-harness-not-a-framework",
-  "word_count": 2843,
+  "word_count": 2854,
   "reading_time_min": 14,
   "outline": [
     {
@@ -71,15 +71,15 @@
     },
     {
       "level": 3,
+      "text": "Incident report for November 12, 2026 - Missed function runs"
+    },
+    {
+      "level": 3,
       "text": "Build for the lonng run: Why Inngest took to the streets of NYC"
     },
     {
       "level": 3,
       "text": "How to use Jev for agent evals, and check it against real outcomes"
-    },
-    {
-      "level": 3,
-      "text": "Agents don't fail at the starting line"
     },
     {
       "level": 2,

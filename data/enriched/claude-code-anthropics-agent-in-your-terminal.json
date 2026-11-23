@@ -1,12 +1,12 @@
 {
   "slug": "claude-code-anthropics-agent-in-your-terminal",
   "url": "https://www.latent.space/p/claude-code",
-  "crawled_at": "2026-11-16T17:57:47.676309+00:00",
+  "crawled_at": "2026-11-23T19:51:37.288163+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://latent.space/p/claude-code/",
   "content_type": "podcast",
-  "last_modified": "",
+  "last_modified": "Mon, 23 Nov 2026 19:09:42 GMT",
   "fetched_title": "Claude Code: Anthropic's Agent in Your Terminal \u2014 Latent Space",
   "meta_description": "Cat Wu and Boris Cherny from the Claude Code team stop by to tell all!",
   "og_title": "Claude Code: Anthropic's Agent in Your Terminal \u2014 Latent Space",
@@ -17,7 +17,7 @@
   "twitter_image": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/5f85e12b-edae-421f-a2e5-03449792b2e9/cd59d811-4ab8-4e38-aa46-f1d84ab1650b_1920x1080.jpeg?t=1786542960",
   "language": "en",
   "canonical_url": "https://latent.space/p/claude-code/",
-  "word_count": 17421,
+  "word_count": 17422,
   "reading_time_min": 87,
   "outline": [
     {

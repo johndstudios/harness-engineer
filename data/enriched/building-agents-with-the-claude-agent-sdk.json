@@ -1,7 +1,7 @@
 {
   "slug": "building-agents-with-the-claude-agent-sdk",
   "url": "https://claude.com/blog/building-agents-with-the-claude-agent-sdk",
-  "crawled_at": "2026-11-16T17:57:39.091642+00:00",
+  "crawled_at": "2026-11-23T19:51:28.437650+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://claude.com/resources/articles/building-agents-with-the-claude-agent-sdk",
@@ -18,8 +18,8 @@
   "publish_date": "2025-09-29",
   "language": "en",
   "canonical_url": "https://claude.com/resources/articles/building-agents-with-the-claude-agent-sdk",
-  "word_count": 2290,
-  "reading_time_min": 11,
+  "word_count": 2323,
+  "reading_time_min": 12,
   "outline": [
     {
       "level": 2,
@@ -103,19 +103,19 @@
     },
     {
       "level": 3,
+      "text": "Using a \"chaos loop\" to harden the Claude Docs launch: 60 server errors across billions of requests"
+    },
+    {
+      "level": 3,
+      "text": "How the Claude Code team thinks about verification"
+    },
+    {
+      "level": 3,
       "text": "Building always-on agents"
     },
     {
       "level": 3,
       "text": "The Claude Tag guide for startups"
-    },
-    {
-      "level": 3,
-      "text": "How Curative is building a national provider network with agents on Claude"
-    },
-    {
-      "level": 3,
-      "text": "Safely scaling multi-agent teams with Claude Fable 5.2"
     },
     {
       "level": 2,

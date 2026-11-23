@@ -1,7 +1,7 @@
 {
   "slug": "skillssh",
   "url": "https://skills.sh",
-  "crawled_at": "2026-11-16T17:59:18.293797+00:00",
+  "crawled_at": "2026-11-23T19:53:13.892029+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://www.skills.sh/",
@@ -17,7 +17,7 @@
   "twitter_image": "https://www.skills.sh/og.jpeg",
   "language": "en",
   "canonical_url": "https://www.skills.sh",
-  "word_count": 695,
+  "word_count": 699,
   "reading_time_min": 3,
   "outline": [
     {
@@ -46,7 +46,7 @@
     },
     {
       "level": 3,
-      "text": "grill-me"
+      "text": "agent-browser"
     },
     {
       "level": 3,
@@ -54,15 +54,15 @@
     },
     {
       "level": 3,
-      "text": "agent-browser"
-    },
-    {
-      "level": 3,
-      "text": "media-use"
+      "text": "grill-me"
     },
     {
       "level": 3,
       "text": "design-mobile-apps"
+    },
+    {
+      "level": 3,
+      "text": "media-use"
     },
     {
       "level": 3,
@@ -86,10 +86,6 @@
     },
     {
       "level": 3,
-      "text": "ui-taste"
-    },
-    {
-      "level": 3,
       "text": "prototype"
     },
     {
@@ -98,11 +94,11 @@
     },
     {
       "level": 3,
-      "text": "ai-video-generation"
+      "text": "ui-taste"
     },
     {
       "level": 3,
-      "text": "hyperframes-animation"
+      "text": "ai-video-generation"
     },
     {
       "level": 3,
@@ -110,15 +106,23 @@
     },
     {
       "level": 3,
+      "text": "hyperframes-animation"
+    },
+    {
+      "level": 3,
+      "text": "codebase-design"
+    },
+    {
+      "level": 3,
+      "text": "teach"
+    },
+    {
+      "level": 3,
+      "text": "diagnosing-bugs"
+    },
+    {
+      "level": 3,
       "text": "ai-image-generation"
-    },
-    {
-      "level": 3,
-      "text": "hyperframes-core"
-    },
-    {
-      "level": 3,
-      "text": "hyperframes-creative"
     },
     {
       "level": 3,
@@ -126,19 +130,15 @@
     },
     {
       "level": 3,
-      "text": "vercel-react-best-practices"
+      "text": "hyperframes-core"
+    },
+    {
+      "level": 3,
+      "text": "lark-contact"
     },
     {
       "level": 3,
       "text": "code-review"
-    },
-    {
-      "level": 3,
-      "text": "lark-okr"
-    },
-    {
-      "level": 3,
-      "text": "lark-markdown"
     }
   ]
 }

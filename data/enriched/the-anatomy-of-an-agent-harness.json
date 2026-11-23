@@ -1,12 +1,12 @@
 {
   "slug": "the-anatomy-of-an-agent-harness",
   "url": "https://blog.langchain.com/the-anatomy-of-an-agent-harness/",
-  "crawled_at": "2026-11-16T17:59:28.418882+00:00",
+  "crawled_at": "2026-11-23T19:53:26.479000+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://www.langchain.com/blog/the-anatomy-of-an-agent-harness",
   "content_type": "article",
-  "last_modified": "Mon, 16 Nov 2026 16:40:05 GMT",
+  "last_modified": "Mon, 23 Nov 2026 17:47:50 GMT",
   "fetched_title": "The Anatomy of an Agent Harness",
   "meta_description": "Learn how agent harnesses transform AI models into autonomous work engines. Explore core components: filesystems, sandboxes, and memory.",
   "og_title": "The Anatomy of an Agent Harness",
@@ -19,7 +19,7 @@
   "publish_date": "2026-03-11",
   "language": "en",
   "canonical_url": "https://www.langchain.com/blog/the-anatomy-of-an-agent-harness",
-  "word_count": 2488,
+  "word_count": 2495,
   "reading_time_min": 12,
   "outline": [
     {

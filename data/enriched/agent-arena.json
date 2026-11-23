@@ -1,7 +1,7 @@
 {
   "slug": "agent-arena",
   "url": "https://www.agent-arena.com/leaderboard",
-  "crawled_at": "2026-11-16T17:56:48.159838+00:00",
+  "crawled_at": "2026-11-23T19:50:33.628008+00:00",
   "status": "fetch_error",
   "http_status": 0,
   "final_url": "https://www.agent-arena.com/leaderboard",

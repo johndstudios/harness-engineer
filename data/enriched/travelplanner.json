@@ -1,13 +1,13 @@
 {
   "slug": "travelplanner",
   "url": "https://github.com/OSU-NLP-Group/TravelPlanner",
-  "crawled_at": "2026-11-16T17:59:37.483991+00:00",
+  "crawled_at": "2026-11-23T19:53:35.216902+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://github.com/OSU-NLP-Group/TravelPlanner",
   "content_type": "github",
   "last_modified": "",
-  "github_stars": 571,
+  "github_stars": 574,
   "github_forks": 89,
   "github_open_issues": 2,
   "github_topics": [
@@ -19,21 +19,21 @@
   "github_language": "Python",
   "github_description": "[ICML'24 Spotlight] \"TravelPlanner: A Benchmark for Real-World Planning with Language Agents\"",
   "github_created": "2024-01-01",
-  "github_updated": "2026-11-16",
-  "github_pushed": "2026-05-24",
+  "github_updated": "2026-11-23",
+  "github_pushed": "2026-11-19",
   "github_license": "MIT",
   "github_homepage": "https://osu-nlp-group.github.io/TravelPlanner/",
   "fetched_title": "GitHub - OSU-NLP-Group/TravelPlanner: [ICML'24 Spotlight] \"TravelPlanner: A Benchmark for Real-World Planning with Language Agents\" \u00b7 GitHub",
   "meta_description": "[ICML'24 Spotlight] \"TravelPlanner: A Benchmark for Real-World Planning with Language Agents\" - OSU-NLP-Group/TravelPlanner",
   "og_title": "GitHub - OSU-NLP-Group/TravelPlanner: [ICML'24 Spotlight] \"TravelPlanner: A Benchmark for Real-World Planning with Language Agents\"",
   "og_description": "[ICML'24 Spotlight] \"TravelPlanner: A Benchmark for Real-World Planning with Language Agents\" - OSU-NLP-Group/TravelPlanner",
-  "og_image": "https://opengraph.githubassets.com/5f2d8041a79efd66bc2d0f52e3c2fdb23e5042295b4f0801dcebb1ae958066fa/OSU-NLP-Group/TravelPlanner",
+  "og_image": "https://opengraph.githubassets.com/fa8a0bc438862d8c4c51681d2a270f0e78c65636fac4fb95b848386bfbd90f39/OSU-NLP-Group/TravelPlanner",
   "og_type": "object",
   "twitter_card": "summary_large_image",
-  "twitter_image": "https://opengraph.githubassets.com/5f2d8041a79efd66bc2d0f52e3c2fdb23e5042295b4f0801dcebb1ae958066fa/OSU-NLP-Group/TravelPlanner",
+  "twitter_image": "https://opengraph.githubassets.com/fa8a0bc438862d8c4c51681d2a270f0e78c65636fac4fb95b848386bfbd90f39/OSU-NLP-Group/TravelPlanner",
   "language": "en",
-  "word_count": 1119,
-  "reading_time_min": 6,
+  "word_count": 1000,
+  "reading_time_min": 5,
   "outline": [
     {
       "level": 2,
@@ -86,10 +86,6 @@
     {
       "level": 2,
       "text": "Evaluation"
-    },
-    {
-      "level": 2,
-      "text": "\u26a0\ufe0fWarnings"
     },
     {
       "level": 2,

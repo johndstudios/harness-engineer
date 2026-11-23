@@ -1,7 +1,7 @@
 {
   "slug": "agenttrace",
   "url": "https://github.com/luoyuctl/agenttrace",
-  "crawled_at": "2026-11-16T17:57:17.468351+00:00",
+  "crawled_at": "2026-11-23T19:51:05.513960+00:00",
   "status": "ok",
   "http_status": 200,
   "final_url": "https://github.com/luoyuctl/agenttrace",
@@ -31,7 +31,7 @@
   "github_description": "Local-first Rust TUI/CLI for auditing AI coding-agent sessions: cost, tokens, latency, failures, and health\uff5c\u672c\u5730\u8fd0\u884c\u7684 Rust TUI/CLI\uff0c\u5ba1\u8ba1 AI \u7f16\u7a0b Agent \u4f1a\u8bdd\u7684\u6210\u672c\u3001Token\u3001\u5ef6\u8fdf\u3001\u5931\u8d25\u4e0e\u5065\u5eb7\u5ea6",
   "github_created": "2026-05-01",
   "github_updated": "2026-11-16",
-  "github_pushed": "2026-11-16",
+  "github_pushed": "2026-11-23",
   "github_license": "MIT",
   "github_homepage": "https://github.com/luoyuctl/agenttrace",
   "fetched_title": "GitHub - luoyuctl/agenttrace: Local-first Rust TUI/CLI for auditing AI coding-agent sessions: cost, tokens, latency, failures, and health\uff5c\u672c\u5730\u8fd0\u884c\u7684 Rust TUI/CLI\uff0c\u5ba1\u8ba1 AI \u7f16\u7a0b Agent \u4f1a\u8bdd\u7684\u6210\u672c\u3001Token\u3001\u5ef6\u8fdf\u3001\u5931\u8d25\u4e0e\u5065\u5eb7\u5ea6 \u00b7 GitHub",
